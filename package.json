@@ -7,9 +7,13 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
-    "preview": "vite preview"
+    "venues:independent:fixture": "tsx scripts/run-independent-fixture.ts",
+    "venues:independent:live": "tsx scripts/run-independent-live.ts",
+    "preview": "vite preview",
+    "pages:dev": "npm run build && wrangler pages dev dist"
   },
   "dependencies": {
+    "node-html-parser": "^7.0.1",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
@@ -26,6 +30,7 @@
     "typescript": "~5.9.3",
     "typescript-eslint": "^8.46.4",
     "vite": "^7.2.4",
-    "wrangler": "^4.54.0"
+    "wrangler": "^4.54.0",
+    "tsx": "^4.19.2"
   }
 }
