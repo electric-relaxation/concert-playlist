@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-06T06:00:16.753Z",
+  "generatedAtISO": "2026-01-06T09:34:35.978Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -126,7 +126,10 @@
       "headliners": [
         "Light Chain"
       ],
-      "openers": []
+      "openers": [
+        "Radio Incognito",
+        "The Giant Silence"
+      ]
     },
     {
       "showId": "e9198fdb",
@@ -297,7 +300,7 @@
       ],
       "openers": [
         "awakebutstillinbed",
-        "m�u"
+        "máu"
       ]
     },
     {
@@ -373,7 +376,7 @@
       "showUrl": "http://www.bottomofthehill.com/20260214.html",
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
-        "BU�UEL"
+        "BUÑUEL"
       ],
       "openers": [
         "Facet",
@@ -752,6 +755,21 @@
         "Never Ending Fall"
       ],
       "openers": []
+    },
+    {
+      "showId": "5543e8b5",
+      "dateISO": "2026-05-12",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260512.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Electric Six"
+      ],
+      "openers": [
+        "Tragedy"
+      ]
     }
   ]
 }

@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
+    "dev": "vite --port 5273",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "venues:bottom:fixture": "tsx scripts/run-bottom-of-the-hill-fixture.ts",

@@ -10,6 +10,7 @@ import {
   normalizeWhitespace,
   parseDateISOFromText,
   parseShowTime,
+  readResponseText,
   resolveUrl,
   splitOpeners,
 } from "./utils"
@@ -207,7 +208,7 @@ export async function* scrapeTheIndependent(
     return
   }
 
-  const html = await response.text()
+  const html = await readResponseText(response)
   yield { type: "progress", message: "Parsing shows." }
 
   const parsed = parseIndependentHtml(html, {

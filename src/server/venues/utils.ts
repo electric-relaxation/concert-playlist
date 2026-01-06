@@ -145,3 +145,26 @@ export const isWithinRange = (
   const endValue = Date.parse(endDateISO)
   return dateValue >= startValue && dateValue <= endValue
 }
+
+export const readResponseText = async (response: Response) => {
+  const contentType = response.headers.get("content-type") ?? ""
+  const match = contentType.match(/charset=([^;]+)/i)
+  const charset = match?.[1]?.trim().toLowerCase()
+  const buffer = await response.arrayBuffer()
+  try {
+    if (charset && charset !== "utf-8" && charset !== "utf8") {
+      return new TextDecoder(charset).decode(buffer)
+    }
+  } catch {
+    // fall back to utf-8
+  }
+  const utf8 = new TextDecoder("utf-8", { fatal: false }).decode(buffer)
+  if (utf8.includes("\uFFFD")) {
+    try {
+      return new TextDecoder("iso-8859-1").decode(buffer)
+    } catch {
+      // ignore
+    }
+  }
+  return utf8
+}

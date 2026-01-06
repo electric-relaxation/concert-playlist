@@ -10,6 +10,7 @@ import {
   normalizeWhitespace,
   parseDateISOFromText,
   parseShowTime,
+  readResponseText,
   resolveUrl,
   splitOpeners,
 } from "./utils"
@@ -389,7 +390,7 @@ export async function* scrapeRickshawStop(
     return
   }
 
-  const html = await response.text()
+  const html = await readResponseText(response)
   yield { type: "progress", message: "Parsing shows." }
 
   let parsed: ParsedShow[] = []
