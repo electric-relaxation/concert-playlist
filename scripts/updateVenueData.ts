@@ -259,6 +259,7 @@ export const runUpdate = async (argsOverride?: RunUpdateOverrides) => {
   // Single timestamp shared by all outputs for this run.
   const generatedAtISO = new Date().toISOString()
 
+  let wroteAny = false
   const index: VenueIndexFile = {
     generatedAtISO,
     venues: [],
@@ -342,6 +343,7 @@ export const runUpdate = async (argsOverride?: RunUpdateOverrides) => {
 
     if (shouldWrite) {
       await writeFile(filePath, JSON.stringify(payload, null, 2))
+      wroteAny = true
     }
 
     index.venues.push({
@@ -353,7 +355,25 @@ export const runUpdate = async (argsOverride?: RunUpdateOverrides) => {
   }
 
   const indexPath = path.join(path.dirname(mergedArgs.outDir), "index.json")
-  await writeFile(indexPath, JSON.stringify(index, null, 2))
+  let previousIndex: VenueIndexFile | null = null
+  try {
+    const existingIndex = await readFile(indexPath, "utf-8")
+    previousIndex = JSON.parse(existingIndex) as VenueIndexFile
+  } catch (error) {
+    previousIndex = null
+  }
+
+  const indexWithoutTimestamp = (value: VenueIndexFile) =>
+    JSON.stringify({ venues: value.venues })
+
+  if (wroteAny || !previousIndex) {
+    await writeFile(indexPath, JSON.stringify(index, null, 2))
+  } else if (
+    previousIndex &&
+    indexWithoutTimestamp(previousIndex) !== indexWithoutTimestamp(index)
+  ) {
+    await writeFile(indexPath, JSON.stringify(index, null, 2))
+  }
 
   if (hadFatal) {
     process.exit(1)
