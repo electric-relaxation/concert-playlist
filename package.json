@@ -7,8 +7,13 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
+    "venues:bottom:fixture": "tsx scripts/run-bottom-of-the-hill-fixture.ts",
+    "venues:bottom:live": "tsx scripts/run-bottom-of-the-hill-live.ts",
     "venues:independent:fixture": "tsx scripts/run-independent-fixture.ts",
     "venues:independent:live": "tsx scripts/run-independent-live.ts",
+    "data:update": "tsx scripts/updateVenueData.ts",
+    "test:venue-update": "tsx scripts/test-venue-update.ts",
+    "test:venue-update:clean": "node -e \"import('node:fs').then(fs=>fs.rmSync('scripts/tmp-venue-update',{recursive:true,force:true}))\"",
     "preview": "vite preview",
     "pages:dev": "npm run build && wrangler pages dev dist"
   },

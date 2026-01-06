@@ -5,6 +5,14 @@ import type {
   VenueId,
   VenueParserInput,
 } from "../../shared/types"
+import {
+  isWithinRange,
+  normalizeWhitespace,
+  parseDateISOFromText,
+  parseShowTime,
+  resolveUrl,
+  splitOpeners,
+} from "./utils"
 
 const venueId: VenueId = "the-independent"
 
@@ -15,73 +23,6 @@ type ParsedShow = {
   openers: string[]
   showUrl: string
   sourcePageUrl: string
-}
-
-const normalizeWhitespace = (value: string) =>
-  value.replace(/\s+/g, " ").trim()
-
-const parseShowTime = (value: string) => {
-  const match = value.match(/show:\s*(\d{1,2}):(\d{2})\s*([ap]m)/i)
-  if (!match) {
-    return ""
-  }
-  let hour = Number.parseInt(match[1], 10)
-  const minutes = match[2]
-  const meridiem = match[3].toLowerCase()
-  if (meridiem === "pm" && hour < 12) {
-    hour += 12
-  }
-  if (meridiem === "am" && hour === 12) {
-    hour = 0
-  }
-  return `${hour.toString().padStart(2, "0")}:${minutes}`
-}
-
-const inferYear = (month: number, day: number, referenceDate: Date) => {
-  const referenceUTC = Date.UTC(
-    referenceDate.getUTCFullYear(),
-    referenceDate.getUTCMonth(),
-    referenceDate.getUTCDate()
-  )
-  const candidateUTC = Date.UTC(referenceDate.getUTCFullYear(), month - 1, day)
-  return candidateUTC < referenceUTC
-    ? referenceDate.getUTCFullYear() + 1
-    : referenceDate.getUTCFullYear()
-}
-
-const parseDateISO = (value: string, referenceDate: Date) => {
-  const match = value.match(/(\d{1,2})\.(\d{1,2})/)
-  if (!match) {
-    return ""
-  }
-  const month = Number.parseInt(match[1], 10)
-  const day = Number.parseInt(match[2], 10)
-  const year = inferYear(month, day, referenceDate)
-  const monthText = month.toString().padStart(2, "0")
-  const dayText = day.toString().padStart(2, "0")
-  return `${year}-${monthText}-${dayText}`
-}
-
-const splitOpeners = (value: string) => {
-  const cleaned = value.replace(/^with\s+/i, "").trim()
-  if (!cleaned) {
-    return []
-  }
-  return cleaned
-    .split(",")
-    .map((item) => item.trim())
-    .filter(Boolean)
-}
-
-const resolveUrl = (href: string | null, baseUrl: string) => {
-  if (!href) {
-    return baseUrl
-  }
-  try {
-    return new URL(href, baseUrl).toString()
-  } catch {
-    return baseUrl
-  }
 }
 
 const pickShowBlocks = (root: HTMLElement) => {
@@ -144,7 +85,7 @@ export const parseIndependentHtml = (
         block.querySelector(".show-date")?.text ||
         textLines.find((line) => /(\d{1,2})\.(\d{1,2})/.test(line)) ||
         ""
-      const dateISO = parseDateISO(dateText, referenceDate)
+      const dateISO = parseDateISOFromText(dateText, referenceDate)
 
       const title =
         block.querySelector(".tw-name a")?.text ||
@@ -194,17 +135,6 @@ export const parseIndependentHtml = (
       }
     })
     .filter((show) => show.dateISO && show.headliner)
-}
-
-const isWithinRange = (
-  dateISO: string,
-  startDateISO: string,
-  endDateISO: string
-) => {
-  const dateValue = Date.parse(dateISO)
-  const startValue = Date.parse(startDateISO)
-  const endValue = Date.parse(endDateISO)
-  return dateValue >= startValue && dateValue <= endValue
 }
 
 export const toScrapedShows = (
@@ -282,7 +212,7 @@ export async function* scrapeTheIndependent(
 
   const parsed = parseIndependentHtml(html, {
     sourcePageUrl: calendarUrl,
-    referenceDateISO: options.startDateISO,
+    referenceDateISO: new Date().toISOString().slice(0, 10),
   })
   const filtered = buildIndependentShows(parsed, {
     startDateISO: options.startDateISO,

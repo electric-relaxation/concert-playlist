@@ -31,6 +31,40 @@ export type StreamMessage =
       totalShows: number
     }
 
+export type VenueDataShow = {
+  showId: string
+  dateISO: string
+  startTime: string | null
+  venueId: VenueId
+  venueName: string
+  showUrl: string | null
+  sourceUrl: string
+  headliners: string[]
+  openers: string[]
+}
+
+export type VenueDataFile = {
+  venue: {
+    id: VenueId
+    name: string
+    calendarUrl: string
+  }
+  generatedAtISO: string
+  shows: VenueDataShow[]
+}
+
+export type VenueIndexEntry = {
+  id: VenueId
+  name: string
+  calendarUrl: string
+  dataPath: string
+}
+
+export type VenueIndexFile = {
+  generatedAtISO: string
+  venues: VenueIndexEntry[]
+}
+
 export type VenueParserInput = {
   html: string
   venue: VenueConfig

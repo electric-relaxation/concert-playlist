@@ -1,4 +1,5 @@
 import type { VenueConfig, VenueId, VenueParserInput } from "../../shared/types"
+import { bottomOfTheHillParser } from "./bottomOfTheHill"
 import { theIndependentParser } from "./theIndependent"
 
 const defaultParser = ({ venue, sourcePageUrl }: VenueParserInput) => {
@@ -31,6 +32,7 @@ export const venues: VenueConfig[] = [
   createVenue({
     name: "Bottom of the Hill",
     calendarUrl: "https://www.bottomofthehill.com/calendar.html",
+    parser: bottomOfTheHillParser,
   }),
   createVenue({
     name: "The Independent",

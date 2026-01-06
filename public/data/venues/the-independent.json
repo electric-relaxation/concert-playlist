@@ -1,0 +1,931 @@
+{
+  "venue": {
+    "id": "the-independent",
+    "name": "The Independent",
+    "calendarUrl": "https://www.theindependentsf.com"
+  },
+  "generatedAtISO": "2026-01-06T01:25:11.866Z",
+  "shows": [
+    {
+      "showId": "d70fada5",
+      "dateISO": "2026-01-16",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-seshen-rituals-of-mine/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Seshen & Rituals of Mine"
+      ],
+      "openers": [
+        "with Cheflee"
+      ]
+    },
+    {
+      "showId": "1172c7f7",
+      "dateISO": "2026-01-17",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lost-kings/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lost Kings"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3eb7e33b",
+      "dateISO": "2026-01-23",
+      "startTime": "6:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Earlybirds Club"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fedda228",
+      "dateISO": "2026-01-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/austra/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Austra"
+      ],
+      "openers": [
+        "with Colin Self"
+      ]
+    },
+    {
+      "showId": "d8d3a4ce",
+      "dateISO": "2026-01-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/whitney-hanson/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Whitney Hanson"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "308d36cf",
+      "dateISO": "2026-01-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/yseult/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Yseult"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8ee3e005",
+      "dateISO": "2026-01-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mo/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "MØ"
+      ],
+      "openers": [
+        "with Casey MQ"
+      ]
+    },
+    {
+      "showId": "ab62aea1",
+      "dateISO": "2026-01-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/moontricks/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Moontricks"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "72b9b987",
+      "dateISO": "2026-01-30",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/frak-presents-four-square/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Frak Presents: Four Square – Release Party!"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fdc846df",
+      "dateISO": "2026-01-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/local-djs-night/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Local DJ’s Night"
+      ],
+      "openers": [
+        "DJ Juanny",
+        "Discnogirl",
+        "snake tits",
+        "with Baghead"
+      ]
+    },
+    {
+      "showId": "d176f4b4",
+      "dateISO": "2026-02-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ruston-kelly/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ruston Kelly"
+      ],
+      "openers": [
+        "with verygently"
+      ]
+    },
+    {
+      "showId": "3d4eee63",
+      "dateISO": "2026-02-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/andy-frasco-the-u-n/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Andy Frasco & The U.N."
+      ],
+      "openers": [
+        "with Lonesome Joy"
+      ]
+    },
+    {
+      "showId": "7383b915",
+      "dateISO": "2026-02-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/grace-bowers/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Grace Bowers"
+      ],
+      "openers": [
+        "with Peaboo and the Catz"
+      ]
+    },
+    {
+      "showId": "a373ab0c",
+      "dateISO": "2026-02-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/electric-feels-3/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Electric Feels"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "10234886",
+      "dateISO": "2026-02-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/galdive/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Galdive"
+      ],
+      "openers": [
+        "with Labit"
+      ]
+    },
+    {
+      "showId": "5c76ffbc",
+      "dateISO": "2026-02-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/clap-your-hands-say-yeah/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Clap Your Hands Say Yeah"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ff5246f7",
+      "dateISO": "2026-02-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/daniel-donatos-cosmic-country/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Daniel Donato’s Cosmic Country"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "9feddaad",
+      "dateISO": "2026-02-12",
+      "startTime": "7:30 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/daniel-donatos-cosmic-country-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Daniel Donato’s Cosmic Country"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fa459069",
+      "dateISO": "2026-02-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/venna/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Venna"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0948a50e",
+      "dateISO": "2026-02-14",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-8/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "b08f4f20",
+      "dateISO": "2026-02-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/odezenne/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Odezenne"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e5e985c3",
+      "dateISO": "2026-02-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-polish-ambassador/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Polish Ambassador"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e8577dc1",
+      "dateISO": "2026-02-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/denm/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "DENM"
+      ],
+      "openers": [
+        "Obed Padilla",
+        "with Evening Elephants"
+      ]
+    },
+    {
+      "showId": "6f7d29d7",
+      "dateISO": "2026-02-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/jesse-baez/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Jesse Baez"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "03592e76",
+      "dateISO": "2026-02-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/fox-stevenson/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Fox Stevenson"
+      ],
+      "openers": [
+        "with Yue"
+      ]
+    },
+    {
+      "showId": "311940fa",
+      "dateISO": "2026-02-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/o/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "((( O )))"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "930224bb",
+      "dateISO": "2026-02-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/weval-chorophobia-album-release-tour/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Weval: CHOROPHOBIA – Album Release Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c3ba01ec",
+      "dateISO": "2026-02-28",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bob-schneider/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bob Schneider"
+      ],
+      "openers": [
+        "with Me Nd Adam"
+      ]
+    },
+    {
+      "showId": "eb61cd9f",
+      "dateISO": "2026-03-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/meixcan-slum-rats/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mexican Slum Rats"
+      ],
+      "openers": [
+        "Killgurls",
+        "with Clarion"
+      ]
+    },
+    {
+      "showId": "b174b5f2",
+      "dateISO": "2026-03-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/junny-null-tour/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "JUNNY: [null] Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5f4c9a4c",
+      "dateISO": "2026-03-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/black-pistol-fire/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Black Pistol Fire"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "04c12558",
+      "dateISO": "2026-03-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/natalie-bergman/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Natalie Bergman"
+      ],
+      "openers": [
+        "with Alec Shaw"
+      ]
+    },
+    {
+      "showId": "924ae8e2",
+      "dateISO": "2026-03-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/grieves/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Grieves"
+      ],
+      "openers": [
+        "Benz Shelton",
+        "with Blueprint"
+      ]
+    },
+    {
+      "showId": "302a698b",
+      "dateISO": "2026-03-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/guitarricadelafuente/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Guitarricadelafuente"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "157bd98d",
+      "dateISO": "2026-03-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bryant-barnes/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bryant Barnes"
+      ],
+      "openers": [
+        "with Crying City"
+      ]
+    },
+    {
+      "showId": "2ed4634c",
+      "dateISO": "2026-03-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sam-greenfield/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Sam Greenfield"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "64100776",
+      "dateISO": "2026-03-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/witchz/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Witchz"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5a5328a5",
+      "dateISO": "2026-03-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rio-kosta/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "RIO KOSTA"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "97b1c676",
+      "dateISO": "2026-03-14",
+      "startTime": "6:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Earlybirds Club"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d0da7cf8",
+      "dateISO": "2026-03-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/son-little/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Son Little"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "59b5070a",
+      "dateISO": "2026-03-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/vendredi-sur-mer/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Vendredi sur Mer"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4635db5d",
+      "dateISO": "2026-03-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/parlor-greens/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Parlor Greens"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "cd2a85e7",
+      "dateISO": "2026-03-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/los-amigos-invisibles/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Los Amigos Invisibles"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d88df072",
+      "dateISO": "2026-03-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-nude-party/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Nude Party"
+      ],
+      "openers": [
+        "with Teddy and the Rough Riders"
+      ]
+    },
+    {
+      "showId": "96c6327c",
+      "dateISO": "2026-03-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chill-towards-enlightenment-a-stoke-seminar-with-chad-goes-deep/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chill Towards Enlightenment: A Stoke Seminar with Chad Goes Deep"
+      ],
+      "openers": [
+        "Chill Towards Enlightenment: A Stoke Seminar with Chad Goes Deep"
+      ]
+    },
+    {
+      "showId": "d8d16c0e",
+      "dateISO": "2026-03-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lithe/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lithe"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "19b4ea00",
+      "dateISO": "2026-03-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-motet/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Motet"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a049edec",
+      "dateISO": "2026-03-28",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/voxtrot/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Voxtrot"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7600e8c3",
+      "dateISO": "2026-03-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/tophouse/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Tophouse"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a80e4791",
+      "dateISO": "2026-03-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/quarters/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Quarters"
+      ],
+      "openers": [
+        "Telescreens",
+        "with Porch Light"
+      ]
+    },
+    {
+      "showId": "fd53e3a4",
+      "dateISO": "2026-04-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/circles-around-the-sun/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Circles Around The Sun"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1929b015",
+      "dateISO": "2026-04-03",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/eliza-mclamb/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Eliza McLamb"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4a4e879c",
+      "dateISO": "2026-04-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-moss/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Moss"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c116889d",
+      "dateISO": "2026-04-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/maria-somerville/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Maria Somerville"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "6816ad42",
+      "dateISO": "2026-04-11",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/saturdays-at-your-place/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "saturdays at your place"
+      ],
+      "openers": [
+        "Kerosene Heights",
+        "with Retirement Party"
+      ]
+    },
+    {
+      "showId": "1d7d53f4",
+      "dateISO": "2026-04-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/die-spitz/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Die Spitz"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8ee58746",
+      "dateISO": "2026-04-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/die-spitz-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Die Spitz"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "56cf4207",
+      "dateISO": "2026-04-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/newdad/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "NewDad"
+      ],
+      "openers": [
+        "with Freak Slug"
+      ]
+    },
+    {
+      "showId": "f3d045c5",
+      "dateISO": "2026-04-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/art-brut/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "ART BRUT"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "990c0a93",
+      "dateISO": "2026-04-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/langhorne-slim-the-dreamin-kind-tour/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Langhorne Slim: The Dreamin’ Kind Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2edec91e",
+      "dateISO": "2026-04-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chris-grey/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chris Grey"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3c425c6d",
+      "dateISO": "2026-04-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/asim-azhar/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Asim Azhar"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2b55833f",
+      "dateISO": "2026-05-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sports/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Sports"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "89e8d083",
+      "dateISO": "2026-05-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/allie-x/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Allie X"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "48234472",
+      "dateISO": "2026-05-16",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/yumi-zouma/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Yumi Zouma"
+      ],
+      "openers": [
+        "with Ducks Ltd."
+      ]
+    },
+    {
+      "showId": "a345c344",
+      "dateISO": "2026-05-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/red-rum-club/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Red Rum Club"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e8119d97",
+      "dateISO": "2026-05-24",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rose-gray/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Rose Gray"
+      ],
+      "openers": []
+    }
+  ]
+}
