@@ -2,7 +2,11 @@ export const normalizeWhitespace = (value: string) =>
   value.replace(/\s+/g, " ").trim()
 
 export const splitOpeners = (value: string) => {
-  const cleaned = value.replace(/^with\s+/i, "").replace(/^w\/\s*/i, "").trim()
+  const cleaned = value
+    .replace(/^with\s+/i, "")
+    .replace(/^w\/\s*/i, "")
+    .replace(/\bwith\s+/gi, "")
+    .trim()
   if (!cleaned) {
     return []
   }

@@ -1,0 +1,750 @@
+{
+  "venue": {
+    "id": "the-chapel",
+    "name": "The Chapel",
+    "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
+  },
+  "generatedAtISO": "2026-01-06T04:38:44.249Z",
+  "shows": [
+    {
+      "showId": "dc9d5b10",
+      "dateISO": "2026-01-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/nora-brown-with-stephanie-coleman/664856?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Nora Brown"
+      ],
+      "openers": [
+        "Stephanie Coleman"
+      ]
+    },
+    {
+      "showId": "9d44234f",
+      "dateISO": "2026-01-09",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ariel-pink/672663?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ariel Pink"
+      ],
+      "openers": [
+        "Donnie Emerson",
+        "Visuals by Zachary Rodell"
+      ]
+    },
+    {
+      "showId": "8cedf6b0",
+      "dateISO": "2026-01-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/western-standard-time-ska-orchestra-with-karina-denike/663154?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Western Standard Time Ska Orchestra"
+      ],
+      "openers": [
+        "DJ Young Royal",
+        "The Vesuvians"
+      ]
+    },
+    {
+      "showId": "bc9b2c68",
+      "dateISO": "2026-01-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ryley-walker-papa-m/670898?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ryley Walker, Papa M"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "144fbd27",
+      "dateISO": "2026-01-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/analog-dog/669036?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Analog Dog"
+      ],
+      "openers": [
+        "Personal Space Man",
+        "STARFARI (DJ sets)"
+      ]
+    },
+    {
+      "showId": "4bfee91a",
+      "dateISO": "2026-01-17",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/illeagles/668810?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "ILLEAGLES"
+      ],
+      "openers": [
+        "Rhonda Linstadt"
+      ]
+    },
+    {
+      "showId": "4dfdb679",
+      "dateISO": "2026-01-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/wand/673211?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "WAND"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "228fc6c4",
+      "dateISO": "2026-01-23",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/soul-brass-band/667795?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Soul Brass Band"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0cd55ecc",
+      "dateISO": "2026-01-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/fleetwood-mask/668268?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Fleetwood Mask"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "605238f3",
+      "dateISO": "2026-01-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/seahaven/668777?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Seahaven"
+      ],
+      "openers": [
+        "Commoner",
+        "GARZI"
+      ]
+    },
+    {
+      "showId": "84d2dba6",
+      "dateISO": "2026-01-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-antlers/669300?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Antlers"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a0d2ce50",
+      "dateISO": "2026-01-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/neil-young-tribute/675091?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Neil Young Tribute"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "b22354a7",
+      "dateISO": "2026-01-30",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/temptationatribute-to-new-order/667658?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Temptation: A Tribute to New Order"
+      ],
+      "openers": [
+        "Hyaena: Tribute to Siouxsie and the Banshees",
+        "Noche de Hechiceras"
+      ]
+    },
+    {
+      "showId": "7a2a95f5",
+      "dateISO": "2026-01-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/tyler-ramsey-and-carl-broemel-celestun-tour/669663?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Tyler Ramsey & Carl Broemel - Celestun Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d5095760",
+      "dateISO": "2026-02-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/tropical-fuck-storm/668474?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Tropical Fuck Storm"
+      ],
+      "openers": [
+        "J.R.C.G."
+      ]
+    },
+    {
+      "showId": "5a32b180",
+      "dateISO": "2026-02-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/samm-henshaw/668400?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Samm Henshaw"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "134ccbf4",
+      "dateISO": "2026-02-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sprints/662880?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "SPRINTS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3877cd48",
+      "dateISO": "2026-02-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/locust/674576?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Locust"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f9d8d47a",
+      "dateISO": "2026-02-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/cobweb-cabaret/674349?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Cobweb Cabaret"
+      ],
+      "openers": [
+        "6odlike",
+        "Countess Wednesday",
+        "Eddie Divas",
+        "Emma Vauxdevil",
+        "Esther Van Oui",
+        "Heaven Starr",
+        "La Reina - New Orleans",
+        "Qu’in de La Noche",
+        "Raquel Reed",
+        "Reina La Rogue",
+        "Sandra Alva",
+        "Yayah"
+      ]
+    },
+    {
+      "showId": "83092729",
+      "dateISO": "2026-02-14",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-chuck-prophet-and-the-make-out-quartet/674020?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Chuck Prophet & The Make Out Quartet"
+      ]
+    },
+    {
+      "showId": "806abfca",
+      "dateISO": "2026-02-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/cold-cave/668649?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Cold Cave"
+      ],
+      "openers": [
+        "Buzz Kull",
+        "Rosa Anschütz"
+      ]
+    },
+    {
+      "showId": "5fae6343",
+      "dateISO": "2026-02-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-rebirth-brass-brand/669610?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Rebirth Brass Brand"
+      ]
+    },
+    {
+      "showId": "b45e95c0",
+      "dateISO": "2026-02-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-legend-zeppelin/665003?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Legend Zeppelin"
+      ]
+    },
+    {
+      "showId": "89308315",
+      "dateISO": "2026-02-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/mat-kerekes/668083?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Mat Kerekes"
+      ],
+      "openers": [
+        "Beeson",
+        "Shallow Alcove"
+      ]
+    },
+    {
+      "showId": "54db41d3",
+      "dateISO": "2026-02-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-fiery-furnaces/668256?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Fiery Furnaces"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "73f3fb48",
+      "dateISO": "2026-02-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/bitchin-bajas/669850?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Bitchin Bajas"
+      ],
+      "openers": [
+        "Geologist"
+      ]
+    },
+    {
+      "showId": "4fd3fce8",
+      "dateISO": "2026-02-28",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-sun-ra-arkestra/670488?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Sun Ra Arkestra"
+      ]
+    },
+    {
+      "showId": "79626169",
+      "dateISO": "2026-03-01",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-sun-ra-arkestra/670490?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Sun Ra Arkestra"
+      ]
+    },
+    {
+      "showId": "a25de41a",
+      "dateISO": "2026-03-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/alexander-stewart-what-if-tour/668785?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Alexander Stewart - What If? Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "053268aa",
+      "dateISO": "2026-03-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/carsie-blanton/642854?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Carsie Blanton"
+      ],
+      "openers": [
+        "Devon Sproule"
+      ]
+    },
+    {
+      "showId": "43ea7aa4",
+      "dateISO": "2026-03-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-brian-jonestown-massacre/674564?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Brian Jonestown Massacre"
+      ],
+      "openers": [
+        "ÖLÜM"
+      ]
+    },
+    {
+      "showId": "ed6eb23d",
+      "dateISO": "2026-03-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-brian-jonestown-massacre/674568?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Brian Jonestown Massacre"
+      ],
+      "openers": [
+        "Pink Breath of Heaven"
+      ]
+    },
+    {
+      "showId": "1a03f591",
+      "dateISO": "2026-03-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/blackwater-holylight/669916?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Blackwater Holylight"
+      ],
+      "openers": [
+        "SOM"
+      ]
+    },
+    {
+      "showId": "bdc0d6ba",
+      "dateISO": "2026-03-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/malibu/667177?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Malibu"
+      ],
+      "openers": [
+        "ESP"
+      ]
+    },
+    {
+      "showId": "c4ab79e0",
+      "dateISO": "2026-03-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-sam-chase-and-the-untraditional/671737?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Sam Chase & The Untraditional"
+      ],
+      "openers": [
+        "Hosted by Franzia Rose",
+        "special guest Suzanimal"
+      ]
+    },
+    {
+      "showId": "fc455fb3",
+      "dateISO": "2026-03-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-third-mind/674471?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Third Mind"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "24abd8de",
+      "dateISO": "2026-03-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/cat-clyde/673750?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Cat Clyde"
+      ],
+      "openers": [
+        "Goodnight",
+        "Texas"
+      ]
+    },
+    {
+      "showId": "a4f9f6cc",
+      "dateISO": "2026-03-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/mclusky/664455?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "mclusky"
+      ],
+      "openers": [
+        "Ekko Astral"
+      ]
+    },
+    {
+      "showId": "4d2ec20e",
+      "dateISO": "2026-04-03",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/aj-lee-and-blue-summit/668376?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "AJ Lee & Blue Summit"
+      ],
+      "openers": [
+        "My Dog Jack"
+      ]
+    },
+    {
+      "showId": "f456a04a",
+      "dateISO": "2026-04-04",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/aj-lee-and-blue-summit/668386?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "AJ Lee & Blue Summit"
+      ],
+      "openers": [
+        "Wolf Jett"
+      ]
+    },
+    {
+      "showId": "5925724a",
+      "dateISO": "2026-04-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ultra-sunn/665741?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ultra Sunn"
+      ],
+      "openers": [
+        "Bestial Mouths",
+        "DJ Aaron Axelsen (Popscene)"
+      ]
+    },
+    {
+      "showId": "2978fe67",
+      "dateISO": "2026-04-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/depresion-sonora/672519?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Depresión Sonora"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "6cc290eb",
+      "dateISO": "2026-04-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-wedding-present-seamonsters-35th-anniversary/668179?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Wedding Present: Seamonsters 35th Anniversary"
+      ],
+      "openers": [
+        "Mark Robinson sings Unrest"
+      ]
+    },
+    {
+      "showId": "ca9919ad",
+      "dateISO": "2026-05-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/isobel-campbell/673391?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Isobel Campbell"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8423c8c9",
+      "dateISO": "2026-07-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/emm/665688?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "EMM"
+      ],
+      "openers": [
+        "Bentley Robles",
+        "TeZATalks"
+      ]
+    },
+    {
+      "showId": "91d115b7",
+      "dateISO": "2026-08-26",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/osees/672239?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Osees"
+      ],
+      "openers": [
+        "Traps PS"
+      ]
+    },
+    {
+      "showId": "ec1cb614",
+      "dateISO": "2026-08-27",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Osees/672246?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Osees"
+      ],
+      "openers": [
+        "Traps PS"
+      ]
+    },
+    {
+      "showId": "b4e8c07a",
+      "dateISO": "2026-08-28",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Osees/672247?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Osees"
+      ],
+      "openers": [
+        "Traps PS"
+      ]
+    },
+    {
+      "showId": "e2296de8",
+      "dateISO": "2026-08-29",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Osees/672248?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Osees"
+      ],
+      "openers": [
+        "Traps PS"
+      ]
+    },
+    {
+      "showId": "82a11b1a",
+      "dateISO": "2026-09-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/marlon-magnee-of-la-femme/670503?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Marlon Magnée (of La Femme)"
+      ],
+      "openers": []
+    }
+  ]
+}

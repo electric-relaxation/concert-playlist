@@ -1,5 +1,6 @@
 import type { VenueConfig, VenueId, VenueParserInput } from "../../shared/types"
 import { bottomOfTheHillParser } from "./bottomOfTheHill"
+import { theChapelParser } from "./theChapel"
 import { theIndependentParser } from "./theIndependent"
 
 const defaultParser = ({ venue, sourcePageUrl }: VenueParserInput) => {
@@ -38,5 +39,10 @@ export const venues: VenueConfig[] = [
     name: "The Independent",
     calendarUrl: "https://www.theindependentsf.com",
     parser: theIndependentParser,
+  }),
+  createVenue({
+    name: "The Chapel",
+    calendarUrl: "https://thechapelsf.com/music/?list1page=1",
+    parser: theChapelParser,
   }),
 ]

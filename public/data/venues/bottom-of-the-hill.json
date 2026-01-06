@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-06T03:46:05.424Z",
+  "generatedAtISO": "2026-01-06T05:28:29.275Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -156,7 +156,7 @@
         "Emo Night Karaoke"
       ],
       "openers": [
-        "Night Karaoke is headlining at Bottom of the Hill with you on lead"
+        "Night Karaoke is headlining at Bottom of the Hill you on lead"
       ]
     },
     {
@@ -568,6 +568,19 @@
         "Gloomy June",
         "In Balance"
       ]
+    },
+    {
+      "showId": "15537f36",
+      "dateISO": "2026-03-19",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260319.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Andre Nickatina"
+      ],
+      "openers": []
     },
     {
       "showId": "24e6af9d",

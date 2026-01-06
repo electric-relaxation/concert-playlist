@@ -9,6 +9,8 @@
     "lint": "eslint .",
     "venues:bottom:fixture": "tsx scripts/run-bottom-of-the-hill-fixture.ts",
     "venues:bottom:live": "tsx scripts/run-bottom-of-the-hill-live.ts",
+    "venues:chapel:fixture": "tsx scripts/run-chapel-fixture.ts",
+    "venues:chapel:live": "tsx scripts/run-chapel-live.ts",
     "venues:independent:fixture": "tsx scripts/run-independent-fixture.ts",
     "venues:independent:live": "tsx scripts/run-independent-live.ts",
     "data:update": "tsx scripts/updateVenueData.ts",

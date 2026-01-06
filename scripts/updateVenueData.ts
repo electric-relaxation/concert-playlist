@@ -5,6 +5,7 @@ import {
   venues,
 } from "../src/server/venues/index.ts"
 import { scrapeBottomOfTheHill } from "../src/server/venues/bottomOfTheHill.ts"
+import { scrapeTheChapel } from "../src/server/venues/theChapel.ts"
 import { scrapeTheIndependent } from "../src/server/venues/theIndependent.ts"
 import type {
   ScrapedShow,
@@ -218,6 +219,10 @@ export const gatherScrapedShows = async (
     }
   } else if (venueId === "bottom-of-the-hill") {
     for await (const message of scrapeBottomOfTheHill(calendarUrl, range)) {
+      emit(message)
+    }
+  } else if (venueId === "the-chapel") {
+    for await (const message of scrapeTheChapel(calendarUrl, range)) {
       emit(message)
     }
   } else {

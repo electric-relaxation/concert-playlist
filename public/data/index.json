@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-06T03:46:05.424Z",
+  "generatedAtISO": "2026-01-06T05:28:29.275Z",
   "venues": [
     {
       "id": "bottom-of-the-hill",
@@ -12,6 +12,12 @@
       "name": "The Independent",
       "calendarUrl": "https://www.theindependentsf.com",
       "dataPath": "data/venues/the-independent.json"
+    },
+    {
+      "id": "the-chapel",
+      "name": "The Chapel",
+      "calendarUrl": "https://thechapelsf.com/music/?list1page=1",
+      "dataPath": "data/venues/the-chapel.json"
     }
   ]
 }
