@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-06T04:38:44.249Z",
+  "generatedAtISO": "2026-01-06T18:23:59.482Z",
   "shows": [
     {
       "showId": "dc9d5b10",
@@ -171,10 +171,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/neil-young-tribute/675091?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-all-star-tribute-to-neil-young/675091?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Neil Young Tribute"
+        "An All-Star Tribute To Neil Young"
       ],
       "openers": []
     },
@@ -375,7 +375,9 @@
       "headliners": [
         "The Fiery Furnaces"
       ],
-      "openers": []
+      "openers": [
+        "Spacemoth"
+      ]
     },
     {
       "showId": "73f3fb48",
@@ -656,6 +658,36 @@
         "Isobel Campbell"
       ],
       "openers": []
+    },
+    {
+      "showId": "d7fcef35",
+      "dateISO": "2026-06-05",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-jerrys-middle-finger/670391?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Jerry's Middle Finger"
+      ]
+    },
+    {
+      "showId": "fd601f1a",
+      "dateISO": "2026-06-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-jerrys-middle-finger/670399?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Jerry's Middle Finger"
+      ]
     },
     {
       "showId": "8423c8c9",
