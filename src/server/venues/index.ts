@@ -2,6 +2,7 @@ import type { VenueConfig, VenueId, VenueParserInput } from "../../shared/types"
 import { bottomOfTheHillParser } from "./bottomOfTheHill"
 import { theChapelParser } from "./theChapel"
 import { theIndependentParser } from "./theIndependent"
+import { rickshawStopParser } from "./rickshawStop"
 
 const defaultParser = ({ venue, sourcePageUrl }: VenueParserInput) => {
   throw new Error(
@@ -44,5 +45,10 @@ export const venues: VenueConfig[] = [
     name: "The Chapel",
     calendarUrl: "https://thechapelsf.com/music/?list1page=1",
     parser: theChapelParser,
+  }),
+  createVenue({
+    name: "Rickshaw Stop",
+    calendarUrl: "https://rickshawstop.com/calendar/",
+    parser: rickshawStopParser,
   }),
 ]

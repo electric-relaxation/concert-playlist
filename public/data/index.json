@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-06T06:00:16.753Z",
+  "generatedAtISO": "2026-01-06T07:10:12.550Z",
   "venues": [
     {
       "id": "bottom-of-the-hill",
@@ -18,6 +18,12 @@
       "name": "The Chapel",
       "calendarUrl": "https://thechapelsf.com/music/?list1page=1",
       "dataPath": "data/venues/the-chapel.json"
+    },
+    {
+      "id": "rickshaw-stop",
+      "name": "Rickshaw Stop",
+      "calendarUrl": "https://rickshawstop.com/calendar/",
+      "dataPath": "data/venues/rickshaw-stop.json"
     }
   ]
 }

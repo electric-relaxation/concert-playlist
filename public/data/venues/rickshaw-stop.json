@@ -1,0 +1,599 @@
+{
+  "venue": {
+    "id": "rickshaw-stop",
+    "name": "Rickshaw Stop",
+    "calendarUrl": "https://rickshawstop.com/calendar/"
+  },
+  "generatedAtISO": "2026-01-06T07:10:12.550Z",
+  "shows": [
+    {
+      "showId": "23319a17",
+      "dateISO": "2026-01-08",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/rjd2/662046?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "RJD2"
+      ],
+      "openers": [
+        "STARFARI"
+      ]
+    },
+    {
+      "showId": "9eb90c81",
+      "dateISO": "2026-01-09",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/winter-disco-ball-with-westones/670660?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WINTER DISCO BALL with WESTONES"
+      ],
+      "openers": [
+        "Animal Prince",
+        "Izzy Wise"
+      ]
+    },
+    {
+      "showId": "02e876d4",
+      "dateISO": "2026-01-10",
+      "startTime": "7:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/yearbook-night/669642?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "YEARBOOK NIGHT"
+      ],
+      "openers": [
+        "Cardboard People",
+        "Gloomy June",
+        "Orbit 17",
+        "The Hot Takes",
+        "The Snares"
+      ]
+    },
+    {
+      "showId": "fb30e212",
+      "dateISO": "2026-01-14",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/jason-simon/672897?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "JASON SIMON"
+      ],
+      "openers": [
+        "Host Family",
+        "LEVELOR"
+      ]
+    },
+    {
+      "showId": "88e3a5de",
+      "dateISO": "2026-01-15",
+      "startTime": "8:15 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/everyone-is-dirty/671335?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EVERYONE IS DIRTY"
+      ],
+      "openers": [
+        "Agouti",
+        "GROOBLEN"
+      ]
+    },
+    {
+      "showId": "977746f6",
+      "dateISO": "2026-01-16",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-exile/674781?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE EXILE"
+      ],
+      "openers": [
+        "Sympathy Flowers",
+        "The Gallery"
+      ]
+    },
+    {
+      "showId": "5f575214",
+      "dateISO": "2026-01-17",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco/672928?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "NOW THAT'S WHAT I CALL ITALO DISCO"
+      ],
+      "openers": [
+        "Colours 87",
+        "DJ Cira",
+        "DJ Playstation",
+        "FSQ",
+        "Maneuve"
+      ]
+    },
+    {
+      "showId": "b90e1a4f",
+      "dateISO": "2026-01-21",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/buzzed-lightbeer/672924?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BUZZED LIGHTBEER"
+      ],
+      "openers": [
+        "Spa",
+        "Starzdust"
+      ]
+    },
+    {
+      "showId": "61f84c5a",
+      "dateISO": "2026-01-22",
+      "startTime": "8:15 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/gumbys-junk/672929?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "GUMBY'S JUNK"
+      ],
+      "openers": [
+        "Inner Ear Brigade",
+        "Rip Room"
+      ]
+    },
+    {
+      "showId": "b0b39e8c",
+      "dateISO": "2026-01-23",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dutch-interior/674231?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DUTCH INTERIOR"
+      ],
+      "openers": [
+        "Double Helix Peace Treaty",
+        "Poor Image",
+        "Trinity Ace"
+      ]
+    },
+    {
+      "showId": "4741b716",
+      "dateISO": "2026-01-24",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/small-crush/674232?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SMALL CRUSH"
+      ],
+      "openers": [
+        "Badvril",
+        "Lucky",
+        "The Online Company"
+      ]
+    },
+    {
+      "showId": "988e2a63",
+      "dateISO": "2026-01-28",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/heat/674065?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HEAT"
+      ],
+      "openers": [
+        "HEAT",
+        "Maximum Momentum"
+      ]
+    },
+    {
+      "showId": "696660a4",
+      "dateISO": "2026-01-29",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sqwerv/670137?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SQWERV"
+      ],
+      "openers": [
+        "Litty deBungus"
+      ]
+    },
+    {
+      "showId": "6156c8fb",
+      "dateISO": "2026-01-30",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/treasures/673478?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "TREASURES"
+      ],
+      "openers": [
+        "fake your own death",
+        "strange cities"
+      ]
+    },
+    {
+      "showId": "c083911f",
+      "dateISO": "2026-01-31",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/674052?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5a69d0e5",
+      "dateISO": "2026-02-04",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/maanu/659380?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MAANU"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fc2a6d16",
+      "dateISO": "2026-02-05",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-rural-alberta-advantage/666389?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE RURAL ALBERTA ADVANTAGE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3798cb1b",
+      "dateISO": "2026-02-06",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/all-your-friends/674510?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALL YOUR FRIENDS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1995ad08",
+      "dateISO": "2026-02-07",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/BROADWAY-RAVE/674511?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BROADWAY RAVE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "50d4c8d6",
+      "dateISO": "2026-02-12",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/cherub/671511?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CHERUB"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "93713f15",
+      "dateISO": "2026-02-13",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/super-greens/672805?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SUPER GREENS"
+      ],
+      "openers": [
+        "Honey Bucket",
+        "Thrown-Out Bones"
+      ]
+    },
+    {
+      "showId": "9390cadd",
+      "dateISO": "2026-02-15",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/blood-cultures/673387?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BLOOD CULTURES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8db14990",
+      "dateISO": "2026-02-19",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-pains-of-being-pure-at-heart/675561?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE PAINS OF BEING PURE AT HEART"
+      ],
+      "openers": [
+        "Still Ruins"
+      ]
+    },
+    {
+      "showId": "82ac7129",
+      "dateISO": "2026-02-20",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-pains-of-being-pure-at-heart/668737?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE PAINS OF BEING PURE AT HEART"
+      ],
+      "openers": [
+        "Chime School",
+        "Living Hour"
+      ]
+    },
+    {
+      "showId": "b20b8d3d",
+      "dateISO": "2026-02-26",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/winston-surfshirt/665852?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WINSTON SURFSHIRT"
+      ],
+      "openers": [
+        "Cardboard People"
+      ]
+    },
+    {
+      "showId": "b3d6d217",
+      "dateISO": "2026-02-27",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mission-delirium/675320?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MISSION DELIRIUM"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c8d4fdba",
+      "dateISO": "2026-03-21",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sessa/669847?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SESSA"
+      ],
+      "openers": [
+        "William Alexander"
+      ]
+    },
+    {
+      "showId": "2df3f3d3",
+      "dateISO": "2026-03-23",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/kmaro/668917?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "K.MARO"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a6f5576a",
+      "dateISO": "2026-03-26",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/molina/669831?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MOLINA"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0e04311d",
+      "dateISO": "2026-03-27",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dream-ivory/667214?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DREAM, IVORY"
+      ],
+      "openers": [
+        "Rew"
+      ]
+    },
+    {
+      "showId": "3abd51b2",
+      "dateISO": "2026-03-30",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sword-ii/670297?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SWORD II"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a2851a59",
+      "dateISO": "2026-03-31",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/worry-club/674330?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WORRY CLUB"
+      ],
+      "openers": [
+        "Bugsy",
+        "Edgehill"
+      ]
+    },
+    {
+      "showId": "53646deb",
+      "dateISO": "2026-04-01",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/des-rocs/673474?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DES ROCS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "299d8941",
+      "dateISO": "2026-04-03",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/tokyo-tea-room/661034?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "TOKYO TEA ROOM"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "79b1e590",
+      "dateISO": "2026-04-04",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/westerman/667670?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WESTERMAN"
+      ],
+      "openers": [
+        "Otto Benson"
+      ]
+    },
+    {
+      "showId": "8c7e3503",
+      "dateISO": "2026-04-06",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/courtney-marie-andrews/668883?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "COURTNEY MARIE ANDREWS"
+      ],
+      "openers": [
+        "Margo Cilker"
+      ]
+    },
+    {
+      "showId": "5befcaf0",
+      "dateISO": "2026-04-07",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/ulrika-spacek/672803?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ULRIKA SPACEK"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "47d83cc3",
+      "dateISO": "2026-04-18",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/remember-sports/673722?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "REMEMBER SPORTS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4ab966a2",
+      "dateISO": "2026-04-24",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/getdown-services/670457?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "GETDOWN SERVICES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "cb110479",
+      "dateISO": "2026-05-13",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/cornelia-murr/674464?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CORNELIA MURR"
+      ],
+      "openers": []
+    }
+  ]
+}

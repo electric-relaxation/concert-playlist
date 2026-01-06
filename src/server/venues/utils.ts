@@ -13,7 +13,13 @@ export const splitOpeners = (value: string) => {
   return cleaned
     .split(",")
     .map((item) => item.trim())
-    .filter(Boolean)
+    .filter(
+      (item) =>
+        Boolean(item) &&
+        !/^tba$/i.test(item) &&
+        !/^support\s*tba$/i.test(item) &&
+        !/^more\s*tba$/i.test(item)
+    )
 }
 
 export const parseShowTime = (value: string) => {
