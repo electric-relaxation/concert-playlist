@@ -1,0 +1,3002 @@
+{
+  "generatedAtISO": "2026-01-06T07:28:21.072Z",
+  "shows": [
+    {
+      "showId": "84f8220e",
+      "dateISO": "2026-01-07",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260107.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Wild Metanoia"
+      ],
+      "openers": [
+        "Little Critter",
+        "Loser Soup"
+      ]
+    },
+    {
+      "showId": "dc9d5b10",
+      "dateISO": "2026-01-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/nora-brown-with-stephanie-coleman/664856?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Nora Brown"
+      ],
+      "openers": [
+        "Stephanie Coleman"
+      ]
+    },
+    {
+      "showId": "4607b7a8",
+      "dateISO": "2026-01-08",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260108.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Houseboy"
+      ],
+      "openers": [
+        "Id and the Egos",
+        "Midcourse Correction"
+      ]
+    },
+    {
+      "showId": "23319a17",
+      "dateISO": "2026-01-08",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/rjd2/662046?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "RJD2"
+      ],
+      "openers": [
+        "STARFARI"
+      ]
+    },
+    {
+      "showId": "fac9a5f6",
+      "dateISO": "2026-01-09",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260109.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Secret Family"
+      ],
+      "openers": [
+        "Catnip",
+        "Supercoze"
+      ]
+    },
+    {
+      "showId": "9d44234f",
+      "dateISO": "2026-01-09",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ariel-pink/672663?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ariel Pink"
+      ],
+      "openers": [
+        "Donnie Emerson",
+        "Visuals by Zachary Rodell"
+      ]
+    },
+    {
+      "showId": "9eb90c81",
+      "dateISO": "2026-01-09",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/winter-disco-ball-with-westones/670660?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WINTER DISCO BALL with WESTONES"
+      ],
+      "openers": [
+        "Animal Prince",
+        "Izzy Wise"
+      ]
+    },
+    {
+      "showId": "02e876d4",
+      "dateISO": "2026-01-10",
+      "startTime": "7:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/yearbook-night/669642?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "YEARBOOK NIGHT"
+      ],
+      "openers": [
+        "Cardboard People",
+        "Gloomy June",
+        "Orbit 17",
+        "The Hot Takes",
+        "The Snares"
+      ]
+    },
+    {
+      "showId": "c31d724a",
+      "dateISO": "2026-01-10",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260110.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Mommy Mommy"
+      ],
+      "openers": [
+        "Some Good Things",
+        "Spencer Noble"
+      ]
+    },
+    {
+      "showId": "8cedf6b0",
+      "dateISO": "2026-01-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/western-standard-time-ska-orchestra-with-karina-denike/663154?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Western Standard Time Ska Orchestra"
+      ],
+      "openers": [
+        "DJ Young Royal",
+        "The Vesuvians"
+      ]
+    },
+    {
+      "showId": "93bf03a0",
+      "dateISO": "2026-01-11",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260111.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Rolling Blackout"
+      ],
+      "openers": [
+        "The Bunkermen",
+        "Trauma Cheez"
+      ]
+    },
+    {
+      "showId": "1eee1cd0",
+      "dateISO": "2026-01-12",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260112.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Mustard Plug"
+      ],
+      "openers": [
+        "The Iron Roses",
+        "The Toasters"
+      ]
+    },
+    {
+      "showId": "05b2c212",
+      "dateISO": "2026-01-13",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260113.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Chris Housman"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fb30e212",
+      "dateISO": "2026-01-14",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/jason-simon/672897?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "JASON SIMON"
+      ],
+      "openers": [
+        "Host Family",
+        "LEVELOR"
+      ]
+    },
+    {
+      "showId": "f69589fb",
+      "dateISO": "2026-01-15",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260115.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Light Chain"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "bc9b2c68",
+      "dateISO": "2026-01-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ryley-walker-papa-m/670898?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ryley Walker, Papa M"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "88e3a5de",
+      "dateISO": "2026-01-15",
+      "startTime": "8:15 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/everyone-is-dirty/671335?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EVERYONE IS DIRTY"
+      ],
+      "openers": [
+        "Agouti",
+        "GROOBLEN"
+      ]
+    },
+    {
+      "showId": "144fbd27",
+      "dateISO": "2026-01-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/analog-dog/669036?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Analog Dog"
+      ],
+      "openers": [
+        "Personal Space Man",
+        "STARFARI (DJ sets)"
+      ]
+    },
+    {
+      "showId": "e9198fdb",
+      "dateISO": "2026-01-16",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260116.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Theya"
+      ],
+      "openers": [
+        "Soothsayer",
+        "Stigma 13"
+      ]
+    },
+    {
+      "showId": "977746f6",
+      "dateISO": "2026-01-16",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-exile/674781?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE EXILE"
+      ],
+      "openers": [
+        "Sympathy Flowers",
+        "The Gallery"
+      ]
+    },
+    {
+      "showId": "d70fada5",
+      "dateISO": "2026-01-16",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-seshen-rituals-of-mine/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Seshen & Rituals of Mine"
+      ],
+      "openers": [
+        "Cheflee"
+      ]
+    },
+    {
+      "showId": "806268a9",
+      "dateISO": "2026-01-17",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260117.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Emo Night Karaoke"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5f575214",
+      "dateISO": "2026-01-17",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco/672928?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "NOW THAT'S WHAT I CALL ITALO DISCO"
+      ],
+      "openers": [
+        "Colours 87",
+        "DJ Cira",
+        "DJ Playstation",
+        "FSQ",
+        "Maneuve"
+      ]
+    },
+    {
+      "showId": "4bfee91a",
+      "dateISO": "2026-01-17",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/illeagles/668810?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "ILLEAGLES"
+      ],
+      "openers": [
+        "Rhonda Linstadt"
+      ]
+    },
+    {
+      "showId": "1172c7f7",
+      "dateISO": "2026-01-17",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lost-kings/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lost Kings"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "168a5627",
+      "dateISO": "2026-01-18",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260118.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Rehash"
+      ],
+      "openers": [
+        "Clarion"
+      ]
+    },
+    {
+      "showId": "280fe36b",
+      "dateISO": "2026-01-20",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260120.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Rattlesnake Milk"
+      ],
+      "openers": [
+        "Hangtown",
+        "Sentimental Family Band"
+      ]
+    },
+    {
+      "showId": "fa645c8b",
+      "dateISO": "2026-01-21",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260121.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "William Elliott Whitmore"
+      ],
+      "openers": [
+        "Jim Ward",
+        "Rony"
+      ]
+    },
+    {
+      "showId": "b90e1a4f",
+      "dateISO": "2026-01-21",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/buzzed-lightbeer/672924?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BUZZED LIGHTBEER"
+      ],
+      "openers": [
+        "Spa",
+        "Starzdust"
+      ]
+    },
+    {
+      "showId": "99ec0373",
+      "dateISO": "2026-01-22",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260122.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "A-1"
+      ],
+      "openers": [
+        "Don't Ask",
+        "Never Bored"
+      ]
+    },
+    {
+      "showId": "4dfdb679",
+      "dateISO": "2026-01-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/wand/673211?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "WAND"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "61f84c5a",
+      "dateISO": "2026-01-22",
+      "startTime": "8:15 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/gumbys-junk/672929?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "GUMBY'S JUNK"
+      ],
+      "openers": [
+        "Inner Ear Brigade",
+        "Rip Room"
+      ]
+    },
+    {
+      "showId": "3eb7e33b",
+      "dateISO": "2026-01-23",
+      "startTime": "6:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Earlybirds Club"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "b0b39e8c",
+      "dateISO": "2026-01-23",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dutch-interior/674231?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DUTCH INTERIOR"
+      ],
+      "openers": [
+        "Double Helix Peace Treaty",
+        "Poor Image",
+        "Trinity Ace"
+      ]
+    },
+    {
+      "showId": "555abdc1",
+      "dateISO": "2026-01-23",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260123.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Neon Ships"
+      ],
+      "openers": [
+        "Flight of Ulysses",
+        "The DisRespectors"
+      ]
+    },
+    {
+      "showId": "228fc6c4",
+      "dateISO": "2026-01-23",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/soul-brass-band/667795?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Soul Brass Band"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4741b716",
+      "dateISO": "2026-01-24",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/small-crush/674232?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SMALL CRUSH"
+      ],
+      "openers": [
+        "Badvril",
+        "Lucky",
+        "The Online Company"
+      ]
+    },
+    {
+      "showId": "97977ef9",
+      "dateISO": "2026-01-24",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260124.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Weakened Friends"
+      ],
+      "openers": [
+        "Pacing",
+        "Pocket Full Of Crumbs"
+      ]
+    },
+    {
+      "showId": "0cd55ecc",
+      "dateISO": "2026-01-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/fleetwood-mask/668268?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Fleetwood Mask"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fedda228",
+      "dateISO": "2026-01-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/austra/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Austra"
+      ],
+      "openers": [
+        "Colin Self"
+      ]
+    },
+    {
+      "showId": "5d17069b",
+      "dateISO": "2026-01-25",
+      "startTime": "3:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260125.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Mammatus"
+      ],
+      "openers": [
+        "Haardvark",
+        "Owl"
+      ]
+    },
+    {
+      "showId": "605238f3",
+      "dateISO": "2026-01-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/seahaven/668777?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Seahaven"
+      ],
+      "openers": [
+        "Commoner",
+        "GARZI"
+      ]
+    },
+    {
+      "showId": "d8d3a4ce",
+      "dateISO": "2026-01-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/whitney-hanson/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Whitney Hanson"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "308d36cf",
+      "dateISO": "2026-01-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/yseult/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Yseult"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "610230a1",
+      "dateISO": "2026-01-27",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260127.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Kayo Dot"
+      ],
+      "openers": [
+        "Ion",
+        "Xasthur"
+      ]
+    },
+    {
+      "showId": "123ac7e9",
+      "dateISO": "2026-01-28",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260128.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "your arms are my cocoon"
+      ],
+      "openers": [
+        "awakebutstillinbed",
+        "m�u"
+      ]
+    },
+    {
+      "showId": "84d2dba6",
+      "dateISO": "2026-01-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-antlers/669300?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Antlers"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8ee3e005",
+      "dateISO": "2026-01-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mo/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "MØ"
+      ],
+      "openers": [
+        "Casey MQ"
+      ]
+    },
+    {
+      "showId": "988e2a63",
+      "dateISO": "2026-01-28",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/heat/674065?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HEAT"
+      ],
+      "openers": [
+        "HEAT",
+        "Maximum Momentum"
+      ]
+    },
+    {
+      "showId": "a0d2ce50",
+      "dateISO": "2026-01-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/neil-young-tribute/675091?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Neil Young Tribute"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ab62aea1",
+      "dateISO": "2026-01-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/moontricks/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Moontricks"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7e4c5510",
+      "dateISO": "2026-01-29",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260129.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "PrettyBoy Chance"
+      ],
+      "openers": [
+        "Dirty Cello",
+        "Mild Heroes"
+      ]
+    },
+    {
+      "showId": "696660a4",
+      "dateISO": "2026-01-29",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sqwerv/670137?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SQWERV"
+      ],
+      "openers": [
+        "Litty deBungus"
+      ]
+    },
+    {
+      "showId": "a7e146da",
+      "dateISO": "2026-01-30",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260130.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Lunar Mistake"
+      ],
+      "openers": [
+        "Feefawfum",
+        "Pateka"
+      ]
+    },
+    {
+      "showId": "6156c8fb",
+      "dateISO": "2026-01-30",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/treasures/673478?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "TREASURES"
+      ],
+      "openers": [
+        "fake your own death",
+        "strange cities"
+      ]
+    },
+    {
+      "showId": "b22354a7",
+      "dateISO": "2026-01-30",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/temptationatribute-to-new-order/667658?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Temptation: A Tribute to New Order"
+      ],
+      "openers": [
+        "Hyaena: Tribute to Siouxsie and the Banshees",
+        "Noche de Hechiceras"
+      ]
+    },
+    {
+      "showId": "72b9b987",
+      "dateISO": "2026-01-30",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/frak-presents-four-square/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Frak Presents: Four Square – Release Party!"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c083911f",
+      "dateISO": "2026-01-31",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/674052?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7a2a95f5",
+      "dateISO": "2026-01-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/tyler-ramsey-and-carl-broemel-celestun-tour/669663?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Tyler Ramsey & Carl Broemel - Celestun Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fdc846df",
+      "dateISO": "2026-01-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/local-djs-night/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Local DJ’s Night"
+      ],
+      "openers": [
+        "Baghead",
+        "DJ Juanny",
+        "Discnogirl",
+        "snake tits"
+      ]
+    },
+    {
+      "showId": "a7d8374d",
+      "dateISO": "2026-02-01",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260201.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "The Well"
+      ],
+      "openers": [
+        "Dusted Angel",
+        "KIM"
+      ]
+    },
+    {
+      "showId": "d176f4b4",
+      "dateISO": "2026-02-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ruston-kelly/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ruston Kelly"
+      ],
+      "openers": [
+        "verygently"
+      ]
+    },
+    {
+      "showId": "d5095760",
+      "dateISO": "2026-02-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/tropical-fuck-storm/668474?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Tropical Fuck Storm"
+      ],
+      "openers": [
+        "J.R.C.G."
+      ]
+    },
+    {
+      "showId": "5a69d0e5",
+      "dateISO": "2026-02-04",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/maanu/659380?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MAANU"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3d4eee63",
+      "dateISO": "2026-02-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/andy-frasco-the-u-n/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Andy Frasco & The U.N."
+      ],
+      "openers": [
+        "Lonesome Joy"
+      ]
+    },
+    {
+      "showId": "fc2a6d16",
+      "dateISO": "2026-02-05",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-rural-alberta-advantage/666389?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE RURAL ALBERTA ADVANTAGE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7383b915",
+      "dateISO": "2026-02-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/grace-bowers/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Grace Bowers"
+      ],
+      "openers": [
+        "Peaboo and the Catz"
+      ]
+    },
+    {
+      "showId": "3798cb1b",
+      "dateISO": "2026-02-06",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/all-your-friends/674510?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALL YOUR FRIENDS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a373ab0c",
+      "dateISO": "2026-02-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/electric-feels-3/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Electric Feels"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1995ad08",
+      "dateISO": "2026-02-07",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/BROADWAY-RAVE/674511?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BROADWAY RAVE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "10234886",
+      "dateISO": "2026-02-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/galdive/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Galdive"
+      ],
+      "openers": [
+        "Labit"
+      ]
+    },
+    {
+      "showId": "5c76ffbc",
+      "dateISO": "2026-02-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/clap-your-hands-say-yeah/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Clap Your Hands Say Yeah"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5a32b180",
+      "dateISO": "2026-02-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/samm-henshaw/668400?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Samm Henshaw"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "134ccbf4",
+      "dateISO": "2026-02-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sprints/662880?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "SPRINTS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ff5246f7",
+      "dateISO": "2026-02-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/daniel-donatos-cosmic-country/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Daniel Donato’s Cosmic Country"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "9feddaad",
+      "dateISO": "2026-02-12",
+      "startTime": "7:30 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/daniel-donatos-cosmic-country-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Daniel Donato’s Cosmic Country"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "50d4c8d6",
+      "dateISO": "2026-02-12",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/cherub/671511?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CHERUB"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3877cd48",
+      "dateISO": "2026-02-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/locust/674576?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Locust"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "09e32eb5",
+      "dateISO": "2026-02-13",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260213.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Blossom"
+      ],
+      "openers": [
+        "Rosegate Ave.",
+        "Sledges"
+      ]
+    },
+    {
+      "showId": "93713f15",
+      "dateISO": "2026-02-13",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/super-greens/672805?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SUPER GREENS"
+      ],
+      "openers": [
+        "Honey Bucket",
+        "Thrown-Out Bones"
+      ]
+    },
+    {
+      "showId": "f9d8d47a",
+      "dateISO": "2026-02-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/cobweb-cabaret/674349?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Cobweb Cabaret"
+      ],
+      "openers": [
+        "6odlike",
+        "Countess Wednesday",
+        "Eddie Divas",
+        "Emma Vauxdevil",
+        "Esther Van Oui",
+        "Heaven Starr",
+        "La Reina - New Orleans",
+        "Qu’in de La Noche",
+        "Raquel Reed",
+        "Reina La Rogue",
+        "Sandra Alva",
+        "Yayah"
+      ]
+    },
+    {
+      "showId": "fa459069",
+      "dateISO": "2026-02-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/venna/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Venna"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ea26cb66",
+      "dateISO": "2026-02-14",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260214.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "BU�UEL"
+      ],
+      "openers": [
+        "Facet",
+        "Squid Pisser"
+      ]
+    },
+    {
+      "showId": "83092729",
+      "dateISO": "2026-02-14",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-chuck-prophet-and-the-make-out-quartet/674020?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Chuck Prophet & The Make Out Quartet"
+      ]
+    },
+    {
+      "showId": "0948a50e",
+      "dateISO": "2026-02-14",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-8/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "9390cadd",
+      "dateISO": "2026-02-15",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/blood-cultures/673387?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BLOOD CULTURES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "806abfca",
+      "dateISO": "2026-02-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/cold-cave/668649?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Cold Cave"
+      ],
+      "openers": [
+        "Buzz Kull",
+        "Rosa Anschütz"
+      ]
+    },
+    {
+      "showId": "5fae6343",
+      "dateISO": "2026-02-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-rebirth-brass-brand/669610?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Rebirth Brass Brand"
+      ]
+    },
+    {
+      "showId": "b08f4f20",
+      "dateISO": "2026-02-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/odezenne/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Odezenne"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8fc09ada",
+      "dateISO": "2026-02-18",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260218.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "NOT.GREENDAY"
+      ],
+      "openers": [
+        "Tess & the Details",
+        "Thomas Nicholas Band"
+      ]
+    },
+    {
+      "showId": "8db14990",
+      "dateISO": "2026-02-19",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-pains-of-being-pure-at-heart/675561?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE PAINS OF BEING PURE AT HEART"
+      ],
+      "openers": [
+        "Still Ruins"
+      ]
+    },
+    {
+      "showId": "e5e985c3",
+      "dateISO": "2026-02-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-polish-ambassador/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Polish Ambassador"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "42a35605",
+      "dateISO": "2026-02-20",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260220.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Hudson Freeman"
+      ],
+      "openers": [
+        "Dog Eyes",
+        "Pillowprince"
+      ]
+    },
+    {
+      "showId": "82ac7129",
+      "dateISO": "2026-02-20",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-pains-of-being-pure-at-heart/668737?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE PAINS OF BEING PURE AT HEART"
+      ],
+      "openers": [
+        "Chime School",
+        "Living Hour"
+      ]
+    },
+    {
+      "showId": "b45e95c0",
+      "dateISO": "2026-02-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-legend-zeppelin/665003?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Legend Zeppelin"
+      ]
+    },
+    {
+      "showId": "e8577dc1",
+      "dateISO": "2026-02-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/denm/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "DENM"
+      ],
+      "openers": [
+        "Evening Elephants",
+        "Obed Padilla"
+      ]
+    },
+    {
+      "showId": "89308315",
+      "dateISO": "2026-02-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/mat-kerekes/668083?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Mat Kerekes"
+      ],
+      "openers": [
+        "Beeson",
+        "Shallow Alcove"
+      ]
+    },
+    {
+      "showId": "65bd5ef8",
+      "dateISO": "2026-02-21",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260221.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Jeffrey Lewis & the Voltage"
+      ],
+      "openers": [
+        "Pacing"
+      ]
+    },
+    {
+      "showId": "6f7d29d7",
+      "dateISO": "2026-02-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/jesse-baez/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Jesse Baez"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "03592e76",
+      "dateISO": "2026-02-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/fox-stevenson/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Fox Stevenson"
+      ],
+      "openers": [
+        "Yue"
+      ]
+    },
+    {
+      "showId": "345a01a4",
+      "dateISO": "2026-02-22",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260222.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "J. Robbins plays Burning Airlines"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "b20b8d3d",
+      "dateISO": "2026-02-26",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/winston-surfshirt/665852?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WINSTON SURFSHIRT"
+      ],
+      "openers": [
+        "Cardboard People"
+      ]
+    },
+    {
+      "showId": "54db41d3",
+      "dateISO": "2026-02-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-fiery-furnaces/668256?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Fiery Furnaces"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "311940fa",
+      "dateISO": "2026-02-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/o/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "((( O )))"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e786e91a",
+      "dateISO": "2026-02-26",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260226.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Carpool Tunnel"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "9aa099de",
+      "dateISO": "2026-02-27",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260227.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Young Dubliners"
+      ],
+      "openers": [
+        "The Hooks"
+      ]
+    },
+    {
+      "showId": "b3d6d217",
+      "dateISO": "2026-02-27",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mission-delirium/675320?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MISSION DELIRIUM"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "73f3fb48",
+      "dateISO": "2026-02-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/bitchin-bajas/669850?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Bitchin Bajas"
+      ],
+      "openers": [
+        "Geologist"
+      ]
+    },
+    {
+      "showId": "930224bb",
+      "dateISO": "2026-02-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/weval-chorophobia-album-release-tour/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Weval: CHOROPHOBIA – Album Release Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7f5f8956",
+      "dateISO": "2026-02-28",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260228.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Illuminati Hotties"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4fd3fce8",
+      "dateISO": "2026-02-28",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-sun-ra-arkestra/670488?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Sun Ra Arkestra"
+      ]
+    },
+    {
+      "showId": "c3ba01ec",
+      "dateISO": "2026-02-28",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bob-schneider/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bob Schneider"
+      ],
+      "openers": [
+        "Me Nd Adam"
+      ]
+    },
+    {
+      "showId": "79626169",
+      "dateISO": "2026-03-01",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-sun-ra-arkestra/670490?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Sun Ra Arkestra"
+      ]
+    },
+    {
+      "showId": "eb61cd9f",
+      "dateISO": "2026-03-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/meixcan-slum-rats/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mexican Slum Rats"
+      ],
+      "openers": [
+        "Clarion",
+        "Killgurls"
+      ]
+    },
+    {
+      "showId": "b174b5f2",
+      "dateISO": "2026-03-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/junny-null-tour/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "JUNNY: [null] Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a25de41a",
+      "dateISO": "2026-03-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/alexander-stewart-what-if-tour/668785?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Alexander Stewart - What If? Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ff61f534",
+      "dateISO": "2026-03-04",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260304.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Matt Pryor"
+      ],
+      "openers": [
+        "Silverware",
+        "Small Uncle"
+      ]
+    },
+    {
+      "showId": "5f4c9a4c",
+      "dateISO": "2026-03-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/black-pistol-fire/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Black Pistol Fire"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "053268aa",
+      "dateISO": "2026-03-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/carsie-blanton/642854?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Carsie Blanton"
+      ],
+      "openers": [
+        "Devon Sproule"
+      ]
+    },
+    {
+      "showId": "04c12558",
+      "dateISO": "2026-03-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/natalie-bergman/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Natalie Bergman"
+      ],
+      "openers": [
+        "Alec Shaw"
+      ]
+    },
+    {
+      "showId": "b04f5f0a",
+      "dateISO": "2026-03-05",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260305.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Spoon Benders"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "43ea7aa4",
+      "dateISO": "2026-03-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-brian-jonestown-massacre/674564?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Brian Jonestown Massacre"
+      ],
+      "openers": [
+        "ÖLÜM"
+      ]
+    },
+    {
+      "showId": "924ae8e2",
+      "dateISO": "2026-03-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/grieves/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Grieves"
+      ],
+      "openers": [
+        "Benz Shelton",
+        "Blueprint"
+      ]
+    },
+    {
+      "showId": "e7652124",
+      "dateISO": "2026-03-07",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260307.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Bad Bad Hats"
+      ],
+      "openers": [
+        "Margaux"
+      ]
+    },
+    {
+      "showId": "ed6eb23d",
+      "dateISO": "2026-03-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-brian-jonestown-massacre/674568?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Brian Jonestown Massacre"
+      ],
+      "openers": [
+        "Pink Breath of Heaven"
+      ]
+    },
+    {
+      "showId": "302a698b",
+      "dateISO": "2026-03-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/guitarricadelafuente/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Guitarricadelafuente"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "157bd98d",
+      "dateISO": "2026-03-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bryant-barnes/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bryant Barnes"
+      ],
+      "openers": [
+        "Crying City"
+      ]
+    },
+    {
+      "showId": "2ed4634c",
+      "dateISO": "2026-03-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sam-greenfield/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Sam Greenfield"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3aa1aaee",
+      "dateISO": "2026-03-10",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260310.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "The Technicolors"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "782db089",
+      "dateISO": "2026-03-11",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260311.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Ally Nicholas"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "64100776",
+      "dateISO": "2026-03-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/witchz/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Witchz"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1a03f591",
+      "dateISO": "2026-03-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/blackwater-holylight/669916?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Blackwater Holylight"
+      ],
+      "openers": [
+        "SOM"
+      ]
+    },
+    {
+      "showId": "5a5328a5",
+      "dateISO": "2026-03-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rio-kosta/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "RIO KOSTA"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "97b1c676",
+      "dateISO": "2026-03-14",
+      "startTime": "6:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Earlybirds Club"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fbc6b43c",
+      "dateISO": "2026-03-14",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260314.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Good Terms"
+      ],
+      "openers": [
+        "Gloomy June",
+        "In Balance"
+      ]
+    },
+    {
+      "showId": "bdc0d6ba",
+      "dateISO": "2026-03-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/malibu/667177?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Malibu"
+      ],
+      "openers": [
+        "ESP"
+      ]
+    },
+    {
+      "showId": "d0da7cf8",
+      "dateISO": "2026-03-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/son-little/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Son Little"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "59b5070a",
+      "dateISO": "2026-03-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/vendredi-sur-mer/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Vendredi sur Mer"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "15537f36",
+      "dateISO": "2026-03-19",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260319.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Andre Nickatina"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4635db5d",
+      "dateISO": "2026-03-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/parlor-greens/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Parlor Greens"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "24e6af9d",
+      "dateISO": "2026-03-20",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260320.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Lifeguard"
+      ],
+      "openers": [
+        "Famous Mammals"
+      ]
+    },
+    {
+      "showId": "c4ab79e0",
+      "dateISO": "2026-03-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-sam-chase-and-the-untraditional/671737?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Sam Chase & The Untraditional"
+      ],
+      "openers": [
+        "Hosted by Franzia Rose",
+        "special guest Suzanimal"
+      ]
+    },
+    {
+      "showId": "c8d4fdba",
+      "dateISO": "2026-03-21",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sessa/669847?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SESSA"
+      ],
+      "openers": [
+        "William Alexander"
+      ]
+    },
+    {
+      "showId": "fc455fb3",
+      "dateISO": "2026-03-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-third-mind/674471?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Third Mind"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "cd2a85e7",
+      "dateISO": "2026-03-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/los-amigos-invisibles/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Los Amigos Invisibles"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1c137b57",
+      "dateISO": "2026-03-22",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260322.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Landon Conrath"
+      ],
+      "openers": [
+        "Abby Holliday"
+      ]
+    },
+    {
+      "showId": "24abd8de",
+      "dateISO": "2026-03-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/cat-clyde/673750?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Cat Clyde"
+      ],
+      "openers": [
+        "Goodnight",
+        "Texas"
+      ]
+    },
+    {
+      "showId": "d88df072",
+      "dateISO": "2026-03-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-nude-party/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Nude Party"
+      ],
+      "openers": [
+        "Teddy and the Rough Riders"
+      ]
+    },
+    {
+      "showId": "2df3f3d3",
+      "dateISO": "2026-03-23",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/kmaro/668917?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "K.MARO"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0559c623",
+      "dateISO": "2026-03-23",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260323.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Acopia"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4dbd2efd",
+      "dateISO": "2026-03-24",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260324.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Howling Giant"
+      ],
+      "openers": [
+        "Insomniac",
+        "The Spiral Electric"
+      ]
+    },
+    {
+      "showId": "2bc08d18",
+      "dateISO": "2026-03-25",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260325.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Grrrl Gang"
+      ],
+      "openers": [
+        "Starry Eyed Cadet",
+        "Street Eaters"
+      ]
+    },
+    {
+      "showId": "96c6327c",
+      "dateISO": "2026-03-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chill-towards-enlightenment-a-stoke-seminar-with-chad-goes-deep/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chill Towards Enlightenment: A Stoke Seminar with Chad Goes Deep"
+      ],
+      "openers": [
+        "Chill Towards Enlightenment: A Stoke Seminar Chad Goes Deep"
+      ]
+    },
+    {
+      "showId": "d8d16c0e",
+      "dateISO": "2026-03-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lithe/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lithe"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a6f5576a",
+      "dateISO": "2026-03-26",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/molina/669831?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MOLINA"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "73f6e87d",
+      "dateISO": "2026-03-27",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260327.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Louis XIV"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0e04311d",
+      "dateISO": "2026-03-27",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dream-ivory/667214?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DREAM, IVORY"
+      ],
+      "openers": [
+        "Rew"
+      ]
+    },
+    {
+      "showId": "19b4ea00",
+      "dateISO": "2026-03-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-motet/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Motet"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a049edec",
+      "dateISO": "2026-03-28",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/voxtrot/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Voxtrot"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7600e8c3",
+      "dateISO": "2026-03-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/tophouse/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Tophouse"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3abd51b2",
+      "dateISO": "2026-03-30",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sword-ii/670297?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SWORD II"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a4f9f6cc",
+      "dateISO": "2026-03-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/mclusky/664455?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "mclusky"
+      ],
+      "openers": [
+        "Ekko Astral"
+      ]
+    },
+    {
+      "showId": "a80e4791",
+      "dateISO": "2026-03-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/quarters/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Quarters"
+      ],
+      "openers": [
+        "Porch Light",
+        "Telescreens"
+      ]
+    },
+    {
+      "showId": "5a8fe372",
+      "dateISO": "2026-03-31",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260331.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Saintseneca"
+      ],
+      "openers": [
+        "Gladie"
+      ]
+    },
+    {
+      "showId": "a2851a59",
+      "dateISO": "2026-03-31",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/worry-club/674330?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WORRY CLUB"
+      ],
+      "openers": [
+        "Bugsy",
+        "Edgehill"
+      ]
+    },
+    {
+      "showId": "53646deb",
+      "dateISO": "2026-04-01",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/des-rocs/673474?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DES ROCS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fd53e3a4",
+      "dateISO": "2026-04-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/circles-around-the-sun/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Circles Around The Sun"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "83f355ea",
+      "dateISO": "2026-04-02",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260402.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Fust"
+      ],
+      "openers": [
+        "Georgia Maq",
+        "Merce Lemon"
+      ]
+    },
+    {
+      "showId": "299d8941",
+      "dateISO": "2026-04-03",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/tokyo-tea-room/661034?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "TOKYO TEA ROOM"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4d2ec20e",
+      "dateISO": "2026-04-03",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/aj-lee-and-blue-summit/668376?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "AJ Lee & Blue Summit"
+      ],
+      "openers": [
+        "My Dog Jack"
+      ]
+    },
+    {
+      "showId": "1929b015",
+      "dateISO": "2026-04-03",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/eliza-mclamb/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Eliza McLamb"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "79b1e590",
+      "dateISO": "2026-04-04",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/westerman/667670?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WESTERMAN"
+      ],
+      "openers": [
+        "Otto Benson"
+      ]
+    },
+    {
+      "showId": "f456a04a",
+      "dateISO": "2026-04-04",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/aj-lee-and-blue-summit/668386?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "AJ Lee & Blue Summit"
+      ],
+      "openers": [
+        "Wolf Jett"
+      ]
+    },
+    {
+      "showId": "8c7e3503",
+      "dateISO": "2026-04-06",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/courtney-marie-andrews/668883?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "COURTNEY MARIE ANDREWS"
+      ],
+      "openers": [
+        "Margo Cilker"
+      ]
+    },
+    {
+      "showId": "4a4e879c",
+      "dateISO": "2026-04-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-moss/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Moss"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "493d47fe",
+      "dateISO": "2026-04-06",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260406.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "STOMACH BOOK"
+      ],
+      "openers": [
+        "Girls Rituals"
+      ]
+    },
+    {
+      "showId": "5befcaf0",
+      "dateISO": "2026-04-07",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/ulrika-spacek/672803?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ULRIKA SPACEK"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c358bf56",
+      "dateISO": "2026-04-10",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260410.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Shy High"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c116889d",
+      "dateISO": "2026-04-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/maria-somerville/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Maria Somerville"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c8f38168",
+      "dateISO": "2026-04-11",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260411.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Slomosa"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "6816ad42",
+      "dateISO": "2026-04-11",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/saturdays-at-your-place/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "saturdays at your place"
+      ],
+      "openers": [
+        "Kerosene Heights",
+        "Retirement Party"
+      ]
+    },
+    {
+      "showId": "1d7d53f4",
+      "dateISO": "2026-04-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/die-spitz/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Die Spitz"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8ee58746",
+      "dateISO": "2026-04-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/die-spitz-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Die Spitz"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "56cf4207",
+      "dateISO": "2026-04-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/newdad/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "NewDad"
+      ],
+      "openers": [
+        "Freak Slug"
+      ]
+    },
+    {
+      "showId": "47d83cc3",
+      "dateISO": "2026-04-18",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/remember-sports/673722?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "REMEMBER SPORTS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f3d045c5",
+      "dateISO": "2026-04-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/art-brut/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "ART BRUT"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "990c0a93",
+      "dateISO": "2026-04-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/langhorne-slim-the-dreamin-kind-tour/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Langhorne Slim: The Dreamin’ Kind Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4ab966a2",
+      "dateISO": "2026-04-24",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/getdown-services/670457?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "GETDOWN SERVICES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5925724a",
+      "dateISO": "2026-04-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ultra-sunn/665741?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ultra Sunn"
+      ],
+      "openers": [
+        "Bestial Mouths",
+        "DJ Aaron Axelsen (Popscene)"
+      ]
+    },
+    {
+      "showId": "2edec91e",
+      "dateISO": "2026-04-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chris-grey/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chris Grey"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2978fe67",
+      "dateISO": "2026-04-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/depresion-sonora/672519?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Depresión Sonora"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "6955041e",
+      "dateISO": "2026-04-29",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260429.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Never Ending Fall"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "6cc290eb",
+      "dateISO": "2026-04-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-wedding-present-seamonsters-35th-anniversary/668179?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Wedding Present: Seamonsters 35th Anniversary"
+      ],
+      "openers": [
+        "Mark Robinson sings Unrest"
+      ]
+    },
+    {
+      "showId": "3c425c6d",
+      "dateISO": "2026-04-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/asim-azhar/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Asim Azhar"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2b55833f",
+      "dateISO": "2026-05-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sports/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Sports"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "cb110479",
+      "dateISO": "2026-05-13",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/cornelia-murr/674464?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CORNELIA MURR"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "89e8d083",
+      "dateISO": "2026-05-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/allie-x/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Allie X"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "48234472",
+      "dateISO": "2026-05-16",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/yumi-zouma/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Yumi Zouma"
+      ],
+      "openers": [
+        "Ducks Ltd."
+      ]
+    },
+    {
+      "showId": "a345c344",
+      "dateISO": "2026-05-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/red-rum-club/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Red Rum Club"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e8119d97",
+      "dateISO": "2026-05-24",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rose-gray/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Rose Gray"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ca9919ad",
+      "dateISO": "2026-05-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/isobel-campbell/673391?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Isobel Campbell"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8423c8c9",
+      "dateISO": "2026-07-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/emm/665688?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "EMM"
+      ],
+      "openers": [
+        "Bentley Robles",
+        "TeZATalks"
+      ]
+    },
+    {
+      "showId": "91d115b7",
+      "dateISO": "2026-08-26",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/osees/672239?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Osees"
+      ],
+      "openers": [
+        "Traps PS"
+      ]
+    },
+    {
+      "showId": "ec1cb614",
+      "dateISO": "2026-08-27",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Osees/672246?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Osees"
+      ],
+      "openers": [
+        "Traps PS"
+      ]
+    },
+    {
+      "showId": "b4e8c07a",
+      "dateISO": "2026-08-28",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Osees/672247?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Osees"
+      ],
+      "openers": [
+        "Traps PS"
+      ]
+    },
+    {
+      "showId": "e2296de8",
+      "dateISO": "2026-08-29",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Osees/672248?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Osees"
+      ],
+      "openers": [
+        "Traps PS"
+      ]
+    },
+    {
+      "showId": "82a11b1a",
+      "dateISO": "2026-09-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/marlon-magnee-of-la-femme/670503?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Marlon Magnée (of La Femme)"
+      ],
+      "openers": []
+    }
+  ]
+}

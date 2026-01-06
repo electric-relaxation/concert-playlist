@@ -16,6 +16,7 @@
     "venues:rickshaw:fixture": "tsx scripts/run-rickshaw-fixture.ts",
     "venues:rickshaw:live": "tsx scripts/run-rickshaw-live.ts",
     "data:update": "tsx scripts/updateVenueData.ts",
+    "data:merge": "tsx scripts/mergeVenueData.ts",
     "test:venue-update": "tsx scripts/test-venue-update.ts",
     "test:venue-update:clean": "node -e \"import('node:fs').then(fs=>fs.rmSync('scripts/tmp-venue-update',{recursive:true,force:true}))\"",
     "preview": "vite preview",

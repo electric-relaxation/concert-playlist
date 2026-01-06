@@ -35,6 +35,19 @@ jobs:
           npm run data:update
           echo "exit_code=$?" >> "$GITHUB_OUTPUT"
 
+      - name: Check for venue data changes
+        id: diff
+        run: |
+          if git diff --name-only -- public/data/venues | grep -q .; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Merge venue data
+        if: ${{ steps.diff.outputs.has_changes == 'true' }}
+        run: npm run data:merge
+
       - name: Commit changes
         run: |
           git config user.name "github-actions"
