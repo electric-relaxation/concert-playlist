@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-06T18:24:03.119Z",
+  "generatedAtISO": "2026-01-06T19:13:00.675Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -2874,6 +2874,22 @@
         "Allie X"
       ],
       "openers": []
+    },
+    {
+      "showId": "13c3322d",
+      "dateISO": "2026-05-16",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/faetooth/675142?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "FAETOOTH"
+      ],
+      "openers": [
+        "Iress",
+        "Nightosphere"
+      ]
     },
     {
       "showId": "48234472",

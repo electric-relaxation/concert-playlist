@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-06T07:10:12.550Z",
+  "generatedAtISO": "2026-01-06T19:12:56.852Z",
   "shows": [
     {
       "showId": "23319a17",
@@ -594,6 +594,22 @@
         "CORNELIA MURR"
       ],
       "openers": []
+    },
+    {
+      "showId": "13c3322d",
+      "dateISO": "2026-05-16",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/faetooth/675142?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "FAETOOTH"
+      ],
+      "openers": [
+        "Iress",
+        "Nightosphere"
+      ]
     }
   ]
 }
