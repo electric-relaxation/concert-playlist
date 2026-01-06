@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-06T05:40:13.883Z",
+  "generatedAtISO": "2026-01-06T06:00:16.753Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -155,9 +155,7 @@
       "headliners": [
         "Emo Night Karaoke"
       ],
-      "openers": [
-        "Night Karaoke is headlining at Bottom of the Hill you on lead"
-      ]
+      "openers": []
     },
     {
       "showId": "168a5627",

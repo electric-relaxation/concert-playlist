@@ -144,10 +144,11 @@ export const parseBottomOfTheHillHtml = (
         normalizeWhitespace(block.querySelector(".title")?.text ?? "")
 
       const openerLine =
-        bandNames.slice(1).join(", ") ||
-        block.querySelector(".support")?.text ||
-        textLines.find((line) => /with\s+|w\//i.test(line)) ||
-        ""
+        bandNames.length > 0
+          ? bandNames.slice(1).join(", ")
+          : block.querySelector(".support")?.text ||
+            textLines.find((line) => /with\s+|w\//i.test(line)) ||
+            ""
 
       const timeLine =
         block
