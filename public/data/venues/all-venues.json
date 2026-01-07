@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-07T21:15:31.765Z",
+  "generatedAtISO": "2026-01-07T23:16:16.612Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -1600,7 +1600,7 @@
     {
       "showId": "9aa099de",
       "dateISO": "2026-02-27",
-      "startTime": "9:00 PM",
+      "startTime": "8:30 PM",
       "venueId": "bottom-of-the-hill",
       "venueName": "Bottom of the Hill",
       "showUrl": "http://www.bottomofthehill.com/20260227.html",
@@ -1609,7 +1609,8 @@
         "Young Dubliners"
       ],
       "openers": [
-        "The Hooks"
+        "The Hooks",
+        "The Quiet Men"
       ]
     },
     {
