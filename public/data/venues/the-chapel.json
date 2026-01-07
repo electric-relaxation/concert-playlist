@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-07T03:25:24.073Z",
+  "generatedAtISO": "2026-01-07T21:15:28.233Z",
   "shows": [
     {
       "showId": "dc9d5b10",
@@ -52,6 +52,19 @@
         "DJ Young Royal",
         "The Vesuvians"
       ]
+    },
+    {
+      "showId": "674d536d",
+      "dateISO": "2026-01-11",
+      "startTime": "1:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/49ers-vs-eagles-watch-party/676582?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "49ers vs. Eagles Watch Party"
+      ],
+      "openers": []
     },
     {
       "showId": "bc9b2c68",
