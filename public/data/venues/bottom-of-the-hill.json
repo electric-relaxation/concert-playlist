@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-06T09:34:35.978Z",
+  "generatedAtISO": "2026-01-07T03:25:24.073Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -331,8 +331,23 @@
         "Lunar Mistake"
       ],
       "openers": [
-        "Feefawfum",
         "Pateka"
+      ]
+    },
+    {
+      "showId": "84e418d3",
+      "dateISO": "2026-01-31",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260131.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Dark Meta Railroad"
+      ],
+      "openers": [
+        "Lauren Oraange and the Cuties",
+        "The Secretary"
       ]
     },
     {

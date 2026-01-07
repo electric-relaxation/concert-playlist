@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-07T01:17:25.128Z",
+  "generatedAtISO": "2026-01-07T03:25:27.582Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -23,13 +23,13 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/nora-brown-with-stephanie-coleman/664856?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-nora-brown-with-stephanie-coleman/664856?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Nora Brown"
+        "An Evening"
       ],
       "openers": [
-        "Stephanie Coleman"
+        "Nora Brown"
       ]
     },
     {
@@ -822,7 +822,6 @@
         "Lunar Mistake"
       ],
       "openers": [
-        "Feefawfum",
         "Pateka"
       ]
     },
@@ -870,6 +869,22 @@
         "Frak Presents: Four Square – Release Party!"
       ],
       "openers": []
+    },
+    {
+      "showId": "84e418d3",
+      "dateISO": "2026-01-31",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260131.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Dark Meta Railroad"
+      ],
+      "openers": [
+        "Lauren Oraange and the Cuties",
+        "The Secretary"
+      ]
     },
     {
       "showId": "c083911f",
