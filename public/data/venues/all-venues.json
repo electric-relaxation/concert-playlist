@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-07T03:25:27.582Z",
+  "generatedAtISO": "2026-01-07T04:36:35.926Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -754,6 +754,21 @@
       ]
     },
     {
+      "showId": "696660a4",
+      "dateISO": "2026-01-29",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sqwerv/670137?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SQWERV"
+      ],
+      "openers": [
+        "Litty deBungus"
+      ]
+    },
+    {
       "showId": "a0d2ce50",
       "dateISO": "2026-01-29",
       "startTime": "8:00 PM",
@@ -793,21 +808,6 @@
       "openers": [
         "Dirty Cello",
         "Mild Heroes"
-      ]
-    },
-    {
-      "showId": "696660a4",
-      "dateISO": "2026-01-29",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/sqwerv/670137?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SQWERV"
-      ],
-      "openers": [
-        "Litty deBungus"
       ]
     },
     {

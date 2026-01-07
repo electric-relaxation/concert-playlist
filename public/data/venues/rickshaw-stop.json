@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-06T19:12:56.852Z",
+  "generatedAtISO": "2026-01-07T04:36:33.332Z",
   "shows": [
     {
       "showId": "23319a17",
@@ -208,7 +208,7 @@
     {
       "showId": "696660a4",
       "dateISO": "2026-01-29",
-      "startTime": "9:00 PM",
+      "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
       "showUrl": "https://wl.seetickets.us/event/sqwerv/670137?afflky=RickshawStop",
