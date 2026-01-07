@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-07T04:36:33.332Z",
+  "generatedAtISO": "2026-01-07T15:19:44.657Z",
   "shows": [
     {
       "showId": "23319a17",
@@ -609,6 +609,21 @@
       "openers": [
         "Iress",
         "Nightosphere"
+      ]
+    },
+    {
+      "showId": "d3f0392f",
+      "dateISO": "2026-06-24",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/solya/675140?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SOLYA"
+      ],
+      "openers": [
+        "Tele Novella"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-07T12:35:30.455Z",
+  "generatedAtISO": "2026-01-07T15:19:48.484Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -2988,6 +2988,21 @@
       ],
       "openers": [
         "Jerry's Middle Finger"
+      ]
+    },
+    {
+      "showId": "d3f0392f",
+      "dateISO": "2026-06-24",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/solya/675140?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SOLYA"
+      ],
+      "openers": [
+        "Tele Novella"
       ]
     },
     {
