@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-07T03:25:24.073Z",
+  "generatedAtISO": "2026-01-07T12:35:26.967Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -785,6 +785,19 @@
       "openers": [
         "Tragedy"
       ]
+    },
+    {
+      "showId": "e0301153",
+      "dateISO": "2026-11-08",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20261108.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Armand Hammer"
+      ],
+      "openers": []
     }
   ]
 }
