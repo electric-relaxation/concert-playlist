@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-08T01:17:59.854Z",
+  "generatedAtISO": "2026-01-08T09:24:15.487Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -923,7 +923,9 @@
       "headliners": [
         "Tyler Ramsey & Carl Broemel - Celestun Tour"
       ],
-      "openers": []
+      "openers": [
+        "Moose Loon"
+      ]
     },
     {
       "showId": "fdc846df",

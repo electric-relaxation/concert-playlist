@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-07T21:15:28.233Z",
+  "generatedAtISO": "2026-01-08T09:24:12.146Z",
   "shows": [
     {
       "showId": "dc9d5b10",
@@ -218,7 +218,9 @@
       "headliners": [
         "Tyler Ramsey & Carl Broemel - Celestun Tour"
       ],
-      "openers": []
+      "openers": [
+        "Moose Loon"
+      ]
     },
     {
       "showId": "d5095760",
