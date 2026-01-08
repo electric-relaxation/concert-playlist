@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-07T23:16:16.612Z",
+  "generatedAtISO": "2026-01-08T01:17:59.854Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -1404,7 +1404,9 @@
       "headliners": [
         "The Polish Ambassador"
       ],
-      "openers": []
+      "openers": [
+        "Scott Nice"
+      ]
     },
     {
       "showId": "42a35605",

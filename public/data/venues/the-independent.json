@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-06T05:28:29.275Z",
+  "generatedAtISO": "2026-01-08T01:17:57.023Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -309,7 +309,9 @@
       "headliners": [
         "The Polish Ambassador"
       ],
-      "openers": []
+      "openers": [
+        "Scott Nice"
+      ]
     },
     {
       "showId": "e8577dc1",
