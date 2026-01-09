@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-08T09:24:12.146Z",
+  "generatedAtISO": "2026-01-09T18:25:00.622Z",
   "shows": [
-    {
-      "showId": "dc9d5b10",
-      "dateISO": "2026-01-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-nora-brown-with-stephanie-coleman/664856?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Nora Brown"
-      ]
-    },
     {
       "showId": "9d44234f",
       "dateISO": "2026-01-09",
@@ -176,7 +161,9 @@
       "headliners": [
         "The Antlers"
       ],
-      "openers": []
+      "openers": [
+        "Tōth"
+      ]
     },
     {
       "showId": "a0d2ce50",

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-09T15:18:36.115Z",
+  "generatedAtISO": "2026-01-09T18:25:03.429Z",
   "shows": [
     {
       "showId": "84f8220e",
@@ -15,21 +15,6 @@
       "openers": [
         "Little Critter",
         "Loser Soup"
-      ]
-    },
-    {
-      "showId": "dc9d5b10",
-      "dateISO": "2026-01-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-nora-brown-with-stephanie-coleman/664856?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Nora Brown"
       ]
     },
     {
@@ -733,7 +718,9 @@
       "headliners": [
         "The Antlers"
       ],
-      "openers": []
+      "openers": [
+        "Tōth"
+      ]
     },
     {
       "showId": "8ee3e005",
