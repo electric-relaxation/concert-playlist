@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-09T18:25:00.622Z",
+  "generatedAtISO": "2026-01-09T22:16:37.040Z",
   "shows": [
     {
       "showId": "9d44234f",
@@ -127,12 +127,14 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/fleetwood-mask/668268?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-fleetwood-mask/668268?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Fleetwood Mask"
+        "An Evening"
       ],
-      "openers": []
+      "openers": [
+        "Fleetwood Mask"
+      ]
     },
     {
       "showId": "605238f3",
