@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-08T01:17:57.023Z",
+  "generatedAtISO": "2026-01-09T15:18:32.552Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -859,6 +859,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Asim Azhar"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "69c019b2",
+      "dateISO": "2026-05-01",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/claire-rosinkranz/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Claire Rosinkranz"
       ],
       "openers": []
     },
