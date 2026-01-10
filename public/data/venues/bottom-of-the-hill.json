@@ -4,40 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-07T23:16:13.885Z",
+  "generatedAtISO": "2026-01-10T03:20:16.933Z",
   "shows": [
-    {
-      "showId": "84f8220e",
-      "dateISO": "2026-01-07",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260107.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Wild Metanoia"
-      ],
-      "openers": [
-        "Little Critter",
-        "Loser Soup"
-      ]
-    },
-    {
-      "showId": "4607b7a8",
-      "dateISO": "2026-01-08",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260108.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Houseboy"
-      ],
-      "openers": [
-        "Id and the Egos",
-        "Midcourse Correction"
-      ]
-    },
     {
       "showId": "fac9a5f6",
       "dateISO": "2026-01-09",
@@ -365,6 +333,19 @@
         "Dusted Angel",
         "KIM"
       ]
+    },
+    {
+      "showId": "6c940598",
+      "dateISO": "2026-02-06",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260206.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Koyal"
+      ],
+      "openers": []
     },
     {
       "showId": "09e32eb5",
