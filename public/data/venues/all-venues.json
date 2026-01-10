@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-01-10T03:20:20.679Z",
+  "generatedAtISO": "2026-01-10T18:22:43.715Z",
   "shows": [
-    {
-      "showId": "23319a17",
-      "dateISO": "2026-01-08",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/rjd2/662046?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "RJD2"
-      ],
-      "openers": [
-        "STARFARI"
-      ]
-    },
     {
       "showId": "fac9a5f6",
       "dateISO": "2026-01-09",
@@ -46,22 +31,6 @@
       "openers": [
         "Donnie Emerson & Nancy Sophia",
         "Visuals by Zachary Rodell"
-      ]
-    },
-    {
-      "showId": "9eb90c81",
-      "dateISO": "2026-01-09",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/winter-disco-ball-with-westones/670660?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "WINTER DISCO BALL with WESTONES"
-      ],
-      "openers": [
-        "Animal Prince",
-        "Izzy Wise"
       ]
     },
     {
@@ -1472,6 +1441,23 @@
       ],
       "openers": [
         "Pacing"
+      ]
+    },
+    {
+      "showId": "02057124",
+      "dateISO": "2026-02-21",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/kafana-balkan-19th-anniversary-party/676981?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "KAFANA BALKAN 19TH ANNIVERSARY PARTY"
+      ],
+      "openers": [
+        "DJ Zeljko",
+        "Deuce Eclipse",
+        "Jill Parker"
       ]
     },
     {
