@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-01-10T18:22:43.715Z",
+  "generatedAtISO": "2026-01-10T22:15:29.511Z",
   "shows": [
-    {
-      "showId": "fac9a5f6",
-      "dateISO": "2026-01-09",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260109.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Secret Family"
-      ],
-      "openers": [
-        "Catnip",
-        "Supercoze"
-      ]
-    },
     {
       "showId": "9d44234f",
       "dateISO": "2026-01-09",
@@ -132,7 +116,7 @@
     {
       "showId": "05b2c212",
       "dateISO": "2026-01-13",
-      "startTime": "8:30 PM",
+      "startTime": "9:00 PM",
       "venueId": "bottom-of-the-hill",
       "venueName": "Bottom of the Hill",
       "showUrl": "http://www.bottomofthehill.com/20260113.html",
@@ -140,7 +124,9 @@
       "headliners": [
         "Chris Housman"
       ],
-      "openers": []
+      "openers": [
+        "bromf"
+      ]
     },
     {
       "showId": "fb30e212",
