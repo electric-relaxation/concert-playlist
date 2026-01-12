@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-12T11:16:11.707Z",
+  "generatedAtISO": "2026-01-12T15:20:43.412Z",
   "shows": [
     {
       "showId": "9d44234f",
@@ -2809,6 +2809,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Claire Rosinkranz"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "01a15fd9",
+      "dateISO": "2026-05-02",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/jensen-mcrae/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Jensen McRae"
       ],
       "openers": []
     },
