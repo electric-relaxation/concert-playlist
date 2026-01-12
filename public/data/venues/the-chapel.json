@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-12T17:19:35.115Z",
+  "generatedAtISO": "2026-01-12T21:16:12.788Z",
   "shows": [
     {
       "showId": "bc9b2c68",
@@ -61,7 +61,9 @@
       "headliners": [
         "WAND"
       ],
-      "openers": []
+      "openers": [
+        "The Lodestones"
+      ]
     },
     {
       "showId": "228fc6c4",
@@ -321,6 +323,25 @@
       "openers": [
         "Beeson",
         "Shallow Alcove"
+      ]
+    },
+    {
+      "showId": "94f45bb9",
+      "dateISO": "2026-02-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/bolero/677156?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "BOLERO!"
+      ],
+      "openers": [
+        "Caravan 222",
+        "Ether Wave Light Show",
+        "Grand Goldy",
+        "Krisa Cupcake",
+        "RUFFY TNT"
       ]
     },
     {

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-12T20:19:53.549Z",
+  "generatedAtISO": "2026-01-12T21:16:12.788Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -32,7 +32,9 @@
       "headliners": [
         "Lost Kings"
       ],
-      "openers": []
+      "openers": [
+        "BAUM"
+      ]
     },
     {
       "showId": "3eb7e33b",
@@ -512,7 +514,9 @@
       "headliners": [
         "Sam Greenfield"
       ],
-      "openers": []
+      "openers": [
+        "Button Masher"
+      ]
     },
     {
       "showId": "64100776",
@@ -738,7 +742,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/the-moss/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "The Moss"
+        "The Moss with Rec Hall"
       ],
       "openers": [
         "Rec Hall"
