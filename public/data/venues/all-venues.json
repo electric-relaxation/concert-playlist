@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-12T17:19:38.530Z",
+  "generatedAtISO": "2026-01-12T18:25:45.928Z",
   "shows": [
     {
       "showId": "02e876d4",
@@ -2476,7 +2476,9 @@
       "headliners": [
         "The Moss"
       ],
-      "openers": []
+      "openers": [
+        "Rec Hall"
+      ]
     },
     {
       "showId": "493d47fe",
@@ -2776,7 +2778,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/jensen-mcrae/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Jensen McRae"
+        "Jensen McRae – God Has A Hitman Tour"
       ],
       "openers": []
     },
@@ -2976,6 +2978,22 @@
       "openers": [
         "Bentley Robles",
         "TeZATalks"
+      ]
+    },
+    {
+      "showId": "b4332818",
+      "dateISO": "2026-07-25",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/diggy-graves/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Diggy Graves"
+      ],
+      "openers": [
+        "Resentvul",
+        "Ryan Oakes"
       ]
     },
     {
