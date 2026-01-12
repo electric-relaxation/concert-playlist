@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-12T21:16:12.788Z",
+  "generatedAtISO": "2026-01-12T22:15:03.101Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -117,7 +117,8 @@
         "Moontricks"
       ],
       "openers": [
-        "KR3TURE"
+        "KR3TURE",
+        "Shovelman"
       ]
     },
     {

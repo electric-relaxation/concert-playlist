@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-12T11:16:08.516Z",
+  "generatedAtISO": "2026-01-12T22:15:03.101Z",
   "shows": [
     {
       "showId": "1eee1cd0",
@@ -638,7 +638,9 @@
       "headliners": [
         "Louis XIV"
       ],
-      "openers": []
+      "openers": [
+        "Lazer Beam"
+      ]
     },
     {
       "showId": "5a8fe372",

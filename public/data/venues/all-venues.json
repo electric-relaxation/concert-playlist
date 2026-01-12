@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-12T21:16:15.838Z",
+  "generatedAtISO": "2026-01-12T22:15:06.147Z",
   "shows": [
     {
       "showId": "1eee1cd0",
@@ -626,7 +626,8 @@
         "Moontricks"
       ],
       "openers": [
-        "KR3TURE"
+        "KR3TURE",
+        "Shovelman"
       ]
     },
     {
@@ -2228,7 +2229,9 @@
       "headliners": [
         "Louis XIV"
       ],
-      "openers": []
+      "openers": [
+        "Lazer Beam"
+      ]
     },
     {
       "showId": "0e04311d",
