@@ -4,27 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-10T18:22:40.407Z",
+  "generatedAtISO": "2026-01-12T20:19:53.549Z",
   "shows": [
-    {
-      "showId": "02e876d4",
-      "dateISO": "2026-01-10",
-      "startTime": "7:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/yearbook-night/669642?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "YEARBOOK NIGHT"
-      ],
-      "openers": [
-        "Cardboard People",
-        "Gloomy June",
-        "Orbit 17",
-        "The Hot Takes",
-        "The Snares"
-      ]
-    },
     {
       "showId": "fb30e212",
       "dateISO": "2026-01-14",
@@ -324,6 +305,7 @@
         "THE PAINS OF BEING PURE AT HEART"
       ],
       "openers": [
+        "Cindy",
         "Still Ruins"
       ]
     },
@@ -385,6 +367,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "MISSION DELIRIUM"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "b0960470",
+      "dateISO": "2026-03-01",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/roger-fakhr/676910?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Rogér Fakhr"
       ],
       "openers": []
     },

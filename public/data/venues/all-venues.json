@@ -1,25 +1,6 @@
 {
-  "generatedAtISO": "2026-01-12T18:25:45.928Z",
+  "generatedAtISO": "2026-01-12T20:19:56.734Z",
   "shows": [
-    {
-      "showId": "02e876d4",
-      "dateISO": "2026-01-10",
-      "startTime": "7:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/yearbook-night/669642?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "YEARBOOK NIGHT"
-      ],
-      "openers": [
-        "Cardboard People",
-        "Gloomy June",
-        "Orbit 17",
-        "The Hot Takes",
-        "The Snares"
-      ]
-    },
     {
       "showId": "1eee1cd0",
       "dateISO": "2026-01-12",
@@ -640,7 +621,9 @@
       "headliners": [
         "Moontricks"
       ],
-      "openers": []
+      "openers": [
+        "KR3TURE"
+      ]
     },
     {
       "showId": "7e4c5510",
@@ -1240,6 +1223,7 @@
         "THE PAINS OF BEING PURE AT HEART"
       ],
       "openers": [
+        "Cindy",
         "Still Ruins"
       ]
     },
@@ -1598,6 +1582,19 @@
       "openers": [
         "Sun Ra Arkestra"
       ]
+    },
+    {
+      "showId": "b0960470",
+      "dateISO": "2026-03-01",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/roger-fakhr/676910?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Rogér Fakhr"
+      ],
+      "openers": []
     },
     {
       "showId": "eb61cd9f",
@@ -2781,6 +2778,21 @@
         "Jensen McRae – God Has A Hitman Tour"
       ],
       "openers": []
+    },
+    {
+      "showId": "376ed913",
+      "dateISO": "2026-05-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/powfu-presents-the-lofi-library-tour/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Powfu Presents: The Lofi Library Tour"
+      ],
+      "openers": [
+        "Jomie"
+      ]
     },
     {
       "showId": "2b55833f",

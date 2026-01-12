@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-12T18:25:42.690Z",
+  "generatedAtISO": "2026-01-12T20:19:53.549Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -114,7 +114,9 @@
       "headliners": [
         "Moontricks"
       ],
-      "openers": []
+      "openers": [
+        "KR3TURE"
+      ]
     },
     {
       "showId": "72b9b987",
@@ -889,6 +891,21 @@
         "Jensen McRae – God Has A Hitman Tour"
       ],
       "openers": []
+    },
+    {
+      "showId": "376ed913",
+      "dateISO": "2026-05-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/powfu-presents-the-lofi-library-tour/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Powfu Presents: The Lofi Library Tour"
+      ],
+      "openers": [
+        "Jomie"
+      ]
     },
     {
       "showId": "2b55833f",
