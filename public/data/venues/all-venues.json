@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-01-12T15:20:43.412Z",
+  "generatedAtISO": "2026-01-12T17:19:38.530Z",
   "shows": [
-    {
-      "showId": "9d44234f",
-      "dateISO": "2026-01-09",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/ariel-pink/672663?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Ariel Pink"
-      ],
-      "openers": [
-        "Donnie Emerson & Nancy Sophia",
-        "Visuals by Zachary Rodell"
-      ]
-    },
     {
       "showId": "02e876d4",
       "dateISO": "2026-01-10",
@@ -35,35 +19,6 @@
         "The Hot Takes",
         "The Snares"
       ]
-    },
-    {
-      "showId": "8cedf6b0",
-      "dateISO": "2026-01-10",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/western-standard-time-ska-orchestra-with-karina-denike/663154?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Western Standard Time Ska Orchestra"
-      ],
-      "openers": [
-        "DJ Young Royal",
-        "The Vesuvians"
-      ]
-    },
-    {
-      "showId": "674d536d",
-      "dateISO": "2026-01-11",
-      "startTime": "1:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/49ers-vs-eagles-watch-party/676582?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "49ers vs. Eagles Watch Party"
-      ],
-      "openers": []
     },
     {
       "showId": "1eee1cd0",
@@ -798,10 +753,10 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/tyler-ramsey-and-carl-broemel-celestun-tour/669663?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/tyler-ramsey-and-carl-broemel-of-my-morning-jacket/669663?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Tyler Ramsey & Carl Broemel - Celestun Tour"
+        "Tyler Ramsey & Carl Broemel (of My Morning Jacket)"
       ],
       "openers": [
         "Moose Loon"
