@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-12T22:15:06.147Z",
+  "generatedAtISO": "2026-01-12T23:13:26.874Z",
   "shows": [
     {
       "showId": "1eee1cd0",
@@ -1732,7 +1732,10 @@
       "headliners": [
         "Spoon Benders"
       ],
-      "openers": []
+      "openers": [
+        "HEAT",
+        "Medscool"
+      ]
     },
     {
       "showId": "43ea7aa4",
