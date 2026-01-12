@@ -4,40 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-11T03:45:51.833Z",
+  "generatedAtISO": "2026-01-12T11:16:08.516Z",
   "shows": [
-    {
-      "showId": "c31d724a",
-      "dateISO": "2026-01-10",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260110.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Mommy Mommy"
-      ],
-      "openers": [
-        "Some Good Things",
-        "Spencer Noble"
-      ]
-    },
-    {
-      "showId": "93bf03a0",
-      "dateISO": "2026-01-11",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260111.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Rolling Blackout"
-      ],
-      "openers": [
-        "The Bunkermen",
-        "Trauma Cheez"
-      ]
-    },
     {
       "showId": "1eee1cd0",
       "dateISO": "2026-01-12",
@@ -423,6 +391,21 @@
       "headliners": [
         "J. Robbins plays Burning Airlines"
       ],
+      "openers": [
+        "KID COPS"
+      ]
+    },
+    {
+      "showId": "2067c0da",
+      "dateISO": "2026-02-25",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260225.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Hot Flash Heat Wave"
+      ],
       "openers": []
     },
     {
@@ -465,7 +448,10 @@
       "headliners": [
         "Illuminati Hotties"
       ],
-      "openers": []
+      "openers": [
+        "Pity Party",
+        "The Tammy Shine"
+      ]
     },
     {
       "showId": "ff61f534",
@@ -727,6 +713,23 @@
       "openers": []
     },
     {
+      "showId": "bbf97a85",
+      "dateISO": "2026-04-14",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260414.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Homeboy Sandman"
+      ],
+      "openers": [
+        "Coolzey",
+        "Sha Ray",
+        "Wolf Langis"
+      ]
+    },
+    {
       "showId": "6955041e",
       "dateISO": "2026-04-29",
       "startTime": "8:30 PM",
@@ -753,6 +756,19 @@
       "openers": [
         "Tragedy"
       ]
+    },
+    {
+      "showId": "cce78953",
+      "dateISO": "2026-05-22",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260522.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Foxtide"
+      ],
+      "openers": []
     },
     {
       "showId": "e0301153",
