@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-12T23:13:24.685Z",
+  "generatedAtISO": "2026-01-13T03:24:12.273Z",
   "shows": [
     {
       "showId": "1eee1cd0",
@@ -497,6 +497,7 @@
         "Bad Bad Hats"
       ],
       "openers": [
+        "HLLLYH",
         "Margaux"
       ]
     },
