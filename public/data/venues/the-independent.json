@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-13T15:20:00.410Z",
+  "generatedAtISO": "2026-01-13T18:25:40.742Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -856,6 +856,21 @@
       "headliners": [
         "Langhorne Slim: The Dreamin’ Kind Tour"
       ],
+      "openers": [
+        "Laney Jones and the Spirits"
+      ]
+    },
+    {
+      "showId": "795dbb99",
+      "dateISO": "2026-04-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/skizzy-mars/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Skizzy Mars"
+      ],
       "openers": []
     },
     {
@@ -991,6 +1006,21 @@
         "Rose Gray"
       ],
       "openers": []
+    },
+    {
+      "showId": "b07a2ef4",
+      "dateISO": "2026-06-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/searows/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Searows"
+      ],
+      "openers": [
+        "Mori"
+      ]
     },
     {
       "showId": "b4332818",

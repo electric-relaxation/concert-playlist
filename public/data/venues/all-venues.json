@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-13T15:20:03.157Z",
+  "generatedAtISO": "2026-01-13T18:25:44.540Z",
   "shows": [
     {
       "showId": "1eee1cd0",
@@ -2163,6 +2163,19 @@
       "openers": []
     },
     {
+      "showId": "e1fa170c",
+      "dateISO": "2026-03-24",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/eli/676972?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ELI"
+      ],
+      "openers": []
+    },
+    {
       "showId": "4dbd2efd",
       "dateISO": "2026-03-24",
       "startTime": "8:30 PM",
@@ -2713,6 +2726,21 @@
       "headliners": [
         "Langhorne Slim: The Dreamin’ Kind Tour"
       ],
+      "openers": [
+        "Laney Jones and the Spirits"
+      ]
+    },
+    {
+      "showId": "795dbb99",
+      "dateISO": "2026-04-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/skizzy-mars/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Skizzy Mars"
+      ],
       "openers": []
     },
     {
@@ -2923,6 +2951,19 @@
       ]
     },
     {
+      "showId": "20648e7f",
+      "dateISO": "2026-05-16",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sleaford-mods/674593?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Sleaford Mods"
+      ],
+      "openers": []
+    },
+    {
       "showId": "48234472",
       "dateISO": "2026-05-16",
       "startTime": "9:00 PM",
@@ -3017,6 +3058,21 @@
       ],
       "openers": [
         "Jerry's Middle Finger"
+      ]
+    },
+    {
+      "showId": "b07a2ef4",
+      "dateISO": "2026-06-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/searows/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Searows"
+      ],
+      "openers": [
+        "Mori"
       ]
     },
     {
