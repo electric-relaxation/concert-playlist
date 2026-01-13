@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-13T03:24:12.273Z",
+  "generatedAtISO": "2026-01-13T08:24:02.687Z",
   "shows": [
     {
       "showId": "1eee1cd0",
@@ -298,6 +298,19 @@
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
         "Koyal"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d04a2bd9",
+      "dateISO": "2026-02-12",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260212.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Yawning Man"
       ],
       "openers": []
     },
