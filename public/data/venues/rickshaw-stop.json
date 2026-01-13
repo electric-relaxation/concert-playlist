@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-13T19:16:50.374Z",
+  "generatedAtISO": "2026-01-13T20:19:16.987Z",
   "shows": [
     {
       "showId": "fb30e212",
@@ -167,7 +167,10 @@
         "SQWERV"
       ],
       "openers": [
-        "Litty deBungus"
+        "Chris Hoog",
+        "Litty deBungus",
+        "Will Magid",
+        "Ziek McCarter"
       ]
     },
     {
