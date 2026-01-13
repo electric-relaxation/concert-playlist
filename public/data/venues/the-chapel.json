@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-12T21:16:12.788Z",
+  "generatedAtISO": "2026-01-13T01:13:51.496Z",
   "shows": [
     {
       "showId": "bc9b2c68",
@@ -331,10 +331,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/bolero/677156?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/bolero-greetings-mother-earth-record-release-show/677156?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "BOLERO!"
+        "BOLERO! \"Greetings Mother Earth\" Record Release Show"
       ],
       "openers": [
         "Caravan 222",
