@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-13T20:19:20.718Z",
+  "generatedAtISO": "2026-01-13T22:17:23.291Z",
   "shows": [
     {
       "showId": "1eee1cd0",
@@ -1113,7 +1113,9 @@
       "headliners": [
         "Venna"
       ],
-      "openers": []
+      "openers": [
+        "Dani Offline"
+      ]
     },
     {
       "showId": "ea26cb66",
@@ -2979,7 +2981,9 @@
       "headliners": [
         "Red Rum Club"
       ],
-      "openers": []
+      "openers": [
+        "The Moondrops"
+      ]
     },
     {
       "showId": "cce78953",

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-13T18:25:40.742Z",
+  "generatedAtISO": "2026-01-13T22:17:20.619Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -275,7 +275,9 @@
       "headliners": [
         "Venna"
       ],
-      "openers": []
+      "openers": [
+        "Dani Offline"
+      ]
     },
     {
       "showId": "0948a50e",
@@ -992,7 +994,9 @@
       "headliners": [
         "Red Rum Club"
       ],
-      "openers": []
+      "openers": [
+        "The Moondrops"
+      ]
     },
     {
       "showId": "e8119d97",
