@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-13T08:24:04.901Z",
+  "generatedAtISO": "2026-01-13T15:20:03.157Z",
   "shows": [
     {
       "showId": "1eee1cd0",
@@ -2389,6 +2389,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "DES ROCS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ed741335",
+      "dateISO": "2026-04-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/tom-skinner/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Tom Skinner"
       ],
       "openers": []
     },

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-12T22:15:03.101Z",
+  "generatedAtISO": "2026-01-13T15:20:00.410Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -707,6 +707,19 @@
         "Porch Light",
         "Telescreens"
       ]
+    },
+    {
+      "showId": "ed741335",
+      "dateISO": "2026-04-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/tom-skinner/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Tom Skinner"
+      ],
+      "openers": []
     },
     {
       "showId": "fd53e3a4",
