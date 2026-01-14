@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-13T18:25:40.742Z",
+  "generatedAtISO": "2026-01-14T15:20:45.398Z",
   "shows": [
     {
       "showId": "bc9b2c68",
@@ -681,6 +681,19 @@
       "openers": [
         "Jerry's Middle Finger"
       ]
+    },
+    {
+      "showId": "f0c0c1b5",
+      "dateISO": "2026-06-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/asgeir/676917?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ásgeir"
+      ],
+      "openers": []
     },
     {
       "showId": "8423c8c9",

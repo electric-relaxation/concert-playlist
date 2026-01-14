@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-13T22:17:20.619Z",
+  "generatedAtISO": "2026-01-14T15:20:45.398Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -887,6 +887,21 @@
         "Chris Grey"
       ],
       "openers": []
+    },
+    {
+      "showId": "1bbd4133",
+      "dateISO": "2026-04-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/cut-worms/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Cut Worms"
+      ],
+      "openers": [
+        "Angela Autumn"
+      ]
     },
     {
       "showId": "3c425c6d",

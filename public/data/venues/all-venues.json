@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-14T01:20:10.410Z",
+  "generatedAtISO": "2026-01-14T15:20:48.011Z",
   "shows": [
     {
       "showId": "05b2c212",
@@ -2791,6 +2791,21 @@
       "openers": []
     },
     {
+      "showId": "1bbd4133",
+      "dateISO": "2026-04-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/cut-worms/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Cut Worms"
+      ],
+      "openers": [
+        "Angela Autumn"
+      ]
+    },
+    {
       "showId": "6955041e",
       "dateISO": "2026-04-29",
       "startTime": "8:30 PM",
@@ -3068,6 +3083,19 @@
       "openers": [
         "Mori"
       ]
+    },
+    {
+      "showId": "f0c0c1b5",
+      "dateISO": "2026-06-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/asgeir/676917?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ásgeir"
+      ],
+      "openers": []
     },
     {
       "showId": "d3f0392f",
