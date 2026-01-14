@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-13T20:19:16.987Z",
+  "generatedAtISO": "2026-01-14T17:23:27.250Z",
   "shows": [
     {
       "showId": "fb30e212",
@@ -453,7 +453,10 @@
       "headliners": [
         "SWORD II"
       ],
-      "openers": []
+      "openers": [
+        "Tex Patrello",
+        "opener tba"
+      ]
     },
     {
       "showId": "a2851a59",
