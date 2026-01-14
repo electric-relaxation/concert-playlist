@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-01-14T22:17:52.101Z",
+  "generatedAtISO": "2026-01-14T23:14:24.651Z",
   "shows": [
-    {
-      "showId": "05b2c212",
-      "dateISO": "2026-01-13",
-      "startTime": "9:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260113.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Chris Housman"
-      ],
-      "openers": [
-        "Bromf"
-      ]
-    },
     {
       "showId": "fb30e212",
       "dateISO": "2026-01-14",
@@ -141,6 +126,19 @@
       ]
     },
     {
+      "showId": "7a710eb0",
+      "dateISO": "2026-01-17",
+      "startTime": "5:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/49ers-vs-seahawks-watch-party/677584?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "49ers vs. Seahawks Watch Party"
+      ],
+      "openers": []
+    },
+    {
       "showId": "806268a9",
       "dateISO": "2026-01-17",
       "startTime": "8:00 PM",
@@ -178,10 +176,10 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/illeagles/668810?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/illeagles-canceled/668810?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "ILLEAGLES"
+        "ILLEAGLES - canceled"
       ],
       "openers": [
         "Rhonda Linstadt"
@@ -991,6 +989,21 @@
         "Daniel Donato’s Cosmic Country"
       ],
       "openers": []
+    },
+    {
+      "showId": "33d2dd7b",
+      "dateISO": "2026-02-11",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260211.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Glow Scout"
+      ],
+      "openers": [
+        "CuVa BiMo"
+      ]
     },
     {
       "showId": "9feddaad",
@@ -2603,7 +2616,9 @@
       "headliners": [
         "Maria Somerville"
       ],
-      "openers": []
+      "openers": [
+        "r.image"
+      ]
     },
     {
       "showId": "c8f38168",

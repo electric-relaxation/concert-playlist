@@ -4,23 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-14T01:20:06.789Z",
+  "generatedAtISO": "2026-01-14T23:14:21.890Z",
   "shows": [
-    {
-      "showId": "05b2c212",
-      "dateISO": "2026-01-13",
-      "startTime": "9:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260113.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Chris Housman"
-      ],
-      "openers": [
-        "Bromf"
-      ]
-    },
     {
       "showId": "f69589fb",
       "dateISO": "2026-01-15",
@@ -284,6 +269,21 @@
         "Koyal"
       ],
       "openers": []
+    },
+    {
+      "showId": "33d2dd7b",
+      "dateISO": "2026-02-11",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260211.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Glow Scout"
+      ],
+      "openers": [
+        "CuVa BiMo"
+      ]
     },
     {
       "showId": "d04a2bd9",

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-14T18:26:35.725Z",
+  "generatedAtISO": "2026-01-14T23:14:21.890Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -775,7 +775,9 @@
       "headliners": [
         "Maria Somerville"
       ],
-      "openers": []
+      "openers": [
+        "r.image"
+      ]
     },
     {
       "showId": "6816ad42",
