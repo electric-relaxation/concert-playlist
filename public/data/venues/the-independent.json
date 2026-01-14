@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-14T15:20:45.398Z",
+  "generatedAtISO": "2026-01-14T18:26:35.725Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -198,6 +198,19 @@
       ]
     },
     {
+      "showId": "b08f4f20",
+      "dateISO": "2026-02-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/odezenne/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Odezenne"
+      ],
+      "openers": []
+    },
+    {
       "showId": "a373ab0c",
       "dateISO": "2026-02-06",
       "startTime": "9:00 PM",
@@ -289,19 +302,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "The Emo Night Tour"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "b08f4f20",
-      "dateISO": "2026-02-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/odezenne/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Odezenne"
       ],
       "openers": []
     },

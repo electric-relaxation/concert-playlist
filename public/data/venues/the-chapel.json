@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-14T15:20:45.398Z",
+  "generatedAtISO": "2026-01-14T18:26:35.725Z",
   "shows": [
     {
       "showId": "bc9b2c68",
@@ -207,7 +207,10 @@
       "headliners": [
         "SPRINTS"
       ],
-      "openers": []
+      "openers": [
+        "Jennifer?",
+        "Um"
+      ]
     },
     {
       "showId": "3877cd48",

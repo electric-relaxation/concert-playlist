@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-14T17:23:30.541Z",
+  "generatedAtISO": "2026-01-14T18:26:39.537Z",
   "shows": [
     {
       "showId": "05b2c212",
@@ -858,6 +858,19 @@
       ]
     },
     {
+      "showId": "b08f4f20",
+      "dateISO": "2026-02-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/odezenne/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Odezenne"
+      ],
+      "openers": []
+    },
+    {
       "showId": "6c940598",
       "dateISO": "2026-02-06",
       "startTime": "8:30 PM",
@@ -961,7 +974,10 @@
       "headliners": [
         "SPRINTS"
       ],
-      "openers": []
+      "openers": [
+        "Jennifer?",
+        "Um"
+      ]
     },
     {
       "showId": "ff5246f7",
@@ -1188,19 +1204,6 @@
       "openers": [
         "Rebirth Brass Brand"
       ]
-    },
-    {
-      "showId": "b08f4f20",
-      "dateISO": "2026-02-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/odezenne/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Odezenne"
-      ],
-      "openers": []
     },
     {
       "showId": "8fc09ada",
