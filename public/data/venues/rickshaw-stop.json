@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-14T20:16:22.044Z",
+  "generatedAtISO": "2026-01-14T21:17:13.780Z",
   "shows": [
     {
       "showId": "fb30e212",
@@ -385,6 +385,21 @@
         "Rogér Fakhr"
       ],
       "openers": []
+    },
+    {
+      "showId": "9a54ad12",
+      "dateISO": "2026-03-13",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/heated-rivalry-a-jockstar-rave/677559?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HEATED RIVALRY: A Jockstar Rave"
+      ],
+      "openers": [
+        "A Night of Party Boy Anthems"
+      ]
     },
     {
       "showId": "c8d4fdba",

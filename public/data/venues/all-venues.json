@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-14T20:16:26.085Z",
+  "generatedAtISO": "2026-01-14T21:17:17.194Z",
   "shows": [
     {
       "showId": "05b2c212",
@@ -1900,6 +1900,21 @@
       "openers": [
         "Buddy Junior",
         "WIFE"
+      ]
+    },
+    {
+      "showId": "9a54ad12",
+      "dateISO": "2026-03-13",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/heated-rivalry-a-jockstar-rave/677559?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HEATED RIVALRY: A Jockstar Rave"
+      ],
+      "openers": [
+        "A Night of Party Boy Anthems"
       ]
     },
     {
