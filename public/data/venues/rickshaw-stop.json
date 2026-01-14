@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-14T17:23:27.250Z",
+  "generatedAtISO": "2026-01-14T20:16:22.044Z",
   "shows": [
     {
       "showId": "fb30e212",
@@ -12,10 +12,10 @@
       "startTime": "8:45 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/jason-simon/672897?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/dead-meadow/672897?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "JASON SIMON"
+        "Dead Meadow"
       ],
       "openers": [
         "Host Family",
@@ -485,7 +485,10 @@
       "headliners": [
         "DES ROCS"
       ],
-      "openers": []
+      "openers": [
+        "ROMES",
+        "Velvet Chains"
+      ]
     },
     {
       "showId": "299d8941",
