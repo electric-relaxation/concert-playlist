@@ -4,24 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-13T08:24:02.687Z",
+  "generatedAtISO": "2026-01-14T01:20:06.789Z",
   "shows": [
-    {
-      "showId": "1eee1cd0",
-      "dateISO": "2026-01-12",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260112.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Mustard Plug"
-      ],
-      "openers": [
-        "The Iron Roses",
-        "The Toasters"
-      ]
-    },
     {
       "showId": "05b2c212",
       "dateISO": "2026-01-13",
@@ -539,6 +523,22 @@
         "Ally Nicholas"
       ],
       "openers": []
+    },
+    {
+      "showId": "0b77b835",
+      "dateISO": "2026-03-13",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260313.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "FIGURE EIGHT"
+      ],
+      "openers": [
+        "Buddy Junior",
+        "WIFE"
+      ]
     },
     {
       "showId": "fbc6b43c",
