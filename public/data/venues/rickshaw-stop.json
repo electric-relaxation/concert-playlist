@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-14T21:17:13.780Z",
+  "generatedAtISO": "2026-01-14T22:17:48.332Z",
   "shows": [
     {
       "showId": "fb30e212",
@@ -415,19 +415,6 @@
       "openers": [
         "William Alexander"
       ]
-    },
-    {
-      "showId": "2df3f3d3",
-      "dateISO": "2026-03-23",
-      "startTime": "7:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/kmaro/668917?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "K.MARO"
-      ],
-      "openers": []
     },
     {
       "showId": "a6f5576a",

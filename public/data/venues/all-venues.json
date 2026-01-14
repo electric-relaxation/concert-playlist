@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-14T21:17:17.194Z",
+  "generatedAtISO": "2026-01-14T22:17:52.101Z",
   "shows": [
     {
       "showId": "05b2c212",
@@ -2158,19 +2158,6 @@
       "openers": [
         "Teddy and the Rough Riders"
       ]
-    },
-    {
-      "showId": "2df3f3d3",
-      "dateISO": "2026-03-23",
-      "startTime": "7:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/kmaro/668917?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "K.MARO"
-      ],
-      "openers": []
     },
     {
       "showId": "0559c623",
