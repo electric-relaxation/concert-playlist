@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-15T03:26:50.905Z",
+  "generatedAtISO": "2026-01-15T11:15:57.808Z",
   "shows": [
     {
       "showId": "f69589fb",
@@ -746,6 +746,22 @@
         "Coolzey",
         "Sha Ray",
         "Wolf Langis"
+      ]
+    },
+    {
+      "showId": "49e2a961",
+      "dateISO": "2026-04-15",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260415.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Jarv"
+      ],
+      "openers": [
+        "Damn Skippy",
+        "RDGLDGRN"
       ]
     },
     {
