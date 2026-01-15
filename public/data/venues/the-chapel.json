@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-15T19:20:45.435Z",
+  "generatedAtISO": "2026-01-15T20:19:32.531Z",
   "shows": [
     {
       "showId": "bc9b2c68",
@@ -236,7 +236,9 @@
       "headliners": [
         "Locust"
       ],
-      "openers": []
+      "openers": [
+        "Zelma Stone"
+      ]
     },
     {
       "showId": "f9d8d47a",

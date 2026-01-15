@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-15T01:15:37.747Z",
+  "generatedAtISO": "2026-01-15T20:19:32.531Z",
   "shows": [
-    {
-      "showId": "fb30e212",
-      "dateISO": "2026-01-14",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/dead-meadow/672897?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Dead Meadow"
-      ],
-      "openers": [
-        "Host Family",
-        "LEVELOR"
-      ]
-    },
     {
       "showId": "88e3a5de",
       "dateISO": "2026-01-15",
@@ -575,7 +559,9 @@
       "headliners": [
         "GETDOWN SERVICES"
       ],
-      "openers": []
+      "openers": [
+        "Litronix"
+      ]
     },
     {
       "showId": "cb110479",
