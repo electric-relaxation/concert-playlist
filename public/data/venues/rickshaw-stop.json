@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-14T22:17:48.332Z",
+  "generatedAtISO": "2026-01-15T01:15:37.747Z",
   "shows": [
     {
       "showId": "fb30e212",
@@ -559,7 +559,10 @@
       "headliners": [
         "REMEMBER SPORTS"
       ],
-      "openers": []
+      "openers": [
+        "opener tba",
+        "youbet"
+      ]
     },
     {
       "showId": "4ab966a2",

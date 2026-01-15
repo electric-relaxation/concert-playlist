@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-14T23:14:21.890Z",
+  "generatedAtISO": "2026-01-15T01:15:37.747Z",
   "shows": [
     {
       "showId": "bc9b2c68",
@@ -41,10 +41,10 @@
       "startTime": "5:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/49ers-vs-seahawks-watch-party/677584?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/49ers-vs-seahawks-on-the-chapels-big-screen/677584?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "49ers vs. Seahawks Watch Party"
+        "49ers vs. Seahawks on The Chapel's Big Screen"
       ],
       "openers": []
     },
