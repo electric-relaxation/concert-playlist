@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-15T11:16:01.074Z",
+  "generatedAtISO": "2026-01-15T17:28:19.410Z",
   "shows": [
     {
       "showId": "fb30e212",
@@ -2431,6 +2431,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Tom Skinner"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c9bae81c",
+      "dateISO": "2026-04-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/go-kurosawa/677267?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Go Kurosawa"
       ],
       "openers": []
     },

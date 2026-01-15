@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-15T01:15:37.747Z",
+  "generatedAtISO": "2026-01-15T17:28:15.873Z",
   "shows": [
     {
       "showId": "bc9b2c68",
@@ -567,6 +567,19 @@
       "openers": [
         "Ekko Astral"
       ]
+    },
+    {
+      "showId": "c9bae81c",
+      "dateISO": "2026-04-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/go-kurosawa/677267?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Go Kurosawa"
+      ],
+      "openers": []
     },
     {
       "showId": "4d2ec20e",
