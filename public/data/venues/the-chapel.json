@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-15T17:28:15.873Z",
+  "generatedAtISO": "2026-01-15T18:29:45.472Z",
   "shows": [
     {
       "showId": "bc9b2c68",
@@ -12,10 +12,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/ryley-walker-papa-m/670898?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/papa-m-ryley-walker/670898?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Ryley Walker, Papa M"
+        "Papa M, Ryley Walker"
       ],
       "openers": []
     },
@@ -311,6 +311,19 @@
       ]
     },
     {
+      "showId": "5d6d70aa",
+      "dateISO": "2026-02-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/don-carlos/677629?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Don Carlos"
+      ],
+      "openers": []
+    },
+    {
       "showId": "b45e95c0",
       "dateISO": "2026-02-20",
       "startTime": "9:00 PM",
@@ -359,6 +372,19 @@
         "Krisa Cupcake",
         "RUFFY TNT"
       ]
+    },
+    {
+      "showId": "a380eb4c",
+      "dateISO": "2026-02-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/george-harrison-birthday-tribute-show/677607?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "George Harrison Birthday Tribute Show"
+      ],
+      "openers": []
     },
     {
       "showId": "54db41d3",
@@ -609,6 +635,23 @@
       ],
       "openers": [
         "Wolf Jett"
+      ]
+    },
+    {
+      "showId": "b6b4772a",
+      "dateISO": "2026-04-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/rocketship/677115?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Rocketship"
+      ],
+      "openers": [
+        "Chime School",
+        "DJ Jessica B",
+        "The Umbrellas"
       ]
     },
     {

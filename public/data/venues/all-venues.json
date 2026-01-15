@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-15T17:28:19.410Z",
+  "generatedAtISO": "2026-01-15T18:29:49.267Z",
   "shows": [
     {
       "showId": "fb30e212",
@@ -39,10 +39,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/ryley-walker-papa-m/670898?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/papa-m-ryley-walker/670898?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Ryley Walker, Papa M"
+        "Papa M, Ryley Walker"
       ],
       "openers": []
     },
@@ -1235,6 +1235,19 @@
       ]
     },
     {
+      "showId": "5d6d70aa",
+      "dateISO": "2026-02-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/don-carlos/677629?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Don Carlos"
+      ],
+      "openers": []
+    },
+    {
       "showId": "8db14990",
       "dateISO": "2026-02-19",
       "startTime": "8:45 PM",
@@ -1437,6 +1450,19 @@
       "openers": [
         "KID COPS"
       ]
+    },
+    {
+      "showId": "a380eb4c",
+      "dateISO": "2026-02-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/george-harrison-birthday-tribute-show/677607?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "George Harrison Birthday Tribute Show"
+      ],
+      "openers": []
     },
     {
       "showId": "2067c0da",
@@ -2606,6 +2632,23 @@
       "openers": []
     },
     {
+      "showId": "b6b4772a",
+      "dateISO": "2026-04-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/rocketship/677115?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Rocketship"
+      ],
+      "openers": [
+        "Chime School",
+        "DJ Jessica B",
+        "The Umbrellas"
+      ]
+    },
+    {
       "showId": "c358bf56",
       "dateISO": "2026-04-10",
       "startTime": "8:30 PM",
@@ -2957,6 +3000,21 @@
         "Sports"
       ],
       "openers": []
+    },
+    {
+      "showId": "454c83c9",
+      "dateISO": "2026-05-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/archive-joycut/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Archive + JoyCut"
+      ],
+      "openers": [
+        "JoyCut"
+      ]
     },
     {
       "showId": "5543e8b5",
