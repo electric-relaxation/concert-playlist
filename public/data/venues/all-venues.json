@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-15T21:17:09.083Z",
+  "generatedAtISO": "2026-01-15T22:17:47.528Z",
   "shows": [
     {
       "showId": "f69589fb",
@@ -1114,7 +1114,8 @@
         "Venna"
       ],
       "openers": [
-        "Dani Offline"
+        "Dani Offline",
+        "Juicy Stemz"
       ]
     },
     {
@@ -2971,7 +2972,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/powfu-presents-the-lofi-library-tour/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Powfu Presents: The Lofi Library Tour"
+        "Powfu Presents: Lofi Library Tour"
       ],
       "openers": [
         "Jomie"
@@ -3001,9 +3002,7 @@
       "headliners": [
         "Archive + JoyCut"
       ],
-      "openers": [
-        "JoyCut"
-      ]
+      "openers": []
     },
     {
       "showId": "5543e8b5",
