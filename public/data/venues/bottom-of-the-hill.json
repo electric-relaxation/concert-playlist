@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-15T11:15:57.808Z",
+  "generatedAtISO": "2026-01-15T21:17:05.248Z",
   "shows": [
     {
       "showId": "f69589fb",
@@ -282,6 +282,7 @@
         "Glow Scout"
       ],
       "openers": [
+        "CVCC",
         "CuVa BiMo"
       ]
     },
