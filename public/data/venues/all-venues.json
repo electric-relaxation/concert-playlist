@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-16T11:15:40.808Z",
+  "generatedAtISO": "2026-01-16T18:25:33.760Z",
   "shows": [
     {
       "showId": "bc9b2c68",
@@ -13,22 +13,6 @@
         "Papa M, Ryley Walker"
       ],
       "openers": []
-    },
-    {
-      "showId": "88e3a5de",
-      "dateISO": "2026-01-15",
-      "startTime": "8:15 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/everyone-is-dirty/671335?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EVERYONE IS DIRTY"
-      ],
-      "openers": [
-        "Agouti",
-        "GROOBLEN"
-      ]
     },
     {
       "showId": "144fbd27",
@@ -2196,6 +2180,19 @@
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
         "Acopia"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e1fa170c",
+      "dateISO": "2026-03-24",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/eli/676972?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ELI"
       ],
       "openers": []
     },

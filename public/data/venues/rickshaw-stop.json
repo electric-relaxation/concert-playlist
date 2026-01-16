@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-15T20:19:32.531Z",
+  "generatedAtISO": "2026-01-16T18:25:30.244Z",
   "shows": [
-    {
-      "showId": "88e3a5de",
-      "dateISO": "2026-01-15",
-      "startTime": "8:15 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/everyone-is-dirty/671335?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EVERYONE IS DIRTY"
-      ],
-      "openers": [
-        "Agouti",
-        "GROOBLEN"
-      ]
-    },
     {
       "showId": "977746f6",
       "dateISO": "2026-01-16",
@@ -399,6 +383,19 @@
       "openers": [
         "William Alexander"
       ]
+    },
+    {
+      "showId": "e1fa170c",
+      "dateISO": "2026-03-24",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/eli/676972?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ELI"
+      ],
+      "openers": []
     },
     {
       "showId": "a6f5576a",
