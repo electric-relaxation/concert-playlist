@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-16T19:17:13.891Z",
+  "generatedAtISO": "2026-01-16T20:18:00.462Z",
   "shows": [
     {
       "showId": "144fbd27",
@@ -2735,6 +2735,19 @@
         "Damn Skippy",
         "RDGLDGRN"
       ]
+    },
+    {
+      "showId": "85843125",
+      "dateISO": "2026-04-17",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/throwing-muses/677402?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Throwing Muses"
+      ],
+      "openers": []
     },
     {
       "showId": "47d83cc3",
