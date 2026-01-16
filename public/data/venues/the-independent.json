@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-15T22:17:43.731Z",
+  "generatedAtISO": "2026-01-16T01:18:04.923Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -267,7 +267,7 @@
     {
       "showId": "9feddaad",
       "dateISO": "2026-02-12",
-      "startTime": "7:30 PM",
+      "startTime": "8:00 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/daniel-donatos-cosmic-country-2/",
