@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-15T20:19:32.531Z",
+  "generatedAtISO": "2026-01-16T19:17:10.261Z",
   "shows": [
-    {
-      "showId": "bc9b2c68",
-      "dateISO": "2026-01-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/papa-m-ryley-walker/670898?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Papa M, Ryley Walker"
-      ],
-      "openers": []
-    },
     {
       "showId": "144fbd27",
       "dateISO": "2026-01-16",
@@ -47,21 +34,6 @@
         "49ers vs. Seahawks on The Chapel's Big Screen"
       ],
       "openers": []
-    },
-    {
-      "showId": "4bfee91a",
-      "dateISO": "2026-01-17",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/illeagles-canceled/668810?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "ILLEAGLES - canceled"
-      ],
-      "openers": [
-        "Rhonda Linstadt"
-      ]
     },
     {
       "showId": "4dfdb679",
