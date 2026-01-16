@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-01-16T01:18:07.923Z",
+  "generatedAtISO": "2026-01-16T11:15:40.808Z",
   "shows": [
-    {
-      "showId": "f69589fb",
-      "dateISO": "2026-01-15",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260115.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Light Chain"
-      ],
-      "openers": [
-        "Radio Incognito",
-        "The Giant Silence"
-      ]
-    },
     {
       "showId": "bc9b2c68",
       "dateISO": "2026-01-15",
@@ -2112,6 +2096,22 @@
       ],
       "openers": [
         "William Alexander"
+      ]
+    },
+    {
+      "showId": "029c0987",
+      "dateISO": "2026-03-21",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260321.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "American Steel"
+      ],
+      "openers": [
+        "Jen Pop",
+        "Sweet Gloom"
       ]
     },
     {

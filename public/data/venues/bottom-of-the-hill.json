@@ -4,24 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-15T21:17:05.248Z",
+  "generatedAtISO": "2026-01-16T11:15:37.838Z",
   "shows": [
-    {
-      "showId": "f69589fb",
-      "dateISO": "2026-01-15",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260115.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Light Chain"
-      ],
-      "openers": [
-        "Radio Incognito",
-        "The Giant Silence"
-      ]
-    },
     {
       "showId": "e9198fdb",
       "dateISO": "2026-01-16",
@@ -583,6 +567,22 @@
       ],
       "openers": [
         "Famous Mammals"
+      ]
+    },
+    {
+      "showId": "029c0987",
+      "dateISO": "2026-03-21",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260321.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "American Steel"
+      ],
+      "openers": [
+        "Jen Pop",
+        "Sweet Gloom"
       ]
     },
     {
