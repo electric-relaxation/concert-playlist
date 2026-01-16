@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-16T21:16:16.321Z",
+  "generatedAtISO": "2026-01-16T23:15:49.618Z",
   "shows": [
     {
       "showId": "144fbd27",
@@ -803,7 +803,9 @@
       "headliners": [
         "Koyal"
       ],
-      "openers": []
+      "openers": [
+        "Windingwood"
+      ]
     },
     {
       "showId": "3798cb1b",
@@ -2737,6 +2739,22 @@
       "openers": [
         "Damn Skippy",
         "RDGLDGRN"
+      ]
+    },
+    {
+      "showId": "ed776c5c",
+      "dateISO": "2026-04-16",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260416.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "The Jack Knives"
+      ],
+      "openers": [
+        "Black Guy Fawkes",
+        "Rudy Nuño & The Broadcasters"
       ]
     },
     {
