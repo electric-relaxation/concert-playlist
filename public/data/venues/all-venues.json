@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-16T20:18:00.462Z",
+  "generatedAtISO": "2026-01-16T21:16:16.321Z",
   "shows": [
     {
       "showId": "144fbd27",
@@ -96,10 +96,10 @@
       "startTime": "9:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco/672928?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco-vol-20/672928?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "NOW THAT'S WHAT I CALL ITALO DISCO"
+        "NOW THAT'S WHAT I CALL ITALO DISCO Vol 20"
       ],
       "openers": [
         "Colours 87",
@@ -1488,7 +1488,10 @@
       "headliners": [
         "MISSION DELIRIUM"
       ],
-      "openers": []
+      "openers": [
+        "Chetah Boyz",
+        "Miss Hits"
+      ]
     },
     {
       "showId": "73f3fb48",
