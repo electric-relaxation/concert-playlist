@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-16T23:15:46.049Z",
+  "generatedAtISO": "2026-01-17T03:18:52.671Z",
   "shows": [
     {
       "showId": "e9198fdb",
@@ -707,19 +707,6 @@
       "openers": [
         "Girls Rituals"
       ]
-    },
-    {
-      "showId": "c358bf56",
-      "dateISO": "2026-04-10",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260410.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Shy High"
-      ],
-      "openers": []
     },
     {
       "showId": "c8f38168",
