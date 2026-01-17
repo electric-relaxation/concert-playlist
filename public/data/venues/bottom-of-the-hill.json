@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-17T03:18:52.671Z",
+  "generatedAtISO": "2026-01-17T05:16:44.885Z",
   "shows": [
     {
       "showId": "e9198fdb",
@@ -171,10 +171,9 @@
       "showUrl": "http://www.bottomofthehill.com/20260128.html",
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
-        "your arms are my cocoon"
+        "awakebutstillinbed"
       ],
       "openers": [
-        "awakebutstillinbed",
         "máu"
       ]
     },
