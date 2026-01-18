@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-16T21:16:12.961Z",
+  "generatedAtISO": "2026-01-18T06:24:42.667Z",
   "shows": [
     {
       "showId": "977746f6",
@@ -181,7 +181,9 @@
       "headliners": [
         "MAANU"
       ],
-      "openers": []
+      "openers": [
+        "asfand"
+      ]
     },
     {
       "showId": "fc2a6d16",

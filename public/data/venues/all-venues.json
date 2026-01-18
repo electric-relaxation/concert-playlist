@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-17T05:16:48.219Z",
+  "generatedAtISO": "2026-01-18T06:24:45.281Z",
   "shows": [
     {
       "showId": "144fbd27",
@@ -733,7 +733,9 @@
       "headliners": [
         "MAANU"
       ],
-      "openers": []
+      "openers": [
+        "asfand"
+      ]
     },
     {
       "showId": "3d4eee63",
