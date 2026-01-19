@@ -4,37 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-16T20:17:58.093Z",
+  "generatedAtISO": "2026-01-19T05:28:00.414Z",
   "shows": [
-    {
-      "showId": "144fbd27",
-      "dateISO": "2026-01-16",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/analog-dog/669036?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Analog Dog"
-      ],
-      "openers": [
-        "Personal Space Man",
-        "STARFARI (DJ sets)"
-      ]
-    },
-    {
-      "showId": "7a710eb0",
-      "dateISO": "2026-01-17",
-      "startTime": "5:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/49ers-vs-seahawks-on-the-chapels-big-screen/677584?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "49ers vs. Seahawks on The Chapel's Big Screen"
-      ],
-      "openers": []
-    },
     {
       "showId": "4dfdb679",
       "dateISO": "2026-01-22",
@@ -791,7 +762,7 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Osees/672246?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/osees/672246?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Osees"
@@ -806,7 +777,7 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Osees/672247?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/osees/672247?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Osees"
@@ -821,7 +792,7 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Osees/672248?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/osees/672248?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Osees"
