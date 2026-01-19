@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-01-19T05:28:02.889Z",
+  "generatedAtISO": "2026-01-19T22:16:49.362Z",
   "shows": [
-    {
-      "showId": "e9198fdb",
-      "dateISO": "2026-01-16",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260116.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Theya"
-      ],
-      "openers": [
-        "Soothsayer",
-        "Stigma 13"
-      ]
-    },
     {
       "showId": "977746f6",
       "dateISO": "2026-01-16",
@@ -47,19 +31,6 @@
       "openers": [
         "Cheflee"
       ]
-    },
-    {
-      "showId": "806268a9",
-      "dateISO": "2026-01-17",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260117.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Emo Night Karaoke"
-      ],
-      "openers": []
     },
     {
       "showId": "5f575214",
@@ -93,21 +64,6 @@
       ],
       "openers": [
         "BAUM"
-      ]
-    },
-    {
-      "showId": "168a5627",
-      "dateISO": "2026-01-18",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260118.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Rehash"
-      ],
-      "openers": [
-        "Clarion"
       ]
     },
     {
@@ -537,7 +493,8 @@
         "Lunar Mistake"
       ],
       "openers": [
-        "Pateka"
+        "Pateka",
+        "steilacoom"
       ]
     },
     {
