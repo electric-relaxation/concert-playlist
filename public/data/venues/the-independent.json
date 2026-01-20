@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-20T17:24:37.762Z",
+  "generatedAtISO": "2026-01-20T18:28:32.708Z",
   "shows": [
     {
       "showId": "3eb7e33b",
@@ -717,6 +717,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Eliza McLamb"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "62f29320",
+      "dateISO": "2026-04-04",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/eggy-tapers-choice/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Eggy & Taper’s Choice"
       ],
       "openers": []
     },

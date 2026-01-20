@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-20T17:24:41.228Z",
+  "generatedAtISO": "2026-01-20T18:28:37.029Z",
   "shows": [
     {
       "showId": "280fe36b",
@@ -2413,6 +2413,19 @@
       "openers": [
         "Wolf Jett"
       ]
+    },
+    {
+      "showId": "62f29320",
+      "dateISO": "2026-04-04",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/eggy-tapers-choice/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Eggy & Taper’s Choice"
+      ],
+      "openers": []
     },
     {
       "showId": "8c7e3503",
