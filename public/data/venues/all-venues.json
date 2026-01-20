@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-20T18:28:37.029Z",
+  "generatedAtISO": "2026-01-20T20:08:17.022Z",
   "shows": [
     {
       "showId": "280fe36b",
@@ -1387,7 +1387,9 @@
       "headliners": [
         "Weval: CHOROPHOBIA – Album Release Tour"
       ],
-      "openers": []
+      "openers": [
+        "Digital KitKat"
+      ]
     },
     {
       "showId": "7f5f8956",
