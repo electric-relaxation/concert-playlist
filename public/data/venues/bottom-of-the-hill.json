@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-20T12:38:46.226Z",
+  "generatedAtISO": "2026-01-20T22:18:42.842Z",
   "shows": [
     {
       "showId": "280fe36b",
@@ -130,7 +130,8 @@
         "awakebutstillinbed"
       ],
       "openers": [
-        "máu"
+        "máu",
+        "shortstop"
       ]
     },
     {
