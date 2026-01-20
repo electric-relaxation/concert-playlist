@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-19T05:28:00.414Z",
+  "generatedAtISO": "2026-01-20T15:26:05.052Z",
   "shows": [
     {
       "showId": "4dfdb679",
@@ -654,6 +654,22 @@
       ],
       "openers": [
         "Mark Robinson sings Unrest"
+      ]
+    },
+    {
+      "showId": "3e85108e",
+      "dateISO": "2026-05-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/trauma-ray-glixen/677724?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "trauma ray, Glixen"
+      ],
+      "openers": [
+        "KEEP",
+        "Money"
       ]
     },
     {
