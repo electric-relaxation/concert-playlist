@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-19T22:16:45.973Z",
+  "generatedAtISO": "2026-01-20T12:38:46.226Z",
   "shows": [
     {
       "showId": "280fe36b",
@@ -392,6 +392,19 @@
         "Pity Party",
         "The Tammy Shine"
       ]
+    },
+    {
+      "showId": "828b8075",
+      "dateISO": "2026-03-03",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260303.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Witchcraft"
+      ],
+      "openers": []
     },
     {
       "showId": "ff61f534",

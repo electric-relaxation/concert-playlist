@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-20T05:25:05.236Z",
+  "generatedAtISO": "2026-01-20T12:38:49.861Z",
   "shows": [
     {
       "showId": "d70fada5",
@@ -1519,6 +1519,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "JUNNY: [null] Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "828b8075",
+      "dateISO": "2026-03-03",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260303.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Witchcraft"
       ],
       "openers": []
     },
