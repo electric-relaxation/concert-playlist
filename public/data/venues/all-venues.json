@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-01-19T22:16:49.362Z",
+  "generatedAtISO": "2026-01-20T05:25:05.236Z",
   "shows": [
-    {
-      "showId": "977746f6",
-      "dateISO": "2026-01-16",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-exile/674781?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "THE EXILE"
-      ],
-      "openers": [
-        "Sympathy Flowers",
-        "The Gallery"
-      ]
-    },
     {
       "showId": "d70fada5",
       "dateISO": "2026-01-16",
@@ -30,25 +14,6 @@
       ],
       "openers": [
         "Cheflee"
-      ]
-    },
-    {
-      "showId": "5f575214",
-      "dateISO": "2026-01-17",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco-vol-20/672928?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "NOW THAT'S WHAT I CALL ITALO DISCO Vol 20"
-      ],
-      "openers": [
-        "Colours 87",
-        "DJ Cira",
-        "DJ Playstation",
-        "FSQ",
-        "Maneuve"
       ]
     },
     {
@@ -872,7 +837,10 @@
       "headliners": [
         "CHERUB"
       ],
-      "openers": []
+      "openers": [
+        "Louis Futon",
+        "Sessy"
+      ]
     },
     {
       "showId": "3877cd48",
@@ -1244,7 +1212,6 @@
       ],
       "openers": [
         "DJ Zeljko",
-        "Deuce Eclipse",
         "Jill Parker"
       ]
     },
