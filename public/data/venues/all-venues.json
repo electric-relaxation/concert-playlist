@@ -1,36 +1,6 @@
 {
-  "generatedAtISO": "2026-01-20T15:26:08.281Z",
+  "generatedAtISO": "2026-01-20T17:24:41.228Z",
   "shows": [
-    {
-      "showId": "d70fada5",
-      "dateISO": "2026-01-16",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-seshen-rituals-of-mine/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Seshen & Rituals of Mine"
-      ],
-      "openers": [
-        "Cheflee"
-      ]
-    },
-    {
-      "showId": "1172c7f7",
-      "dateISO": "2026-01-17",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/lost-kings/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Lost Kings"
-      ],
-      "openers": [
-        "BAUM"
-      ]
-    },
     {
       "showId": "280fe36b",
       "dateISO": "2026-01-20",
@@ -2876,6 +2846,19 @@
       "openers": [
         "Jomie"
       ]
+    },
+    {
+      "showId": "875129b8",
+      "dateISO": "2026-05-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/wu-lyf/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "WU LYF"
+      ],
+      "openers": []
     },
     {
       "showId": "3e85108e",
