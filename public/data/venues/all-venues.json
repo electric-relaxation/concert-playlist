@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-21T20:25:47.688Z",
+  "generatedAtISO": "2026-01-21T21:23:57.235Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -2197,7 +2197,9 @@
       "headliners": [
         "The Motet"
       ],
-      "openers": []
+      "openers": [
+        "Michael Wilbur"
+      ]
     },
     {
       "showId": "a049edec",
