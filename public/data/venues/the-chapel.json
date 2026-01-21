@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-21T20:25:44.218Z",
+  "generatedAtISO": "2026-01-21T22:19:37.567Z",
   "shows": [
     {
       "showId": "4dfdb679",
@@ -610,7 +610,9 @@
       "headliners": [
         "Throwing Muses"
       ],
-      "openers": []
+      "openers": [
+        "Artsick"
+      ]
     },
     {
       "showId": "5925724a",

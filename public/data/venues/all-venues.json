@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-21T21:23:57.235Z",
+  "generatedAtISO": "2026-01-21T22:19:40.113Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -2680,7 +2680,9 @@
       "headliners": [
         "Throwing Muses"
       ],
-      "openers": []
+      "openers": [
+        "Artsick"
+      ]
     },
     {
       "showId": "47d83cc3",
