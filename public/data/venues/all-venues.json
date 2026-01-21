@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-01-20T22:18:46.440Z",
+  "generatedAtISO": "2026-01-21T11:20:16.727Z",
   "shows": [
-    {
-      "showId": "280fe36b",
-      "dateISO": "2026-01-20",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260120.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Rattlesnake Milk"
-      ],
-      "openers": [
-        "Hangtown",
-        "Sentimental Family Band"
-      ]
-    },
     {
       "showId": "fa645c8b",
       "dateISO": "2026-01-21",
@@ -1390,6 +1374,22 @@
       ],
       "openers": [
         "Digital KitKat"
+      ]
+    },
+    {
+      "showId": "d30305b1",
+      "dateISO": "2026-02-28",
+      "startTime": "3:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "https://www.bottomofthehill.com/calendar.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Illuminati Hotties"
+      ],
+      "openers": [
+        "Buzzed Lightbeer",
+        "Pity Party"
       ]
     },
     {
