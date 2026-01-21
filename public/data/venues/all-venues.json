@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-21T11:20:16.727Z",
+  "generatedAtISO": "2026-01-21T15:26:49.953Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -3003,6 +3003,19 @@
       "openers": [
         "Ducks Ltd."
       ]
+    },
+    {
+      "showId": "103ec367",
+      "dateISO": "2026-05-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sleaford-mods/674970?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Sleaford Mods"
+      ],
+      "openers": []
     },
     {
       "showId": "a345c344",

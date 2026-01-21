@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-20T15:26:05.052Z",
+  "generatedAtISO": "2026-01-21T15:26:45.811Z",
   "shows": [
     {
       "showId": "4dfdb679",
@@ -679,6 +679,19 @@
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/sleaford-mods/674593?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Sleaford Mods"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "103ec367",
+      "dateISO": "2026-05-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sleaford-mods/674970?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Sleaford Mods"
