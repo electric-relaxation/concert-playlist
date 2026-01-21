@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-20T20:08:13.253Z",
+  "generatedAtISO": "2026-01-21T18:35:50.411Z",
   "shows": [
     {
       "showId": "3eb7e33b",
@@ -534,6 +534,21 @@
       "openers": []
     },
     {
+      "showId": "d154cd4c",
+      "dateISO": "2026-03-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Dogma with special guest Frayle"
+      ],
+      "openers": [
+        "Frayle"
+      ]
+    },
+    {
       "showId": "d0da7cf8",
       "dateISO": "2026-03-18",
       "startTime": "8:00 PM",
@@ -931,6 +946,19 @@
       "openers": []
     },
     {
+      "showId": "0aa28a5e",
+      "dateISO": "2026-05-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/jensen-mcrae-god-has-a-hitman-tour/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Jensen McRae – God Has A Hitman Tour"
+      ],
+      "openers": []
+    },
+    {
       "showId": "376ed913",
       "dateISO": "2026-05-06",
       "startTime": "8:00 PM",
@@ -983,6 +1011,21 @@
         "Archive + JoyCut"
       ],
       "openers": []
+    },
+    {
+      "showId": "9db9e176",
+      "dateISO": "2026-05-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/robert-lester-folsom-with-special-guest-kassi-valazza/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Robert Lester Folsom with special guest Kassi Valazza"
+      ],
+      "openers": [
+        "Kassi Valazza"
+      ]
     },
     {
       "showId": "89e8d083",
