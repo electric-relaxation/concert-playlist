@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-21T18:35:54.337Z",
+  "generatedAtISO": "2026-01-21T20:25:47.688Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -1672,6 +1672,19 @@
       "openers": []
     },
     {
+      "showId": "31f17cf9",
+      "dateISO": "2026-03-07",
+      "startTime": "9:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/rockero-night/678333?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ROCKERO NIGHT"
+      ],
+      "openers": []
+    },
+    {
       "showId": "157bd98d",
       "dateISO": "2026-03-08",
       "startTime": "8:00 PM",
@@ -3225,10 +3238,10 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/osees/672239?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672239?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Osees"
+        "OSEES ft. Brigid Dawson"
       ],
       "openers": [
         "Traps PS"
@@ -3240,10 +3253,10 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/osees/672246?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672246?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Osees"
+        "OSEES ft. Brigid Dawson"
       ],
       "openers": [
         "Traps PS"
@@ -3255,10 +3268,10 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/osees/672247?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672247?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Osees"
+        "OSEES ft. Brigid Dawson"
       ],
       "openers": [
         "Traps PS"
@@ -3270,10 +3283,10 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/osees/672248?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672248?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Osees"
+        "OSEES ft. Brigid Dawson"
       ],
       "openers": [
         "Traps PS"

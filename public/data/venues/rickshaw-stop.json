@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-20T05:25:02.881Z",
+  "generatedAtISO": "2026-01-21T20:25:44.218Z",
   "shows": [
     {
       "showId": "b90e1a4f",
@@ -323,6 +323,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "Rogér Fakhr"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "31f17cf9",
+      "dateISO": "2026-03-07",
+      "startTime": "9:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/rockero-night/678333?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ROCKERO NIGHT"
       ],
       "openers": []
     },
