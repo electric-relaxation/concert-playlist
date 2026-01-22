@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-21T20:25:44.218Z",
+  "generatedAtISO": "2026-01-22T23:16:54.272Z",
   "shows": [
-    {
-      "showId": "b90e1a4f",
-      "dateISO": "2026-01-21",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/buzzed-lightbeer/672924?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BUZZED LIGHTBEER"
-      ],
-      "openers": [
-        "Spa",
-        "Starzdust"
-      ]
-    },
     {
       "showId": "61f84c5a",
       "dateISO": "2026-01-22",
@@ -78,10 +62,10 @@
       "startTime": "8:45 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/heat/674065?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/demora/674065?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "HEAT"
+        "DEMORA"
       ],
       "openers": [
         "HEAT",

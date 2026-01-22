@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-22T20:21:01.924Z",
+  "generatedAtISO": "2026-01-22T23:16:58.137Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -15,22 +15,6 @@
       "openers": [
         "Jim Ward",
         "Rony"
-      ]
-    },
-    {
-      "showId": "b90e1a4f",
-      "dateISO": "2026-01-21",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/buzzed-lightbeer/672924?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BUZZED LIGHTBEER"
-      ],
-      "openers": [
-        "Spa",
-        "Starzdust"
       ]
     },
     {
@@ -328,10 +312,10 @@
       "startTime": "8:45 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/heat/674065?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/demora/674065?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "HEAT"
+        "DEMORA"
       ],
       "openers": [
         "HEAT",
@@ -2641,6 +2625,19 @@
         "Sha Ray",
         "Wolf Langis"
       ]
+    },
+    {
+      "showId": "60d680cf",
+      "dateISO": "2026-04-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/drugdealer/678778?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Drugdealer"
+      ],
+      "openers": []
     },
     {
       "showId": "56cf4207",
