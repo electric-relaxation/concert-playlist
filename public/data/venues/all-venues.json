@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-22T19:21:01.520Z",
+  "generatedAtISO": "2026-01-22T20:21:01.924Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -1755,6 +1755,23 @@
         "Witchz"
       ],
       "openers": []
+    },
+    {
+      "showId": "e8145c24",
+      "dateISO": "2026-03-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/love-with-johnny-echols/678701?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "LOVE"
+      ],
+      "openers": [
+        "DJ Walkin' Love",
+        "Light Show by Ether Wave",
+        "Rain Parade"
+      ]
     },
     {
       "showId": "0b77b835",
