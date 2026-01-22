@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-21T22:19:40.113Z",
+  "generatedAtISO": "2026-01-22T01:19:36.384Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -836,7 +836,10 @@
       "headliners": [
         "Yawning Man"
       ],
-      "openers": []
+      "openers": [
+        "Agouti",
+        "Niveles"
+      ]
     },
     {
       "showId": "09e32eb5",
@@ -1850,7 +1853,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Dogma with special guest Frayle"
+        "Dogma"
       ],
       "openers": [
         "Frayle"

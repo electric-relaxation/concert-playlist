@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-21T11:20:12.967Z",
+  "generatedAtISO": "2026-01-22T01:19:33.206Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -224,7 +224,10 @@
       "headliners": [
         "Yawning Man"
       ],
-      "openers": []
+      "openers": [
+        "Agouti",
+        "Niveles"
+      ]
     },
     {
       "showId": "09e32eb5",
