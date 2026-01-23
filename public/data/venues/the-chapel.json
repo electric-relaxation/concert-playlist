@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-22T23:16:54.272Z",
+  "generatedAtISO": "2026-01-23T01:17:30.334Z",
   "shows": [
     {
       "showId": "4dfdb679",
@@ -32,7 +32,9 @@
       "headliners": [
         "Soul Brass Band"
       ],
-      "openers": []
+      "openers": [
+        "DJ Shama Lama"
+      ]
     },
     {
       "showId": "0cd55ecc",
