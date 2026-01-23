@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-22T19:20:57.826Z",
+  "generatedAtISO": "2026-01-23T15:20:36.295Z",
   "shows": [
     {
       "showId": "3eb7e33b",
@@ -504,6 +504,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Witchz"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "aafc15df",
+      "dateISO": "2026-03-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/greek/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "greek"
       ],
       "openers": []
     },

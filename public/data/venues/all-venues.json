@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-23T01:17:34.119Z",
+  "generatedAtISO": "2026-01-23T15:20:39.935Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -1758,6 +1758,19 @@
         "Light Show by Ether Wave",
         "Rain Parade"
       ]
+    },
+    {
+      "showId": "aafc15df",
+      "dateISO": "2026-03-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/greek/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "greek"
+      ],
+      "openers": []
     },
     {
       "showId": "0b77b835",
