@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-23T17:22:35.609Z",
+  "generatedAtISO": "2026-01-23T19:21:10.689Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -46,22 +46,6 @@
       ],
       "openers": [
         "The Lodestones"
-      ]
-    },
-    {
-      "showId": "61f84c5a",
-      "dateISO": "2026-01-22",
-      "startTime": "8:15 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/gumbys-junk/672929?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "GUMBY'S JUNK"
-      ],
-      "openers": [
-        "Inner Ear Brigade",
-        "Rip Room"
       ]
     },
     {
@@ -475,7 +459,9 @@
       "headliners": [
         "EMO NITE"
       ],
-      "openers": []
+      "openers": [
+        "Frank Zummo"
+      ]
     },
     {
       "showId": "7a2a95f5",
@@ -1468,7 +1454,7 @@
       ],
       "openers": [
         "Clarion",
-        "Killgurls"
+        "the jewelry"
       ]
     },
     {

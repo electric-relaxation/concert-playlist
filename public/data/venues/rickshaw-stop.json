@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-22T23:16:54.272Z",
+  "generatedAtISO": "2026-01-23T19:21:07.224Z",
   "shows": [
-    {
-      "showId": "61f84c5a",
-      "dateISO": "2026-01-22",
-      "startTime": "8:15 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/gumbys-junk/672929?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "GUMBY'S JUNK"
-      ],
-      "openers": [
-        "Inner Ear Brigade",
-        "Rip Room"
-      ]
-    },
     {
       "showId": "b0b39e8c",
       "dateISO": "2026-01-23",
@@ -117,7 +101,9 @@
       "headliners": [
         "EMO NITE"
       ],
-      "openers": []
+      "openers": [
+        "Frank Zummo"
+      ]
     },
     {
       "showId": "5a69d0e5",
