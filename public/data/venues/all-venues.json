@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-23T15:20:39.935Z",
+  "generatedAtISO": "2026-01-23T17:22:35.609Z",
   "shows": [
     {
       "showId": "fa645c8b",
@@ -3203,6 +3203,21 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Searows"
+      ],
+      "openers": [
+        "Mori"
+      ]
+    },
+    {
+      "showId": "752a0210",
+      "dateISO": "2026-06-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/searows-second-show-added-by-popular-demand/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Searows – Second Show Added by Popular Demand!"
       ],
       "openers": [
         "Mori"
