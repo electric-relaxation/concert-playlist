@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-23T01:17:30.334Z",
+  "generatedAtISO": "2026-01-24T03:23:02.556Z",
   "shows": [
-    {
-      "showId": "4dfdb679",
-      "dateISO": "2026-01-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/wand/673211?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "WAND"
-      ],
-      "openers": [
-        "The Lodestones"
-      ]
-    },
     {
       "showId": "228fc6c4",
       "dateISO": "2026-01-23",
@@ -525,7 +510,9 @@
       "headliners": [
         "The Third Mind"
       ],
-      "openers": []
+      "openers": [
+        "Mad Alchemy Liquid Light Show"
+      ]
     },
     {
       "showId": "24abd8de",
