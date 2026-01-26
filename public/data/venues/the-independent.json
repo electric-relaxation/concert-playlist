@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-26T16:27:51.062Z",
+  "generatedAtISO": "2026-01-26T20:20:40.327Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -557,7 +557,9 @@
       "headliners": [
         "Parlor Greens"
       ],
-      "openers": []
+      "openers": [
+        "Prophet Martian"
+      ]
     },
     {
       "showId": "cd2a85e7",

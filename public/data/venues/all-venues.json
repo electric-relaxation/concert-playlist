@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-26T19:19:55.576Z",
+  "generatedAtISO": "2026-01-26T20:20:43.596Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -1737,7 +1737,9 @@
       "headliners": [
         "Parlor Greens"
       ],
-      "openers": []
+      "openers": [
+        "Prophet Martian"
+      ]
     },
     {
       "showId": "24e6af9d",
