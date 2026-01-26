@@ -4,42 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-23T19:21:07.224Z",
+  "generatedAtISO": "2026-01-26T19:19:51.777Z",
   "shows": [
-    {
-      "showId": "b0b39e8c",
-      "dateISO": "2026-01-23",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/dutch-interior/674231?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "DUTCH INTERIOR"
-      ],
-      "openers": [
-        "Double Helix Peace Treaty",
-        "Poor Image",
-        "Trinity Ace"
-      ]
-    },
-    {
-      "showId": "4741b716",
-      "dateISO": "2026-01-24",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/small-crush/674232?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SMALL CRUSH"
-      ],
-      "openers": [
-        "Badvril",
-        "Lucky",
-        "The Online Company"
-      ]
-    },
     {
       "showId": "988e2a63",
       "dateISO": "2026-01-28",
@@ -323,6 +289,19 @@
       "openers": [
         "A Night of Party Boy Anthems"
       ]
+    },
+    {
+      "showId": "3b9a6ec4",
+      "dateISO": "2026-03-14",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/disco-always-a-harry-styles-dance-night/679028?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DISCO, ALWAYS: A HARRY STYLES DANCE NIGHT"
+      ],
+      "openers": []
     },
     {
       "showId": "c8d4fdba",
