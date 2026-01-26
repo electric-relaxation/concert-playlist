@@ -4,49 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-23T19:21:07.224Z",
+  "generatedAtISO": "2026-01-26T15:24:11.126Z",
   "shows": [
-    {
-      "showId": "3eb7e33b",
-      "dateISO": "2026-01-23",
-      "startTime": "6:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Earlybirds Club"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "fedda228",
-      "dateISO": "2026-01-24",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/austra/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Austra"
-      ],
-      "openers": [
-        "Colin Self"
-      ]
-    },
-    {
-      "showId": "d8d3a4ce",
-      "dateISO": "2026-01-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/whitney-hanson/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Whitney Hanson"
-      ],
-      "openers": []
-    },
     {
       "showId": "308d36cf",
       "dateISO": "2026-01-27",
@@ -851,6 +810,19 @@
       "openers": [
         "Freak Slug"
       ]
+    },
+    {
+      "showId": "66993bde",
+      "dateISO": "2026-04-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/hasan-raheem/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Hasan Raheem"
+      ],
+      "openers": []
     },
     {
       "showId": "f3d045c5",

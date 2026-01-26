@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-01-26T10:21:33.595Z",
+  "generatedAtISO": "2026-01-26T15:24:15.191Z",
   "shows": [
-    {
-      "showId": "3eb7e33b",
-      "dateISO": "2026-01-23",
-      "startTime": "6:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Earlybirds Club"
-      ],
-      "openers": []
-    },
     {
       "showId": "b0b39e8c",
       "dateISO": "2026-01-23",
@@ -32,21 +19,6 @@
       ]
     },
     {
-      "showId": "228fc6c4",
-      "dateISO": "2026-01-23",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/soul-brass-band/667795?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Soul Brass Band"
-      ],
-      "openers": [
-        "DJ Shama Lama"
-      ]
-    },
-    {
       "showId": "4741b716",
       "dateISO": "2026-01-24",
       "startTime": "8:00 PM",
@@ -62,65 +34,6 @@
         "Lucky",
         "The Online Company"
       ]
-    },
-    {
-      "showId": "0cd55ecc",
-      "dateISO": "2026-01-24",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-fleetwood-mask/668268?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Fleetwood Mask"
-      ]
-    },
-    {
-      "showId": "fedda228",
-      "dateISO": "2026-01-24",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/austra/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Austra"
-      ],
-      "openers": [
-        "Colin Self"
-      ]
-    },
-    {
-      "showId": "605238f3",
-      "dateISO": "2026-01-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/seahaven/668777?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Seahaven"
-      ],
-      "openers": [
-        "Commoner",
-        "GARZI"
-      ]
-    },
-    {
-      "showId": "d8d3a4ce",
-      "dateISO": "2026-01-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/whitney-hanson/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Whitney Hanson"
-      ],
-      "openers": []
     },
     {
       "showId": "308d36cf",
@@ -2599,6 +2512,19 @@
       ]
     },
     {
+      "showId": "66993bde",
+      "dateISO": "2026-04-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/hasan-raheem/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Hasan Raheem"
+      ],
+      "openers": []
+    },
+    {
       "showId": "85843125",
       "dateISO": "2026-04-17",
       "startTime": "9:00 PM",
@@ -2795,6 +2721,21 @@
         "Claire Rosinkranz"
       ],
       "openers": []
+    },
+    {
+      "showId": "2bd4d254",
+      "dateISO": "2026-05-02",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/king-tuff/678908?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "King Tuff"
+      ],
+      "openers": [
+        "Gabriel Bernini"
+      ]
     },
     {
       "showId": "01a15fd9",

@@ -4,54 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-24T03:23:02.556Z",
+  "generatedAtISO": "2026-01-26T15:24:11.126Z",
   "shows": [
-    {
-      "showId": "228fc6c4",
-      "dateISO": "2026-01-23",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/soul-brass-band/667795?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Soul Brass Band"
-      ],
-      "openers": [
-        "DJ Shama Lama"
-      ]
-    },
-    {
-      "showId": "0cd55ecc",
-      "dateISO": "2026-01-24",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-fleetwood-mask/668268?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Fleetwood Mask"
-      ]
-    },
-    {
-      "showId": "605238f3",
-      "dateISO": "2026-01-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/seahaven/668777?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Seahaven"
-      ],
-      "openers": [
-        "Commoner",
-        "GARZI"
-      ]
-    },
     {
       "showId": "84d2dba6",
       "dateISO": "2026-01-28",
@@ -675,6 +629,21 @@
       ],
       "openers": [
         "Mark Robinson sings Unrest"
+      ]
+    },
+    {
+      "showId": "2bd4d254",
+      "dateISO": "2026-05-02",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/king-tuff/678908?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "King Tuff"
+      ],
+      "openers": [
+        "Gabriel Bernini"
       ]
     },
     {
