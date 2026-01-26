@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-26T20:20:43.596Z",
+  "generatedAtISO": "2026-01-26T22:17:31.252Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -2644,7 +2644,9 @@
       "headliners": [
         "Depresión Sonora"
       ],
-      "openers": []
+      "openers": [
+        "Still Ruins"
+      ]
     },
     {
       "showId": "1bbd4133",

@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-26T19:19:51.777Z",
+  "generatedAtISO": "2026-01-26T22:17:27.637Z",
   "shows": [
     {
       "showId": "84d2dba6",
@@ -626,7 +626,9 @@
       "headliners": [
         "Depresión Sonora"
       ],
-      "openers": []
+      "openers": [
+        "Still Ruins"
+      ]
     },
     {
       "showId": "6cc290eb",
