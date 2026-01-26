@@ -4,88 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-22T01:19:33.206Z",
+  "generatedAtISO": "2026-01-26T10:21:31.162Z",
   "shows": [
-    {
-      "showId": "fa645c8b",
-      "dateISO": "2026-01-21",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260121.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "William Elliott Whitmore"
-      ],
-      "openers": [
-        "Jim Ward",
-        "Rony"
-      ]
-    },
-    {
-      "showId": "99ec0373",
-      "dateISO": "2026-01-22",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260122.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "A-1"
-      ],
-      "openers": [
-        "Don't Ask",
-        "Never Bored"
-      ]
-    },
-    {
-      "showId": "555abdc1",
-      "dateISO": "2026-01-23",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260123.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Neon Ships"
-      ],
-      "openers": [
-        "Flight of Ulysses",
-        "The DisRespectors"
-      ]
-    },
-    {
-      "showId": "97977ef9",
-      "dateISO": "2026-01-24",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260124.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Weakened Friends"
-      ],
-      "openers": [
-        "Pacing",
-        "Pocket Full Of Crumbs"
-      ]
-    },
-    {
-      "showId": "5d17069b",
-      "dateISO": "2026-01-25",
-      "startTime": "3:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260125.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Mammatus"
-      ],
-      "openers": [
-        "Haardvark",
-        "Owl"
-      ]
-    },
     {
       "showId": "610230a1",
       "dateISO": "2026-01-27",
@@ -347,7 +267,9 @@
       "headliners": [
         "Carpool Tunnel"
       ],
-      "openers": []
+      "openers": [
+        "Small Crush"
+      ]
     },
     {
       "showId": "9aa099de",
@@ -692,7 +614,9 @@
       "headliners": [
         "Slomosa"
       ],
-      "openers": []
+      "openers": [
+        "The Mainliners"
+      ]
     },
     {
       "showId": "bbf97a85",
