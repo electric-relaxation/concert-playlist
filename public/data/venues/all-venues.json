@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-26T15:24:15.191Z",
+  "generatedAtISO": "2026-01-26T16:27:53.829Z",
   "shows": [
     {
       "showId": "b0b39e8c",
@@ -3059,6 +3059,21 @@
       ],
       "openers": [
         "Mori"
+      ]
+    },
+    {
+      "showId": "f2b6f4fd",
+      "dateISO": "2026-06-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/em-beihold/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Em Beihold"
+      ],
+      "openers": [
+        "Janani K. Jha"
       ]
     },
     {
