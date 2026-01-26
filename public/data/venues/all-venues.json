@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-26T16:27:53.829Z",
+  "generatedAtISO": "2026-01-26T18:27:59.311Z",
   "shows": [
     {
       "showId": "b0b39e8c",
@@ -428,6 +428,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d6858497",
+      "dateISO": "2026-02-06",
+      "startTime": "10:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dave-chappelle/678920?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dave Chappelle"
       ],
       "openers": []
     },
