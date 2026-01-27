@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-26T19:19:51.777Z",
+  "generatedAtISO": "2026-01-27T03:43:41.947Z",
   "shows": [
     {
       "showId": "988e2a63",
@@ -169,6 +169,22 @@
         "BLOOD CULTURES"
       ],
       "openers": []
+    },
+    {
+      "showId": "23636fcc",
+      "dateISO": "2026-02-17",
+      "startTime": "7:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/locs-only-with-mutt/679201?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "LOCS ONLY with M.U.T.T."
+      ],
+      "openers": [
+        "Sloch",
+        "Yo! & the Electric"
+      ]
     },
     {
       "showId": "8db14990",

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-26T22:17:31.252Z",
+  "generatedAtISO": "2026-01-27T03:43:45.478Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -754,6 +754,22 @@
       "openers": [
         "Buzz Kull",
         "Rosa Anschütz"
+      ]
+    },
+    {
+      "showId": "23636fcc",
+      "dateISO": "2026-02-17",
+      "startTime": "7:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/locs-only-with-mutt/679201?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "LOCS ONLY with M.U.T.T."
+      ],
+      "openers": [
+        "Sloch",
+        "Yo! & the Electric"
       ]
     },
     {
