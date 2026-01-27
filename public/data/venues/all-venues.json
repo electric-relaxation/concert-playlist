@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-27T21:14:04.267Z",
+  "generatedAtISO": "2026-01-27T22:18:37.801Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -2616,9 +2616,7 @@
       "headliners": [
         "Throwing Muses"
       ],
-      "openers": [
-        "NOW"
-      ]
+      "openers": []
     },
     {
       "showId": "f3d045c5",
@@ -2678,6 +2676,22 @@
       ]
     },
     {
+      "showId": "3fb9bd97",
+      "dateISO": "2026-04-24",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/phoneboy-with-heart-attack-man/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Phoneboy with Heart Attack Man"
+      ],
+      "openers": [
+        "Heart Attack Man",
+        "Pony"
+      ]
+    },
+    {
       "showId": "4ab966a2",
       "dateISO": "2026-04-24",
       "startTime": "9:00 PM",
@@ -2706,22 +2720,6 @@
       "openers": [
         "Bestial Mouths",
         "DJ Aaron Axelsen (Popscene)"
-      ]
-    },
-    {
-      "showId": "3fb9bd97",
-      "dateISO": "2026-04-24",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/phoneboy-with-heart-attack-man/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Phoneboy with Heart Attack Man"
-      ],
-      "openers": [
-        "Heart Attack Man",
-        "Pony"
       ]
     },
     {

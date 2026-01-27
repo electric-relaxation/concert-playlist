@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-27T18:32:48.942Z",
+  "generatedAtISO": "2026-01-27T22:18:34.439Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -883,7 +883,7 @@
     {
       "showId": "3fb9bd97",
       "dateISO": "2026-04-24",
-      "startTime": "9:00 PM",
+      "startTime": "8:00 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/phoneboy-with-heart-attack-man/",
