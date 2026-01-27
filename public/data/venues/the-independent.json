@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-27T22:18:34.439Z",
+  "generatedAtISO": "2026-01-27T23:17:22.356Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -892,8 +892,8 @@
         "Phoneboy with Heart Attack Man"
       ],
       "openers": [
-        "Heart Attack Man",
-        "Pony"
+        "Pony",
+        "Slow Joy"
       ]
     },
     {
@@ -1015,7 +1015,9 @@
       "headliners": [
         "Sports"
       ],
-      "openers": []
+      "openers": [
+        "Ally Evenson"
+      ]
     },
     {
       "showId": "454c83c9",

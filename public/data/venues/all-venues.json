@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-27T22:18:37.801Z",
+  "generatedAtISO": "2026-01-27T23:17:26.026Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -814,7 +814,9 @@
       "headliners": [
         "Don Carlos"
       ],
-      "openers": []
+      "openers": [
+        "Floratura"
+      ]
     },
     {
       "showId": "8db14990",
@@ -2687,8 +2689,8 @@
         "Phoneboy with Heart Attack Man"
       ],
       "openers": [
-        "Heart Attack Man",
-        "Pony"
+        "Pony",
+        "Slow Joy"
       ]
     },
     {
@@ -2943,7 +2945,9 @@
       "headliners": [
         "Sports"
       ],
-      "openers": []
+      "openers": [
+        "Ally Evenson"
+      ]
     },
     {
       "showId": "454c83c9",

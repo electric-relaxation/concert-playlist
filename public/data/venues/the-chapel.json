@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-27T22:18:34.439Z",
+  "generatedAtISO": "2026-01-27T23:17:22.356Z",
   "shows": [
     {
       "showId": "84d2dba6",
@@ -219,7 +219,9 @@
       "headliners": [
         "Don Carlos"
       ],
-      "openers": []
+      "openers": [
+        "Floratura"
+      ]
     },
     {
       "showId": "b45e95c0",
