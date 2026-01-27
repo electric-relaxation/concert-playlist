@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-26T22:17:27.637Z",
+  "generatedAtISO": "2026-01-27T18:32:48.942Z",
   "shows": [
     {
       "showId": "84d2dba6",
@@ -450,6 +450,19 @@
       ]
     },
     {
+      "showId": "bbfb8c0a",
+      "dateISO": "2026-03-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/trish-toledo/678935?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Trish Toledo"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c4ab79e0",
       "dateISO": "2026-03-20",
       "startTime": "9:00 PM",
@@ -522,7 +535,9 @@
       "headliners": [
         "Go Kurosawa (of Kikagaku Moyo)"
       ],
-      "openers": []
+      "openers": [
+        "Lael Neale"
+      ]
     },
     {
       "showId": "4d2ec20e",

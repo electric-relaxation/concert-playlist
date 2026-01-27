@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-27T15:26:13.796Z",
+  "generatedAtISO": "2026-01-27T18:32:48.942Z",
   "shows": [
     {
       "showId": "988e2a63",
@@ -424,6 +424,19 @@
       ]
     },
     {
+      "showId": "6041e51e",
+      "dateISO": "2026-04-02",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/this-party-is-killing-you-the-robyn-party/679152?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "This Party Is Killing You!: The Robyn Party"
+      ],
+      "openers": []
+    },
+    {
       "showId": "299d8941",
       "dateISO": "2026-04-03",
       "startTime": "9:00 PM",
@@ -508,6 +521,21 @@
       ],
       "openers": [
         "Litronix"
+      ]
+    },
+    {
+      "showId": "809acb64",
+      "dateISO": "2026-05-01",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/ford/679017?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ford."
+      ],
+      "openers": [
+        "plus special guest"
       ]
     },
     {

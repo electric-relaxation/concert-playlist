@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-27T15:26:16.311Z",
+  "generatedAtISO": "2026-01-27T18:32:58.240Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -1717,6 +1717,19 @@
       "openers": []
     },
     {
+      "showId": "bbfb8c0a",
+      "dateISO": "2026-03-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/trish-toledo/678935?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Trish Toledo"
+      ],
+      "openers": []
+    },
+    {
       "showId": "59b5070a",
       "dateISO": "2026-03-19",
       "startTime": "8:00 PM",
@@ -2171,6 +2184,19 @@
       "openers": []
     },
     {
+      "showId": "6041e51e",
+      "dateISO": "2026-04-02",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/this-party-is-killing-you-the-robyn-party/679152?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "This Party Is Killing You!: The Robyn Party"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c9bae81c",
       "dateISO": "2026-04-02",
       "startTime": "8:00 PM",
@@ -2181,7 +2207,9 @@
       "headliners": [
         "Go Kurosawa (of Kikagaku Moyo)"
       ],
-      "openers": []
+      "openers": [
+        "Lael Neale"
+      ]
     },
     {
       "showId": "fd53e3a4",
@@ -2766,6 +2794,21 @@
       "openers": []
     },
     {
+      "showId": "809acb64",
+      "dateISO": "2026-05-01",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/ford/679017?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ford."
+      ],
+      "openers": [
+        "plus special guest"
+      ]
+    },
+    {
       "showId": "69c019b2",
       "dateISO": "2026-05-01",
       "startTime": "9:00 PM",
@@ -3155,6 +3198,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Ásgeir"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f59d0cfe",
+      "dateISO": "2026-06-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mamas-gun/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mamas Gun"
       ],
       "openers": []
     },

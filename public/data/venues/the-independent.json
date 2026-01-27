@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-27T15:26:13.796Z",
+  "generatedAtISO": "2026-01-27T18:32:48.942Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -1145,6 +1145,19 @@
       "openers": [
         "Janani K. Jha"
       ]
+    },
+    {
+      "showId": "f59d0cfe",
+      "dateISO": "2026-06-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mamas-gun/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mamas Gun"
+      ],
+      "openers": []
     },
     {
       "showId": "b4332818",
