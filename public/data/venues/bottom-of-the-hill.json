@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-26T10:21:31.162Z",
+  "generatedAtISO": "2026-01-27T12:37:35.445Z",
   "shows": [
     {
       "showId": "610230a1",
@@ -665,6 +665,22 @@
       "openers": [
         "Black Guy Fawkes",
         "Rudy Nuño & The Broadcasters"
+      ]
+    },
+    {
+      "showId": "22b92afb",
+      "dateISO": "2026-04-23",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260423.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Evolfo"
+      ],
+      "openers": [
+        "Grooblen",
+        "Hot Brother"
       ]
     },
     {

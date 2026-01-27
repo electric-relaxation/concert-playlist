@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-27T03:43:45.478Z",
+  "generatedAtISO": "2026-01-27T12:37:38.102Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -2604,6 +2604,22 @@
         "Skizzy Mars"
       ],
       "openers": []
+    },
+    {
+      "showId": "22b92afb",
+      "dateISO": "2026-04-23",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260423.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Evolfo"
+      ],
+      "openers": [
+        "Grooblen",
+        "Hot Brother"
+      ]
     },
     {
       "showId": "4ab966a2",
