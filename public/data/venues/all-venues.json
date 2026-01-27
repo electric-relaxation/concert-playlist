@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-27T12:37:38.102Z",
+  "generatedAtISO": "2026-01-27T15:26:16.311Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -2372,6 +2372,19 @@
       ]
     },
     {
+      "showId": "809e361b",
+      "dateISO": "2026-04-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-casualties/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Casualties"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c116889d",
       "dateISO": "2026-04-10",
       "startTime": "9:00 PM",
@@ -2653,6 +2666,22 @@
       ]
     },
     {
+      "showId": "3fb9bd97",
+      "dateISO": "2026-04-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/phoneboy-with-heart-attack-man/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Phoneboy with Heart Attack Man"
+      ],
+      "openers": [
+        "Heart Attack Man",
+        "Pony"
+      ]
+    },
+    {
       "showId": "2edec91e",
       "dateISO": "2026-04-26",
       "startTime": "8:00 PM",
@@ -2746,6 +2775,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Claire Rosinkranz"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "69fb05cd",
+      "dateISO": "2026-05-02",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/adult/678625?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ADULT."
       ],
       "openers": []
     },

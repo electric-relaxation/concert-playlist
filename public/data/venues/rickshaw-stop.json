@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-27T03:43:41.947Z",
+  "generatedAtISO": "2026-01-27T15:26:13.796Z",
   "shows": [
     {
       "showId": "988e2a63",
@@ -509,6 +509,19 @@
       "openers": [
         "Litronix"
       ]
+    },
+    {
+      "showId": "69fb05cd",
+      "dateISO": "2026-05-02",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/adult/678625?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ADULT."
+      ],
+      "openers": []
     },
     {
       "showId": "cb110479",

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-26T20:20:40.327Z",
+  "generatedAtISO": "2026-01-27T15:26:13.796Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -742,6 +742,19 @@
       ]
     },
     {
+      "showId": "809e361b",
+      "dateISO": "2026-04-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-casualties/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Casualties"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c116889d",
       "dateISO": "2026-04-10",
       "startTime": "9:00 PM",
@@ -866,6 +879,22 @@
         "Skizzy Mars"
       ],
       "openers": []
+    },
+    {
+      "showId": "3fb9bd97",
+      "dateISO": "2026-04-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/phoneboy-with-heart-attack-man/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Phoneboy with Heart Attack Man"
+      ],
+      "openers": [
+        "Heart Attack Man",
+        "Pony"
+      ]
     },
     {
       "showId": "2edec91e",
