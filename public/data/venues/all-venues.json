@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-01-28T11:19:35.378Z",
+  "generatedAtISO": "2026-01-28T17:28:18.363Z",
   "shows": [
-    {
-      "showId": "308d36cf",
-      "dateISO": "2026-01-27",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/yseult/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Yseult"
-      ],
-      "openers": []
-    },
     {
       "showId": "123ac7e9",
       "dateISO": "2026-01-28",
@@ -3273,6 +3260,19 @@
       "openers": [
         "Tele Novella"
       ]
+    },
+    {
+      "showId": "ad2a0537",
+      "dateISO": "2026-07-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/high-fade/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "High Fade"
+      ],
+      "openers": []
     },
     {
       "showId": "8423c8c9",
