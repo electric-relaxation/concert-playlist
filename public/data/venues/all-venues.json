@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-28T17:28:18.363Z",
+  "generatedAtISO": "2026-01-28T18:30:53.649Z",
   "shows": [
     {
       "showId": "123ac7e9",
@@ -1647,6 +1647,21 @@
       "openers": []
     },
     {
+      "showId": "01140340",
+      "dateISO": "2026-03-15",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/moving-mountains/679196?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Moving Mountains"
+      ],
+      "openers": [
+        "Special Guests"
+      ]
+    },
+    {
       "showId": "d154cd4c",
       "dateISO": "2026-03-17",
       "startTime": "8:00 PM",
@@ -2400,6 +2415,23 @@
         "The Casualties"
       ],
       "openers": []
+    },
+    {
+      "showId": "0fcceb40",
+      "dateISO": "2026-04-10",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/a-tribute-to-prince-and-bowie/679029?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "A TRIBUTE TO PRINCE & BOWIE"
+      ],
+      "openers": [
+        "CONTROVERSY",
+        "Meikee Magnetic",
+        "QUEEN BITCH"
+      ]
     },
     {
       "showId": "c116889d",

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-27T18:32:48.942Z",
+  "generatedAtISO": "2026-01-28T18:30:51.055Z",
   "shows": [
     {
       "showId": "988e2a63",
@@ -320,6 +320,21 @@
       "openers": []
     },
     {
+      "showId": "01140340",
+      "dateISO": "2026-03-15",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/moving-mountains/679196?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Moving Mountains"
+      ],
+      "openers": [
+        "Special Guests"
+      ]
+    },
+    {
       "showId": "c8d4fdba",
       "dateISO": "2026-03-21",
       "startTime": "7:45 PM",
@@ -491,6 +506,23 @@
         "ULRIKA SPACEK"
       ],
       "openers": []
+    },
+    {
+      "showId": "0fcceb40",
+      "dateISO": "2026-04-10",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/a-tribute-to-prince-and-bowie/679029?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "A TRIBUTE TO PRINCE & BOWIE"
+      ],
+      "openers": [
+        "CONTROVERSY",
+        "Meikee Magnetic",
+        "QUEEN BITCH"
+      ]
     },
     {
       "showId": "47d83cc3",
