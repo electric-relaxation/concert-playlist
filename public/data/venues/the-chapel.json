@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-28T20:24:01.014Z",
+  "generatedAtISO": "2026-01-28T23:21:37.300Z",
   "shows": [
     {
       "showId": "84d2dba6",
@@ -99,10 +99,10 @@
       "startTime": "3:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-super-bowl-at-curio/679419?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/super-bowl-watch-party-at-curio/679419?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch the Super Bowl at Curio"
+        "Super Bowl Watch Party at Curio"
       ],
       "openers": []
     },

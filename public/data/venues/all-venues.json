@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-28T21:25:20.711Z",
+  "generatedAtISO": "2026-01-28T23:21:39.438Z",
   "shows": [
     {
       "showId": "123ac7e9",
@@ -371,6 +371,21 @@
       "openers": []
     },
     {
+      "showId": "cf408da4",
+      "dateISO": "2026-02-05",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260205.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "The Five Highs"
+      ],
+      "openers": [
+        "The Genie"
+      ]
+    },
+    {
       "showId": "d6858497",
       "dateISO": "2026-02-06",
       "startTime": "10:00 PM",
@@ -458,10 +473,10 @@
       "startTime": "3:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-super-bowl-at-curio/679419?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/super-bowl-watch-party-at-curio/679419?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch the Super Bowl at Curio"
+        "Super Bowl Watch Party at Curio"
       ],
       "openers": []
     },

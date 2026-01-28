@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-28T11:19:32.324Z",
+  "generatedAtISO": "2026-01-28T23:21:37.300Z",
   "shows": [
     {
       "showId": "123ac7e9",
@@ -84,6 +84,21 @@
       "openers": [
         "Dusted Angel",
         "KIM"
+      ]
+    },
+    {
+      "showId": "cf408da4",
+      "dateISO": "2026-02-05",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260205.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "The Five Highs"
+      ],
+      "openers": [
+        "The Genie"
       ]
     },
     {
