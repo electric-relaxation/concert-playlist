@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-27T23:17:26.026Z",
+  "generatedAtISO": "2026-01-28T11:19:35.378Z",
   "shows": [
     {
       "showId": "308d36cf",
@@ -13,22 +13,6 @@
         "Yseult"
       ],
       "openers": []
-    },
-    {
-      "showId": "610230a1",
-      "dateISO": "2026-01-27",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260127.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Kayo Dot"
-      ],
-      "openers": [
-        "Ion",
-        "Xasthur"
-      ]
     },
     {
       "showId": "123ac7e9",
@@ -1691,6 +1675,22 @@
       ]
     },
     {
+      "showId": "04dfab6b",
+      "dateISO": "2026-03-18",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260318.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Milly"
+      ],
+      "openers": [
+        "Kan Kan",
+        "Pocket Full of Crumbs"
+      ]
+    },
+    {
       "showId": "bdc0d6ba",
       "dateISO": "2026-03-18",
       "startTime": "8:00 PM",
@@ -2725,6 +2725,21 @@
       ]
     },
     {
+      "showId": "3c1cf51b",
+      "dateISO": "2026-04-25",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260425.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "El Ten Eleven"
+      ],
+      "openers": [
+        "Misandrist"
+      ]
+    },
+    {
       "showId": "2edec91e",
       "dateISO": "2026-04-26",
       "startTime": "8:00 PM",
@@ -3114,6 +3129,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Rose Gray"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3faceab8",
+      "dateISO": "2026-05-27",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260527.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Accessory"
       ],
       "openers": []
     },
