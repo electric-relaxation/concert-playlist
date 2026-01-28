@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-27T23:17:22.356Z",
+  "generatedAtISO": "2026-01-28T20:24:01.014Z",
   "shows": [
     {
       "showId": "84d2dba6",
@@ -90,6 +90,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Dave Chappelle"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "050ecbaf",
+      "dateISO": "2026-02-08",
+      "startTime": "3:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-the-super-bowl-at-curio/679419?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch the Super Bowl at Curio"
       ],
       "openers": []
     },
