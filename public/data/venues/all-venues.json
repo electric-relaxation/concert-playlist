@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-29T19:26:43.955Z",
+  "generatedAtISO": "2026-01-29T20:24:14.671Z",
   "shows": [
     {
       "showId": "8ee3e005",
@@ -748,13 +748,13 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-rebirth-brass-brand/669610?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-rebirth-brass-band/669610?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "An Evening"
       ],
       "openers": [
-        "Rebirth Brass Brand"
+        "Rebirth Brass Band"
       ]
     },
     {
@@ -2421,6 +2421,22 @@
         "ULRIKA SPACEK"
       ],
       "openers": []
+    },
+    {
+      "showId": "861d26ae",
+      "dateISO": "2026-04-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/jane-symmes/679269?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Jane Symmes"
+      ],
+      "openers": [
+        "Animal Prince",
+        "Ren Geisick"
+      ]
     },
     {
       "showId": "b6b4772a",
