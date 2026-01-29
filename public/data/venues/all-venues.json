@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-01-29T12:44:09.804Z",
+  "generatedAtISO": "2026-01-29T18:36:53.862Z",
   "shows": [
-    {
-      "showId": "84d2dba6",
-      "dateISO": "2026-01-28",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-antlers/669300?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Antlers"
-      ],
-      "openers": [
-        "Tōth"
-      ]
-    },
     {
       "showId": "8ee3e005",
       "dateISO": "2026-01-28",
@@ -3318,6 +3303,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Ásgeir"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0e5bb119",
+      "dateISO": "2026-06-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dengue-fever/679341?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dengue Fever"
       ],
       "openers": []
     },
