@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-28T20:24:01.014Z",
+  "generatedAtISO": "2026-01-29T19:26:40.746Z",
   "shows": [
-    {
-      "showId": "988e2a63",
-      "dateISO": "2026-01-28",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/demora/674065?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "DEMORA"
-      ],
-      "openers": [
-        "HEAT",
-        "Maximum Momentum"
-      ]
-    },
     {
       "showId": "696660a4",
       "dateISO": "2026-01-29",
@@ -235,6 +219,19 @@
         "DJ Zeljko",
         "Jill Parker"
       ]
+    },
+    {
+      "showId": "c2c07bed",
+      "dateISO": "2026-02-25",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sugar-candy-mountain/679198?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SUGAR CANDY MOUNTAIN"
+      ],
+      "openers": []
     },
     {
       "showId": "b20b8d3d",
