@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-29T01:28:47.396Z",
+  "generatedAtISO": "2026-01-29T06:39:47.104Z",
   "shows": [
     {
       "showId": "123ac7e9",
@@ -380,6 +380,22 @@
       ]
     },
     {
+      "showId": "57bb83ae",
+      "dateISO": "2026-03-06",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260306.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Alvie & the Breakfast Pigs"
+      ],
+      "openers": [
+        "Extra Extra",
+        "Treasures"
+      ]
+    },
+    {
       "showId": "e7652124",
       "dateISO": "2026-03-07",
       "startTime": "8:30 PM",
@@ -494,7 +510,8 @@
         "Lifeguard"
       ],
       "openers": [
-        "Famous Mammals"
+        "Famous Mammals",
+        "Sunday Mourners"
       ]
     },
     {
