@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-28T23:21:37.300Z",
+  "generatedAtISO": "2026-01-29T01:28:47.396Z",
   "shows": [
     {
       "showId": "123ac7e9",
@@ -114,6 +114,22 @@
       ],
       "openers": [
         "Windingwood"
+      ]
+    },
+    {
+      "showId": "9df4aeb5",
+      "dateISO": "2026-02-07",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260207.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Silver Shores"
+      ],
+      "openers": [
+        "Big Brave Dog",
+        "Cowboy Beauty Queen"
       ]
     },
     {

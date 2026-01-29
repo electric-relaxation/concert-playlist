@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-28T23:21:39.438Z",
+  "generatedAtISO": "2026-01-29T01:28:50.935Z",
   "shows": [
     {
       "showId": "123ac7e9",
@@ -453,6 +453,22 @@
       "openers": []
     },
     {
+      "showId": "9df4aeb5",
+      "dateISO": "2026-02-07",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260207.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Silver Shores"
+      ],
+      "openers": [
+        "Big Brave Dog",
+        "Cowboy Beauty Queen"
+      ]
+    },
+    {
       "showId": "10234886",
       "dateISO": "2026-02-07",
       "startTime": "9:00 PM",
@@ -473,10 +489,10 @@
       "startTime": "3:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/super-bowl-watch-party-at-curio/679419?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/super-bowl-watch-party-in-the-chapels-main-bar/679419?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Super Bowl Watch Party at Curio"
+        "Super Bowl Watch Party in The Chapel's Main Bar"
       ],
       "openers": []
     },
@@ -1878,6 +1894,7 @@
         "The Third Mind"
       ],
       "openers": [
+        "Hot Mountain Dips",
         "Mad Alchemy Liquid Light Show"
       ]
     },
@@ -1892,7 +1909,9 @@
       "headliners": [
         "Los Amigos Invisibles"
       ],
-      "openers": []
+      "openers": [
+        "DJ Walkin’ Love"
+      ]
     },
     {
       "showId": "1c137b57",
@@ -2667,7 +2686,9 @@
       "headliners": [
         "Throwing Muses"
       ],
-      "openers": []
+      "openers": [
+        "Now"
+      ]
     },
     {
       "showId": "f3d045c5",

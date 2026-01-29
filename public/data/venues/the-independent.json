@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-28T21:25:16.821Z",
+  "generatedAtISO": "2026-01-29T01:28:47.396Z",
   "shows": [
     {
       "showId": "8ee3e005",
@@ -559,7 +559,9 @@
       "headliners": [
         "Los Amigos Invisibles"
       ],
-      "openers": []
+      "openers": [
+        "DJ Walkin’ Love"
+      ]
     },
     {
       "showId": "d88df072",
