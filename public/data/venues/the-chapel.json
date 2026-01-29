@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-29T21:21:56.953Z",
+  "generatedAtISO": "2026-01-29T23:21:33.274Z",
   "shows": [
     {
       "showId": "a0d2ce50",
@@ -84,10 +84,10 @@
       "startTime": "3:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/super-bowl-watch-party-in-the-chapels-main-bar/679419?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/big-game-watch-party-in-the-chapels-main-bar/679419?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Super Bowl Watch Party in The Chapel's Main Bar"
+        "Big Game Watch Party in The Chapel's Main Bar"
       ],
       "openers": []
     },
