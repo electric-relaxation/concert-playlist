@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-29T21:22:00.576Z",
+  "generatedAtISO": "2026-01-29T22:22:41.532Z",
   "shows": [
     {
       "showId": "8ee3e005",
@@ -1243,7 +1243,9 @@
       "headliners": [
         "Rogér Fakhr"
       ],
-      "openers": []
+      "openers": [
+        "ZOLA"
+      ]
     },
     {
       "showId": "eb61cd9f",

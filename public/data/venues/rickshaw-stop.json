@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-29T21:21:56.953Z",
+  "generatedAtISO": "2026-01-29T22:22:29.415Z",
   "shows": [
     {
       "showId": "696660a4",
@@ -275,7 +275,9 @@
       "headliners": [
         "Rogér Fakhr"
       ],
-      "openers": []
+      "openers": [
+        "ZOLA"
+      ]
     },
     {
       "showId": "31f17cf9",
