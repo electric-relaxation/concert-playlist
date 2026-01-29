@@ -4,24 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-29T06:39:47.104Z",
+  "generatedAtISO": "2026-01-29T12:44:07.101Z",
   "shows": [
-    {
-      "showId": "123ac7e9",
-      "dateISO": "2026-01-28",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260128.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "awakebutstillinbed"
-      ],
-      "openers": [
-        "máu",
-        "shortstop"
-      ]
-    },
     {
       "showId": "7e4c5510",
       "dateISO": "2026-01-29",
@@ -240,6 +224,7 @@
         "Jeffrey Lewis & the Voltage"
       ],
       "openers": [
+        "Mayya",
         "Pacing"
       ]
     },
@@ -255,7 +240,8 @@
         "J. Robbins plays Burning Airlines"
       ],
       "openers": [
-        "KID COPS"
+        "KID COPS",
+        "Minus Numbers"
       ]
     },
     {
@@ -269,7 +255,9 @@
       "headliners": [
         "Hot Flash Heat Wave"
       ],
-      "openers": []
+      "openers": [
+        "Starling"
+      ]
     },
     {
       "showId": "e786e91a",
