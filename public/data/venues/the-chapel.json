@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-29T20:24:10.891Z",
+  "generatedAtISO": "2026-01-29T21:21:56.953Z",
   "shows": [
     {
       "showId": "a0d2ce50",
@@ -218,6 +218,7 @@
         "Don Carlos"
       ],
       "openers": [
+        "DJ and Host Irie Dole",
         "Floratura"
       ]
     },

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-29T19:26:40.746Z",
+  "generatedAtISO": "2026-01-29T21:21:56.953Z",
   "shows": [
     {
       "showId": "696660a4",
@@ -580,7 +580,11 @@
       "headliners": [
         "ADULT."
       ],
-      "openers": []
+      "openers": [
+        "DJ Omar",
+        "Donzii",
+        "The Treasury"
+      ]
     },
     {
       "showId": "cb110479",
