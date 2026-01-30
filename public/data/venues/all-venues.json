@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-01-30T12:41:33.519Z",
+  "generatedAtISO": "2026-01-30T18:34:33.848Z",
   "shows": [
-    {
-      "showId": "8ee3e005",
-      "dateISO": "2026-01-28",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/mo/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "MØ"
-      ],
-      "openers": [
-        "Casey MQ"
-      ]
-    },
     {
       "showId": "696660a4",
       "dateISO": "2026-01-29",
@@ -46,22 +31,6 @@
         "An All-Star Tribute To Neil Young"
       ],
       "openers": []
-    },
-    {
-      "showId": "ab62aea1",
-      "dateISO": "2026-01-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/moontricks/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Moontricks"
-      ],
-      "openers": [
-        "KR3TURE",
-        "Shovelman"
-      ]
     },
     {
       "showId": "a7e146da",
@@ -3250,6 +3219,19 @@
         "Steakhouse",
         "Temple Beautiful Band"
       ]
+    },
+    {
+      "showId": "3cc9f5c3",
+      "dateISO": "2026-05-31",
+      "startTime": "7:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/jaboukie-young-white/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Jaboukie Young-White"
+      ],
+      "openers": []
     },
     {
       "showId": "d7fcef35",
