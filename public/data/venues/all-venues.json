@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-30T06:40:47.507Z",
+  "generatedAtISO": "2026-01-30T12:41:33.519Z",
   "shows": [
     {
       "showId": "8ee3e005",
@@ -61,22 +61,6 @@
       "openers": [
         "KR3TURE",
         "Shovelman"
-      ]
-    },
-    {
-      "showId": "7e4c5510",
-      "dateISO": "2026-01-29",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260129.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "PrettyBoy Chance"
-      ],
-      "openers": [
-        "Dirty Cello",
-        "Mild Heroes"
       ]
     },
     {
@@ -2752,6 +2736,19 @@
         "Grooblen",
         "Hot Brother"
       ]
+    },
+    {
+      "showId": "3cdee586",
+      "dateISO": "2026-04-24",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260424.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Sure Sure"
+      ],
+      "openers": []
     },
     {
       "showId": "3fb9bd97",
