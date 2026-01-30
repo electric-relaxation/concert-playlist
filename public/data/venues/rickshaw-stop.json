@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-30T01:28:14.393Z",
+  "generatedAtISO": "2026-01-30T05:41:59.769Z",
   "shows": [
     {
       "showId": "696660a4",
@@ -168,7 +168,7 @@
         "LOCS ONLY with M.U.T.T."
       ],
       "openers": [
-        "Sloch",
+        "Slosh",
         "Yo! & the Electric"
       ]
     },
