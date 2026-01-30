@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-01-29T12:44:07.101Z",
+  "generatedAtISO": "2026-01-30T06:40:44.330Z",
   "shows": [
     {
       "showId": "7e4c5510",
@@ -788,6 +788,22 @@
         "Accessory"
       ],
       "openers": []
+    },
+    {
+      "showId": "18937d47",
+      "dateISO": "2026-05-29",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260529.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Chip Kinman & Band"
+      ],
+      "openers": [
+        "Steakhouse",
+        "Temple Beautiful Band"
+      ]
     },
     {
       "showId": "e0301153",

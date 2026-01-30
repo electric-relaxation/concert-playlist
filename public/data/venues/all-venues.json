@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-30T05:42:03.164Z",
+  "generatedAtISO": "2026-01-30T06:40:47.507Z",
   "shows": [
     {
       "showId": "8ee3e005",
@@ -3237,6 +3237,22 @@
         "Isobel Campbell"
       ],
       "openers": []
+    },
+    {
+      "showId": "18937d47",
+      "dateISO": "2026-05-29",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260529.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Chip Kinman & Band"
+      ],
+      "openers": [
+        "Steakhouse",
+        "Temple Beautiful Band"
+      ]
     },
     {
       "showId": "d7fcef35",
