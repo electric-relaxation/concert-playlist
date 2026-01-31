@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-01-30T18:34:31.113Z",
+  "generatedAtISO": "2026-01-31T04:01:22.494Z",
   "shows": [
     {
       "showId": "72b9b987",
@@ -614,7 +614,9 @@
       "headliners": [
         "Tophouse"
       ],
-      "openers": []
+      "openers": [
+        "Wheelwright"
+      ]
     },
     {
       "showId": "a80e4791",

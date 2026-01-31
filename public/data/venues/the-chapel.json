@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-01-29T23:21:33.274Z",
+  "generatedAtISO": "2026-01-31T04:01:22.494Z",
   "shows": [
-    {
-      "showId": "a0d2ce50",
-      "dateISO": "2026-01-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-all-star-tribute-to-neil-young/675091?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An All-Star Tribute To Neil Young"
-      ],
-      "openers": []
-    },
     {
       "showId": "b22354a7",
       "dateISO": "2026-01-30",
@@ -204,6 +191,22 @@
       ],
       "openers": [
         "Rebirth Brass Band"
+      ]
+    },
+    {
+      "showId": "a6167def",
+      "dateISO": "2026-02-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/temple-of-the-fuzz-witch/679893?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Temple of the Fuzz Witch"
+      ],
+      "openers": [
+        "Bloodhum",
+        "The Spiral Electric"
       ]
     },
     {
