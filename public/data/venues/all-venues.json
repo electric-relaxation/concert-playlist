@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-01-31T04:01:25.342Z",
+  "generatedAtISO": "2026-02-01T05:56:57.900Z",
   "shows": [
     {
       "showId": "696660a4",
@@ -49,22 +49,6 @@
       "openers": [
         "fake your own death",
         "strange cities"
-      ]
-    },
-    {
-      "showId": "b22354a7",
-      "dateISO": "2026-01-30",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/temptationatribute-to-new-order/667658?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Temptation: A Tribute to New Order"
-      ],
-      "openers": [
-        "Hyaena: Tribute to Siouxsie and the Banshees",
-        "Noche de Hechiceras"
       ]
     },
     {
@@ -1880,7 +1864,7 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/cat-clyde/673750?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/cat-clyde-with-goodnight-texas/673750?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Cat Clyde"
