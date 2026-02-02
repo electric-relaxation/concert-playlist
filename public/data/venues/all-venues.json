@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-01T05:56:57.900Z",
+  "generatedAtISO": "2026-02-02T16:33:06.215Z",
   "shows": [
     {
       "showId": "696660a4",
@@ -52,19 +52,6 @@
       ]
     },
     {
-      "showId": "72b9b987",
-      "dateISO": "2026-01-30",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/frak-presents-four-square/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Frak Presents: Four Square – Release Party!"
-      ],
-      "openers": []
-    },
-    {
       "showId": "84e418d3",
       "dateISO": "2026-01-31",
       "startTime": "8:30 PM",
@@ -108,24 +95,6 @@
       ],
       "openers": [
         "Moose Loon"
-      ]
-    },
-    {
-      "showId": "fdc846df",
-      "dateISO": "2026-01-31",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/local-djs-night/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Local DJ’s Night"
-      ],
-      "openers": [
-        "Baghead",
-        "DJ Juanny",
-        "Discnogirl",
-        "snake tits"
       ]
     },
     {
@@ -3123,6 +3092,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Sleaford Mods"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d81c0295",
+      "dateISO": "2026-05-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/broncho/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "BRONCHO"
       ],
       "openers": []
     },
