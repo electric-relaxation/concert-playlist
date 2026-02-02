@@ -4,57 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-01-30T05:41:59.769Z",
+  "generatedAtISO": "2026-02-02T23:22:44.461Z",
   "shows": [
-    {
-      "showId": "696660a4",
-      "dateISO": "2026-01-29",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/sqwerv/670137?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SQWERV"
-      ],
-      "openers": [
-        "Chris Hoog",
-        "Litty deBungus",
-        "Will Magid",
-        "Ziek McCarter"
-      ]
-    },
-    {
-      "showId": "6156c8fb",
-      "dateISO": "2026-01-30",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/treasures/673478?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "TREASURES"
-      ],
-      "openers": [
-        "fake your own death",
-        "strange cities"
-      ]
-    },
-    {
-      "showId": "c083911f",
-      "dateISO": "2026-01-31",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/674052?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": [
-        "Frank Zummo"
-      ]
-    },
     {
       "showId": "5a69d0e5",
       "dateISO": "2026-02-04",
@@ -364,6 +315,22 @@
       "openers": []
     },
     {
+      "showId": "84725e78",
+      "dateISO": "2026-03-25",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/king-dream/679821?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "King Dream"
+      ],
+      "openers": [
+        "Ghost Coach",
+        "R.O. Shapiro"
+      ]
+    },
+    {
       "showId": "a6f5576a",
       "dateISO": "2026-03-26",
       "startTime": "8:45 PM",
@@ -554,21 +521,6 @@
       ],
       "openers": [
         "Litronix"
-      ]
-    },
-    {
-      "showId": "809acb64",
-      "dateISO": "2026-05-01",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/ford/679017?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ford."
-      ],
-      "openers": [
-        "plus special guest"
       ]
     },
     {

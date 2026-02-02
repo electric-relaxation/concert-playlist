@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-02T16:33:02.416Z",
+  "generatedAtISO": "2026-02-02T23:22:44.461Z",
   "shows": [
     {
       "showId": "d176f4b4",
@@ -102,6 +102,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Clap Your Hands Say Yeah"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "238948d3",
+      "dateISO": "2026-02-10",
+      "startTime": "7:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/vivian-tu-well-endowed/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Vivian Tu: Well Endowed"
       ],
       "openers": []
     },
@@ -230,7 +243,10 @@
       "headliners": [
         "((( O )))"
       ],
-      "openers": []
+      "openers": [
+        "Sheena Dahm",
+        "Tomu DJ"
+      ]
     },
     {
       "showId": "930224bb",
@@ -627,7 +643,9 @@
       "headliners": [
         "Circles Around The Sun"
       ],
-      "openers": []
+      "openers": [
+        "Bobby Lee & Joe Harvey-Whyte"
+      ]
     },
     {
       "showId": "1929b015",
@@ -640,7 +658,9 @@
       "headliners": [
         "Eliza McLamb"
       ],
-      "openers": []
+      "openers": [
+        "Lily Seabird"
+      ]
     },
     {
       "showId": "62f29320",

@@ -1,87 +1,6 @@
 {
-  "generatedAtISO": "2026-02-02T16:33:06.215Z",
+  "generatedAtISO": "2026-02-02T23:22:47.373Z",
   "shows": [
-    {
-      "showId": "696660a4",
-      "dateISO": "2026-01-29",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/sqwerv/670137?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SQWERV"
-      ],
-      "openers": [
-        "Chris Hoog",
-        "Litty deBungus",
-        "Will Magid",
-        "Ziek McCarter"
-      ]
-    },
-    {
-      "showId": "a7e146da",
-      "dateISO": "2026-01-30",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260130.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Lunar Mistake"
-      ],
-      "openers": [
-        "Pateka",
-        "steilacoom"
-      ]
-    },
-    {
-      "showId": "6156c8fb",
-      "dateISO": "2026-01-30",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/treasures/673478?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "TREASURES"
-      ],
-      "openers": [
-        "fake your own death",
-        "strange cities"
-      ]
-    },
-    {
-      "showId": "84e418d3",
-      "dateISO": "2026-01-31",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260131.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Dark Meta Railroad"
-      ],
-      "openers": [
-        "Lauren Oraange and the Cuties",
-        "The Secretary"
-      ]
-    },
-    {
-      "showId": "c083911f",
-      "dateISO": "2026-01-31",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/674052?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": [
-        "Frank Zummo"
-      ]
-    },
     {
       "showId": "7a2a95f5",
       "dateISO": "2026-01-31",
@@ -95,22 +14,6 @@
       ],
       "openers": [
         "Moose Loon"
-      ]
-    },
-    {
-      "showId": "a7d8374d",
-      "dateISO": "2026-02-01",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260201.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "The Well"
-      ],
-      "openers": [
-        "Dusted Angel",
-        "KIM"
       ]
     },
     {
@@ -256,6 +159,7 @@
         "Koyal"
       ],
       "openers": [
+        "Nixs",
         "Windingwood"
       ]
     },
@@ -352,6 +256,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Clap Your Hands Say Yeah"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "238948d3",
+      "dateISO": "2026-02-10",
+      "startTime": "7:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/vivian-tu-well-endowed/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Vivian Tu: Well Endowed"
       ],
       "openers": []
     },
@@ -985,7 +902,10 @@
       "headliners": [
         "((( O )))"
       ],
-      "openers": []
+      "openers": [
+        "Sheena Dahm",
+        "Tomu DJ"
+      ]
     },
     {
       "showId": "e786e91a",
@@ -1917,6 +1837,22 @@
       ]
     },
     {
+      "showId": "84725e78",
+      "dateISO": "2026-03-25",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/king-dream/679821?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "King Dream"
+      ],
+      "openers": [
+        "Ghost Coach",
+        "R.O. Shapiro"
+      ]
+    },
+    {
       "showId": "96c6327c",
       "dateISO": "2026-03-25",
       "startTime": "8:00 PM",
@@ -2176,7 +2112,9 @@
       "headliners": [
         "Circles Around The Sun"
       ],
-      "openers": []
+      "openers": [
+        "Bobby Lee & Joe Harvey-Whyte"
+      ]
     },
     {
       "showId": "83f355ea",
@@ -2233,7 +2171,9 @@
       "headliners": [
         "Eliza McLamb"
       ],
-      "openers": []
+      "openers": [
+        "Lily Seabird"
+      ]
     },
     {
       "showId": "79b1e590",
@@ -2822,21 +2762,6 @@
         "Asim Azhar"
       ],
       "openers": []
-    },
-    {
-      "showId": "809acb64",
-      "dateISO": "2026-05-01",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/ford/679017?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ford."
-      ],
-      "openers": [
-        "plus special guest"
-      ]
     },
     {
       "showId": "69c019b2",
