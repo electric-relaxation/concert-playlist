@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-01T05:56:55.412Z",
+  "generatedAtISO": "2026-02-03T15:43:32.546Z",
   "shows": [
-    {
-      "showId": "7a2a95f5",
-      "dateISO": "2026-01-31",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/tyler-ramsey-and-carl-broemel-of-my-morning-jacket/669663?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Tyler Ramsey & Carl Broemel (of My Morning Jacket)"
-      ],
-      "openers": [
-        "Moose Loon"
-      ]
-    },
     {
       "showId": "d5095760",
       "dateISO": "2026-02-03",
@@ -512,6 +497,19 @@
       "openers": [
         "Ekko Astral"
       ]
+    },
+    {
+      "showId": "763a493f",
+      "dateISO": "2026-03-31",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/we-three/679182?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "We Three"
+      ],
+      "openers": []
     },
     {
       "showId": "c9bae81c",
