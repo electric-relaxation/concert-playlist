@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-02T23:22:44.461Z",
+  "generatedAtISO": "2026-02-03T17:49:11.977Z",
   "shows": [
-    {
-      "showId": "d176f4b4",
-      "dateISO": "2026-02-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/ruston-kelly/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Ruston Kelly"
-      ],
-      "openers": [
-        "verygently"
-      ]
-    },
     {
       "showId": "3d4eee63",
       "dateISO": "2026-02-04",
@@ -618,6 +603,19 @@
         "Porch Light",
         "Telescreens"
       ]
+    },
+    {
+      "showId": "005bd6ac",
+      "dateISO": "2026-03-31",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/holywatr/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "HOLYWATR"
+      ],
+      "openers": []
     },
     {
       "showId": "ed741335",

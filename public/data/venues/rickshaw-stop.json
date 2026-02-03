@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-02T23:22:44.461Z",
+  "generatedAtISO": "2026-02-03T17:49:11.977Z",
   "shows": [
     {
       "showId": "5a69d0e5",
@@ -522,6 +522,19 @@
       "openers": [
         "Litronix"
       ]
+    },
+    {
+      "showId": "f362bfa1",
+      "dateISO": "2026-04-29",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dumbo-gets-mad/679460?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DUMBO GETS MAD"
+      ],
+      "openers": []
     },
     {
       "showId": "69fb05cd",

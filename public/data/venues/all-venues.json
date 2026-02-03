@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-02-03T15:43:36.274Z",
+  "generatedAtISO": "2026-02-03T17:49:15.032Z",
   "shows": [
-    {
-      "showId": "d176f4b4",
-      "dateISO": "2026-02-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/ruston-kelly/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Ruston Kelly"
-      ],
-      "openers": [
-        "verygently"
-      ]
-    },
     {
       "showId": "d5095760",
       "dateISO": "2026-02-03",
@@ -2043,6 +2028,19 @@
       "openers": []
     },
     {
+      "showId": "005bd6ac",
+      "dateISO": "2026-03-31",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/holywatr/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "HOLYWATR"
+      ],
+      "openers": []
+    },
+    {
       "showId": "53646deb",
       "dateISO": "2026-04-01",
       "startTime": "8:00 PM",
@@ -2759,6 +2757,19 @@
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
         "Never Ending Fall"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f362bfa1",
+      "dateISO": "2026-04-29",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dumbo-gets-mad/679460?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DUMBO GETS MAD"
       ],
       "openers": []
     },
