@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-02T23:22:47.373Z",
+  "generatedAtISO": "2026-02-03T11:30:46.478Z",
   "shows": [
     {
       "showId": "7a2a95f5",
@@ -2323,6 +2323,19 @@
       "openers": []
     },
     {
+      "showId": "f3cda3bb",
+      "dateISO": "2026-04-09",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260409.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Habibi"
+      ],
+      "openers": []
+    },
+    {
       "showId": "0fcceb40",
       "dateISO": "2026-04-10",
       "startTime": "8:30 PM",
@@ -2559,6 +2572,22 @@
         "ART BRUT"
       ],
       "openers": []
+    },
+    {
+      "showId": "b353272c",
+      "dateISO": "2026-04-21",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260421.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Young Fresh Fellows"
+      ],
+      "openers": [
+        "The Rubinoos",
+        "Victor Krummenacher & Greg Lisher"
+      ]
     },
     {
       "showId": "990c0a93",
