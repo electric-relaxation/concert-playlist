@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-03T18:49:46.743Z",
+  "generatedAtISO": "2026-02-03T19:41:35.824Z",
   "shows": [
     {
       "showId": "d5095760",
@@ -1002,6 +1002,19 @@
       ]
     },
     {
+      "showId": "30a30fd2",
+      "dateISO": "2026-02-28",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/679842?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c3ba01ec",
       "dateISO": "2026-02-28",
       "startTime": "9:00 PM",
@@ -1098,6 +1111,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Alexander Stewart - What If? Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5a82c361",
+      "dateISO": "2026-03-03",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/la-tocada/680206?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "LA TOCADA"
       ],
       "openers": []
     },

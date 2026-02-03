@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-03T17:49:11.977Z",
+  "generatedAtISO": "2026-02-03T19:41:32.039Z",
   "shows": [
     {
       "showId": "5a69d0e5",
@@ -216,6 +216,19 @@
       ]
     },
     {
+      "showId": "30a30fd2",
+      "dateISO": "2026-02-28",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/679842?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "b0960470",
       "dateISO": "2026-03-01",
       "startTime": "8:00 PM",
@@ -229,6 +242,19 @@
       "openers": [
         "ZOLA"
       ]
+    },
+    {
+      "showId": "5a82c361",
+      "dateISO": "2026-03-03",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/la-tocada/680206?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "LA TOCADA"
+      ],
+      "openers": []
     },
     {
       "showId": "31f17cf9",
