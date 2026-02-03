@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-03T21:29:25.864Z",
+  "generatedAtISO": "2026-02-03T22:24:38.467Z",
   "shows": [
     {
       "showId": "d5095760",
@@ -37,7 +37,7 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/680256?afflky=TheChapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Private Event"
@@ -73,19 +73,6 @@
       "openers": [
         "Jordan Burchel"
       ]
-    },
-    {
-      "showId": "9426efb8",
-      "dateISO": "2026-02-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/680257?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "7383b915",
@@ -127,6 +114,7 @@
         "The Five Highs"
       ],
       "openers": [
+        "Sean O'Brien and His Dirty Hands",
         "The Genie"
       ]
     },
@@ -182,19 +170,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Electric Feels"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "3596d96d",
-      "dateISO": "2026-02-07",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/680258?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
       ],
       "openers": []
     },
@@ -1576,6 +1551,19 @@
       "openers": [
         "Frayle"
       ]
+    },
+    {
+      "showId": "71e82c41",
+      "dateISO": "2026-03-17",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260317.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Sonamó"
+      ],
+      "openers": []
     },
     {
       "showId": "04dfab6b",

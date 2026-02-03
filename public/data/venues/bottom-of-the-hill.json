@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-03T11:30:43.834Z",
+  "generatedAtISO": "2026-02-03T22:24:35.224Z",
   "shows": [
     {
       "showId": "cf408da4",
@@ -18,6 +18,7 @@
         "The Five Highs"
       ],
       "openers": [
+        "Sean O'Brien and His Dirty Hands",
         "The Genie"
       ]
     },
@@ -393,6 +394,19 @@
         "Gloomy June",
         "In Balance"
       ]
+    },
+    {
+      "showId": "71e82c41",
+      "dateISO": "2026-03-17",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260317.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Sonamó"
+      ],
+      "openers": []
     },
     {
       "showId": "04dfab6b",
