@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-03T17:49:15.032Z",
+  "generatedAtISO": "2026-02-03T18:49:46.743Z",
   "shows": [
     {
       "showId": "d5095760",
@@ -2349,6 +2349,19 @@
       ]
     },
     {
+      "showId": "53e0b7cb",
+      "dateISO": "2026-04-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/petty-theft/680108?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Petty Theft"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c116889d",
       "dateISO": "2026-04-10",
       "startTime": "9:00 PM",
@@ -2932,6 +2945,19 @@
       ]
     },
     {
+      "showId": "fa52ac45",
+      "dateISO": "2026-05-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ritt-momney/679644?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ritt Momney"
+      ],
+      "openers": []
+    },
+    {
       "showId": "454c83c9",
       "dateISO": "2026-05-10",
       "startTime": "8:00 PM",
@@ -3195,6 +3221,21 @@
       ],
       "openers": [
         "Jerry's Middle Finger"
+      ]
+    },
+    {
+      "showId": "ae072db7",
+      "dateISO": "2026-06-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/agent-orange/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Agent Orange"
+      ],
+      "openers": [
+        "The Drowns"
       ]
     },
     {

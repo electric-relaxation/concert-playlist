@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-03T17:49:11.977Z",
+  "generatedAtISO": "2026-02-03T18:49:44.187Z",
   "shows": [
     {
       "showId": "3d4eee63",
@@ -1075,6 +1075,21 @@
         "Jaboukie Young-White"
       ],
       "openers": []
+    },
+    {
+      "showId": "ae072db7",
+      "dateISO": "2026-06-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/agent-orange/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Agent Orange"
+      ],
+      "openers": [
+        "The Drowns"
+      ]
     },
     {
       "showId": "b07a2ef4",
