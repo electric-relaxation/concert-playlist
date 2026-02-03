@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-03T19:41:35.824Z",
+  "generatedAtISO": "2026-02-03T20:30:15.168Z",
   "shows": [
     {
       "showId": "d5095760",
@@ -801,7 +801,9 @@
       "headliners": [
         "George Harrison Birthday Tribute Show"
       ],
-      "openers": []
+      "openers": [
+        "Ether Light Wave Show"
+      ]
     },
     {
       "showId": "2067c0da",

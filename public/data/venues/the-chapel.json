@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-03T18:49:44.187Z",
+  "generatedAtISO": "2026-02-03T20:30:10.676Z",
   "shows": [
     {
       "showId": "d5095760",
@@ -255,7 +255,9 @@
       "headliners": [
         "George Harrison Birthday Tribute Show"
       ],
-      "openers": []
+      "openers": [
+        "Ether Light Wave Show"
+      ]
     },
     {
       "showId": "54db41d3",
