@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-03T22:24:38.467Z",
+  "generatedAtISO": "2026-02-04T06:43:33.039Z",
   "shows": [
     {
       "showId": "d5095760",
@@ -502,7 +502,9 @@
       "headliners": [
         "BLOOD CULTURES"
       ],
-      "openers": []
+      "openers": [
+        "DJ Omar"
+      ]
     },
     {
       "showId": "806abfca",

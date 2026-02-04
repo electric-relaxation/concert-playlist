@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-03T19:41:32.039Z",
+  "generatedAtISO": "2026-02-04T06:43:30.156Z",
   "shows": [
     {
       "showId": "5a69d0e5",
@@ -105,7 +105,9 @@
       "headliners": [
         "BLOOD CULTURES"
       ],
-      "openers": []
+      "openers": [
+        "DJ Omar"
+      ]
     },
     {
       "showId": "23636fcc",
