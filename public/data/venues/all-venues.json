@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-02-04T15:37:47.310Z",
+  "generatedAtISO": "2026-02-04T18:40:46.580Z",
   "shows": [
-    {
-      "showId": "d5095760",
-      "dateISO": "2026-02-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/tropical-fuck-storm/668474?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Tropical Fuck Storm"
-      ],
-      "openers": [
-        "J.R.C.G."
-      ]
-    },
     {
       "showId": "5a69d0e5",
       "dateISO": "2026-02-04",
@@ -2596,6 +2581,22 @@
       "openers": []
     },
     {
+      "showId": "ad2db159",
+      "dateISO": "2026-04-17",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/soundcheck-nite-with-forrest-day/680322?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Soundcheck Nite with FORREST DAY"
+      ],
+      "openers": [
+        "The Crooked Stuff",
+        "Treasures"
+      ]
+    },
+    {
       "showId": "85843125",
       "dateISO": "2026-04-17",
       "startTime": "9:00 PM",
@@ -3404,6 +3405,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Mamas Gun"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "53bf4144",
+      "dateISO": "2026-06-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/gia-margaret/680077?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Gia Margaret"
       ],
       "openers": []
     },

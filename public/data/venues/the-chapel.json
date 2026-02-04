@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-03T22:24:35.224Z",
+  "generatedAtISO": "2026-02-04T18:40:42.783Z",
   "shows": [
-    {
-      "showId": "d5095760",
-      "dateISO": "2026-02-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/tropical-fuck-storm/668474?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Tropical Fuck Storm"
-      ],
-      "openers": [
-        "J.R.C.G."
-      ]
-    },
     {
       "showId": "53a0cbec",
       "dateISO": "2026-02-04",
@@ -842,6 +827,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Dengue Fever"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "53bf4144",
+      "dateISO": "2026-06-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/gia-margaret/680077?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Gia Margaret"
       ],
       "openers": []
     },
