@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-04T20:28:50.555Z",
+  "generatedAtISO": "2026-02-04T22:21:30.029Z",
   "shows": [
     {
       "showId": "5a69d0e5",
@@ -892,7 +892,8 @@
         "Carpool Tunnel"
       ],
       "openers": [
-        "Small Crush"
+        "Small Crush",
+        "starbelliedbug"
       ]
     },
     {

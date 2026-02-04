@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-04T12:46:06.472Z",
+  "generatedAtISO": "2026-02-04T22:21:26.677Z",
   "shows": [
     {
       "showId": "cf408da4",
@@ -209,7 +209,8 @@
         "Carpool Tunnel"
       ],
       "openers": [
-        "Small Crush"
+        "Small Crush",
+        "starbelliedbug"
       ]
     },
     {
