@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-04T18:40:42.783Z",
+  "generatedAtISO": "2026-02-04T20:28:47.498Z",
   "shows": [
     {
       "showId": "5a69d0e5",
@@ -518,22 +518,6 @@
         "CONTROVERSY",
         "Meikee Magnetic",
         "QUEEN BITCH"
-      ]
-    },
-    {
-      "showId": "ad2db159",
-      "dateISO": "2026-04-17",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/soundcheck-nite-with-forrest-day/680322?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Soundcheck Nite with FORREST DAY"
-      ],
-      "openers": [
-        "The Crooked Stuff",
-        "Treasures"
       ]
     },
     {
