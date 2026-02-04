@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-03T22:24:35.224Z",
+  "generatedAtISO": "2026-02-04T12:46:06.472Z",
   "shows": [
     {
       "showId": "cf408da4",
@@ -495,7 +495,9 @@
       "headliners": [
         "Acopia"
       ],
-      "openers": []
+      "openers": [
+        "Eilish Constance"
+      ]
     },
     {
       "showId": "4dbd2efd",
@@ -558,6 +560,19 @@
       "openers": [
         "Gladie"
       ]
+    },
+    {
+      "showId": "80a4d301",
+      "dateISO": "2026-04-01",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260401.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "WAAX"
+      ],
+      "openers": []
     },
     {
       "showId": "83f355ea",

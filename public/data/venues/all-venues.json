@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-04T06:43:33.039Z",
+  "generatedAtISO": "2026-02-04T12:46:09.198Z",
   "shows": [
     {
       "showId": "d5095760",
@@ -1816,7 +1816,9 @@
       "headliners": [
         "Acopia"
       ],
-      "openers": []
+      "openers": [
+        "Eilish Constance"
+      ]
     },
     {
       "showId": "e1fa170c",
@@ -2123,6 +2125,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Tom Skinner"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "80a4d301",
+      "dateISO": "2026-04-01",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260401.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "WAAX"
       ],
       "openers": []
     },
