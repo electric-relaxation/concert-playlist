@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-04T12:46:09.198Z",
+  "generatedAtISO": "2026-02-04T15:37:47.310Z",
   "shows": [
     {
       "showId": "d5095760",
@@ -2790,6 +2790,19 @@
       ]
     },
     {
+      "showId": "35dd8c00",
+      "dateISO": "2026-04-25",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chuwi/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chuwi"
+      ],
+      "openers": []
+    },
+    {
       "showId": "2edec91e",
       "dateISO": "2026-04-26",
       "startTime": "8:00 PM",
@@ -3513,6 +3526,19 @@
       "openers": [
         "Traps PS"
       ]
+    },
+    {
+      "showId": "952ddd51",
+      "dateISO": "2026-09-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/deca-joins/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "deca joins"
+      ],
+      "openers": []
     },
     {
       "showId": "82a11b1a",

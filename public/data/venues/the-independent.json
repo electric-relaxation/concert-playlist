@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-03T18:49:44.187Z",
+  "generatedAtISO": "2026-02-04T15:37:43.720Z",
   "shows": [
     {
       "showId": "3d4eee63",
@@ -844,6 +844,19 @@
       ]
     },
     {
+      "showId": "35dd8c00",
+      "dateISO": "2026-04-25",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chuwi/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chuwi"
+      ],
+      "openers": []
+    },
+    {
       "showId": "2edec91e",
       "dateISO": "2026-04-26",
       "startTime": "8:00 PM",
@@ -1177,6 +1190,19 @@
         "Resentvul",
         "Ryan Oakes"
       ]
+    },
+    {
+      "showId": "952ddd51",
+      "dateISO": "2026-09-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/deca-joins/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "deca joins"
+      ],
+      "openers": []
     }
   ]
 }
