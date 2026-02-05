@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-05T05:51:49.673Z",
+  "generatedAtISO": "2026-02-05T20:27:48.796Z",
   "shows": [
-    {
-      "showId": "3d4eee63",
-      "dateISO": "2026-02-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/andy-frasco-the-u-n/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Andy Frasco & The U.N."
-      ],
-      "openers": [
-        "Lonesome Joy"
-      ]
-    },
     {
       "showId": "7383b915",
       "dateISO": "2026-02-05",
@@ -229,7 +214,7 @@
         "((( O )))"
       ],
       "openers": [
-        "Sheena Dahm",
+        "Sheena Dham",
         "Tomu DJ"
       ]
     },

@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-05T14:02:43.726Z",
+  "generatedAtISO": "2026-02-05T20:27:48.796Z",
   "shows": [
     {
       "showId": "53a0cbec",
@@ -642,6 +642,7 @@
         "Throwing Muses"
       ],
       "openers": [
+        "DJ Galine MoDmoiselle",
         "Now"
       ]
     },
