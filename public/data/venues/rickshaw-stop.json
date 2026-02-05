@@ -4,23 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-04T20:28:47.498Z",
+  "generatedAtISO": "2026-02-05T22:21:19.563Z",
   "shows": [
-    {
-      "showId": "5a69d0e5",
-      "dateISO": "2026-02-04",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/maanu/659380?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MAANU"
-      ],
-      "openers": [
-        "asfand"
-      ]
-    },
     {
       "showId": "fc2a6d16",
       "dateISO": "2026-02-05",
@@ -398,8 +383,8 @@
         "SWORD II"
       ],
       "openers": [
-        "Tex Patrello",
-        "opener tba"
+        "Poor Image",
+        "Tex Patrello"
       ]
     },
     {
