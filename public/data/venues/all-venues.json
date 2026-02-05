@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-05T12:50:58.324Z",
+  "generatedAtISO": "2026-02-05T14:02:47.400Z",
   "shows": [
     {
       "showId": "5a69d0e5",
@@ -15,19 +15,6 @@
       "openers": [
         "asfand"
       ]
-    },
-    {
-      "showId": "53a0cbec",
-      "dateISO": "2026-02-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "3d4eee63",
@@ -58,6 +45,19 @@
       "openers": [
         "Jordan Burchel"
       ]
+    },
+    {
+      "showId": "53a0cbec",
+      "dateISO": "2026-02-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "7383b915",
