@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-04T15:37:43.720Z",
+  "generatedAtISO": "2026-02-05T05:51:49.673Z",
   "shows": [
     {
       "showId": "3d4eee63",
@@ -470,7 +470,10 @@
       "headliners": [
         "Vendredi sur Mer"
       ],
-      "openers": []
+      "openers": [
+        "Gabi Bravo",
+        "Rose Haze"
+      ]
     },
     {
       "showId": "4635db5d",

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-04T22:21:30.029Z",
+  "generatedAtISO": "2026-02-05T05:51:52.400Z",
   "shows": [
     {
       "showId": "5a69d0e5",
@@ -1621,7 +1621,10 @@
       "headliners": [
         "Vendredi sur Mer"
       ],
-      "openers": []
+      "openers": [
+        "Gabi Bravo",
+        "Rose Haze"
+      ]
     },
     {
       "showId": "15537f36",
