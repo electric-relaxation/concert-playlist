@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-04T22:21:26.677Z",
+  "generatedAtISO": "2026-02-05T12:50:54.183Z",
   "shows": [
     {
       "showId": "cf408da4",
@@ -339,19 +339,6 @@
       ]
     },
     {
-      "showId": "3aa1aaee",
-      "dateISO": "2026-03-10",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260310.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "The Technicolors"
-      ],
-      "openers": []
-    },
-    {
       "showId": "782db089",
       "dateISO": "2026-03-11",
       "startTime": "8:00 PM",
@@ -530,6 +517,23 @@
       "openers": [
         "Starry Eyed Cadet",
         "Street Eaters"
+      ]
+    },
+    {
+      "showId": "87b0260c",
+      "dateISO": "2026-03-26",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260326.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Marbled Eye"
+      ],
+      "openers": [
+        "Cemento",
+        "Hannah Lew",
+        "Hot Goth GF"
       ]
     },
     {
