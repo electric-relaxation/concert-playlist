@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-06T14:42:41.045Z",
+  "generatedAtISO": "2026-02-06T17:37:27.760Z",
   "shows": [
     {
       "showId": "d6858497",
@@ -328,7 +328,9 @@
       "headliners": [
         "Alexander Stewart - What If? Tour"
       ],
-      "openers": []
+      "openers": [
+        "Anna Clendening"
+      ]
     },
     {
       "showId": "053268aa",

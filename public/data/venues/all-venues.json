@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-06T14:42:45.363Z",
+  "generatedAtISO": "2026-02-06T17:37:32.014Z",
   "shows": [
     {
       "showId": "fc2a6d16",
@@ -14,21 +14,6 @@
       ],
       "openers": [
         "Jordan Burchel"
-      ]
-    },
-    {
-      "showId": "7383b915",
-      "dateISO": "2026-02-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/grace-bowers/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Grace Bowers"
-      ],
-      "openers": [
-        "Peaboo and the Catz"
       ]
     },
     {
@@ -1087,7 +1072,9 @@
       "headliners": [
         "Alexander Stewart - What If? Tour"
       ],
-      "openers": []
+      "openers": [
+        "Anna Clendening"
+      ]
     },
     {
       "showId": "5a82c361",
@@ -2795,6 +2782,19 @@
       "openers": [
         "Still Ruins"
       ]
+    },
+    {
+      "showId": "c4c2352a",
+      "dateISO": "2026-04-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/emily-nenni/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Emily Nenni"
+      ],
+      "openers": []
     },
     {
       "showId": "1bbd4133",

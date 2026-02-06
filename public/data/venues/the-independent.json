@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-05T20:27:48.796Z",
+  "generatedAtISO": "2026-02-06T17:37:27.760Z",
   "shows": [
-    {
-      "showId": "7383b915",
-      "dateISO": "2026-02-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/grace-bowers/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Grace Bowers"
-      ],
-      "openers": [
-        "Peaboo and the Catz"
-      ]
-    },
     {
       "showId": "b08f4f20",
       "dateISO": "2026-02-05",
@@ -854,6 +839,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Chris Grey"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c4c2352a",
+      "dateISO": "2026-04-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/emily-nenni/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Emily Nenni"
       ],
       "openers": []
     },
