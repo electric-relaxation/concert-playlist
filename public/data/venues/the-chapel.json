@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-05T21:23:17.967Z",
+  "generatedAtISO": "2026-02-06T14:42:41.045Z",
   "shows": [
-    {
-      "showId": "53a0cbec",
-      "dateISO": "2026-02-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
     {
       "showId": "d6858497",
       "dateISO": "2026-02-06",
@@ -29,6 +16,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Dave Chappelle"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "53a0cbec",
+      "dateISO": "2026-02-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
       ],
       "openers": []
     },
