@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-02-07T01:28:15.960Z",
+  "generatedAtISO": "2026-02-07T05:37:33.287Z",
   "shows": [
-    {
-      "showId": "fc2a6d16",
-      "dateISO": "2026-02-05",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-rural-alberta-advantage/666389?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "THE RURAL ALBERTA ADVANTAGE"
-      ],
-      "openers": [
-        "Jordan Burchel"
-      ]
-    },
     {
       "showId": "b08f4f20",
       "dateISO": "2026-02-05",
@@ -1382,7 +1367,8 @@
         "HEATED RIVALRY: A Jockstar Rave"
       ],
       "openers": [
-        "A Night of Party Boy Anthems"
+        "Gregory Dillon",
+        "Michael Medrano"
       ]
     },
     {
