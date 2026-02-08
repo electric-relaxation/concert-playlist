@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-07T05:37:33.287Z",
+  "generatedAtISO": "2026-02-08T14:22:47.259Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -29,19 +29,6 @@
         "Sean O'Brien and His Dirty Hands",
         "The Genie"
       ]
-    },
-    {
-      "showId": "d6858497",
-      "dateISO": "2026-02-06",
-      "startTime": "10:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dave-chappelle/678920?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Dave Chappelle"
-      ],
-      "openers": []
     },
     {
       "showId": "6c940598",
@@ -82,19 +69,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Electric Feels"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "53a0cbec",
-      "dateISO": "2026-02-07",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
       ],
       "openers": []
     },
@@ -446,6 +420,19 @@
         "Buzz Kull",
         "Rosa Anschütz"
       ]
+    },
+    {
+      "showId": "53a0cbec",
+      "dateISO": "2026-02-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "23636fcc",
