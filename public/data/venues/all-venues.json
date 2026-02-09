@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-09T12:57:47.896Z",
+  "generatedAtISO": "2026-02-09T17:46:50.539Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -69,19 +69,6 @@
       ]
     },
     {
-      "showId": "050ecbaf",
-      "dateISO": "2026-02-08",
-      "startTime": "3:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/big-game-watch-party-in-the-main-bar/679419?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Big Game Watch Party in the Main Bar"
-      ],
-      "openers": []
-    },
-    {
       "showId": "5c76ffbc",
       "dateISO": "2026-02-09",
       "startTime": "8:00 PM",
@@ -118,7 +105,9 @@
       "headliners": [
         "Samm Henshaw"
       ],
-      "openers": []
+      "openers": [
+        "Miss Hits"
+      ]
     },
     {
       "showId": "134ccbf4",
