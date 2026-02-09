@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-09T17:46:50.539Z",
+  "generatedAtISO": "2026-02-09T20:00:05.788Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -28,19 +28,6 @@
       "openers": []
     },
     {
-      "showId": "a373ab0c",
-      "dateISO": "2026-02-06",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/electric-feels-3/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Electric Feels"
-      ],
-      "openers": []
-    },
-    {
       "showId": "1995ad08",
       "dateISO": "2026-02-07",
       "startTime": "8:30 PM",
@@ -52,21 +39,6 @@
         "BROADWAY RAVE"
       ],
       "openers": []
-    },
-    {
-      "showId": "10234886",
-      "dateISO": "2026-02-07",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/galdive/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Galdive"
-      ],
-      "openers": [
-        "Labit"
-      ]
     },
     {
       "showId": "5c76ffbc",
@@ -2835,7 +2807,9 @@
       "headliners": [
         "Jensen McRae – God Has A Hitman Tour"
       ],
-      "openers": []
+      "openers": [
+        "Marie Dresselhuis"
+      ]
     },
     {
       "showId": "0aa28a5e",
@@ -2848,7 +2822,9 @@
       "headliners": [
         "Jensen McRae – God Has A Hitman Tour"
       ],
-      "openers": []
+      "openers": [
+        "Marie Dresselhuis"
+      ]
     },
     {
       "showId": "376ed913",
