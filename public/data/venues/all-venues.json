@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-08T14:22:47.259Z",
+  "generatedAtISO": "2026-02-09T12:57:47.896Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -13,38 +13,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "cf408da4",
-      "dateISO": "2026-02-05",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260205.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "The Five Highs"
-      ],
-      "openers": [
-        "Sean O'Brien and His Dirty Hands",
-        "The Genie"
-      ]
-    },
-    {
-      "showId": "6c940598",
-      "dateISO": "2026-02-06",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260206.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Koyal"
-      ],
-      "openers": [
-        "Nixs",
-        "Windingwood"
-      ]
     },
     {
       "showId": "3798cb1b",
@@ -84,22 +52,6 @@
         "BROADWAY RAVE"
       ],
       "openers": []
-    },
-    {
-      "showId": "9df4aeb5",
-      "dateISO": "2026-02-07",
-      "startTime": "9:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260207.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Silver Shores"
-      ],
-      "openers": [
-        "Big Brave Dog",
-        "Cowboy Beauty Queen"
-      ]
     },
     {
       "showId": "10234886",
@@ -3173,7 +3125,9 @@
       "headliners": [
         "Accessory"
       ],
-      "openers": []
+      "openers": [
+        "Facing"
+      ]
     },
     {
       "showId": "ca9919ad",
