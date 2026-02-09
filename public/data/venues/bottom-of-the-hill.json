@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-09T12:57:44.470Z",
+  "generatedAtISO": "2026-02-09T22:31:04.061Z",
   "shows": [
     {
       "showId": "33d2dd7b",
@@ -638,6 +638,21 @@
       "openers": [
         "Black Guy Fawkes",
         "Rudy Nuño & The Broadcasters"
+      ]
+    },
+    {
+      "showId": "91b9298e",
+      "dateISO": "2026-04-17",
+      "startTime": "9:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260417.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Personal Space Man"
+      ],
+      "openers": [
+        "Mommy Mommy"
       ]
     },
     {
