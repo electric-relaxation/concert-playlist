@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-09T22:31:04.061Z",
+  "generatedAtISO": "2026-02-10T01:58:41.955Z",
   "shows": [
     {
       "showId": "33d2dd7b",
@@ -225,7 +225,10 @@
       "headliners": [
         "Witchcraft"
       ],
-      "openers": []
+      "openers": [
+        "Early Moods",
+        "Psychic Hit"
+      ]
     },
     {
       "showId": "ff61f534",
