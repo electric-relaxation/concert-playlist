@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-10T01:58:41.955Z",
+  "generatedAtISO": "2026-02-10T22:34:37.251Z",
   "shows": [
     {
       "showId": "33d2dd7b",
@@ -73,7 +73,7 @@
     {
       "showId": "8fc09ada",
       "dateISO": "2026-02-18",
-      "startTime": "8:30 PM",
+      "startTime": "7:30 PM",
       "venueId": "bottom-of-the-hill",
       "venueName": "Bottom of the Hill",
       "showUrl": "http://www.bottomofthehill.com/20260218.html",
@@ -672,6 +672,21 @@
       "openers": [
         "The Rubinoos",
         "Victor Krummenacher & Greg Lisher"
+      ]
+    },
+    {
+      "showId": "e565e8e0",
+      "dateISO": "2026-04-22",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260422.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Rickshaw Billie's Burger Patrol"
+      ],
+      "openers": [
+        "American Sharks"
       ]
     },
     {
