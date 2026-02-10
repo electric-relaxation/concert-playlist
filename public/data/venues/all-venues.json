@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-10T19:03:38.620Z",
+  "generatedAtISO": "2026-02-10T20:38:50.277Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -1416,7 +1416,9 @@
       "headliners": [
         "Son Little"
       ],
-      "openers": []
+      "openers": [
+        "Tonina"
+      ]
     },
     {
       "showId": "bbfb8c0a",
