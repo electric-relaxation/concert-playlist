@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-10T01:58:44.760Z",
+  "generatedAtISO": "2026-02-10T17:56:48.133Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -37,19 +37,6 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "BROADWAY RAVE"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "5c76ffbc",
-      "dateISO": "2026-02-09",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/clap-your-hands-say-yeah/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Clap Your Hands Say Yeah"
       ],
       "openers": []
     },
@@ -3140,6 +3127,19 @@
         "Steakhouse",
         "Temple Beautiful Band"
       ]
+    },
+    {
+      "showId": "1b866582",
+      "dateISO": "2026-05-29",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ray-bull/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ray Bull"
+      ],
+      "openers": []
     },
     {
       "showId": "3cc9f5c3",

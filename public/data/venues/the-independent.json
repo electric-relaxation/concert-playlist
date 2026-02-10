@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-09T19:59:59.933Z",
+  "generatedAtISO": "2026-02-10T17:56:43.833Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -16,19 +16,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "5c76ffbc",
-      "dateISO": "2026-02-09",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/clap-your-hands-say-yeah/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Clap Your Hands Say Yeah"
       ],
       "openers": []
     },
@@ -1035,6 +1022,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Rose Gray"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1b866582",
+      "dateISO": "2026-05-29",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ray-bull/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ray Bull"
       ],
       "openers": []
     },
