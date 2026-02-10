@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-09T17:46:46.525Z",
+  "generatedAtISO": "2026-02-10T19:03:34.334Z",
   "shows": [
     {
       "showId": "5a32b180",
@@ -411,7 +411,9 @@
       "headliners": [
         "Trish Toledo"
       ],
-      "openers": []
+      "openers": [
+        "Los Tranquilos"
+      ]
     },
     {
       "showId": "c4ab79e0",
@@ -753,6 +755,36 @@
         "Isobel Campbell"
       ],
       "openers": []
+    },
+    {
+      "showId": "142890a8",
+      "dateISO": "2026-05-29",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/allah-las/680637?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Allah-Las"
+      ],
+      "openers": [
+        "Sam Blasucci"
+      ]
+    },
+    {
+      "showId": "96db9693",
+      "dateISO": "2026-05-30",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/allah-las/680643?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Allah-Las"
+      ],
+      "openers": [
+        "Sam Blasucci"
+      ]
     },
     {
       "showId": "d7fcef35",
