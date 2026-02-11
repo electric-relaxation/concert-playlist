@@ -4,34 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-07T05:37:29.623Z",
+  "generatedAtISO": "2026-02-11T19:53:49.695Z",
   "shows": [
-    {
-      "showId": "3798cb1b",
-      "dateISO": "2026-02-06",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/all-your-friends/674510?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ALL YOUR FRIENDS"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "1995ad08",
-      "dateISO": "2026-02-07",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/BROADWAY-RAVE/674511?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BROADWAY RAVE"
-      ],
-      "openers": []
-    },
     {
       "showId": "50d4c8d6",
       "dateISO": "2026-02-12",
@@ -580,6 +554,19 @@
         "Iress",
         "Nightosphere"
       ]
+    },
+    {
+      "showId": "d9362738",
+      "dateISO": "2026-05-26",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/lowertown/681015?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "LOWERTOWN"
+      ],
+      "openers": []
     },
     {
       "showId": "d3f0392f",

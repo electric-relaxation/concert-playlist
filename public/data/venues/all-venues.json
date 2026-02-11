@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-10T22:34:41.312Z",
+  "generatedAtISO": "2026-02-11T19:53:52.479Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -11,32 +11,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "3798cb1b",
-      "dateISO": "2026-02-06",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/all-your-friends/674510?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ALL YOUR FRIENDS"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "1995ad08",
-      "dateISO": "2026-02-07",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/BROADWAY-RAVE/674511?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BROADWAY RAVE"
       ],
       "openers": []
     },
@@ -3100,6 +3074,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Rose Gray"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d9362738",
+      "dateISO": "2026-05-26",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/lowertown/681015?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "LOWERTOWN"
       ],
       "openers": []
     },
