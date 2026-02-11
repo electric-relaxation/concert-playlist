@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-11T19:53:52.479Z",
+  "generatedAtISO": "2026-02-11T20:33:27.249Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -11,19 +11,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "238948d3",
-      "dateISO": "2026-02-10",
-      "startTime": "7:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/vivian-tu-well-endowed/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Vivian Tu: Well Endowed"
       ],
       "openers": []
     },
@@ -528,19 +515,6 @@
         "DJ Zeljko",
         "Jill Parker"
       ]
-    },
-    {
-      "showId": "6f7d29d7",
-      "dateISO": "2026-02-21",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/jesse-baez/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Jesse Baez"
-      ],
-      "openers": []
     },
     {
       "showId": "94f45bb9",

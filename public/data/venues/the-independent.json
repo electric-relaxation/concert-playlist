@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-10T20:38:47.377Z",
+  "generatedAtISO": "2026-02-11T20:33:23.459Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -16,19 +16,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "238948d3",
-      "dateISO": "2026-02-10",
-      "startTime": "7:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/vivian-tu-well-endowed/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Vivian Tu: Well Endowed"
       ],
       "openers": []
     },
@@ -117,19 +104,6 @@
         "Evening Elephants",
         "Obed Padilla"
       ]
-    },
-    {
-      "showId": "6f7d29d7",
-      "dateISO": "2026-02-21",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/jesse-baez/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Jesse Baez"
-      ],
-      "openers": []
     },
     {
       "showId": "03592e76",
