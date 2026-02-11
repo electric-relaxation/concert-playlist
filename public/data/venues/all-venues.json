@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-11T20:33:27.249Z",
+  "generatedAtISO": "2026-02-11T22:24:54.188Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -1699,7 +1699,10 @@
       "headliners": [
         "MOLINA"
       ],
-      "openers": []
+      "openers": [
+        "Asha Wells",
+        "TrickyFM"
+      ]
     },
     {
       "showId": "73f6e87d",

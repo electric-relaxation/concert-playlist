@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-11T19:53:49.695Z",
+  "generatedAtISO": "2026-02-11T22:24:50.443Z",
   "shows": [
     {
       "showId": "50d4c8d6",
@@ -314,7 +314,10 @@
       "headliners": [
         "MOLINA"
       ],
-      "openers": []
+      "openers": [
+        "Asha Wells",
+        "TrickyFM"
+      ]
     },
     {
       "showId": "0e04311d",
