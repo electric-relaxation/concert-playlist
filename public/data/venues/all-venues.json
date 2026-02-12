@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-12T19:48:15.203Z",
+  "generatedAtISO": "2026-02-12T20:29:19.850Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -3037,7 +3037,10 @@
       "headliners": [
         "LOWERTOWN"
       ],
-      "openers": []
+      "openers": [
+        "Evil Children",
+        "Fat"
+      ]
     },
     {
       "showId": "3faceab8",

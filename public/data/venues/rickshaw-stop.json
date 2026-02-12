@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-12T18:55:51.102Z",
+  "generatedAtISO": "2026-02-12T20:29:16.955Z",
   "shows": [
     {
       "showId": "50d4c8d6",
@@ -569,7 +569,10 @@
       "headliners": [
         "LOWERTOWN"
       ],
-      "openers": []
+      "openers": [
+        "Evil Children",
+        "Fat"
+      ]
     },
     {
       "showId": "87df5dc1",
