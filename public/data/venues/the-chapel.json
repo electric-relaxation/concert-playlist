@@ -4,39 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-10T19:03:34.334Z",
+  "generatedAtISO": "2026-02-12T18:55:51.102Z",
   "shows": [
-    {
-      "showId": "5a32b180",
-      "dateISO": "2026-02-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/samm-henshaw/668400?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Samm Henshaw"
-      ],
-      "openers": [
-        "Miss Hits"
-      ]
-    },
-    {
-      "showId": "134ccbf4",
-      "dateISO": "2026-02-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/sprints/662880?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "SPRINTS"
-      ],
-      "openers": [
-        "Jennifer?",
-        "Um"
-      ]
-    },
     {
       "showId": "3877cd48",
       "dateISO": "2026-02-12",
@@ -109,15 +78,15 @@
       ]
     },
     {
-      "showId": "53a0cbec",
+      "showId": "92a811fb",
       "dateISO": "2026-02-16",
-      "startTime": "8:00 PM",
+      "startTime": "3:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
+      "showUrl": "https://wl.seetickets.us/event/somebody-tried-to-sell-me-a-bridge-launch-party/680853?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Private Event"
+        "Somebody Tried To Sell Me A Bridge launch party"
       ],
       "openers": []
     },
@@ -384,6 +353,19 @@
       "openers": [
         "SOM"
       ]
+    },
+    {
+      "showId": "53a0cbec",
+      "dateISO": "2026-03-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "bdc0d6ba",

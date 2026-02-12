@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-11T22:24:54.188Z",
+  "generatedAtISO": "2026-02-12T18:55:55.411Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -11,50 +11,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "5a32b180",
-      "dateISO": "2026-02-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/samm-henshaw/668400?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Samm Henshaw"
-      ],
-      "openers": [
-        "Miss Hits"
-      ]
-    },
-    {
-      "showId": "134ccbf4",
-      "dateISO": "2026-02-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/sprints/662880?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "SPRINTS"
-      ],
-      "openers": [
-        "Jennifer?",
-        "Um"
-      ]
-    },
-    {
-      "showId": "ff5246f7",
-      "dateISO": "2026-02-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/daniel-donatos-cosmic-country/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Daniel Donato’s Cosmic Country"
       ],
       "openers": []
     },
@@ -283,15 +239,15 @@
       ]
     },
     {
-      "showId": "53a0cbec",
+      "showId": "92a811fb",
       "dateISO": "2026-02-16",
-      "startTime": "8:00 PM",
+      "startTime": "3:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
+      "showUrl": "https://wl.seetickets.us/event/somebody-tried-to-sell-me-a-bridge-launch-party/680853?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Private Event"
+        "Somebody Tried To Sell Me A Bridge launch party"
       ],
       "openers": []
     },
@@ -1235,7 +1191,9 @@
       "headliners": [
         "RIO KOSTA"
       ],
-      "openers": []
+      "openers": [
+        "DJ Riley Geare"
+      ]
     },
     {
       "showId": "97b1c676",
@@ -1265,6 +1223,19 @@
         "Gloomy June",
         "In Balance"
       ]
+    },
+    {
+      "showId": "53a0cbec",
+      "dateISO": "2026-03-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "3b9a6ec4",
@@ -3092,6 +3063,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Isobel Campbell"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "87df5dc1",
+      "dateISO": "2026-05-29",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/samiamthe-flatliners/681028?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SAMIAM/THE FLATLINERS"
       ],
       "openers": []
     },

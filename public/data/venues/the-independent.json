@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-11T20:33:23.459Z",
+  "generatedAtISO": "2026-02-12T18:55:51.102Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -16,19 +16,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "ff5246f7",
-      "dateISO": "2026-02-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/daniel-donatos-cosmic-country/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Daniel Donato’s Cosmic Country"
       ],
       "openers": []
     },
@@ -319,7 +306,9 @@
       "headliners": [
         "RIO KOSTA"
       ],
-      "openers": []
+      "openers": [
+        "DJ Riley Geare"
+      ]
     },
     {
       "showId": "97b1c676",
