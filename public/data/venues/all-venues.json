@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-12T21:28:53.965Z",
+  "generatedAtISO": "2026-02-13T18:39:27.149Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -44,21 +44,6 @@
       "openers": [
         "Louis Futon",
         "Sessy"
-      ]
-    },
-    {
-      "showId": "3877cd48",
-      "dateISO": "2026-02-12",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/locust/674576?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Locust"
-      ],
-      "openers": [
-        "Zelma Stone"
       ]
     },
     {
@@ -1838,7 +1823,9 @@
       "headliners": [
         "We Three"
       ],
-      "openers": []
+      "openers": [
+        "Eli Wilson"
+      ]
     },
     {
       "showId": "005bd6ac",

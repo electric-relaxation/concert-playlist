@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-12T21:28:49.361Z",
+  "generatedAtISO": "2026-02-13T18:39:24.287Z",
   "shows": [
-    {
-      "showId": "3877cd48",
-      "dateISO": "2026-02-12",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/locust/674576?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Locust"
-      ],
-      "openers": [
-        "Zelma Stone"
-      ]
-    },
     {
       "showId": "f9d8d47a",
       "dateISO": "2026-02-13",
@@ -472,7 +457,9 @@
       "headliners": [
         "We Three"
       ],
-      "openers": []
+      "openers": [
+        "Eli Wilson"
+      ]
     },
     {
       "showId": "c9bae81c",
