@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-13T18:39:24.287Z",
+  "generatedAtISO": "2026-02-13T21:29:55.445Z",
   "shows": [
     {
       "showId": "f9d8d47a",
@@ -82,10 +82,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-rebirth-brass-band/669610?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/fat-tuesday-celebration-with-rebirth-brass-band/669610?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "An Evening"
+        "Fat Tuesday Celebration"
       ],
       "openers": [
         "Rebirth Brass Band"
