@@ -4,40 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-12T20:29:16.955Z",
+  "generatedAtISO": "2026-02-14T17:21:20.147Z",
   "shows": [
-    {
-      "showId": "50d4c8d6",
-      "dateISO": "2026-02-12",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/cherub/671511?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CHERUB"
-      ],
-      "openers": [
-        "Louis Futon",
-        "Sessy"
-      ]
-    },
-    {
-      "showId": "93713f15",
-      "dateISO": "2026-02-13",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/super-greens/672805?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SUPER GREENS"
-      ],
-      "openers": [
-        "Honey Bucket",
-        "Thrown-Out Bones"
-      ]
-    },
     {
       "showId": "9390cadd",
       "dateISO": "2026-02-15",
@@ -128,7 +96,9 @@
       "headliners": [
         "SUGAR CANDY MOUNTAIN"
       ],
-      "openers": []
+      "openers": [
+        "Night Heron"
+      ]
     },
     {
       "showId": "b20b8d3d",
