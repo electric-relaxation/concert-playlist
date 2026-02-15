@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-12T18:55:51.102Z",
+  "generatedAtISO": "2026-02-15T01:49:33.985Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -20,35 +20,6 @@
       "openers": []
     },
     {
-      "showId": "9feddaad",
-      "dateISO": "2026-02-12",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/daniel-donatos-cosmic-country-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Daniel Donato’s Cosmic Country"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "fa459069",
-      "dateISO": "2026-02-13",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/venna/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Venna"
-      ],
-      "openers": [
-        "Dani Offline",
-        "Juicy Stemz"
-      ]
-    },
-    {
       "showId": "0948a50e",
       "dateISO": "2026-02-14",
       "startTime": "9:00 PM",
@@ -60,6 +31,21 @@
         "The Emo Night Tour"
       ],
       "openers": []
+    },
+    {
+      "showId": "0a0cd8ac",
+      "dateISO": "2026-02-16",
+      "startTime": "7:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/michael-shannon-jason-narducy-play-r-e-m-s-lifes-rich-pageant/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Michael Shannon & Jason Narducy play R.E.M.’s Lifes Rich Pageant"
+      ],
+      "openers": [
+        "Bobcat Goldthwait"
+      ]
     },
     {
       "showId": "e5e985c3",
