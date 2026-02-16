@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-16T19:29:13.442Z",
+  "generatedAtISO": "2026-02-16T22:22:11.703Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -90,21 +90,6 @@
         "The Emo Night Tour"
       ],
       "openers": []
-    },
-    {
-      "showId": "9390cadd",
-      "dateISO": "2026-02-15",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/blood-cultures/673387?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BLOOD CULTURES"
-      ],
-      "openers": [
-        "DJ Omar"
-      ]
     },
     {
       "showId": "92a811fb",
@@ -352,6 +337,7 @@
       ],
       "openers": [
         "DJ Zeljko",
+        "Deuce Eclipse",
         "Jill Parker"
       ]
     },
