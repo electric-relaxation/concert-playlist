@@ -4,65 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-14T01:29:25.121Z",
+  "generatedAtISO": "2026-02-16T19:29:10.047Z",
   "shows": [
-    {
-      "showId": "f9d8d47a",
-      "dateISO": "2026-02-13",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/cobweb-cabaret/674349?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Cobweb Cabaret"
-      ],
-      "openers": [
-        "6odlike",
-        "Countess Wednesday",
-        "Eddie Divas",
-        "Emma Vauxdevil",
-        "Esther Van Oui",
-        "Heaven Starr",
-        "La Reina",
-        "Qu’in de La Noche",
-        "Raquel Reed",
-        "Reina La Rouge",
-        "Sandra Alva",
-        "Yayah"
-      ]
-    },
-    {
-      "showId": "83092729",
-      "dateISO": "2026-02-14",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-chuck-prophet-and-the-make-out-quartet/674020?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Chuck Prophet & The Make Out Quartet"
-      ]
-    },
-    {
-      "showId": "806abfca",
-      "dateISO": "2026-02-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/cold-cave/668649?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Cold Cave"
-      ],
-      "openers": [
-        "Buzz Kull",
-        "Rosa Anschütz"
-      ]
-    },
     {
       "showId": "92a811fb",
       "dateISO": "2026-02-16",
@@ -578,7 +521,7 @@
       ],
       "openers": [
         "Artsick",
-        "DJ Andy Cabic"
+        "DJ Galine MoDmoiselle"
       ]
     },
     {
@@ -593,7 +536,7 @@
         "Throwing Muses"
       ],
       "openers": [
-        "DJ Galine MoDmoiselle",
+        "DJ Andy Cabic",
         "Now"
       ]
     },
