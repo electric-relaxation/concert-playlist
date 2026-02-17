@@ -4,72 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-10T22:34:37.251Z",
+  "generatedAtISO": "2026-02-17T23:24:27.974Z",
   "shows": [
-    {
-      "showId": "33d2dd7b",
-      "dateISO": "2026-02-11",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260211.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Glow Scout"
-      ],
-      "openers": [
-        "CVCC",
-        "CuVa BiMo"
-      ]
-    },
-    {
-      "showId": "d04a2bd9",
-      "dateISO": "2026-02-12",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260212.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Yawning Man"
-      ],
-      "openers": [
-        "Agouti",
-        "Niveles"
-      ]
-    },
-    {
-      "showId": "09e32eb5",
-      "dateISO": "2026-02-13",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260213.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Blossom"
-      ],
-      "openers": [
-        "Rosegate Ave.",
-        "Sledges"
-      ]
-    },
-    {
-      "showId": "ea26cb66",
-      "dateISO": "2026-02-14",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260214.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "BUÑUEL"
-      ],
-      "openers": [
-        "Facet",
-        "Squid Pisser"
-      ]
-    },
     {
       "showId": "8fc09ada",
       "dateISO": "2026-02-18",
@@ -416,7 +352,7 @@
     {
       "showId": "1c137b57",
       "dateISO": "2026-03-22",
-      "startTime": "8:00 PM",
+      "startTime": "7:30 PM",
       "venueId": "bottom-of-the-hill",
       "venueName": "Bottom of the Hill",
       "showUrl": "http://www.bottomofthehill.com/20260322.html",
@@ -425,7 +361,8 @@
         "Landon Conrath"
       ],
       "openers": [
-        "Abby Holliday"
+        "Abby Holliday",
+        "Devvy Dub"
       ]
     },
     {
