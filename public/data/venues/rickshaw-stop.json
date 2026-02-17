@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-16T22:22:07.970Z",
+  "generatedAtISO": "2026-02-17T20:31:23.453Z",
   "shows": [
     {
       "showId": "23636fcc",
@@ -83,6 +83,7 @@
         "SUGAR CANDY MOUNTAIN"
       ],
       "openers": [
+        "Abracadabra",
         "Night Heron"
       ]
     },
