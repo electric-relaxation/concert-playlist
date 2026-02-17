@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-17T20:31:26.106Z",
+  "generatedAtISO": "2026-02-17T22:25:34.910Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -975,7 +975,9 @@
       "headliners": [
         "greek"
       ],
-      "openers": []
+      "openers": [
+        "Humble The Great"
+      ]
     },
     {
       "showId": "0b77b835",

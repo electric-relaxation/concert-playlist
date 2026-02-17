@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-17T18:51:01.663Z",
+  "generatedAtISO": "2026-02-17T22:25:31.902Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -251,7 +251,9 @@
       "headliners": [
         "greek"
       ],
-      "openers": []
+      "openers": [
+        "Humble The Great"
+      ]
     },
     {
       "showId": "5a5328a5",
