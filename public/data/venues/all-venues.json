@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-17T17:52:25.619Z",
+  "generatedAtISO": "2026-02-17T18:51:04.564Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -2239,6 +2239,19 @@
         "The She's",
         "youbet"
       ]
+    },
+    {
+      "showId": "8abcbd4b",
+      "dateISO": "2026-04-18",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-9/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
+      ],
+      "openers": []
     },
     {
       "showId": "174a624d",

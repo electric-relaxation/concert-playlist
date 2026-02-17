@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-17T17:52:21.633Z",
+  "generatedAtISO": "2026-02-17T18:51:01.663Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -638,6 +638,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Hasan Raheem"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8abcbd4b",
+      "dateISO": "2026-04-18",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-9/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
       ],
       "openers": []
     },
