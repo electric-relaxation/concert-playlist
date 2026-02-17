@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-16T22:22:11.703Z",
+  "generatedAtISO": "2026-02-17T17:52:25.619Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -79,19 +79,6 @@
       ]
     },
     {
-      "showId": "0948a50e",
-      "dateISO": "2026-02-14",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-8/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Emo Night Tour"
-      ],
-      "openers": []
-    },
-    {
       "showId": "92a811fb",
       "dateISO": "2026-02-16",
       "startTime": "3:00 PM",
@@ -103,21 +90,6 @@
         "Van Morrison: Somebody Tried To Sell Me A Bridge"
       ],
       "openers": []
-    },
-    {
-      "showId": "0a0cd8ac",
-      "dateISO": "2026-02-16",
-      "startTime": "7:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/michael-shannon-jason-narducy-play-r-e-m-s-lifes-rich-pageant/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Michael Shannon & Jason Narducy play R.E.M.’s Lifes Rich Pageant"
-      ],
-      "openers": [
-        "Bobcat Goldthwait"
-      ]
     },
     {
       "showId": "23636fcc",
@@ -2913,6 +2885,19 @@
         "Evil Children",
         "Fat"
       ]
+    },
+    {
+      "showId": "54d49657",
+      "dateISO": "2026-05-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/old-mervs/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Old Mervs"
+      ],
+      "openers": []
     },
     {
       "showId": "3faceab8",
