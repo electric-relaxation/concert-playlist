@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-17T23:24:31.693Z",
+  "generatedAtISO": "2026-02-18T11:35:03.016Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -2879,6 +2879,22 @@
         "Isobel Campbell"
       ],
       "openers": []
+    },
+    {
+      "showId": "50ef612d",
+      "dateISO": "2026-05-28",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260528.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Supersuckers"
+      ],
+      "openers": [
+        "Hangtown",
+        "Scott H. Biram"
+      ]
     },
     {
       "showId": "87df5dc1",

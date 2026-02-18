@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-17T23:24:27.974Z",
+  "generatedAtISO": "2026-02-18T11:34:59.518Z",
   "shows": [
     {
       "showId": "8fc09ada",
@@ -725,6 +725,22 @@
       ],
       "openers": [
         "Facing"
+      ]
+    },
+    {
+      "showId": "50ef612d",
+      "dateISO": "2026-05-28",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260528.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Supersuckers"
+      ],
+      "openers": [
+        "Hangtown",
+        "Scott H. Biram"
       ]
     },
     {
