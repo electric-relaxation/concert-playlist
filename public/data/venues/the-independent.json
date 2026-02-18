@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-18T20:33:28.139Z",
+  "generatedAtISO": "2026-02-18T22:27:26.830Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -332,7 +332,7 @@
     {
       "showId": "4635db5d",
       "dateISO": "2026-03-20",
-      "startTime": "8:00 PM",
+      "startTime": "9:00 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/parlor-greens/",

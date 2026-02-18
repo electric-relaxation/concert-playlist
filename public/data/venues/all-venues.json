@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-18T21:30:36.661Z",
+  "generatedAtISO": "2026-02-18T22:27:30.403Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -1138,21 +1138,6 @@
       "openers": []
     },
     {
-      "showId": "4635db5d",
-      "dateISO": "2026-03-20",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/parlor-greens/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Parlor Greens"
-      ],
-      "openers": [
-        "Prophet Martian"
-      ]
-    },
-    {
       "showId": "24e6af9d",
       "dateISO": "2026-03-20",
       "startTime": "8:30 PM",
@@ -1182,6 +1167,21 @@
       "openers": [
         "Hosted by Franzia Rose",
         "special guest Suzanimal"
+      ]
+    },
+    {
+      "showId": "4635db5d",
+      "dateISO": "2026-03-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/parlor-greens/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Parlor Greens"
+      ],
+      "openers": [
+        "Prophet Martian"
       ]
     },
     {
