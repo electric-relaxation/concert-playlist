@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-18T18:45:06.100Z",
+  "generatedAtISO": "2026-02-18T20:33:28.139Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -963,6 +963,19 @@
       "openers": [
         "The Moondrops"
       ]
+    },
+    {
+      "showId": "613bd30a",
+      "dateISO": "2026-05-22",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/electric-feels-4/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Electric Feels"
+      ],
+      "openers": []
     },
     {
       "showId": "e8119d97",

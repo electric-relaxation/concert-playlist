@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-18T19:44:03.674Z",
+  "generatedAtISO": "2026-02-18T20:33:31.717Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -60,22 +60,6 @@
       "openers": [
         "Bloodhum",
         "The Spiral Electric"
-      ]
-    },
-    {
-      "showId": "5d6d70aa",
-      "dateISO": "2026-02-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/don-carlos-postponed-to-friday-june-12/677629?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Don Carlos - postponed to Friday, June 12"
-      ],
-      "openers": [
-        "DJ and Host Irie Dole",
-        "Floratura"
       ]
     },
     {
@@ -2797,6 +2781,19 @@
       "openers": []
     },
     {
+      "showId": "613bd30a",
+      "dateISO": "2026-05-22",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/electric-feels-4/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Electric Feels"
+      ],
+      "openers": []
+    },
+    {
       "showId": "e8119d97",
       "dateISO": "2026-05-24",
       "startTime": "8:00 PM",
@@ -3040,6 +3037,22 @@
       ],
       "openers": [
         "Mori"
+      ]
+    },
+    {
+      "showId": "34139145",
+      "dateISO": "2026-06-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/don-carlos-rescheduled-from-thursday-february-19/677629?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Don Carlos (rescheduled from Thursday, February 19)"
+      ],
+      "openers": [
+        "DJ and Host Irie Dole",
+        "Floratura"
       ]
     },
     {

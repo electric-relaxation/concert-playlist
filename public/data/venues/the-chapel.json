@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-18T19:43:59.610Z",
+  "generatedAtISO": "2026-02-18T20:33:28.139Z",
   "shows": [
     {
       "showId": "a6167def",
@@ -20,22 +20,6 @@
       "openers": [
         "Bloodhum",
         "The Spiral Electric"
-      ]
-    },
-    {
-      "showId": "5d6d70aa",
-      "dateISO": "2026-02-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/don-carlos-postponed-to-friday-june-12/677629?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Don Carlos - postponed to Friday, June 12"
-      ],
-      "openers": [
-        "DJ and Host Irie Dole",
-        "Floratura"
       ]
     },
     {
@@ -699,6 +683,22 @@
       ],
       "openers": [
         "Jerry's Middle Finger"
+      ]
+    },
+    {
+      "showId": "34139145",
+      "dateISO": "2026-06-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/don-carlos-rescheduled-from-thursday-february-19/677629?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Don Carlos (rescheduled from Thursday, February 19)"
+      ],
+      "openers": [
+        "DJ and Host Irie Dole",
+        "Floratura"
       ]
     },
     {
