@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-17T22:25:31.902Z",
+  "generatedAtISO": "2026-02-18T18:45:06.100Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -570,6 +570,7 @@
         "Maria Somerville"
       ],
       "openers": [
+        "Colle",
         "r.image"
       ]
     },
@@ -653,6 +654,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "The Emo Night Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "be6f9566",
+      "dateISO": "2026-04-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/jane-handcock/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "JANE HANDCOCK"
       ],
       "openers": []
     },
