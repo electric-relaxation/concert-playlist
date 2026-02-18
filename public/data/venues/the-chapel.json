@@ -4,36 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-16T19:29:10.047Z",
+  "generatedAtISO": "2026-02-18T19:43:59.610Z",
   "shows": [
-    {
-      "showId": "92a811fb",
-      "dateISO": "2026-02-16",
-      "startTime": "3:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/van-morrison-somebody-tried-to-sell-me-a-bridge/680853?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Van Morrison: Somebody Tried To Sell Me A Bridge"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "5fae6343",
-      "dateISO": "2026-02-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/fat-tuesday-celebration-with-rebirth-brass-band/669610?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Fat Tuesday Celebration"
-      ],
-      "openers": [
-        "Rebirth Brass Band"
-      ]
-    },
     {
       "showId": "a6167def",
       "dateISO": "2026-02-18",
@@ -56,10 +28,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/don-carlos/677629?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/don-carlos-postponed-to-friday-june-12/677629?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Don Carlos"
+        "Don Carlos - postponed to Friday, June 12"
       ],
       "openers": [
         "DJ and Host Irie Dole",
