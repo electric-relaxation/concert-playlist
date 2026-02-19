@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-17T20:31:23.453Z",
+  "generatedAtISO": "2026-02-19T22:26:45.193Z",
   "shows": [
-    {
-      "showId": "23636fcc",
-      "dateISO": "2026-02-17",
-      "startTime": "7:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/locs-only-with-mutt/679201?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "LOCS ONLY with M.U.T.T."
-      ],
-      "openers": [
-        "Slosh",
-        "Yo! & the Electric"
-      ]
-    },
     {
       "showId": "8db14990",
       "dateISO": "2026-02-19",
@@ -129,7 +113,9 @@
       "headliners": [
         "EMO NITE"
       ],
-      "openers": []
+      "openers": [
+        "Vicky T"
+      ]
     },
     {
       "showId": "b0960470",

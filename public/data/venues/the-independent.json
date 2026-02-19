@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-18T22:27:26.830Z",
+  "generatedAtISO": "2026-02-19T22:26:45.193Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -151,7 +151,9 @@
       "headliners": [
         "Black Pistol Fire"
       ],
-      "openers": []
+      "openers": [
+        "Pink Fuzz"
+      ]
     },
     {
       "showId": "04c12558",
