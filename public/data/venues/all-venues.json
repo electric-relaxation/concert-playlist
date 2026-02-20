@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-20T15:33:49.563Z",
+  "generatedAtISO": "2026-02-20T17:33:53.648Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -3227,6 +3227,19 @@
       "openers": [
         "Traps PS"
       ]
+    },
+    {
+      "showId": "90dfe083",
+      "dateISO": "2026-09-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/pawpaw-rod/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "PawPaw Rod"
+      ],
+      "openers": []
     },
     {
       "showId": "952ddd51",

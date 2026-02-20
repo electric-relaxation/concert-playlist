@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-20T15:33:45.988Z",
+  "generatedAtISO": "2026-02-20T17:33:50.318Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -1130,6 +1130,19 @@
         "Resentvul",
         "Ryan Oakes"
       ]
+    },
+    {
+      "showId": "90dfe083",
+      "dateISO": "2026-09-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/pawpaw-rod/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "PawPaw Rod"
+      ],
+      "openers": []
     },
     {
       "showId": "952ddd51",
