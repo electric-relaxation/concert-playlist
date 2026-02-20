@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-20T21:19:54.144Z",
+  "generatedAtISO": "2026-02-20T22:20:38.603Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -1810,7 +1810,10 @@
       "headliners": [
         "ULRIKA SPACEK"
       ],
-      "openers": []
+      "openers": [
+        "Badvril",
+        "Cindy"
+      ]
     },
     {
       "showId": "861d26ae",

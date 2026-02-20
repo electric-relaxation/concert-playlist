@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-19T22:26:45.193Z",
+  "generatedAtISO": "2026-02-20T22:20:35.313Z",
   "shows": [
     {
       "showId": "8db14990",
@@ -392,7 +392,10 @@
       "headliners": [
         "ULRIKA SPACEK"
       ],
-      "openers": []
+      "openers": [
+        "Badvril",
+        "Cindy"
+      ]
     },
     {
       "showId": "0fcceb40",
