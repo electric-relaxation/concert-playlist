@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-19T22:26:45.193Z",
+  "generatedAtISO": "2026-02-20T15:33:45.988Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -18,21 +18,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "e5e985c3",
-      "dateISO": "2026-02-19",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-polish-ambassador/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Polish Ambassador"
-      ],
-      "openers": [
-        "Scott Nice"
-      ]
     },
     {
       "showId": "e8577dc1",
@@ -838,6 +823,19 @@
       "openers": [
         "Marie Dresselhuis"
       ]
+    },
+    {
+      "showId": "7f89e854",
+      "dateISO": "2026-05-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/grace-ives/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Grace Ives"
+      ],
+      "openers": []
     },
     {
       "showId": "376ed913",

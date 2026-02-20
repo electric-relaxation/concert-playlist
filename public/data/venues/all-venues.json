@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-19T22:26:48.710Z",
+  "generatedAtISO": "2026-02-20T15:33:49.563Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -60,21 +60,6 @@
       "openers": [
         "Cindy",
         "Still Ruins"
-      ]
-    },
-    {
-      "showId": "e5e985c3",
-      "dateISO": "2026-02-19",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-polish-ambassador/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Polish Ambassador"
-      ],
-      "openers": [
-        "Scott Nice"
       ]
     },
     {
@@ -2527,6 +2512,19 @@
       "openers": [
         "Marie Dresselhuis"
       ]
+    },
+    {
+      "showId": "7f89e854",
+      "dateISO": "2026-05-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/grace-ives/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Grace Ives"
+      ],
+      "openers": []
     },
     {
       "showId": "376ed913",
