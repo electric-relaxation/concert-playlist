@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-20T17:33:50.318Z",
+  "generatedAtISO": "2026-02-20T20:24:54.633Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -1112,6 +1112,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "High Fade"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "960d41a4",
+      "dateISO": "2026-07-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chinese-american-bear/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chinese American Bear"
       ],
       "openers": []
     },
