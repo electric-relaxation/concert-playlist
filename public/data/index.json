@@ -1,6 +1,12 @@
 {
-  "generatedAtISO": "2026-02-22T10:20:21.477Z",
+  "generatedAtISO": "2026-02-22T11:17:44.096Z",
   "venues": [
+    {
+      "id": "bottom-of-the-hill",
+      "name": "Bottom of the Hill",
+      "calendarUrl": "https://www.bottomofthehill.com/calendar.html",
+      "dataPath": "data/venues/bottom-of-the-hill.json"
+    },
     {
       "id": "the-independent",
       "name": "The Independent",
