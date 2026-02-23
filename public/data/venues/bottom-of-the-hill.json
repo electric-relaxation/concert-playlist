@@ -4,72 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-19T04:15:48.852Z",
+  "generatedAtISO": "2026-02-23T12:53:26.759Z",
   "shows": [
-    {
-      "showId": "8fc09ada",
-      "dateISO": "2026-02-18",
-      "startTime": "7:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260218.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "NOT.GREENDAY"
-      ],
-      "openers": [
-        "Tess & the Details",
-        "Thomas Nicholas Band"
-      ]
-    },
-    {
-      "showId": "42a35605",
-      "dateISO": "2026-02-20",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260220.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Hudson Freeman"
-      ],
-      "openers": [
-        "Dog Eyes",
-        "Pillowprince"
-      ]
-    },
-    {
-      "showId": "65bd5ef8",
-      "dateISO": "2026-02-21",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260221.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Jeffrey Lewis & the Voltage"
-      ],
-      "openers": [
-        "Mayya",
-        "Pacing"
-      ]
-    },
-    {
-      "showId": "345a01a4",
-      "dateISO": "2026-02-22",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260222.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "J. Robbins plays Burning Airlines"
-      ],
-      "openers": [
-        "KID COPS",
-        "Minus Numbers"
-      ]
-    },
     {
       "showId": "2067c0da",
       "dateISO": "2026-02-25",
@@ -594,6 +530,19 @@
       "openers": [
         "Mommy Mommy"
       ]
+    },
+    {
+      "showId": "17a25fab",
+      "dateISO": "2026-04-19",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260419.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Sgt. Splendor"
+      ],
+      "openers": []
     },
     {
       "showId": "b353272c",
