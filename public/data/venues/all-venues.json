@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-23T12:53:30.451Z",
+  "generatedAtISO": "2026-02-23T15:44:13.597Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -78,22 +78,6 @@
       ]
     },
     {
-      "showId": "e8577dc1",
-      "dateISO": "2026-02-20",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/denm/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "DENM"
-      ],
-      "openers": [
-        "Evening Elephants",
-        "Obed Padilla"
-      ]
-    },
-    {
       "showId": "89308315",
       "dateISO": "2026-02-21",
       "startTime": "8:00 PM",
@@ -143,21 +127,6 @@
         "Grand Goldy",
         "Krisa Cupcake",
         "RUFFY TNT"
-      ]
-    },
-    {
-      "showId": "03592e76",
-      "dateISO": "2026-02-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/fox-stevenson/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Fox Stevenson"
-      ],
-      "openers": [
-        "Yue"
       ]
     },
     {
@@ -3019,6 +2988,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Ásgeir"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "be46e803",
+      "dateISO": "2026-06-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/choker/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Choker"
       ],
       "openers": []
     },
