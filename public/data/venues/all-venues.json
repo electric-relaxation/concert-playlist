@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-24T01:44:05.115Z",
+  "generatedAtISO": "2026-02-24T14:09:12.388Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -13,22 +13,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "7006b691",
-      "dateISO": "2026-02-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.eventim.us/event/don-carlos-rescheduled-from-thursday-february-19/677629?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Don Carlos (POSTPONED TO JUNE 12th)"
-      ],
-      "openers": [
-        "DJ and Host Irie Dole",
-        "Floratura"
-      ]
     },
     {
       "showId": "8db14990",
@@ -63,37 +47,6 @@
       ]
     },
     {
-      "showId": "b45e95c0",
-      "dateISO": "2026-02-20",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-legend-zeppelin/665003?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Legend Zeppelin"
-      ]
-    },
-    {
-      "showId": "89308315",
-      "dateISO": "2026-02-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/mat-kerekes/668083?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Mat Kerekes"
-      ],
-      "openers": [
-        "Beeson",
-        "Shallow Alcove"
-      ]
-    },
-    {
       "showId": "02057124",
       "dateISO": "2026-02-21",
       "startTime": "9:00 PM",
@@ -108,25 +61,6 @@
         "DJ Zeljko",
         "Deuce Eclipse",
         "Jill Parker"
-      ]
-    },
-    {
-      "showId": "94f45bb9",
-      "dateISO": "2026-02-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/bolero-greetings-mother-earth-record-release-show/677156?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "BOLERO! \"Greetings Mother Earth\" Record Release Show"
-      ],
-      "openers": [
-        "Caravan 222",
-        "Ether Wave Light Show",
-        "Grand Goldy",
-        "Krisa Cupcake",
-        "RUFFY TNT"
       ]
     },
     {
@@ -3232,6 +3166,21 @@
         "Armand Hammer"
       ],
       "openers": []
+    },
+    {
+      "showId": "f8913335",
+      "dateISO": "2026-12-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/buck-meek/681148?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Buck Meek"
+      ],
+      "openers": [
+        "Kisser"
+      ]
     }
   ]
 }
