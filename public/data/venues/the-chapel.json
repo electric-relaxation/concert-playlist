@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-24T15:57:40.340Z",
+  "generatedAtISO": "2026-02-24T18:55:04.107Z",
   "shows": [
     {
       "showId": "a380eb4c",
@@ -543,6 +543,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Sleaford Mods"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ef7eceaf",
+      "dateISO": "2026-05-23",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-paper-kites/682267?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Paper Kites"
       ],
       "openers": []
     },

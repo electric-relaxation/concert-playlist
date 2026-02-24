@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-23T15:44:09.227Z",
+  "generatedAtISO": "2026-02-24T18:55:04.107Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -513,7 +513,9 @@
       "headliners": [
         "The Casualties"
       ],
-      "openers": []
+      "openers": [
+        "Bullshit Detector"
+      ]
     },
     {
       "showId": "c116889d",

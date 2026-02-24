@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-24T15:57:44.676Z",
+  "generatedAtISO": "2026-02-24T18:55:08.812Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -13,55 +13,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "8db14990",
-      "dateISO": "2026-02-19",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-pains-of-being-pure-at-heart/675561?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "THE PAINS OF BEING PURE AT HEART"
-      ],
-      "openers": [
-        "Cindy",
-        "Still Ruins"
-      ]
-    },
-    {
-      "showId": "82ac7129",
-      "dateISO": "2026-02-20",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-pains-of-being-pure-at-heart/668737?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "THE PAINS OF BEING PURE AT HEART"
-      ],
-      "openers": [
-        "Chime School",
-        "Living Hour"
-      ]
-    },
-    {
-      "showId": "02057124",
-      "dateISO": "2026-02-21",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/kafana-balkan-19th-anniversary-party/676981?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "KAFANA BALKAN 19TH ANNIVERSARY PARTY"
-      ],
-      "openers": [
-        "DJ Zeljko",
-        "Deuce Eclipse",
-        "Jill Parker"
-      ]
     },
     {
       "showId": "a380eb4c",
@@ -1703,7 +1654,9 @@
       "headliners": [
         "The Casualties"
       ],
-      "openers": []
+      "openers": [
+        "Bullshit Detector"
+      ]
     },
     {
       "showId": "f3cda3bb",
@@ -1778,6 +1731,19 @@
       "openers": [
         "The Mainliners"
       ]
+    },
+    {
+      "showId": "ef8a6ae0",
+      "dateISO": "2026-04-11",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/all-your-friends/682420?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALL YOUR FRIENDS"
+      ],
+      "openers": []
     },
     {
       "showId": "6816ad42",
@@ -2637,6 +2603,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Electric Feels"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ef7eceaf",
+      "dateISO": "2026-05-23",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-paper-kites/682267?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Paper Kites"
       ],
       "openers": []
     },
