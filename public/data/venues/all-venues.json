@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-23T15:44:13.597Z",
+  "generatedAtISO": "2026-02-24T01:44:05.115Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -703,7 +703,9 @@
       "headliners": [
         "Ally Nicholas"
       ],
-      "openers": []
+      "openers": [
+        "Present"
+      ]
     },
     {
       "showId": "64100776",
@@ -908,7 +910,10 @@
       "headliners": [
         "Sonamó"
       ],
-      "openers": []
+      "openers": [
+        "Riderz",
+        "The C Breezy Quartet"
+      ]
     },
     {
       "showId": "04dfab6b",

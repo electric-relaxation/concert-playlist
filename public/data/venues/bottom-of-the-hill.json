@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-23T12:53:26.759Z",
+  "generatedAtISO": "2026-02-24T01:44:01.407Z",
   "shows": [
     {
       "showId": "2067c0da",
@@ -177,7 +177,9 @@
       "headliners": [
         "Ally Nicholas"
       ],
-      "openers": []
+      "openers": [
+        "Present"
+      ]
     },
     {
       "showId": "0b77b835",
@@ -222,7 +224,10 @@
       "headliners": [
         "Sonamó"
       ],
-      "openers": []
+      "openers": [
+        "Riderz",
+        "The C Breezy Quartet"
+      ]
     },
     {
       "showId": "04dfab6b",
