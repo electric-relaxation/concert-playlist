@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-24T14:09:12.388Z",
+  "generatedAtISO": "2026-02-24T15:57:44.676Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -3151,6 +3151,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Marlon Magnée (of La Femme)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d9705bdb",
+      "dateISO": "2026-10-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/soda-blonde/681807?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Soda Blonde"
       ],
       "openers": []
     },
