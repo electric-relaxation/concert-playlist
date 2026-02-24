@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-24T18:55:08.812Z",
+  "generatedAtISO": "2026-02-24T19:46:49.534Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -3033,6 +3033,19 @@
         "Resentvul",
         "Ryan Oakes"
       ]
+    },
+    {
+      "showId": "f9ee2292",
+      "dateISO": "2026-08-11",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/playlunch/682338?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "PLAYLUNCH"
+      ],
+      "openers": []
     },
     {
       "showId": "91d115b7",

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-24T18:55:04.107Z",
+  "generatedAtISO": "2026-02-24T19:46:46.825Z",
   "shows": [
     {
       "showId": "c2c07bed",
@@ -511,6 +511,19 @@
       "openers": [
         "Tele Novella"
       ]
+    },
+    {
+      "showId": "f9ee2292",
+      "dateISO": "2026-08-11",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/playlunch/682338?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "PLAYLUNCH"
+      ],
+      "openers": []
     }
   ]
 }
