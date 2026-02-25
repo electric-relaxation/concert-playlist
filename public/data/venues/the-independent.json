@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-25T01:46:27.713Z",
+  "generatedAtISO": "2026-02-25T18:58:20.352Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -591,6 +591,19 @@
       ]
     },
     {
+      "showId": "53463c18",
+      "dateISO": "2026-04-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/hasan-raheem-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Hasan Raheem"
+      ],
+      "openers": []
+    },
+    {
       "showId": "66993bde",
       "dateISO": "2026-04-17",
       "startTime": "8:00 PM",
@@ -1084,6 +1097,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Mamas Gun"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "276c59f6",
+      "dateISO": "2026-06-26",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-lagoons/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Lagoons"
       ],
       "openers": []
     },

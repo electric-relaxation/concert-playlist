@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-25T07:01:37.485Z",
+  "generatedAtISO": "2026-02-25T18:58:34.218Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -1850,6 +1850,19 @@
       ]
     },
     {
+      "showId": "53463c18",
+      "dateISO": "2026-04-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/hasan-raheem-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Hasan Raheem"
+      ],
+      "openers": []
+    },
+    {
       "showId": "ed776c5c",
       "dateISO": "2026-04-16",
       "startTime": "8:30 PM",
@@ -2067,6 +2080,19 @@
         "Grooblen",
         "Hot Brother"
       ]
+    },
+    {
+      "showId": "bba3b76a",
+      "dateISO": "2026-04-23",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/ps-goner-peter-sagar-from-homeshake/682276?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ps goner (peter sagar from homeshake)"
+      ],
+      "openers": []
     },
     {
       "showId": "3cdee586",
@@ -2792,6 +2818,22 @@
       "openers": []
     },
     {
+      "showId": "0cd2547e",
+      "dateISO": "2026-05-31",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/marietta/682272?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MARIETTA"
+      ],
+      "openers": [
+        "Snowing",
+        "awakebutstillinbed"
+      ]
+    },
+    {
       "showId": "d7fcef35",
       "dateISO": "2026-06-05",
       "startTime": "9:00 PM",
@@ -2976,6 +3018,19 @@
       "openers": [
         "Tele Novella"
       ]
+    },
+    {
+      "showId": "276c59f6",
+      "dateISO": "2026-06-26",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-lagoons/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Lagoons"
+      ],
+      "openers": []
     },
     {
       "showId": "ad2a0537",
