@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-02-24T01:44:01.407Z",
+  "generatedAtISO": "2026-02-25T07:01:34.026Z",
   "shows": [
     {
       "showId": "2067c0da",
@@ -309,7 +309,7 @@
     {
       "showId": "0559c623",
       "dateISO": "2026-03-23",
-      "startTime": "8:00 PM",
+      "startTime": "7:30 PM",
       "venueId": "bottom-of-the-hill",
       "venueName": "Bottom of the Hill",
       "showUrl": "http://www.bottomofthehill.com/20260323.html",
@@ -318,7 +318,8 @@
         "Acopia"
       ],
       "openers": [
-        "Eilish Constance"
+        "Eilish Constance",
+        "r.image"
       ]
     },
     {
