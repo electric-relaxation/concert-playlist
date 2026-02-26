@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-24T18:55:04.107Z",
+  "generatedAtISO": "2026-02-26T22:27:58.145Z",
   "shows": [
-    {
-      "showId": "a380eb4c",
-      "dateISO": "2026-02-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/george-harrison-birthday-tribute-show/677607?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "George Harrison Birthday Tribute Show"
-      ],
-      "openers": [
-        "Ether Light Wave Show"
-      ]
-    },
     {
       "showId": "54db41d3",
       "dateISO": "2026-02-26",
@@ -238,10 +223,10 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-third-mind/674471?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/the-third-mind-feat-dave-alvin-jesse-sykes-and-mark-karan/674471?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "The Third Mind"
+        "The Third Mind - feat Dave Alvin, Jesse Sykes & Mark Karan"
       ],
       "openers": [
         "Hot Mountain Dips",
