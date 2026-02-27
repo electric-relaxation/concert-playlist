@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-25T18:58:20.352Z",
+  "generatedAtISO": "2026-02-27T04:08:38.651Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -429,7 +429,9 @@
       "headliners": [
         "HOLYWATR"
       ],
-      "openers": []
+      "openers": [
+        "Grayhaven"
+      ]
     },
     {
       "showId": "ed741335",

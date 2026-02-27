@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-27T01:28:35.067Z",
+  "generatedAtISO": "2026-02-27T04:08:51.985Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -1315,7 +1315,9 @@
       "headliners": [
         "HOLYWATR"
       ],
-      "openers": []
+      "openers": [
+        "Grayhaven"
+      ]
     },
     {
       "showId": "53646deb",
