@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-02-26T23:24:29.068Z",
+  "generatedAtISO": "2026-02-27T23:19:21.167Z",
   "shows": [
-    {
-      "showId": "54db41d3",
-      "dateISO": "2026-02-26",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-fiery-furnaces/668256?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Fiery Furnaces"
-      ],
-      "openers": [
-        "Spacemoth"
-      ]
-    },
     {
       "showId": "73f3fb48",
       "dateISO": "2026-02-27",
@@ -57,13 +42,13 @@
       "startTime": "7:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-sun-ra-arkestra/670490?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-the-sun-ra-arkestra/670490?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "An Evening"
       ],
       "openers": [
-        "Sun Ra Arkestra"
+        "Vinyl DJ Sets by David Katznelson"
       ]
     },
     {
