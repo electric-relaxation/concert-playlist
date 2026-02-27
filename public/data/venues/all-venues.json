@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-26T23:24:32.744Z",
+  "generatedAtISO": "2026-02-27T01:28:35.067Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -13,22 +13,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "c2c07bed",
-      "dateISO": "2026-02-25",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/sugar-candy-mountain/679198?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SUGAR CANDY MOUNTAIN"
-      ],
-      "openers": [
-        "Abracadabra",
-        "Night Heron"
-      ]
     },
     {
       "showId": "b20b8d3d",
@@ -908,21 +892,6 @@
       ]
     },
     {
-      "showId": "c8d4fdba",
-      "dateISO": "2026-03-21",
-      "startTime": "7:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/sessa/669847?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SESSA"
-      ],
-      "openers": [
-        "William Alexander"
-      ]
-    },
-    {
       "showId": "029c0987",
       "dateISO": "2026-03-21",
       "startTime": "9:00 PM",
@@ -936,6 +905,21 @@
       "openers": [
         "Jen Pop",
         "Sweet Gloom"
+      ]
+    },
+    {
+      "showId": "c8d4fdba",
+      "dateISO": "2026-03-21",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sessa/669847?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SESSA"
+      ],
+      "openers": [
+        "William Alexander"
       ]
     },
     {

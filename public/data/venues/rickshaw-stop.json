@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-25T18:58:20.352Z",
+  "generatedAtISO": "2026-02-27T01:28:31.666Z",
   "shows": [
-    {
-      "showId": "c2c07bed",
-      "dateISO": "2026-02-25",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/sugar-candy-mountain/679198?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SUGAR CANDY MOUNTAIN"
-      ],
-      "openers": [
-        "Abracadabra",
-        "Night Heron"
-      ]
-    },
     {
       "showId": "b20b8d3d",
       "dateISO": "2026-02-26",
@@ -156,7 +140,7 @@
     {
       "showId": "c8d4fdba",
       "dateISO": "2026-03-21",
-      "startTime": "7:45 PM",
+      "startTime": "9:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
       "showUrl": "https://wl.seetickets.us/event/sessa/669847?afflky=RickshawStop",
