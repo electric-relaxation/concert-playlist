@@ -4,23 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-27T01:28:31.666Z",
+  "generatedAtISO": "2026-02-27T18:34:35.972Z",
   "shows": [
-    {
-      "showId": "b20b8d3d",
-      "dateISO": "2026-02-26",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/winston-surfshirt/665852?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "WINSTON SURFSHIRT"
-      ],
-      "openers": [
-        "Cardboard People"
-      ]
-    },
     {
       "showId": "b3d6d217",
       "dateISO": "2026-02-27",
@@ -463,6 +448,23 @@
       "openers": [
         "Iress",
         "Nightosphere"
+      ]
+    },
+    {
+      "showId": "f03c221d",
+      "dateISO": "2026-05-20",
+      "startTime": "7:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/gatecreeper/682958?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "GATECREEPER"
+      ],
+      "openers": [
+        "Denial of Life",
+        "Dying Remains",
+        "Eternal"
       ]
     },
     {

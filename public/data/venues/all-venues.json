@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-27T04:08:51.985Z",
+  "generatedAtISO": "2026-02-27T18:34:38.974Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -13,21 +13,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "b20b8d3d",
-      "dateISO": "2026-02-26",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/winston-surfshirt/665852?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "WINSTON SURFSHIRT"
-      ],
-      "openers": [
-        "Cardboard People"
-      ]
     },
     {
       "showId": "54db41d3",
@@ -2561,6 +2546,23 @@
       ],
       "openers": [
         "The Moondrops"
+      ]
+    },
+    {
+      "showId": "f03c221d",
+      "dateISO": "2026-05-20",
+      "startTime": "7:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/gatecreeper/682958?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "GATECREEPER"
+      ],
+      "openers": [
+        "Denial of Life",
+        "Dying Remains",
+        "Eternal"
       ]
     },
     {
