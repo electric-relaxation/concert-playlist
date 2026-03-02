@@ -4,54 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-02-27T18:34:35.972Z",
+  "generatedAtISO": "2026-03-02T19:33:12.687Z",
   "shows": [
-    {
-      "showId": "b3d6d217",
-      "dateISO": "2026-02-27",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/mission-delirium/675320?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MISSION DELIRIUM"
-      ],
-      "openers": [
-        "Chetah Boyz",
-        "Miss Hits"
-      ]
-    },
-    {
-      "showId": "30a30fd2",
-      "dateISO": "2026-02-28",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/679842?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": [
-        "Vicky T"
-      ]
-    },
-    {
-      "showId": "b0960470",
-      "dateISO": "2026-03-01",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/roger-fakhr/676910?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Rogér Fakhr"
-      ],
-      "openers": [
-        "ZOLA"
-      ]
-    },
     {
       "showId": "5a82c361",
       "dateISO": "2026-03-03",
@@ -75,6 +29,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "ROCKERO NIGHT"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "294ecf04",
+      "dateISO": "2026-03-12",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf/682765?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "NERD NITE SF"
       ],
       "openers": []
     },
