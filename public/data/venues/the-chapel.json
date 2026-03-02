@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-02T15:36:45.269Z",
+  "generatedAtISO": "2026-03-02T16:38:32.597Z",
   "shows": [
     {
       "showId": "a25de41a",
@@ -345,13 +345,13 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-maya-hawke-the-maitreya-corso-tour/681296?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-maya-hawke/681296?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "An Evening"
       ],
       "openers": [
-        "Maya Hawke / The Maitreya Corso Tour"
+        "Maya Hawke"
       ]
     },
     {
