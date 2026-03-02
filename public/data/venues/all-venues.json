@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-02T19:33:15.183Z",
+  "generatedAtISO": "2026-03-02T23:20:28.508Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -2320,7 +2320,9 @@
       "headliners": [
         "CORNELIA MURR"
       ],
-      "openers": []
+      "openers": [
+        "Reverend Baron"
+      ]
     },
     {
       "showId": "89e8d083",

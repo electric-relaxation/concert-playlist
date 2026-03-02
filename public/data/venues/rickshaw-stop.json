@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-02T19:33:12.687Z",
+  "generatedAtISO": "2026-03-02T23:20:24.446Z",
   "shows": [
     {
       "showId": "5a82c361",
@@ -399,7 +399,9 @@
       "headliners": [
         "CORNELIA MURR"
       ],
-      "openers": []
+      "openers": [
+        "Reverend Baron"
+      ]
     },
     {
       "showId": "13c3322d",
