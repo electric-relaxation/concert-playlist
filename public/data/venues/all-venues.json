@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-02-27T23:19:24.264Z",
+  "generatedAtISO": "2026-03-02T15:36:49.438Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -80,21 +80,6 @@
       ]
     },
     {
-      "showId": "73f3fb48",
-      "dateISO": "2026-02-27",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/bitchin-bajas/669850?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Bitchin Bajas"
-      ],
-      "openers": [
-        "Geologist"
-      ]
-    },
-    {
       "showId": "930224bb",
       "dateISO": "2026-02-27",
       "startTime": "9:00 PM",
@@ -142,21 +127,6 @@
       ]
     },
     {
-      "showId": "4fd3fce8",
-      "dateISO": "2026-02-28",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-sun-ra-arkestra/670488?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Sun Ra Arkestra"
-      ]
-    },
-    {
       "showId": "30a30fd2",
       "dateISO": "2026-02-28",
       "startTime": "9:00 PM",
@@ -184,21 +154,6 @@
       ],
       "openers": [
         "Me Nd Adam"
-      ]
-    },
-    {
-      "showId": "79626169",
-      "dateISO": "2026-03-01",
-      "startTime": "7:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-the-sun-ra-arkestra/670490?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Vinyl DJ Sets by David Katznelson"
       ]
     },
     {
@@ -1862,6 +1817,21 @@
       "openers": [
         "The She's",
         "youbet"
+      ]
+    },
+    {
+      "showId": "214b46b6",
+      "dateISO": "2026-04-18",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-maya-hawke-the-maitreya-corso-tour/681296?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Maya Hawke / The Maitreya Corso Tour"
       ]
     },
     {
