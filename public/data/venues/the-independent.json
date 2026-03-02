@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-02-27T04:08:38.651Z",
+  "generatedAtISO": "2026-03-02T17:39:37.779Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -18,69 +18,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "311940fa",
-      "dateISO": "2026-02-26",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/o/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "((( O )))"
-      ],
-      "openers": [
-        "Layv feat. Kinney",
-        "Sheena Dham",
-        "Tomu DJ"
-      ]
-    },
-    {
-      "showId": "930224bb",
-      "dateISO": "2026-02-27",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/weval-chorophobia-album-release-tour/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Weval: CHOROPHOBIA – Album Release Tour"
-      ],
-      "openers": [
-        "Digital KitKat"
-      ]
-    },
-    {
-      "showId": "c3ba01ec",
-      "dateISO": "2026-02-28",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bob-schneider/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Bob Schneider"
-      ],
-      "openers": [
-        "Me Nd Adam"
-      ]
-    },
-    {
-      "showId": "eb61cd9f",
-      "dateISO": "2026-03-01",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/meixcan-slum-rats/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Mexican Slum Rats"
-      ],
-      "openers": [
-        "Clarion",
-        "the jewelry"
-      ]
     },
     {
       "showId": "b174b5f2",
@@ -849,6 +786,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "WU LYF"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "823c1b85",
+      "dateISO": "2026-05-08",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/concrete-boys/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Concrete Boys"
       ],
       "openers": []
     },
