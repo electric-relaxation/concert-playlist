@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-03T04:10:20.656Z",
+  "generatedAtISO": "2026-03-03T15:42:11.954Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -11,19 +11,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "b174b5f2",
-      "dateISO": "2026-03-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/junny-null-tour/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "JUNNY: [null] Tour"
       ],
       "openers": []
     },
@@ -2890,6 +2877,21 @@
         "PLAYLUNCH"
       ],
       "openers": []
+    },
+    {
+      "showId": "326adf57",
+      "dateISO": "2026-08-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/greg-mendez/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Greg Mendez"
+      ],
+      "openers": [
+        "Maria BC"
+      ]
     },
     {
       "showId": "91d115b7",
