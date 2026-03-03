@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-03T04:10:16.649Z",
+  "generatedAtISO": "2026-03-03T22:22:47.333Z",
   "shows": [
     {
       "showId": "828b8075",
@@ -651,6 +651,22 @@
       "openers": [
         "Steakhouse",
         "Temple Beautiful Band"
+      ]
+    },
+    {
+      "showId": "77d1140a",
+      "dateISO": "2026-05-31",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260531.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Half Rotten Goddess"
+      ],
+      "openers": [
+        "Persephone",
+        "Rival Plague"
       ]
     },
     {

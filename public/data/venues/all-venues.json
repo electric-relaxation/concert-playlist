@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-03T20:27:29.493Z",
+  "generatedAtISO": "2026-03-03T22:22:50.936Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -2666,6 +2666,22 @@
       "openers": [
         "Snowing",
         "awakebutstillinbed"
+      ]
+    },
+    {
+      "showId": "77d1140a",
+      "dateISO": "2026-05-31",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260531.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Half Rotten Goddess"
+      ],
+      "openers": [
+        "Persephone",
+        "Rival Plague"
       ]
     },
     {
