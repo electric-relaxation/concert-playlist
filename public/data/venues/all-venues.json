@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-03T18:40:17.259Z",
+  "generatedAtISO": "2026-03-03T19:36:07.616Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -2299,7 +2299,7 @@
     {
       "showId": "49b1da5b",
       "dateISO": "2026-05-14",
-      "startTime": "8:00 PM",
+      "startTime": "7:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/robyn-hitchcock-live-and-electric-full-band-shows/682670?afflky=TheChapel",
@@ -2307,7 +2307,10 @@
       "headliners": [
         "Robyn Hitchcock \"Live And Electric - Full Band Shows\""
       ],
-      "openers": []
+      "openers": [
+        "Emma Swift",
+        "Those Pretty Wrongs"
+      ]
     },
     {
       "showId": "89e8d083",
