@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-02T23:20:28.508Z",
+  "generatedAtISO": "2026-03-03T01:46:21.450Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -1993,7 +1993,9 @@
       "headliners": [
         "Chris Grey"
       ],
-      "openers": []
+      "openers": [
+        "Allegra Jordyn"
+      ]
     },
     {
       "showId": "2978fe67",

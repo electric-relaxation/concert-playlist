@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-02T17:39:37.779Z",
+  "generatedAtISO": "2026-03-03T01:46:18.697Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -662,7 +662,9 @@
       "headliners": [
         "Chris Grey"
       ],
-      "openers": []
+      "openers": [
+        "Allegra Jordyn"
+      ]
     },
     {
       "showId": "c4c2352a",
