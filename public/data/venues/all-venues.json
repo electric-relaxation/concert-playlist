@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-03T01:46:21.450Z",
+  "generatedAtISO": "2026-03-03T04:10:20.656Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -13,70 +13,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "e786e91a",
-      "dateISO": "2026-02-26",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260226.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Carpool Tunnel"
-      ],
-      "openers": [
-        "Small Crush",
-        "starbelliedbug"
-      ]
-    },
-    {
-      "showId": "9aa099de",
-      "dateISO": "2026-02-27",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260227.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Young Dubliners"
-      ],
-      "openers": [
-        "The Hooks",
-        "The Quiet Men"
-      ]
-    },
-    {
-      "showId": "d30305b1",
-      "dateISO": "2026-02-28",
-      "startTime": "3:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "https://www.bottomofthehill.com/calendar.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Illuminati Hotties"
-      ],
-      "openers": [
-        "Buzzed Lightbeer",
-        "Pity Party"
-      ]
-    },
-    {
-      "showId": "7f5f8956",
-      "dateISO": "2026-02-28",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260228.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Illuminati Hotties"
-      ],
-      "openers": [
-        "Pity Party",
-        "The Tammy Shine"
-      ]
     },
     {
       "showId": "b174b5f2",
@@ -1545,6 +1481,22 @@
       "openers": [
         "Kerosene Heights",
         "Retirement Party"
+      ]
+    },
+    {
+      "showId": "86a27693",
+      "dateISO": "2026-04-12",
+      "startTime": "7:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260412.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Angela LaFlamme & Co."
+      ],
+      "openers": [
+        "Allison Lovejoy",
+        "Bela Ruino"
       ]
     },
     {
