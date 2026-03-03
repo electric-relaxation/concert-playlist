@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-03T19:36:07.616Z",
+  "generatedAtISO": "2026-03-03T20:27:29.493Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -934,6 +934,19 @@
       "openers": [
         "Michael Wilbur"
       ]
+    },
+    {
+      "showId": "ff346237",
+      "dateISO": "2026-03-28",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/682800?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
     },
     {
       "showId": "a049edec",

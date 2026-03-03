@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-02T23:20:24.446Z",
+  "generatedAtISO": "2026-03-03T20:27:26.676Z",
   "shows": [
     {
       "showId": "5a82c361",
@@ -163,6 +163,19 @@
       "openers": [
         "Rew"
       ]
+    },
+    {
+      "showId": "ff346237",
+      "dateISO": "2026-03-28",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/682800?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
     },
     {
       "showId": "3abd51b2",
