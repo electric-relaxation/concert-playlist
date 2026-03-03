@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-03T15:42:11.954Z",
+  "generatedAtISO": "2026-03-03T18:40:17.259Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -1442,6 +1442,22 @@
       ]
     },
     {
+      "showId": "225e2f0e",
+      "dateISO": "2026-04-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/flamin-groovies/683223?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Flamin' Groovies"
+      ],
+      "openers": [
+        "Penelope Houston",
+        "The Phantom Movers"
+      ]
+    },
+    {
       "showId": "ef8a6ae0",
       "dateISO": "2026-04-11",
       "startTime": "8:30 PM",
@@ -2122,6 +2138,21 @@
       "openers": []
     },
     {
+      "showId": "342b31db",
+      "dateISO": "2026-05-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dead-meadow/683097?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dead Meadow"
+      ],
+      "openers": [
+        "Cory Shane"
+      ]
+    },
+    {
       "showId": "376ed913",
       "dateISO": "2026-05-06",
       "startTime": "8:00 PM",
@@ -2264,6 +2295,19 @@
       "openers": [
         "Reverend Baron"
       ]
+    },
+    {
+      "showId": "49b1da5b",
+      "dateISO": "2026-05-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/robyn-hitchcock-live-and-electric-full-band-shows/682670?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Robyn Hitchcock \"Live And Electric - Full Band Shows\""
+      ],
+      "openers": []
     },
     {
       "showId": "89e8d083",
@@ -2607,6 +2651,19 @@
         "Snowing",
         "awakebutstillinbed"
       ]
+    },
+    {
+      "showId": "6fbd1ccf",
+      "dateISO": "2026-06-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bixby/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "bixby"
+      ],
+      "openers": []
     },
     {
       "showId": "d7fcef35",
