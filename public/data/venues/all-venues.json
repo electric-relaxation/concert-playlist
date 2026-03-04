@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-04T15:35:05.795Z",
+  "generatedAtISO": "2026-03-04T16:37:03.934Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -2980,6 +2980,51 @@
       ],
       "openers": [
         "Maria BC"
+      ]
+    },
+    {
+      "showId": "b7bfa907",
+      "dateISO": "2026-08-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/built-to-spill/683036?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Built to Spill"
+      ],
+      "openers": [
+        "PLAYDEAD"
+      ]
+    },
+    {
+      "showId": "458143dc",
+      "dateISO": "2026-08-24",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/built-to-spill/683043?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Built to Spill"
+      ],
+      "openers": [
+        "PLAYDEAD"
+      ]
+    },
+    {
+      "showId": "b8e5d43a",
+      "dateISO": "2026-08-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/built-to-spill/683046?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Built to Spill"
+      ],
+      "openers": [
+        "PLAYDEAD"
       ]
     },
     {
