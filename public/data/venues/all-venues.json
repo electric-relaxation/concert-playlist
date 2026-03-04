@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-04T11:26:14.422Z",
+  "generatedAtISO": "2026-03-04T15:35:05.795Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -13,21 +13,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "a25de41a",
-      "dateISO": "2026-03-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/alexander-stewart-what-if-tour/668785?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Alexander Stewart - What If? Tour"
-      ],
-      "openers": [
-        "Anna Clendening"
-      ]
     },
     {
       "showId": "5a82c361",
@@ -2879,7 +2864,9 @@
       "headliners": [
         "Gia Margaret"
       ],
-      "openers": []
+      "openers": [
+        "Brendan Eder"
+      ]
     },
     {
       "showId": "d3f0392f",
