@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-04T16:37:03.934Z",
+  "generatedAtISO": "2026-03-04T21:28:59.073Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -222,6 +222,19 @@
       "openers": [
         "Crying City"
       ]
+    },
+    {
+      "showId": "3d501912",
+      "dateISO": "2026-03-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Private-Event/683501?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "2ed4634c",
