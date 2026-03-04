@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-03T20:27:26.676Z",
+  "generatedAtISO": "2026-03-04T11:26:10.415Z",
   "shows": [
     {
       "showId": "5a82c361",
@@ -370,6 +370,19 @@
       "openers": [
         "Litronix"
       ]
+    },
+    {
+      "showId": "97e7140e",
+      "dateISO": "2026-04-27",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/pacifica/683237?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "PACIFICA"
+      ],
+      "openers": []
     },
     {
       "showId": "f362bfa1",

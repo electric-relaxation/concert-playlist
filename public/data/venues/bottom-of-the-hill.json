@@ -4,24 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-03T22:22:47.333Z",
+  "generatedAtISO": "2026-03-04T11:26:10.415Z",
   "shows": [
-    {
-      "showId": "828b8075",
-      "dateISO": "2026-03-03",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260303.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Witchcraft"
-      ],
-      "openers": [
-        "Early Moods",
-        "Psychic Hit"
-      ]
-    },
     {
       "showId": "ff61f534",
       "dateISO": "2026-03-04",
@@ -319,7 +303,8 @@
         "Saintseneca"
       ],
       "openers": [
-        "Gladie"
+        "Gladie",
+        "Star 99"
       ]
     },
     {
@@ -651,6 +636,21 @@
       "openers": [
         "Steakhouse",
         "Temple Beautiful Band"
+      ]
+    },
+    {
+      "showId": "af1c77a6",
+      "dateISO": "2026-05-30",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260530.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Leanna Firestone"
+      ],
+      "openers": [
+        "Abby Cates"
       ]
     },
     {

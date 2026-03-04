@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-03T22:22:50.936Z",
+  "generatedAtISO": "2026-03-04T11:26:14.422Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -13,22 +13,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "828b8075",
-      "dateISO": "2026-03-03",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260303.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Witchcraft"
-      ],
-      "openers": [
-        "Early Moods",
-        "Psychic Hit"
-      ]
     },
     {
       "showId": "a25de41a",
@@ -1035,7 +1019,8 @@
         "Saintseneca"
       ],
       "openers": [
-        "Gladie"
+        "Gladie",
+        "Star 99"
       ]
     },
     {
@@ -1966,6 +1951,19 @@
       ]
     },
     {
+      "showId": "97e7140e",
+      "dateISO": "2026-04-27",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/pacifica/683237?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "PACIFICA"
+      ],
+      "openers": []
+    },
+    {
       "showId": "2978fe67",
       "dateISO": "2026-04-28",
       "startTime": "8:00 PM",
@@ -2623,6 +2621,21 @@
         "Ray Bull"
       ],
       "openers": []
+    },
+    {
+      "showId": "af1c77a6",
+      "dateISO": "2026-05-30",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260530.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Leanna Firestone"
+      ],
+      "openers": [
+        "Abby Cates"
+      ]
     },
     {
       "showId": "96db9693",
