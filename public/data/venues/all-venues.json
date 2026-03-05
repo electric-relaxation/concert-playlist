@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-05T20:32:09.427Z",
+  "generatedAtISO": "2026-03-05T21:28:58.349Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -13,21 +13,6 @@
         "Odezenne"
       ],
       "openers": []
-    },
-    {
-      "showId": "5f4c9a4c",
-      "dateISO": "2026-03-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/black-pistol-fire/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Black Pistol Fire"
-      ],
-      "openers": [
-        "Pink Fuzz"
-      ]
     },
     {
       "showId": "053268aa",
@@ -2300,19 +2285,6 @@
       ]
     },
     {
-      "showId": "89e8d083",
-      "dateISO": "2026-05-15",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/allie-x/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Allie X"
-      ],
-      "openers": []
-    },
-    {
       "showId": "13c3322d",
       "dateISO": "2026-05-16",
       "startTime": "8:30 PM",
@@ -2596,7 +2568,9 @@
       "headliners": [
         "Ray Bull"
       ],
-      "openers": []
+      "openers": [
+        "Babehoven"
+      ]
     },
     {
       "showId": "af1c77a6",
