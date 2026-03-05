@@ -4,24 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-04T11:26:10.415Z",
+  "generatedAtISO": "2026-03-05T11:29:50.418Z",
   "shows": [
-    {
-      "showId": "ff61f534",
-      "dateISO": "2026-03-04",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260304.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Matt Pryor"
-      ],
-      "openers": [
-        "Silverware",
-        "Small Uncle"
-      ]
-    },
     {
       "showId": "b04f5f0a",
       "dateISO": "2026-03-05",
@@ -530,7 +514,10 @@
       "headliners": [
         "Sure Sure"
       ],
-      "openers": []
+      "openers": [
+        "Indigo Elephant",
+        "Matt Jaffe"
+      ]
     },
     {
       "showId": "3c1cf51b",
