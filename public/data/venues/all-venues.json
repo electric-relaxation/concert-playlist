@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-04T22:25:50.667Z",
+  "generatedAtISO": "2026-03-05T01:43:02.471Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -594,7 +594,7 @@
         "The Sam Chase & The Untraditional"
       ],
       "openers": [
-        "Hosted by Franzia Rose",
+        "Hosted by Franzia Rosé",
         "special guest Suzanimal"
       ]
     },
@@ -873,6 +873,21 @@
       ],
       "openers": [
         "Lazer Beam"
+      ]
+    },
+    {
+      "showId": "30a98a6f",
+      "dateISO": "2026-03-27",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/scientist/683572?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Scientist"
+      ],
+      "openers": [
+        "Tussle"
       ]
     },
     {
