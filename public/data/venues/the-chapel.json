@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-05T04:08:11.387Z",
+  "generatedAtISO": "2026-03-05T20:32:05.918Z",
   "shows": [
     {
       "showId": "053268aa",
@@ -52,12 +52,12 @@
       ]
     },
     {
-      "showId": "3d501912",
+      "showId": "53a0cbec",
       "dateISO": "2026-03-10",
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/683501?afflky=TheChapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Private Event"
@@ -95,19 +95,6 @@
       "openers": [
         "SOM"
       ]
-    },
-    {
-      "showId": "53a0cbec",
-      "dateISO": "2026-03-14",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "bdc0d6ba",
@@ -199,6 +186,7 @@
         "Scientist"
       ],
       "openers": [
+        "Nowandformerly",
         "Tussle"
       ]
     },
