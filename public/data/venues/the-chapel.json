@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-05T22:26:33.969Z",
+  "generatedAtISO": "2026-03-06T19:30:16.748Z",
   "shows": [
-    {
-      "showId": "053268aa",
-      "dateISO": "2026-03-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/carsie-blanton/642854?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Carsie Blanton"
-      ],
-      "openers": [
-        "Devon Sproule"
-      ]
-    },
     {
       "showId": "43ea7aa4",
       "dateISO": "2026-03-06",
@@ -676,7 +661,7 @@
         "Gia Margaret"
       ],
       "openers": [
-        "Brendan Eder"
+        "Brendan Eder Ensemble"
       ]
     },
     {
