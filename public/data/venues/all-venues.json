@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-05T22:26:37.954Z",
+  "generatedAtISO": "2026-03-06T18:36:31.184Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -27,21 +27,6 @@
       ],
       "openers": [
         "Devon Sproule"
-      ]
-    },
-    {
-      "showId": "04c12558",
-      "dateISO": "2026-03-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/natalie-bergman/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Natalie Bergman"
-      ],
-      "openers": [
-        "Alec Shaw"
       ]
     },
     {
@@ -2656,6 +2641,19 @@
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/bixby/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "bixby"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5e5a8a67",
+      "dateISO": "2026-06-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bixby-2/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "bixby"
