@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-06T18:36:27.309Z",
+  "generatedAtISO": "2026-03-06T22:22:05.192Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -32,7 +32,8 @@
       ],
       "openers": [
         "Benz Shelton",
-        "Blueprint"
+        "Blueprint",
+        "Glass Tung"
       ]
     },
     {
