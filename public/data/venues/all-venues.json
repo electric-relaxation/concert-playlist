@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-06T19:30:21.198Z",
+  "generatedAtISO": "2026-03-06T21:24:38.039Z",
   "shows": [
     {
       "showId": "b08f4f20",
@@ -418,6 +418,22 @@
       "openers": [
         "Kan Kan",
         "Pocket Full of Crumbs"
+      ]
+    },
+    {
+      "showId": "ad8c9318",
+      "dateISO": "2026-03-18",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/redveil/683575?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "REDVEIL"
+      ],
+      "openers": [
+        "Chenayder",
+        "detahjae"
       ]
     },
     {
