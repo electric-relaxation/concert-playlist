@@ -4,24 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-05T11:29:50.418Z",
+  "generatedAtISO": "2026-03-07T03:55:55.835Z",
   "shows": [
-    {
-      "showId": "b04f5f0a",
-      "dateISO": "2026-03-05",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260305.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Spoon Benders"
-      ],
-      "openers": [
-        "HEAT",
-        "Medscool"
-      ]
-    },
     {
       "showId": "57bb83ae",
       "dateISO": "2026-03-06",
@@ -377,23 +361,6 @@
       "openers": [
         "Allison Lovejoy",
         "Bela Ruino"
-      ]
-    },
-    {
-      "showId": "bbf97a85",
-      "dateISO": "2026-04-14",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260414.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Homeboy Sandman"
-      ],
-      "openers": [
-        "Coolzey",
-        "Sha Ray",
-        "Wolf Langis"
       ]
     },
     {
