@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-09T18:43:45.557Z",
+  "generatedAtISO": "2026-03-09T19:37:12.576Z",
   "shows": [
     {
       "showId": "e7652124",
@@ -15,21 +15,6 @@
       "openers": [
         "HLLLYH",
         "Margaux"
-      ]
-    },
-    {
-      "showId": "157bd98d",
-      "dateISO": "2026-03-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bryant-barnes/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Bryant Barnes"
-      ],
-      "openers": [
-        "Crying City"
       ]
     },
     {
@@ -650,7 +635,9 @@
       "headliners": [
         "Lithe"
       ],
-      "openers": []
+      "openers": [
+        "Lyfe Harris"
+      ]
     },
     {
       "showId": "87b0260c",
