@@ -4,51 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-06T22:22:05.192Z",
+  "generatedAtISO": "2026-03-09T01:44:51.319Z",
   "shows": [
-    {
-      "showId": "b08f4f20",
-      "dateISO": "2026-02-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/odezenne/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Odezenne"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "924ae8e2",
-      "dateISO": "2026-03-06",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/grieves/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Grieves"
-      ],
-      "openers": [
-        "Benz Shelton",
-        "Blueprint",
-        "Glass Tung"
-      ]
-    },
-    {
-      "showId": "302a698b",
-      "dateISO": "2026-03-07",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/guitarricadelafuente/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Guitarricadelafuente"
-      ],
-      "openers": []
-    },
     {
       "showId": "157bd98d",
       "dateISO": "2026-03-08",
@@ -1120,6 +1077,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "deca joins"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "b08f4f20",
+      "dateISO": "2027-02-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/odezenne/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Odezenne"
       ],
       "openers": []
     }

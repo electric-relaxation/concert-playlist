@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-03-08T09:24:34.537Z",
+  "generatedAtISO": "2026-03-09T01:44:55.091Z",
   "shows": [
-    {
-      "showId": "b08f4f20",
-      "dateISO": "2026-02-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/odezenne/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Odezenne"
-      ],
-      "openers": []
-    },
     {
       "showId": "43ea7aa4",
       "dateISO": "2026-03-06",
@@ -28,23 +15,6 @@
       "openers": [
         "David Katznelson",
         "ÖLÜM"
-      ]
-    },
-    {
-      "showId": "924ae8e2",
-      "dateISO": "2026-03-06",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/grieves/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Grieves"
-      ],
-      "openers": [
-        "Benz Shelton",
-        "Blueprint",
-        "Glass Tung"
       ]
     },
     {
@@ -78,19 +48,6 @@
         "Midnight Artist",
         "Pink Breath of Heaven"
       ]
-    },
-    {
-      "showId": "302a698b",
-      "dateISO": "2026-03-07",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/guitarricadelafuente/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Guitarricadelafuente"
-      ],
-      "openers": []
     },
     {
       "showId": "31f17cf9",
@@ -3086,6 +3043,19 @@
       "openers": [
         "Kisser"
       ]
+    },
+    {
+      "showId": "b08f4f20",
+      "dateISO": "2027-02-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/odezenne/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Odezenne"
+      ],
+      "openers": []
     }
   ]
 }
