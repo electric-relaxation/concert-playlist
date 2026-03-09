@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-09T14:02:27.133Z",
+  "generatedAtISO": "2026-03-09T15:53:45.853Z",
   "shows": [
     {
       "showId": "e7652124",
@@ -16,19 +16,6 @@
         "HLLLYH",
         "Margaux"
       ]
-    },
-    {
-      "showId": "31f17cf9",
-      "dateISO": "2026-03-07",
-      "startTime": "9:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/rockero-night/678333?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ROCKERO NIGHT"
-      ],
-      "openers": []
     },
     {
       "showId": "157bd98d",
@@ -2630,6 +2617,19 @@
         "DJ and Host Irie Dole",
         "Floratura"
       ]
+    },
+    {
+      "showId": "aec68097",
+      "dateISO": "2026-06-13",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/jason-tygner/683793?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "JASON TYGNER"
+      ],
+      "openers": []
     },
     {
       "showId": "36606a06",
