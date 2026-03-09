@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-03-09T01:44:55.091Z",
+  "generatedAtISO": "2026-03-09T14:02:27.133Z",
   "shows": [
-    {
-      "showId": "43ea7aa4",
-      "dateISO": "2026-03-06",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-brian-jonestown-massacre/674564?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Brian Jonestown Massacre"
-      ],
-      "openers": [
-        "David Katznelson",
-        "ÖLÜM"
-      ]
-    },
     {
       "showId": "e7652124",
       "dateISO": "2026-03-07",
@@ -31,22 +15,6 @@
       "openers": [
         "HLLLYH",
         "Margaux"
-      ]
-    },
-    {
-      "showId": "ed6eb23d",
-      "dateISO": "2026-03-07",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-brian-jonestown-massacre/674568?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Brian Jonestown Massacre"
-      ],
-      "openers": [
-        "Midnight Artist",
-        "Pink Breath of Heaven"
       ]
     },
     {
@@ -2662,6 +2630,19 @@
         "DJ and Host Irie Dole",
         "Floratura"
       ]
+    },
+    {
+      "showId": "36606a06",
+      "dateISO": "2026-06-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/thee-marloes-thee-heart-tones/683678?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Thee Marloes, Thee Heart Tones"
+      ],
+      "openers": []
     },
     {
       "showId": "f2b6f4fd",
