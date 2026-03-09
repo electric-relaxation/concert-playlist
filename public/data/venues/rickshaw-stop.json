@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-09T15:53:42.774Z",
+  "generatedAtISO": "2026-03-09T16:52:24.678Z",
   "shows": [
     {
       "showId": "294ecf04",
@@ -497,19 +497,6 @@
         "Snowing",
         "awakebutstillinbed"
       ]
-    },
-    {
-      "showId": "aec68097",
-      "dateISO": "2026-06-13",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/jason-tygner/683793?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "JASON TYGNER"
-      ],
-      "openers": []
     },
     {
       "showId": "d3f0392f",

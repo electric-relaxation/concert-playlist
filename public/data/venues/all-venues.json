@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-09T15:53:45.853Z",
+  "generatedAtISO": "2026-03-09T16:52:27.849Z",
   "shows": [
     {
       "showId": "e7652124",
@@ -2617,19 +2617,6 @@
         "DJ and Host Irie Dole",
         "Floratura"
       ]
-    },
-    {
-      "showId": "aec68097",
-      "dateISO": "2026-06-13",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/jason-tygner/683793?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "JASON TYGNER"
-      ],
-      "openers": []
     },
     {
       "showId": "36606a06",
