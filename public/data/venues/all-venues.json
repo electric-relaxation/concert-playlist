@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-10T01:26:44.421Z",
+  "generatedAtISO": "2026-03-10T16:53:36.081Z",
   "shows": [
     {
       "showId": "e7652124",
@@ -2517,6 +2517,21 @@
       "openers": []
     },
     {
+      "showId": "ec133bc7",
+      "dateISO": "2026-06-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/rostam/683465?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "ROSTAM"
+      ],
+      "openers": [
+        "Henry Solomon"
+      ]
+    },
+    {
       "showId": "5e5a8a67",
       "dateISO": "2026-06-03",
       "startTime": "8:00 PM",
@@ -2983,6 +2998,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Soda Blonde"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "682f9f7e",
+      "dateISO": "2026-10-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/deer-tick/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Deer Tick"
       ],
       "openers": []
     },
