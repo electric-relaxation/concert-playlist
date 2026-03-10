@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-10T16:53:36.081Z",
+  "generatedAtISO": "2026-03-10T17:42:11.245Z",
   "shows": [
     {
       "showId": "e7652124",
@@ -2786,6 +2786,19 @@
         "Bentley Robles",
         "TeZATalks"
       ]
+    },
+    {
+      "showId": "0431d434",
+      "dateISO": "2026-07-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/young-franco/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Young Franco"
+      ],
+      "openers": []
     },
     {
       "showId": "960d41a4",

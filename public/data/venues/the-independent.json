@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-10T16:53:33.175Z",
+  "generatedAtISO": "2026-03-10T17:42:07.732Z",
   "shows": [
     {
       "showId": "2ed4634c",
@@ -994,6 +994,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "High Fade"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0431d434",
+      "dateISO": "2026-07-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/young-franco/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Young Franco"
       ],
       "openers": []
     },
