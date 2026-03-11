@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-11T16:44:26.786Z",
+  "generatedAtISO": "2026-03-11T17:44:14.839Z",
   "shows": [
     {
       "showId": "64100776",
@@ -662,6 +662,7 @@
         "Powfu Presents: Lofi Library Tour"
       ],
       "openers": [
+        "Foster",
         "Jomie"
       ]
     },
@@ -676,7 +677,9 @@
       "headliners": [
         "WU LYF"
       ],
-      "openers": []
+      "openers": [
+        "Bondo"
+      ]
     },
     {
       "showId": "823c1b85",
@@ -733,6 +736,19 @@
       "openers": [
         "Kassi Valazza"
       ]
+    },
+    {
+      "showId": "719d15cb",
+      "dateISO": "2026-05-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/texas-is-the-reason/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Texas is the Reason"
+      ],
+      "openers": []
     },
     {
       "showId": "48234472",

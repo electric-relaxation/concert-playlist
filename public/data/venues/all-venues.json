@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-11T16:44:30.508Z",
+  "generatedAtISO": "2026-03-11T17:44:17.680Z",
   "shows": [
     {
       "showId": "782db089",
@@ -1705,6 +1705,23 @@
       "openers": []
     },
     {
+      "showId": "7bfa5984",
+      "dateISO": "2026-04-26",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/buzzed-lightbeer/684045?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Buzzed Lightbeer"
+      ],
+      "openers": [
+        "Biblioteka",
+        "Bloodsugar",
+        "Linda From Work"
+      ]
+    },
+    {
       "showId": "2edec91e",
       "dateISO": "2026-04-26",
       "startTime": "8:00 PM",
@@ -1946,6 +1963,7 @@
         "Powfu Presents: Lofi Library Tour"
       ],
       "openers": [
+        "Foster",
         "Jomie"
       ]
     },
@@ -1975,7 +1993,9 @@
       "headliners": [
         "WU LYF"
       ],
-      "openers": []
+      "openers": [
+        "Bondo"
+      ]
     },
     {
       "showId": "3e85108e",
@@ -2092,6 +2112,19 @@
       "openers": [
         "Reverend Baron"
       ]
+    },
+    {
+      "showId": "719d15cb",
+      "dateISO": "2026-05-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/texas-is-the-reason/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Texas is the Reason"
+      ],
+      "openers": []
     },
     {
       "showId": "47e9bc53",

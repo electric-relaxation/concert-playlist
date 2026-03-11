@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-10T01:26:40.507Z",
+  "generatedAtISO": "2026-03-11T17:44:14.839Z",
   "shows": [
     {
       "showId": "294ecf04",
@@ -360,6 +360,23 @@
       ],
       "openers": [
         "Litronix"
+      ]
+    },
+    {
+      "showId": "7bfa5984",
+      "dateISO": "2026-04-26",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/buzzed-lightbeer/684045?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Buzzed Lightbeer"
+      ],
+      "openers": [
+        "Biblioteka",
+        "Bloodsugar",
+        "Linda From Work"
       ]
     },
     {
