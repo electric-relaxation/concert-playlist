@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-03-11T14:02:29.819Z",
+  "generatedAtISO": "2026-03-11T16:44:30.508Z",
   "shows": [
-    {
-      "showId": "2ed4634c",
-      "dateISO": "2026-03-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/sam-greenfield/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Sam Greenfield"
-      ],
-      "openers": [
-        "Button Masher"
-      ]
-    },
     {
       "showId": "782db089",
       "dateISO": "2026-03-11",
@@ -2997,6 +2982,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Marlon Magnée (of La Femme)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c7daf696",
+      "dateISO": "2026-09-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chasing-abbey/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chasing Abbey"
       ],
       "openers": []
     },

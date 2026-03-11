@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-10T17:42:07.732Z",
+  "generatedAtISO": "2026-03-11T16:44:26.786Z",
   "shows": [
-    {
-      "showId": "2ed4634c",
-      "dateISO": "2026-03-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/sam-greenfield/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Sam Greenfield"
-      ],
-      "openers": [
-        "Button Masher"
-      ]
-    },
     {
       "showId": "64100776",
       "dateISO": "2026-03-11",
@@ -1077,6 +1062,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "deca joins"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c7daf696",
+      "dateISO": "2026-09-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chasing-abbey/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chasing Abbey"
       ],
       "openers": []
     },
