@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-03-10T17:42:11.245Z",
+  "generatedAtISO": "2026-03-11T11:29:25.554Z",
   "shows": [
-    {
-      "showId": "e7652124",
-      "dateISO": "2026-03-07",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260307.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Bad Bad Hats"
-      ],
-      "openers": [
-        "HLLLYH",
-        "Margaux"
-      ]
-    },
     {
       "showId": "53a0cbec",
       "dateISO": "2026-03-10",
@@ -2974,6 +2958,21 @@
         "PawPaw Rod"
       ],
       "openers": []
+    },
+    {
+      "showId": "91429860",
+      "dateISO": "2026-09-17",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260917.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Unsane"
+      ],
+      "openers": [
+        "CNTS"
+      ]
     },
     {
       "showId": "952ddd51",
