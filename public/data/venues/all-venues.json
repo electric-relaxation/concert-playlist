@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-03-11T11:29:25.554Z",
+  "generatedAtISO": "2026-03-11T14:02:29.819Z",
   "shows": [
-    {
-      "showId": "53a0cbec",
-      "dateISO": "2026-03-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
     {
       "showId": "2ed4634c",
       "dateISO": "2026-03-10",
@@ -193,6 +180,19 @@
         "Gloomy June",
         "In Balance"
       ]
+    },
+    {
+      "showId": "53a0cbec",
+      "dateISO": "2026-03-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "3b9a6ec4",

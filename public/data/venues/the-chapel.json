@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-10T16:53:33.175Z",
+  "generatedAtISO": "2026-03-11T14:02:25.754Z",
   "shows": [
-    {
-      "showId": "53a0cbec",
-      "dateISO": "2026-03-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
     {
       "showId": "e8145c24",
       "dateISO": "2026-03-12",
@@ -50,6 +37,19 @@
       "openers": [
         "SOM"
       ]
+    },
+    {
+      "showId": "53a0cbec",
+      "dateISO": "2026-03-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "bdc0d6ba",
