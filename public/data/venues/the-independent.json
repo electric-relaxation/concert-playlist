@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-12T21:27:40.584Z",
+  "generatedAtISO": "2026-03-12T22:20:04.613Z",
   "shows": [
     {
       "showId": "aafc15df",
@@ -495,7 +495,10 @@
       "headliners": [
         "Skizzy Mars"
       ],
-      "openers": []
+      "openers": [
+        "Devvy Dub",
+        "Yung Delirious"
+      ]
     },
     {
       "showId": "3fb9bd97",
