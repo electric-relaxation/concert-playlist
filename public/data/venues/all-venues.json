@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-12T17:03:33.731Z",
+  "generatedAtISO": "2026-03-12T21:27:44.388Z",
   "shows": [
     {
       "showId": "782db089",
@@ -16,19 +16,6 @@
         "Moon Wave",
         "Present"
       ]
-    },
-    {
-      "showId": "64100776",
-      "dateISO": "2026-03-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/witchz/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Witchz"
-      ],
-      "openers": []
     },
     {
       "showId": "294ecf04",
@@ -1145,7 +1132,8 @@
         "The Casualties"
       ],
       "openers": [
-        "Bullshit Detector"
+        "Bullshit Detector",
+        "MOSOKOS"
       ]
     },
     {
