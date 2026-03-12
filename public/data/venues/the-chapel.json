@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-11T14:02:25.754Z",
+  "generatedAtISO": "2026-03-12T17:03:28.964Z",
   "shows": [
     {
       "showId": "e8145c24",
@@ -674,6 +674,21 @@
       "openers": [
         "Bentley Robles",
         "TeZATalks"
+      ]
+    },
+    {
+      "showId": "d40cb5be",
+      "dateISO": "2026-07-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/natural-information-society-and-bitchin-bajas/684112?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Natural Information Society & Bitchin Bajas"
+      ],
+      "openers": [
+        "Jill Fraser"
       ]
     },
     {

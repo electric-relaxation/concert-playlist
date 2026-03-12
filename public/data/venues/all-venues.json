@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-11T17:44:17.680Z",
+  "generatedAtISO": "2026-03-12T17:03:33.731Z",
   "shows": [
     {
       "showId": "782db089",
@@ -2651,6 +2651,19 @@
       "openers": []
     },
     {
+      "showId": "4a1fc9aa",
+      "dateISO": "2026-06-14",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-messthetics-and-james-brandon-lewis/684121?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE MESSTHETICS AND JAMES BRANDON LEWIS"
+      ],
+      "openers": []
+    },
+    {
       "showId": "f2b6f4fd",
       "dateISO": "2026-06-14",
       "startTime": "8:00 PM",
@@ -2814,6 +2827,21 @@
         "Chinese American Bear"
       ],
       "openers": []
+    },
+    {
+      "showId": "d40cb5be",
+      "dateISO": "2026-07-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/natural-information-society-and-bitchin-bajas/684112?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Natural Information Society & Bitchin Bajas"
+      ],
+      "openers": [
+        "Jill Fraser"
+      ]
     },
     {
       "showId": "b4332818",
