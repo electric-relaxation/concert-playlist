@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-13T16:33:58.984Z",
+  "generatedAtISO": "2026-03-13T17:30:14.293Z",
   "shows": [
     {
       "showId": "1a03f591",
@@ -332,10 +332,10 @@
       "startTime": "7:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/just-snow-angel-tour-in-na/684122?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/justb-snow-angel-tour/684122?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "JUST SNOW ANGEL TOUR IN N.A."
+        "JUSTB – SNOW ANGEL TOUR"
       ],
       "openers": []
     },
@@ -672,6 +672,19 @@
         "Bentley Robles",
         "TeZATalks"
       ]
+    },
+    {
+      "showId": "c72c7896",
+      "dateISO": "2026-07-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/inara-george-of-the-bird-and-the-bee/684441?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Inara George (of The Bird and the Bee)"
+      ],
+      "openers": []
     },
     {
       "showId": "d40cb5be",

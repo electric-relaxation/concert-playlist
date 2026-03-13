@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-13T16:34:03.658Z",
+  "generatedAtISO": "2026-03-13T17:30:18.192Z",
   "shows": [
     {
       "showId": "782db089",
@@ -1519,10 +1519,10 @@
       "startTime": "7:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/just-snow-angel-tour-in-na/684122?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/justb-snow-angel-tour/684122?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "JUST SNOW ANGEL TOUR IN N.A."
+        "JUSTB – SNOW ANGEL TOUR"
       ],
       "openers": []
     },
@@ -2800,6 +2800,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Young Franco"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c72c7896",
+      "dateISO": "2026-07-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/inara-george-of-the-bird-and-the-bee/684441?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Inara George (of The Bird and the Bee)"
       ],
       "openers": []
     },
