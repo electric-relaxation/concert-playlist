@@ -4,25 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-13T04:07:48.528Z",
+  "generatedAtISO": "2026-03-13T16:33:58.984Z",
   "shows": [
-    {
-      "showId": "e8145c24",
-      "dateISO": "2026-03-12",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/love-with-johnny-echols/678701?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "LOVE"
-      ],
-      "openers": [
-        "DJ Walkin' Love",
-        "Light Show by Ether Wave",
-        "Rain Parade"
-      ]
-    },
     {
       "showId": "1a03f591",
       "dateISO": "2026-03-13",
@@ -342,6 +325,19 @@
         "DJ Andy Cabic",
         "Now"
       ]
+    },
+    {
+      "showId": "6b0b22c4",
+      "dateISO": "2026-04-22",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/just-snow-angel-tour-in-na/684122?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "JUST SNOW ANGEL TOUR IN N.A."
+      ],
+      "openers": []
     },
     {
       "showId": "5925724a",
