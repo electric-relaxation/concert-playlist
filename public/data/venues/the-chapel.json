@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-12T17:03:28.964Z",
+  "generatedAtISO": "2026-03-13T04:07:48.528Z",
   "shows": [
     {
       "showId": "e8145c24",
@@ -141,6 +141,7 @@
         "Scientist"
       ],
       "openers": [
+        "Ether Wave Light Show",
         "Nowandformerly",
         "Tussle"
       ]
