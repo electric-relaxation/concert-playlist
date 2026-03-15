@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-03-15T13:42:35.953Z",
+  "generatedAtISO": "2026-03-15T21:22:48.389Z",
   "shows": [
-    {
-      "showId": "782db089",
-      "dateISO": "2026-03-11",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260311.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Ally Nicholas"
-      ],
-      "openers": [
-        "Moon Wave",
-        "Present"
-      ]
-    },
     {
       "showId": "294ecf04",
       "dateISO": "2026-03-12",
@@ -43,22 +27,6 @@
       ],
       "openers": [
         "Humble The Great"
-      ]
-    },
-    {
-      "showId": "0b77b835",
-      "dateISO": "2026-03-13",
-      "startTime": "9:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260313.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "FIGURE EIGHT"
-      ],
-      "openers": [
-        "Buddy Junior",
-        "WIFE"
       ]
     },
     {
@@ -104,22 +72,6 @@
         "Earlybirds Club"
       ],
       "openers": []
-    },
-    {
-      "showId": "fbc6b43c",
-      "dateISO": "2026-03-14",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260314.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Good Terms"
-      ],
-      "openers": [
-        "Gloomy June",
-        "In Balance"
-      ]
     },
     {
       "showId": "3b9a6ec4",
@@ -902,11 +854,11 @@
       "showUrl": "http://www.bottomofthehill.com/20260402.html",
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
-        "Fust"
+        "Merce Lemon"
       ],
       "openers": [
-        "Georgia Maq",
-        "Merce Lemon"
+        "Fust",
+        "Georgia Maq"
       ]
     },
     {

@@ -4,56 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-11T11:29:21.606Z",
+  "generatedAtISO": "2026-03-15T21:22:45.279Z",
   "shows": [
-    {
-      "showId": "782db089",
-      "dateISO": "2026-03-11",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260311.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Ally Nicholas"
-      ],
-      "openers": [
-        "Moon Wave",
-        "Present"
-      ]
-    },
-    {
-      "showId": "0b77b835",
-      "dateISO": "2026-03-13",
-      "startTime": "9:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260313.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "FIGURE EIGHT"
-      ],
-      "openers": [
-        "Buddy Junior",
-        "WIFE"
-      ]
-    },
-    {
-      "showId": "fbc6b43c",
-      "dateISO": "2026-03-14",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260314.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Good Terms"
-      ],
-      "openers": [
-        "Gloomy June",
-        "In Balance"
-      ]
-    },
     {
       "showId": "71e82c41",
       "dateISO": "2026-03-17",
@@ -265,11 +217,11 @@
       "showUrl": "http://www.bottomofthehill.com/20260402.html",
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
-        "Fust"
+        "Merce Lemon"
       ],
       "openers": [
-        "Georgia Maq",
-        "Merce Lemon"
+        "Fust",
+        "Georgia Maq"
       ]
     },
     {
