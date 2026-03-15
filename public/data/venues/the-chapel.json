@@ -4,36 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-13T17:30:14.293Z",
+  "generatedAtISO": "2026-03-15T13:42:32.115Z",
   "shows": [
-    {
-      "showId": "1a03f591",
-      "dateISO": "2026-03-13",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/blackwater-holylight/669916?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Blackwater Holylight"
-      ],
-      "openers": [
-        "SOM"
-      ]
-    },
-    {
-      "showId": "53a0cbec",
-      "dateISO": "2026-03-14",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
     {
       "showId": "bdc0d6ba",
       "dateISO": "2026-03-18",
@@ -128,6 +100,19 @@
         "Nowandformerly",
         "Tussle"
       ]
+    },
+    {
+      "showId": "53a0cbec",
+      "dateISO": "2026-03-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "a4f9f6cc",
