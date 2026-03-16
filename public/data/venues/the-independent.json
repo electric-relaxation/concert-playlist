@@ -4,51 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-12T22:20:04.613Z",
+  "generatedAtISO": "2026-03-16T18:55:49.900Z",
   "shows": [
-    {
-      "showId": "aafc15df",
-      "dateISO": "2026-03-12",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/greek/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "greek"
-      ],
-      "openers": [
-        "Humble The Great"
-      ]
-    },
-    {
-      "showId": "5a5328a5",
-      "dateISO": "2026-03-13",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/rio-kosta/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "RIO KOSTA"
-      ],
-      "openers": [
-        "DJ Riley Geare"
-      ]
-    },
-    {
-      "showId": "97b1c676",
-      "dateISO": "2026-03-14",
-      "startTime": "6:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Earlybirds Club"
-      ],
-      "openers": []
-    },
     {
       "showId": "d154cd4c",
       "dateISO": "2026-03-17",
@@ -454,7 +411,9 @@
       "headliners": [
         "JANE HANDCOCK"
       ],
-      "openers": []
+      "openers": [
+        "Tia Nomore"
+      ]
     },
     {
       "showId": "f3d045c5",
