@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-03-15T21:22:48.389Z",
+  "generatedAtISO": "2026-03-16T16:00:39.195Z",
   "shows": [
-    {
-      "showId": "294ecf04",
-      "dateISO": "2026-03-12",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf/682765?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "NERD NITE SF"
-      ],
-      "openers": []
-    },
     {
       "showId": "aafc15df",
       "dateISO": "2026-03-12",
@@ -27,22 +14,6 @@
       ],
       "openers": [
         "Humble The Great"
-      ]
-    },
-    {
-      "showId": "9a54ad12",
-      "dateISO": "2026-03-13",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/heated-rivalry-a-jockstar-rave/677559?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "HEATED RIVALRY: A Jockstar Rave"
-      ],
-      "openers": [
-        "Gregory Dillon",
-        "Michael Medrano"
       ]
     },
     {
@@ -72,35 +43,6 @@
         "Earlybirds Club"
       ],
       "openers": []
-    },
-    {
-      "showId": "3b9a6ec4",
-      "dateISO": "2026-03-14",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/disco-always-a-harry-styles-dance-night/679028?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "DISCO, ALWAYS: A HARRY STYLES DANCE NIGHT"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "01140340",
-      "dateISO": "2026-03-15",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/moving-mountains/679196?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Moving Mountains"
-      ],
-      "openers": [
-        "Rainbow City Park",
-        "Spa"
-      ]
     },
     {
       "showId": "d154cd4c",
@@ -3007,6 +2949,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Soda Blonde"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2d6ae68e",
+      "dateISO": "2026-10-06",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dua-saleh/684688?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DUA SALEH"
       ],
       "openers": []
     },
