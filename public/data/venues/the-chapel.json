@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-15T13:42:32.115Z",
+  "generatedAtISO": "2026-03-16T17:55:36.640Z",
   "shows": [
     {
       "showId": "bdc0d6ba",
@@ -325,6 +325,22 @@
       "openers": []
     },
     {
+      "showId": "2c40dfb4",
+      "dateISO": "2026-04-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/olum/684702?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "ÖLÜM"
+      ],
+      "openers": [
+        "Damma Damma",
+        "Dying Suns"
+      ]
+    },
+    {
       "showId": "5925724a",
       "dateISO": "2026-04-24",
       "startTime": "9:00 PM",
@@ -525,6 +541,22 @@
       ],
       "openers": [
         "Sam Blasucci"
+      ]
+    },
+    {
+      "showId": "ea0e0304",
+      "dateISO": "2026-05-31",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/marc-and-the-casuals/684601?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Marc & the Casuals"
+      ],
+      "openers": [
+        "DJ Lead Teddy",
+        "The West Coast Spiritual Corinthians"
       ]
     },
     {
