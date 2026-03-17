@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-16T17:55:36.640Z",
+  "generatedAtISO": "2026-03-17T14:20:24.956Z",
   "shows": [
     {
       "showId": "ad8c9318",
@@ -510,6 +510,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "PLAYLUNCH"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "904d0917",
+      "dateISO": "2026-08-28",
+      "startTime": "11:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/my-new-band-believe/684743?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MY NEW BAND BELIEVE"
       ],
       "openers": []
     }

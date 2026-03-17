@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-17T09:51:23.557Z",
+  "generatedAtISO": "2026-03-17T14:20:28.414Z",
   "shows": [
     {
       "showId": "d154cd4c",
@@ -2760,6 +2760,19 @@
       ]
     },
     {
+      "showId": "0066b5a9",
+      "dateISO": "2026-08-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/angine-de-poitrine/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Angine de Poitrine"
+      ],
+      "openers": []
+    },
+    {
       "showId": "b7bfa907",
       "dateISO": "2026-08-23",
       "startTime": "8:00 PM",
@@ -2833,6 +2846,19 @@
       "openers": [
         "Traps PS"
       ]
+    },
+    {
+      "showId": "904d0917",
+      "dateISO": "2026-08-28",
+      "startTime": "11:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/my-new-band-believe/684743?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MY NEW BAND BELIEVE"
+      ],
+      "openers": []
     },
     {
       "showId": "b4e8c07a",

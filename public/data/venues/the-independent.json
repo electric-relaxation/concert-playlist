@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-16T22:27:21.037Z",
+  "generatedAtISO": "2026-03-17T14:20:24.956Z",
   "shows": [
     {
       "showId": "d154cd4c",
@@ -1004,6 +1004,19 @@
       "openers": [
         "Maria BC"
       ]
+    },
+    {
+      "showId": "0066b5a9",
+      "dateISO": "2026-08-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/angine-de-poitrine/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Angine de Poitrine"
+      ],
+      "openers": []
     },
     {
       "showId": "90dfe083",
