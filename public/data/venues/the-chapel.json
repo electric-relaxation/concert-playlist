@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-17T17:11:02.802Z",
+  "generatedAtISO": "2026-03-17T20:33:03.823Z",
   "shows": [
     {
       "showId": "bdc0d6ba",
@@ -33,6 +33,7 @@
         "Trish Toledo"
       ],
       "openers": [
+        "Chulita Vinyl Club",
         "Los Tranquilos"
       ]
     },
