@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-17T09:51:19.346Z",
+  "generatedAtISO": "2026-03-17T22:27:41.792Z",
   "shows": [
     {
       "showId": "71e82c41",
@@ -206,7 +206,9 @@
       "headliners": [
         "WAAX"
       ],
-      "openers": []
+      "openers": [
+        "Cut-Rate Druggist"
+      ]
     },
     {
       "showId": "83f355ea",
@@ -237,6 +239,34 @@
       ],
       "openers": [
         "Girls Rituals"
+      ]
+    },
+    {
+      "showId": "13b4b85a",
+      "dateISO": "2026-04-07",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260407.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Teleco"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4790385e",
+      "dateISO": "2026-04-08",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260408.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Hollow Minds"
+      ],
+      "openers": [
+        "Paper Straw"
       ]
     },
     {

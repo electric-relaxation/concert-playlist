@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-17T20:33:03.823Z",
+  "generatedAtISO": "2026-03-17T22:27:41.792Z",
   "shows": [
     {
       "showId": "bdc0d6ba",
@@ -730,6 +730,21 @@
       ],
       "openers": [
         "Jill Fraser"
+      ]
+    },
+    {
+      "showId": "99b87ab8",
+      "dateISO": "2026-08-22",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sugar-hiccup-mocteau-twins/684955?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Sugar Hiccup, Mocteau Twins"
+      ],
+      "openers": [
+        "DJ Xander (Dancing Ghosts)"
       ]
     },
     {

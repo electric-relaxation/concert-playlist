@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-17T20:33:07.553Z",
+  "generatedAtISO": "2026-03-17T22:27:46.206Z",
   "shows": [
     {
       "showId": "d154cd4c",
@@ -10,7 +10,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "RESCHEDULED: Dogma"
+        "POSTPONED: Dogma"
       ],
       "openers": [
         "Frayle"
@@ -700,7 +700,9 @@
       "headliners": [
         "WAAX"
       ],
-      "openers": []
+      "openers": [
+        "Cut-Rate Druggist"
+      ]
     },
     {
       "showId": "6041e51e",
@@ -911,6 +913,19 @@
       ]
     },
     {
+      "showId": "13b4b85a",
+      "dateISO": "2026-04-07",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260407.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Teleco"
+      ],
+      "openers": []
+    },
+    {
       "showId": "861d26ae",
       "dateISO": "2026-04-08",
       "startTime": "8:00 PM",
@@ -924,6 +939,21 @@
       "openers": [
         "Animal Prince",
         "Ren Geisick"
+      ]
+    },
+    {
+      "showId": "4790385e",
+      "dateISO": "2026-04-08",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260408.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Hollow Minds"
+      ],
+      "openers": [
+        "Paper Straw"
       ]
     },
     {
@@ -2644,10 +2674,11 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/out-loud/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Out & Loud: The Furious Tits"
+        "Out & Loud"
       ],
       "openers": [
         "The Fell Swoop",
+        "The Furious Tits",
         "Thrown-Out Bones",
         "gloomy june"
       ]
@@ -2804,6 +2835,21 @@
         "Angine de Poitrine"
       ],
       "openers": []
+    },
+    {
+      "showId": "99b87ab8",
+      "dateISO": "2026-08-22",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sugar-hiccup-mocteau-twins/684955?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Sugar Hiccup, Mocteau Twins"
+      ],
+      "openers": [
+        "DJ Xander (Dancing Ghosts)"
+      ]
     },
     {
       "showId": "b7bfa907",
