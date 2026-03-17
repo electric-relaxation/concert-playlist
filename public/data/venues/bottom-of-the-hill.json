@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-15T21:22:45.279Z",
+  "generatedAtISO": "2026-03-17T09:51:19.346Z",
   "shows": [
     {
       "showId": "71e82c41",
@@ -324,10 +324,11 @@
       "showUrl": "http://www.bottomofthehill.com/20260417.html",
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
-        "Personal Space Man"
+        "Mommy Mommy"
       ],
       "openers": [
-        "Mommy Mommy"
+        "Personal Space Man",
+        "Vertige"
       ]
     },
     {
