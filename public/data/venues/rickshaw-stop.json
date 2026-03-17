@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-17T14:20:24.956Z",
+  "generatedAtISO": "2026-03-17T19:52:24.711Z",
   "shows": [
     {
       "showId": "ad8c9318",
@@ -182,7 +182,9 @@
       "headliners": [
         "TOKYO TEA ROOM"
       ],
-      "openers": []
+      "openers": [
+        "dog eyes"
+      ]
     },
     {
       "showId": "79b1e590",

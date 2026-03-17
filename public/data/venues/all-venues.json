@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-17T18:54:51.470Z",
+  "generatedAtISO": "2026-03-17T19:52:28.349Z",
   "shows": [
     {
       "showId": "d154cd4c",
@@ -771,7 +771,9 @@
       "headliners": [
         "TOKYO TEA ROOM"
       ],
-      "openers": []
+      "openers": [
+        "dog eyes"
+      ]
     },
     {
       "showId": "4d2ec20e",
