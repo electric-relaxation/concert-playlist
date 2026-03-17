@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-17T14:20:28.414Z",
+  "generatedAtISO": "2026-03-17T17:11:07.359Z",
   "shows": [
     {
       "showId": "d154cd4c",
@@ -2551,6 +2551,19 @@
       "openers": []
     },
     {
+      "showId": "f62564a0",
+      "dateISO": "2026-06-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/jesca-hoop/684481?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Jesca Hoop"
+      ],
+      "openers": []
+    },
+    {
       "showId": "be46e803",
       "dateISO": "2026-06-17",
       "startTime": "8:00 PM",
@@ -2617,6 +2630,23 @@
       ],
       "openers": [
         "Tele Novella"
+      ]
+    },
+    {
+      "showId": "b2f48cd1",
+      "dateISO": "2026-06-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/out-loud/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Out & Loud"
+      ],
+      "openers": [
+        "The Fell Swoop",
+        "Thrown-Out Bones",
+        "gloomy june"
       ]
     },
     {

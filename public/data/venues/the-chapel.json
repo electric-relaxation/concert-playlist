@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-16T17:55:36.640Z",
+  "generatedAtISO": "2026-03-17T17:11:02.802Z",
   "shows": [
     {
       "showId": "bdc0d6ba",
@@ -643,6 +643,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Ásgeir"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f62564a0",
+      "dateISO": "2026-06-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/jesca-hoop/684481?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Jesca Hoop"
       ],
       "openers": []
     },
