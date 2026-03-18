@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-17T22:27:41.792Z",
+  "generatedAtISO": "2026-03-18T18:58:33.441Z",
   "shows": [
     {
       "showId": "bdc0d6ba",
@@ -738,10 +738,10 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/sugar-hiccup-mocteau-twins/684955?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/cocteaufest-sf-night-2-with-sugar-hiccup-mocteau-twins/684955?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Sugar Hiccup, Mocteau Twins"
+        "Cocteaufest SF Night #2"
       ],
       "openers": [
         "DJ Xander (Dancing Ghosts)"
