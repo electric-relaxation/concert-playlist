@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-18T18:58:38.080Z",
+  "generatedAtISO": "2026-03-19T17:50:42.528Z",
   "shows": [
     {
       "showId": "d154cd4c",
@@ -62,21 +62,6 @@
       "openers": [
         "Chenayder",
         "detahjae"
-      ]
-    },
-    {
-      "showId": "bdc0d6ba",
-      "dateISO": "2026-03-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/malibu/667177?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Malibu"
-      ],
-      "openers": [
-        "ESP"
       ]
     },
     {
@@ -2229,7 +2214,9 @@
       "headliners": [
         "Isobel Campbell"
       ],
-      "openers": []
+      "openers": [
+        "Pink Mountaintops"
+      ]
     },
     {
       "showId": "50ef612d",
