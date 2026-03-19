@@ -1,84 +1,6 @@
 {
-  "generatedAtISO": "2026-03-19T17:50:42.528Z",
+  "generatedAtISO": "2026-03-19T21:30:07.850Z",
   "shows": [
-    {
-      "showId": "d154cd4c",
-      "dateISO": "2026-03-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "POSTPONED: Dogma"
-      ],
-      "openers": [
-        "Frayle"
-      ]
-    },
-    {
-      "showId": "71e82c41",
-      "dateISO": "2026-03-17",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260317.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Sonamó"
-      ],
-      "openers": [
-        "Riderz",
-        "The C Breezy Quartet"
-      ]
-    },
-    {
-      "showId": "04dfab6b",
-      "dateISO": "2026-03-18",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260318.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Milly"
-      ],
-      "openers": [
-        "Kan Kan",
-        "Pocket Full of Crumbs"
-      ]
-    },
-    {
-      "showId": "ad8c9318",
-      "dateISO": "2026-03-18",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/redveil/683575?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "REDVEIL"
-      ],
-      "openers": [
-        "Chenayder",
-        "detahjae"
-      ]
-    },
-    {
-      "showId": "d0da7cf8",
-      "dateISO": "2026-03-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/son-little/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Son Little"
-      ],
-      "openers": [
-        "Tonina"
-      ]
-    },
     {
       "showId": "bbfb8c0a",
       "dateISO": "2026-03-19",
@@ -299,7 +221,7 @@
     {
       "showId": "e1fa170c",
       "dateISO": "2026-03-24",
-      "startTime": "7:45 PM",
+      "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
       "showUrl": "https://wl.seetickets.us/event/eli/676972?afflky=RickshawStop",
@@ -307,7 +229,9 @@
       "headliners": [
         "ELI"
       ],
-      "openers": []
+      "openers": [
+        "Nolan Lewis"
+      ]
     },
     {
       "showId": "4dbd2efd",
@@ -410,15 +334,12 @@
       "startTime": "8:45 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/molina/669831?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/molina-appearing-with-gelli-haha-and-big-sis/669831?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "MOLINA"
+        "MOLINA (appearing with Gelli Haha and Big Sis)"
       ],
-      "openers": [
-        "Asha Wells",
-        "TrickyFM"
-      ]
+      "openers": []
     },
     {
       "showId": "73f6e87d",
@@ -686,7 +607,8 @@
         "WAAX"
       ],
       "openers": [
-        "Cut-Rate Druggist"
+        "Cut-Rate Druggist",
+        "Starzdust"
       ]
     },
     {
@@ -935,9 +857,10 @@
       "showUrl": "http://www.bottomofthehill.com/20260408.html",
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
-        "Hollow Minds"
+        "Ian Santillano"
       ],
       "openers": [
+        "Hollow Minds",
         "Paper Straw"
       ]
     },
@@ -1710,19 +1633,6 @@
       "openers": []
     },
     {
-      "showId": "69c019b2",
-      "dateISO": "2026-05-01",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/claire-rosinkranz/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Claire Rosinkranz"
-      ],
-      "openers": []
-    },
-    {
       "showId": "69fb05cd",
       "dateISO": "2026-05-02",
       "startTime": "9:00 PM",
@@ -2424,6 +2334,21 @@
         "bixby"
       ],
       "openers": []
+    },
+    {
+      "showId": "69c019b2",
+      "dateISO": "2026-06-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/claire-rosinkranz/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Claire Rosinkranz"
+      ],
+      "openers": [
+        "Stevie Bill"
+      ]
     },
     {
       "showId": "d7fcef35",

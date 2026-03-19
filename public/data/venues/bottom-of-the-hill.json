@@ -4,40 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-17T22:27:41.792Z",
+  "generatedAtISO": "2026-03-19T21:30:03.047Z",
   "shows": [
-    {
-      "showId": "71e82c41",
-      "dateISO": "2026-03-17",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260317.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Sonamó"
-      ],
-      "openers": [
-        "Riderz",
-        "The C Breezy Quartet"
-      ]
-    },
-    {
-      "showId": "04dfab6b",
-      "dateISO": "2026-03-18",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260318.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Milly"
-      ],
-      "openers": [
-        "Kan Kan",
-        "Pocket Full of Crumbs"
-      ]
-    },
     {
       "showId": "15537f36",
       "dateISO": "2026-03-19",
@@ -207,7 +175,8 @@
         "WAAX"
       ],
       "openers": [
-        "Cut-Rate Druggist"
+        "Cut-Rate Druggist",
+        "Starzdust"
       ]
     },
     {
@@ -263,9 +232,10 @@
       "showUrl": "http://www.bottomofthehill.com/20260408.html",
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
-        "Hollow Minds"
+        "Ian Santillano"
       ],
       "openers": [
+        "Hollow Minds",
         "Paper Straw"
       ]
     },

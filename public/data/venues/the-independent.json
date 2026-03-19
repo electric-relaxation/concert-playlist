@@ -4,38 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-17T22:27:41.792Z",
+  "generatedAtISO": "2026-03-19T21:30:03.047Z",
   "shows": [
-    {
-      "showId": "d154cd4c",
-      "dateISO": "2026-03-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "POSTPONED: Dogma"
-      ],
-      "openers": [
-        "Frayle"
-      ]
-    },
-    {
-      "showId": "d0da7cf8",
-      "dateISO": "2026-03-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/son-little/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Son Little"
-      ],
-      "openers": [
-        "Tonina"
-      ]
-    },
     {
       "showId": "59b5070a",
       "dateISO": "2026-03-19",
@@ -545,19 +515,6 @@
       "openers": []
     },
     {
-      "showId": "69c019b2",
-      "dateISO": "2026-05-01",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/claire-rosinkranz/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Claire Rosinkranz"
-      ],
-      "openers": []
-    },
-    {
       "showId": "01a15fd9",
       "dateISO": "2026-05-02",
       "startTime": "9:00 PM",
@@ -835,6 +792,21 @@
         "bixby"
       ],
       "openers": []
+    },
+    {
+      "showId": "69c019b2",
+      "dateISO": "2026-06-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/claire-rosinkranz/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Claire Rosinkranz"
+      ],
+      "openers": [
+        "Stevie Bill"
+      ]
     },
     {
       "showId": "ae072db7",

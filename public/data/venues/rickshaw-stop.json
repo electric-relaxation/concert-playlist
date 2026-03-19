@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-17T19:52:24.711Z",
+  "generatedAtISO": "2026-03-19T21:30:03.047Z",
   "shows": [
-    {
-      "showId": "ad8c9318",
-      "dateISO": "2026-03-18",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/redveil/683575?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "REDVEIL"
-      ],
-      "openers": [
-        "Chenayder",
-        "detahjae"
-      ]
-    },
     {
       "showId": "c8d4fdba",
       "dateISO": "2026-03-21",
@@ -40,7 +24,7 @@
     {
       "showId": "e1fa170c",
       "dateISO": "2026-03-24",
-      "startTime": "7:45 PM",
+      "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
       "showUrl": "https://wl.seetickets.us/event/eli/676972?afflky=RickshawStop",
@@ -48,7 +32,9 @@
       "headliners": [
         "ELI"
       ],
-      "openers": []
+      "openers": [
+        "Nolan Lewis"
+      ]
     },
     {
       "showId": "84725e78",
@@ -72,15 +58,12 @@
       "startTime": "8:45 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/molina/669831?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/molina-appearing-with-gelli-haha-and-big-sis/669831?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "MOLINA"
+        "MOLINA (appearing with Gelli Haha and Big Sis)"
       ],
-      "openers": [
-        "Asha Wells",
-        "TrickyFM"
-      ]
+      "openers": []
     },
     {
       "showId": "0e04311d",
