@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-20T18:40:08.723Z",
+  "generatedAtISO": "2026-03-20T22:22:51.407Z",
   "shows": [
     {
       "showId": "4635db5d",
@@ -256,7 +256,6 @@
         "Maria Somerville"
       ],
       "openers": [
-        "Colle",
         "r.image"
       ]
     },
