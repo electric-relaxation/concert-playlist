@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-19T21:30:07.850Z",
+  "generatedAtISO": "2026-03-20T18:40:13.455Z",
   "shows": [
     {
       "showId": "bbfb8c0a",
@@ -15,22 +15,6 @@
       "openers": [
         "Chulita Vinyl Club",
         "Los Tranquilos"
-      ]
-    },
-    {
-      "showId": "59b5070a",
-      "dateISO": "2026-03-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/vendredi-sur-mer/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Vendredi sur Mer"
-      ],
-      "openers": [
-        "Gabi Bravo",
-        "Rose Haze"
       ]
     },
     {
@@ -440,7 +424,9 @@
       "headliners": [
         "Voxtrot"
       ],
-      "openers": []
+      "openers": [
+        "Swarming Branch"
+      ]
     },
     {
       "showId": "7600e8c3",
