@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-19T17:50:37.968Z",
+  "generatedAtISO": "2026-03-20T23:24:02.322Z",
   "shows": [
-    {
-      "showId": "bbfb8c0a",
-      "dateISO": "2026-03-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/trish-toledo/678935?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Trish Toledo"
-      ],
-      "openers": [
-        "Chulita Vinyl Club",
-        "Los Tranquilos"
-      ]
-    },
     {
       "showId": "c4ab79e0",
       "dateISO": "2026-03-20",
@@ -560,6 +544,23 @@
       ],
       "openers": [
         "Henry Solomon"
+      ]
+    },
+    {
+      "showId": "4fba5a37",
+      "dateISO": "2026-06-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/martin-rev/684976?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Martin Rev"
+      ],
+      "openers": [
+        "DJ Omar Perez (Popscene)",
+        "Dagger Polyester",
+        "VJ Divine Enfant"
       ]
     },
     {
