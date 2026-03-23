@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-23T01:50:03.969Z",
+  "generatedAtISO": "2026-03-23T17:47:41.237Z",
   "shows": [
     {
       "showId": "c4ab79e0",
@@ -18,36 +18,6 @@
       ]
     },
     {
-      "showId": "4635db5d",
-      "dateISO": "2026-03-20",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/parlor-greens/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Parlor Greens"
-      ],
-      "openers": [
-        "Prophet Martian"
-      ]
-    },
-    {
-      "showId": "c8d4fdba",
-      "dateISO": "2026-03-21",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/sessa/669847?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SESSA"
-      ],
-      "openers": [
-        "William Alexander"
-      ]
-    },
-    {
       "showId": "fc455fb3",
       "dateISO": "2026-03-21",
       "startTime": "9:00 PM",
@@ -61,21 +31,6 @@
       "openers": [
         "Hot Mountain Dips",
         "Mad Alchemy Liquid Light Show"
-      ]
-    },
-    {
-      "showId": "cd2a85e7",
-      "dateISO": "2026-03-21",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/los-amigos-invisibles/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Los Amigos Invisibles"
-      ],
-      "openers": [
-        "DJ Walkin’ Love"
       ]
     },
     {
@@ -108,21 +63,6 @@
       "openers": [
         "Goodnight",
         "Texas"
-      ]
-    },
-    {
-      "showId": "d88df072",
-      "dateISO": "2026-03-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-nude-party/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Nude Party"
-      ],
-      "openers": [
-        "Teddy and the Rough Riders"
       ]
     },
     {
@@ -2129,6 +2069,22 @@
       ]
     },
     {
+      "showId": "f17eecfa",
+      "dateISO": "2026-05-30",
+      "startTime": "2:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/child/685586?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CHILD"
+      ],
+      "openers": [
+        "El Kabong",
+        "THORN"
+      ]
+    },
+    {
       "showId": "af1c77a6",
       "dateISO": "2026-05-30",
       "startTime": "8:30 PM",
@@ -2366,6 +2322,19 @@
       "openers": [
         "Mori"
       ]
+    },
+    {
+      "showId": "417c3142",
+      "dateISO": "2026-06-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mr-tout-le-monde/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mr Tout Le Monde"
+      ],
+      "openers": []
     },
     {
       "showId": "34139145",

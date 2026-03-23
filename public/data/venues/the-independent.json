@@ -4,53 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-20T22:22:51.407Z",
+  "generatedAtISO": "2026-03-23T17:47:29.849Z",
   "shows": [
-    {
-      "showId": "4635db5d",
-      "dateISO": "2026-03-20",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/parlor-greens/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Parlor Greens"
-      ],
-      "openers": [
-        "Prophet Martian"
-      ]
-    },
-    {
-      "showId": "cd2a85e7",
-      "dateISO": "2026-03-21",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/los-amigos-invisibles/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Los Amigos Invisibles"
-      ],
-      "openers": [
-        "DJ Walkin’ Love"
-      ]
-    },
-    {
-      "showId": "d88df072",
-      "dateISO": "2026-03-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-nude-party/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Nude Party"
-      ],
-      "openers": [
-        "Teddy and the Rough Riders"
-      ]
-    },
     {
       "showId": "96c6327c",
       "dateISO": "2026-03-25",
@@ -837,6 +792,19 @@
       "openers": [
         "Mori"
       ]
+    },
+    {
+      "showId": "417c3142",
+      "dateISO": "2026-06-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mr-tout-le-monde/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mr Tout Le Monde"
+      ],
+      "openers": []
     },
     {
       "showId": "f2b6f4fd",
