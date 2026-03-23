@@ -4,53 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-19T21:30:03.047Z",
+  "generatedAtISO": "2026-03-23T01:49:59.291Z",
   "shows": [
-    {
-      "showId": "15537f36",
-      "dateISO": "2026-03-19",
-      "startTime": "9:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260319.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Andre Nickatina"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "24e6af9d",
-      "dateISO": "2026-03-20",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260320.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Lifeguard"
-      ],
-      "openers": [
-        "Famous Mammals",
-        "Sunday Mourners"
-      ]
-    },
-    {
-      "showId": "029c0987",
-      "dateISO": "2026-03-21",
-      "startTime": "9:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260321.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "American Steel"
-      ],
-      "openers": [
-        "Jen Pop",
-        "Sweet Gloom"
-      ]
-    },
     {
       "showId": "1c137b57",
       "dateISO": "2026-03-22",
@@ -558,7 +513,8 @@
         "Unsane"
       ],
       "openers": [
-        "CNTS"
+        "CNTS",
+        "Facet"
       ]
     },
     {
