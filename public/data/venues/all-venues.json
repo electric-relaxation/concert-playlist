@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-24T16:01:42.684Z",
+  "generatedAtISO": "2026-03-24T17:51:39.553Z",
   "shows": [
     {
       "showId": "1c137b57",
@@ -1450,6 +1450,19 @@
       "openers": []
     },
     {
+      "showId": "1b0359de",
+      "dateISO": "2026-05-01",
+      "startTime": "6:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-3/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Earlybirds Club"
+      ],
+      "openers": []
+    },
+    {
       "showId": "69fb05cd",
       "dateISO": "2026-05-02",
       "startTime": "9:00 PM",
@@ -1729,6 +1742,19 @@
         "Emma Swift",
         "Those Pretty Wrongs"
       ]
+    },
+    {
+      "showId": "122569c8",
+      "dateISO": "2026-05-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/junior-varsity/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Junior Varsity"
+      ],
+      "openers": []
     },
     {
       "showId": "13c3322d",
@@ -2286,6 +2312,22 @@
       ]
     },
     {
+      "showId": "030c7fc4",
+      "dateISO": "2026-06-11",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/brijean/685409?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BRIJEAN"
+      ],
+      "openers": [
+        "DJ N0be",
+        "Mild Universe"
+      ]
+    },
+    {
       "showId": "417c3142",
       "dateISO": "2026-06-11",
       "startTime": "8:00 PM",
@@ -2326,6 +2368,22 @@
         "Thee Marloes, Thee Heart Tones"
       ],
       "openers": []
+    },
+    {
+      "showId": "8d456f8f",
+      "dateISO": "2026-06-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/elujay/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Elujay"
+      ],
+      "openers": [
+        "Lovely",
+        "SundaY"
+      ]
     },
     {
       "showId": "4a1fc9aa",
@@ -2393,6 +2451,22 @@
         "Choker"
       ],
       "openers": []
+    },
+    {
+      "showId": "31da9102",
+      "dateISO": "2026-06-19",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/family-not-a-group/685417?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "FAMILY NOT A GROUP"
+      ],
+      "openers": [
+        "Jammy",
+        "MaiahBae"
+      ]
     },
     {
       "showId": "0e5bb119",

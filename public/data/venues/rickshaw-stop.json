@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-24T04:13:36.073Z",
+  "generatedAtISO": "2026-03-24T17:51:34.131Z",
   "shows": [
     {
       "showId": "e1fa170c",
@@ -456,6 +456,22 @@
       ]
     },
     {
+      "showId": "030c7fc4",
+      "dateISO": "2026-06-11",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/brijean/685409?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BRIJEAN"
+      ],
+      "openers": [
+        "DJ N0be",
+        "Mild Universe"
+      ]
+    },
+    {
       "showId": "4a1fc9aa",
       "dateISO": "2026-06-14",
       "startTime": "8:00 PM",
@@ -467,6 +483,22 @@
         "THE MESSTHETICS AND JAMES BRANDON LEWIS"
       ],
       "openers": []
+    },
+    {
+      "showId": "31da9102",
+      "dateISO": "2026-06-19",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/family-not-a-group/685417?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "FAMILY NOT A GROUP"
+      ],
+      "openers": [
+        "Jammy",
+        "MaiahBae"
+      ]
     },
     {
       "showId": "d3f0392f",

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-23T17:47:29.849Z",
+  "generatedAtISO": "2026-03-24T17:51:34.131Z",
   "shows": [
     {
       "showId": "96c6327c",
@@ -455,6 +455,19 @@
       "openers": []
     },
     {
+      "showId": "1b0359de",
+      "dateISO": "2026-05-01",
+      "startTime": "6:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-3/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Earlybirds Club"
+      ],
+      "openers": []
+    },
+    {
       "showId": "01a15fd9",
       "dateISO": "2026-05-02",
       "startTime": "9:00 PM",
@@ -594,6 +607,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Texas is the Reason"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "122569c8",
+      "dateISO": "2026-05-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/junior-varsity/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Junior Varsity"
       ],
       "openers": []
     },
@@ -805,6 +831,22 @@
         "Mr Tout Le Monde"
       ],
       "openers": []
+    },
+    {
+      "showId": "8d456f8f",
+      "dateISO": "2026-06-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/elujay/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Elujay"
+      ],
+      "openers": [
+        "Lovely",
+        "SundaY"
+      ]
     },
     {
       "showId": "f2b6f4fd",
