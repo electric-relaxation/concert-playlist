@@ -1,38 +1,6 @@
 {
-  "generatedAtISO": "2026-03-24T04:13:40.910Z",
+  "generatedAtISO": "2026-03-24T16:01:42.684Z",
   "shows": [
-    {
-      "showId": "c4ab79e0",
-      "dateISO": "2026-03-20",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-sam-chase-and-the-untraditional/671737?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Sam Chase & The Untraditional"
-      ],
-      "openers": [
-        "Hosted by Franzia Rosé",
-        "special guest Suzanimal"
-      ]
-    },
-    {
-      "showId": "fc455fb3",
-      "dateISO": "2026-03-21",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-third-mind-feat-dave-alvin-jesse-sykes-and-mark-karan/674471?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Third Mind - feat. Dave Alvin, Jesse Sykes & Mark Karan"
-      ],
-      "openers": [
-        "Hot Mountain Dips",
-        "Mad Alchemy Liquid Light Show"
-      ]
-    },
     {
       "showId": "1c137b57",
       "dateISO": "2026-03-22",
@@ -47,22 +15,6 @@
       "openers": [
         "Abby Holliday",
         "Devvy Dub"
-      ]
-    },
-    {
-      "showId": "24abd8de",
-      "dateISO": "2026-03-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/cat-clyde-with-goodnight-texas/673750?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Cat Clyde"
-      ],
-      "openers": [
-        "Goodnight",
-        "Texas"
       ]
     },
     {
@@ -2171,6 +2123,19 @@
         "Persephone",
         "Rival Plague"
       ]
+    },
+    {
+      "showId": "228a9781",
+      "dateISO": "2026-06-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/aja-monet/685615?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "aja monet"
+      ],
+      "openers": []
     },
     {
       "showId": "6fbd1ccf",
