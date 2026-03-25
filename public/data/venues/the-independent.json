@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-24T18:55:38.424Z",
+  "generatedAtISO": "2026-03-25T17:53:53.075Z",
   "shows": [
     {
       "showId": "96c6327c",
@@ -123,7 +123,9 @@
       "headliners": [
         "Tom Skinner"
       ],
-      "openers": []
+      "openers": [
+        "Emmett Kelly"
+      ]
     },
     {
       "showId": "fd53e3a4",

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-24T18:55:44.012Z",
+  "generatedAtISO": "2026-03-25T17:53:58.209Z",
   "shows": [
     {
       "showId": "1c137b57",
@@ -411,7 +411,9 @@
       "headliners": [
         "Tom Skinner"
       ],
-      "openers": []
+      "openers": [
+        "Emmett Kelly"
+      ]
     },
     {
       "showId": "80a4d301",
@@ -2638,6 +2640,36 @@
       ],
       "openers": [
         "Jill Fraser"
+      ]
+    },
+    {
+      "showId": "9c0d3749",
+      "dateISO": "2026-07-24",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685861?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "James McMurtry and the Martial Law Review"
+      ],
+      "openers": [
+        "BettySoo"
+      ]
+    },
+    {
+      "showId": "7dd25558",
+      "dateISO": "2026-07-25",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/James-McMurtry-and-the-Martial-Law-Review/685865?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "James McMurtry and the Martial Law Review"
+      ],
+      "openers": [
+        "BettySoo"
       ]
     },
     {
