@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-25T17:53:53.075Z",
+  "generatedAtISO": "2026-03-25T19:42:23.332Z",
   "shows": [
     {
       "showId": "96c6327c",
@@ -923,6 +923,24 @@
         "The Lagoons"
       ],
       "openers": []
+    },
+    {
+      "showId": "8ec537e6",
+      "dateISO": "2026-06-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bay-pride-amplified-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bay Pride Amplified!"
+      ],
+      "openers": [
+        "Evann McIntosh",
+        "Hugo de la Lune",
+        "Love Spiral",
+        "Mommy Mommy"
+      ]
     },
     {
       "showId": "ad2a0537",
