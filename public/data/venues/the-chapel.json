@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-25T17:53:53.075Z",
+  "generatedAtISO": "2026-03-26T01:54:03.016Z",
   "shows": [
     {
       "showId": "30a98a6f",
@@ -625,7 +625,9 @@
       "headliners": [
         "Dengue Fever"
       ],
-      "openers": []
+      "openers": [
+        "BOLERO!"
+      ]
     },
     {
       "showId": "53bf4144",

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-25T23:29:21.018Z",
+  "generatedAtISO": "2026-03-26T01:54:08.404Z",
   "shows": [
     {
       "showId": "1c137b57",
@@ -2483,7 +2483,9 @@
       "headliners": [
         "Dengue Fever"
       ],
-      "openers": []
+      "openers": [
+        "BOLERO!"
+      ]
     },
     {
       "showId": "f59d0cfe",
