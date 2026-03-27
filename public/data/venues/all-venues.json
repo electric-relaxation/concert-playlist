@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-27T01:54:17.003Z",
+  "generatedAtISO": "2026-03-27T19:38:14.290Z",
   "shows": [
     {
       "showId": "e1fa170c",
@@ -829,7 +829,9 @@
       "headliners": [
         "Drugdealer"
       ],
-      "openers": []
+      "openers": [
+        "Josh da Costa"
+      ]
     },
     {
       "showId": "56cf4207",
