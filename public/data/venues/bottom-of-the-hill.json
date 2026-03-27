@@ -4,25 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-26T22:22:59.967Z",
+  "generatedAtISO": "2026-03-27T23:27:13.946Z",
   "shows": [
-    {
-      "showId": "87b0260c",
-      "dateISO": "2026-03-26",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260326.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Marbled Eye"
-      ],
-      "openers": [
-        "Cemento",
-        "Hannah Lew",
-        "Hot Goth GF"
-      ]
-    },
     {
       "showId": "73f6e87d",
       "dateISO": "2026-03-27",
@@ -110,9 +93,12 @@
       "showUrl": "http://www.bottomofthehill.com/20260407.html",
       "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
       "headliners": [
-        "Teleco"
+        "The Lighting Section"
       ],
-      "openers": []
+      "openers": [
+        "Lizzie Waters",
+        "Teleco"
+      ]
     },
     {
       "showId": "4790385e",
