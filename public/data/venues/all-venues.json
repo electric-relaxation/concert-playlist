@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-27T23:27:20.117Z",
+  "generatedAtISO": "2026-03-29T13:49:13.756Z",
   "shows": [
     {
       "showId": "e1fa170c",
@@ -91,24 +91,6 @@
       ]
     },
     {
-      "showId": "30a98a6f",
-      "dateISO": "2026-03-27",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/scientist/683572?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Scientist"
-      ],
-      "openers": [
-        "DJ Andy Cabic (Vetiver)",
-        "Ether Wave Light Show",
-        "Nowandformerly",
-        "Tussle"
-      ]
-    },
-    {
       "showId": "0e04311d",
       "dateISO": "2026-03-27",
       "startTime": "8:45 PM",
@@ -137,19 +119,6 @@
       "openers": [
         "Michael Wilbur"
       ]
-    },
-    {
-      "showId": "53a0cbec",
-      "dateISO": "2026-03-28",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "ff346237",
@@ -1207,6 +1176,19 @@
         "Bestial Mouths",
         "DJ Aaron Axelsen (Popscene)"
       ]
+    },
+    {
+      "showId": "53a0cbec",
+      "dateISO": "2026-04-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "3c1cf51b",
