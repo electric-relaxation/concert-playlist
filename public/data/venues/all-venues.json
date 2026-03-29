@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-29T13:49:13.756Z",
+  "generatedAtISO": "2026-03-29T17:25:49.497Z",
   "shows": [
     {
       "showId": "e1fa170c",
@@ -2489,6 +2489,19 @@
         "Love Spiral",
         "Mommy Mommy"
       ]
+    },
+    {
+      "showId": "13adcbfc",
+      "dateISO": "2026-06-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/fleetwood-macrame/666550?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Fleetwood Macramé"
+      ],
+      "openers": []
     },
     {
       "showId": "ad2a0537",

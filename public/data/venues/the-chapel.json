@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-29T13:49:08.926Z",
+  "generatedAtISO": "2026-03-29T17:25:43.801Z",
   "shows": [
     {
       "showId": "a4f9f6cc",
@@ -629,6 +629,19 @@
       "openers": [
         "Brendan Eder Ensemble"
       ]
+    },
+    {
+      "showId": "13adcbfc",
+      "dateISO": "2026-06-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/fleetwood-macrame/666550?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Fleetwood Macramé"
+      ],
+      "openers": []
     },
     {
       "showId": "8423c8c9",
