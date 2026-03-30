@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-30T17:50:26.043Z",
+  "generatedAtISO": "2026-03-30T19:52:13.076Z",
   "shows": [
     {
       "showId": "a4f9f6cc",
@@ -353,7 +353,7 @@
         "Ritt Momney"
       ],
       "openers": [
-        "Mercury"
+        "mercury"
       ]
     },
     {
