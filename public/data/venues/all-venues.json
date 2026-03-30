@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-30T14:59:02.258Z",
+  "generatedAtISO": "2026-03-30T17:50:31.139Z",
   "shows": [
     {
       "showId": "e1fa170c",
@@ -30,36 +30,6 @@
       "openers": [
         "Ghost Coach",
         "R.O. Shapiro"
-      ]
-    },
-    {
-      "showId": "96c6327c",
-      "dateISO": "2026-03-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/chill-towards-enlightenment-a-stoke-seminar-with-chad-goes-deep/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Chill Towards Enlightenment: A Stoke Seminar with Chad Goes Deep"
-      ],
-      "openers": [
-        "Chill Towards Enlightenment: A Stoke Seminar Chad Goes Deep"
-      ]
-    },
-    {
-      "showId": "d8d16c0e",
-      "dateISO": "2026-03-26",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/lithe/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Lithe"
-      ],
-      "openers": [
-        "Lyfe Harris"
       ]
     },
     {
@@ -106,21 +76,6 @@
       ]
     },
     {
-      "showId": "19b4ea00",
-      "dateISO": "2026-03-27",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-motet/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Motet"
-      ],
-      "openers": [
-        "Michael Wilbur"
-      ]
-    },
-    {
       "showId": "ff346237",
       "dateISO": "2026-03-28",
       "startTime": "9:00 PM",
@@ -132,36 +87,6 @@
         "EMO NITE"
       ],
       "openers": []
-    },
-    {
-      "showId": "a049edec",
-      "dateISO": "2026-03-28",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/voxtrot/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Voxtrot"
-      ],
-      "openers": [
-        "Swarming Branch"
-      ]
-    },
-    {
-      "showId": "7600e8c3",
-      "dateISO": "2026-03-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/tophouse/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Tophouse"
-      ],
-      "openers": [
-        "Wheelwright"
-      ]
     },
     {
       "showId": "3abd51b2",
@@ -1568,7 +1493,9 @@
       "headliners": [
         "Ritt Momney"
       ],
-      "openers": []
+      "openers": [
+        "Mercury"
+      ]
     },
     {
       "showId": "454c83c9",
@@ -2574,6 +2501,22 @@
       "openers": []
     },
     {
+      "showId": "f3d78f20",
+      "dateISO": "2026-07-18",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/los-tranquilos/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Los Tranquilos"
+      ],
+      "openers": [
+        "Los So-Lows",
+        "Sweet Lew"
+      ]
+    },
+    {
       "showId": "960d41a4",
       "dateISO": "2026-07-19",
       "startTime": "8:00 PM",
@@ -2599,6 +2542,21 @@
       ],
       "openers": [
         "Jill Fraser"
+      ]
+    },
+    {
+      "showId": "99737836",
+      "dateISO": "2026-07-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/riff-wood/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Riff Wood"
+      ],
+      "openers": [
+        "The Cherry Bombs"
       ]
     },
     {
