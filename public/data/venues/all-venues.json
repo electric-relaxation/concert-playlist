@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-29T17:25:49.497Z",
+  "generatedAtISO": "2026-03-30T14:59:02.258Z",
   "shows": [
     {
       "showId": "e1fa170c",
@@ -2546,6 +2546,21 @@
       "openers": []
     },
     {
+      "showId": "fd9223f9",
+      "dateISO": "2026-07-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/white-denim/684732?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "White Denim"
+      ],
+      "openers": [
+        "Arc Iris"
+      ]
+    },
+    {
       "showId": "c72c7896",
       "dateISO": "2026-07-15",
       "startTime": "8:00 PM",
@@ -2658,6 +2673,21 @@
       ],
       "openers": [
         "Maria BC"
+      ]
+    },
+    {
+      "showId": "c44e475c",
+      "dateISO": "2026-08-14",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/man-man/685629?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Man Man"
+      ],
+      "openers": [
+        "American Tomahawk"
       ]
     },
     {
