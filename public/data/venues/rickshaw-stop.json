@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-31T14:56:43.720Z",
+  "generatedAtISO": "2026-03-31T18:54:16.303Z",
   "shows": [
     {
       "showId": "a2851a59",
@@ -185,6 +185,19 @@
       "openers": [
         "Litronix"
       ]
+    },
+    {
+      "showId": "9e87e8f9",
+      "dateISO": "2026-04-25",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/686011?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
     },
     {
       "showId": "7bfa5984",

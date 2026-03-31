@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-31T17:52:11.510Z",
+  "generatedAtISO": "2026-03-31T18:54:22.031Z",
   "shows": [
     {
       "showId": "73f6e87d",
@@ -1012,6 +1012,19 @@
       ]
     },
     {
+      "showId": "9e87e8f9",
+      "dateISO": "2026-04-25",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/686011?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "35dd8c00",
       "dateISO": "2026-04-25",
       "startTime": "9:00 PM",
@@ -1256,7 +1269,9 @@
       "headliners": [
         "Grace Ives"
       ],
-      "openers": []
+      "openers": [
+        "dance arts center"
+      ]
     },
     {
       "showId": "342b31db",

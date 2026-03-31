@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-31T17:52:06.678Z",
+  "generatedAtISO": "2026-03-31T18:54:16.303Z",
   "shows": [
     {
       "showId": "005bd6ac",
@@ -421,7 +421,9 @@
       "headliners": [
         "Grace Ives"
       ],
-      "openers": []
+      "openers": [
+        "dance arts center"
+      ]
     },
     {
       "showId": "376ed913",
