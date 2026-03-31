@@ -4,80 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-24T18:55:38.424Z",
+  "generatedAtISO": "2026-03-31T13:04:46.426Z",
   "shows": [
-    {
-      "showId": "e1fa170c",
-      "dateISO": "2026-03-24",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/eli/676972?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ELI"
-      ],
-      "openers": [
-        "Geeez Louise"
-      ]
-    },
-    {
-      "showId": "84725e78",
-      "dateISO": "2026-03-25",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/king-dream/679821?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "King Dream"
-      ],
-      "openers": [
-        "Ghost Coach",
-        "R.O. Shapiro"
-      ]
-    },
-    {
-      "showId": "a6f5576a",
-      "dateISO": "2026-03-26",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/molina-appearing-with-gelli-haha-and-big-sis/669831?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MOLINA (appearing with Gelli Haha and Big Sis)"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "0e04311d",
-      "dateISO": "2026-03-27",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/dream-ivory/667214?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "DREAM, IVORY"
-      ],
-      "openers": [
-        "Rew"
-      ]
-    },
-    {
-      "showId": "ff346237",
-      "dateISO": "2026-03-28",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/682800?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": []
-    },
     {
       "showId": "3abd51b2",
       "dateISO": "2026-03-30",
@@ -481,6 +409,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "THE MESSTHETICS AND JAMES BRANDON LEWIS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "63eee893",
+      "dateISO": "2026-06-17",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/zep/685693?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ZEP"
       ],
       "openers": []
     },
