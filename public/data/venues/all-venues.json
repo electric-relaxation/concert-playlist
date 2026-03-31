@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-31T13:04:52.882Z",
+  "generatedAtISO": "2026-03-31T14:56:49.634Z",
   "shows": [
     {
       "showId": "73f6e87d",
@@ -14,22 +14,6 @@
       ],
       "openers": [
         "Lazer Beam"
-      ]
-    },
-    {
-      "showId": "3abd51b2",
-      "dateISO": "2026-03-30",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/sword-ii/670297?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SWORD II"
-      ],
-      "openers": [
-        "Poor Image",
-        "Tex Patrello"
       ]
     },
     {
@@ -2774,6 +2758,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "deca joins"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4cb6a096",
+      "dateISO": "2026-09-21",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/friko/685919?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "FRIKO"
       ],
       "openers": []
     },

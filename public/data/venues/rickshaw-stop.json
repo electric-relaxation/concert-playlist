@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-31T13:04:46.426Z",
+  "generatedAtISO": "2026-03-31T14:56:43.720Z",
   "shows": [
-    {
-      "showId": "3abd51b2",
-      "dateISO": "2026-03-30",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/sword-ii/670297?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SWORD II"
-      ],
-      "openers": [
-        "Poor Image",
-        "Tex Patrello"
-      ]
-    },
     {
       "showId": "a2851a59",
       "dateISO": "2026-03-31",
@@ -479,6 +463,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "MY NEW BAND BELIEVE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4cb6a096",
+      "dateISO": "2026-09-21",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/friko/685919?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "FRIKO"
       ],
       "openers": []
     }
