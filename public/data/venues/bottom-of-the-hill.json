@@ -4,23 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-03-27T23:27:13.946Z",
+  "generatedAtISO": "2026-03-31T22:29:12.824Z",
   "shows": [
-    {
-      "showId": "73f6e87d",
-      "dateISO": "2026-03-27",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260327.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Louis XIV"
-      ],
-      "openers": [
-        "Lazer Beam"
-      ]
-    },
     {
       "showId": "5a8fe372",
       "dateISO": "2026-03-31",
@@ -34,7 +19,7 @@
       ],
       "openers": [
         "Gladie",
-        "Star 99"
+        "Polkadot"
       ]
     },
     {
