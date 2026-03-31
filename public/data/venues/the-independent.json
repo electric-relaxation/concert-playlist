@@ -4,24 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-30T17:50:26.043Z",
+  "generatedAtISO": "2026-03-31T17:52:06.678Z",
   "shows": [
-    {
-      "showId": "a80e4791",
-      "dateISO": "2026-03-30",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/quarters/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Quarters"
-      ],
-      "openers": [
-        "Porch Light",
-        "Telescreens"
-      ]
-    },
     {
       "showId": "005bd6ac",
       "dateISO": "2026-03-31",
@@ -704,6 +688,32 @@
       ]
     },
     {
+      "showId": "e20a6f00",
+      "dateISO": "2026-06-05",
+      "startTime": "6:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-4/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Earlybirds Club"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8bcf0ea2",
+      "dateISO": "2026-06-06",
+      "startTime": "6:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-5/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Earlybirds Club"
+      ],
+      "openers": []
+    },
+    {
       "showId": "ae072db7",
       "dateISO": "2026-06-07",
       "startTime": "8:00 PM",
@@ -982,6 +992,22 @@
       "openers": []
     },
     {
+      "showId": "467da42e",
+      "dateISO": "2026-08-28",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/wax-dj-hoppa/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Wax + DJ Hoppa"
+      ],
+      "openers": [
+        "DJ Hoppa",
+        "Intuition"
+      ]
+    },
+    {
       "showId": "90dfe083",
       "dateISO": "2026-09-08",
       "startTime": "8:00 PM",
@@ -1019,6 +1045,21 @@
         "Chasing Abbey"
       ],
       "openers": []
+    },
+    {
+      "showId": "57028ea1",
+      "dateISO": "2026-10-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/enter-shikari/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Enter Shikari"
+      ],
+      "openers": [
+        "INITIATE"
+      ]
     },
     {
       "showId": "682f9f7e",

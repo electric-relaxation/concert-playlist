@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-03-31T14:56:49.634Z",
+  "generatedAtISO": "2026-03-31T17:52:11.510Z",
   "shows": [
     {
       "showId": "73f6e87d",
@@ -14,37 +14,6 @@
       ],
       "openers": [
         "Lazer Beam"
-      ]
-    },
-    {
-      "showId": "a4f9f6cc",
-      "dateISO": "2026-03-30",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/mclusky/664455?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "mclusky"
-      ],
-      "openers": [
-        "Ekko Astral"
-      ]
-    },
-    {
-      "showId": "a80e4791",
-      "dateISO": "2026-03-30",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/quarters/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Quarters"
-      ],
-      "openers": [
-        "Porch Light",
-        "Telescreens"
       ]
     },
     {
@@ -1991,6 +1960,19 @@
       ]
     },
     {
+      "showId": "e20a6f00",
+      "dateISO": "2026-06-05",
+      "startTime": "6:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-4/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Earlybirds Club"
+      ],
+      "openers": []
+    },
+    {
       "showId": "d7fcef35",
       "dateISO": "2026-06-05",
       "startTime": "9:00 PM",
@@ -2004,6 +1986,19 @@
       "openers": [
         "Jerry's Middle Finger"
       ]
+    },
+    {
+      "showId": "8bcf0ea2",
+      "dateISO": "2026-06-06",
+      "startTime": "6:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-5/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Earlybirds Club"
+      ],
+      "openers": []
     },
     {
       "showId": "fd601f1a",
@@ -2574,6 +2569,32 @@
       ]
     },
     {
+      "showId": "42c90c2f",
+      "dateISO": "2026-08-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/valerie-june/686246?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Valerie June"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "64f4d148",
+      "dateISO": "2026-08-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Valerie-June/686251?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Valerie June"
+      ],
+      "openers": []
+    },
+    {
       "showId": "0066b5a9",
       "dateISO": "2026-08-19",
       "startTime": "8:00 PM",
@@ -2705,6 +2726,22 @@
       ]
     },
     {
+      "showId": "467da42e",
+      "dateISO": "2026-08-28",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/wax-dj-hoppa/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Wax + DJ Hoppa"
+      ],
+      "openers": [
+        "DJ Hoppa",
+        "Intuition"
+      ]
+    },
+    {
       "showId": "e2296de8",
       "dateISO": "2026-08-29",
       "startTime": "8:30 PM",
@@ -2812,6 +2849,21 @@
         "Soda Blonde"
       ],
       "openers": []
+    },
+    {
+      "showId": "57028ea1",
+      "dateISO": "2026-10-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/enter-shikari/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Enter Shikari"
+      ],
+      "openers": [
+        "INITIATE"
+      ]
     },
     {
       "showId": "682f9f7e",

@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-30T19:52:13.076Z",
+  "generatedAtISO": "2026-03-31T17:52:06.678Z",
   "shows": [
-    {
-      "showId": "a4f9f6cc",
-      "dateISO": "2026-03-30",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/mclusky/664455?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "mclusky"
-      ],
-      "openers": [
-        "Ekko Astral"
-      ]
-    },
     {
       "showId": "763a493f",
       "dateISO": "2026-03-31",
@@ -748,6 +733,32 @@
       "openers": [
         "American Tomahawk"
       ]
+    },
+    {
+      "showId": "42c90c2f",
+      "dateISO": "2026-08-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/valerie-june/686246?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Valerie June"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "64f4d148",
+      "dateISO": "2026-08-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Valerie-June/686251?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Valerie June"
+      ],
+      "openers": []
     },
     {
       "showId": "99b87ab8",
