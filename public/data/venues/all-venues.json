@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-01T18:53:57.103Z",
+  "generatedAtISO": "2026-04-01T20:39:17.419Z",
   "shows": [
     {
       "showId": "5a8fe372",
@@ -2095,21 +2095,6 @@
       ]
     },
     {
-      "showId": "b917934a",
-      "dateISO": "2026-06-12",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/novulent/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Novulent"
-      ],
-      "openers": [
-        "Babyteeth"
-      ]
-    },
-    {
       "showId": "36606a06",
       "dateISO": "2026-06-13",
       "startTime": "9:00 PM",
@@ -2232,6 +2217,21 @@
       "openers": [
         "Jammy",
         "MaiahBae"
+      ]
+    },
+    {
+      "showId": "b917934a",
+      "dateISO": "2026-06-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/novulent/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Novulent"
+      ],
+      "openers": [
+        "Babyteeth"
       ]
     },
     {

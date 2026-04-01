@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-01T17:44:26.148Z",
+  "generatedAtISO": "2026-04-01T20:39:10.321Z",
   "shows": [
     {
       "showId": "ed741335",
@@ -759,21 +759,6 @@
       "openers": []
     },
     {
-      "showId": "b917934a",
-      "dateISO": "2026-06-12",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/novulent/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Novulent"
-      ],
-      "openers": [
-        "Babyteeth"
-      ]
-    },
-    {
       "showId": "8d456f8f",
       "dateISO": "2026-06-13",
       "startTime": "9:00 PM",
@@ -816,6 +801,21 @@
         "Choker"
       ],
       "openers": []
+    },
+    {
+      "showId": "b917934a",
+      "dateISO": "2026-06-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/novulent/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Novulent"
+      ],
+      "openers": [
+        "Babyteeth"
+      ]
     },
     {
       "showId": "f59d0cfe",
