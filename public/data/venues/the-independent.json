@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-03-31T18:54:16.303Z",
+  "generatedAtISO": "2026-04-01T16:08:49.730Z",
   "shows": [
-    {
-      "showId": "005bd6ac",
-      "dateISO": "2026-03-31",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/holywatr/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "HOLYWATR"
-      ],
-      "openers": [
-        "Grayhaven"
-      ]
-    },
     {
       "showId": "ed741335",
       "dateISO": "2026-04-01",
@@ -772,6 +757,21 @@
         "Mr Tout Le Monde"
       ],
       "openers": []
+    },
+    {
+      "showId": "b917934a",
+      "dateISO": "2026-06-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/novulent/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Novulent"
+      ],
+      "openers": [
+        "Babyteeth"
+      ]
     },
     {
       "showId": "8d456f8f",
