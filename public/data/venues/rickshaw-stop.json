@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-01T13:08:13.652Z",
+  "generatedAtISO": "2026-04-01T18:53:51.054Z",
   "shows": [
     {
       "showId": "53646deb",
@@ -349,6 +349,23 @@
         "CHILD, THORN, EL KABONG"
       ],
       "openers": []
+    },
+    {
+      "showId": "88e86161",
+      "dateISO": "2026-05-30",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/yoi-toki-sf-a-future-funk-vaporwave-party/686721?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "YOI TOKI SF - A FUTURE FUNK / VAPORWAVE PARTY"
+      ],
+      "openers": [
+        "Meikee Magnetic",
+        "SAINT PEPSI",
+        "Valentine"
+      ]
     },
     {
       "showId": "0cd2547e",

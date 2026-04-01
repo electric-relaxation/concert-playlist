@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-01T17:44:31.108Z",
+  "generatedAtISO": "2026-04-01T18:53:57.103Z",
   "shows": [
     {
       "showId": "5a8fe372",
@@ -1767,6 +1767,23 @@
       ],
       "openers": [
         "Abby Cates"
+      ]
+    },
+    {
+      "showId": "88e86161",
+      "dateISO": "2026-05-30",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/yoi-toki-sf-a-future-funk-vaporwave-party/686721?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "YOI TOKI SF - A FUTURE FUNK / VAPORWAVE PARTY"
+      ],
+      "openers": [
+        "Meikee Magnetic",
+        "SAINT PEPSI",
+        "Valentine"
       ]
     },
     {
