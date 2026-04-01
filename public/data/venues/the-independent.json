@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-01T16:08:49.730Z",
+  "generatedAtISO": "2026-04-01T17:44:26.148Z",
   "shows": [
     {
       "showId": "ed741335",
@@ -1051,7 +1051,7 @@
     {
       "showId": "57028ea1",
       "dateISO": "2026-10-06",
-      "startTime": "8:00 PM",
+      "startTime": "7:30 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/enter-shikari/",
