@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-03-31T18:54:16.303Z",
+  "generatedAtISO": "2026-04-01T13:08:13.652Z",
   "shows": [
-    {
-      "showId": "a2851a59",
-      "dateISO": "2026-03-31",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/worry-club/674330?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "WORRY CLUB"
-      ],
-      "openers": [
-        "Bugsy",
-        "Edgehill"
-      ]
-    },
     {
       "showId": "53646deb",
       "dateISO": "2026-04-01",
@@ -169,7 +153,9 @@
       "headliners": [
         "ps goner (peter sagar from homeshake)"
       ],
-      "openers": []
+      "openers": [
+        "Joy Guidry"
+      ]
     },
     {
       "showId": "4ab966a2",
