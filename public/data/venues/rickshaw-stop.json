@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-01T18:53:51.054Z",
+  "generatedAtISO": "2026-04-02T04:26:07.467Z",
   "shows": [
     {
       "showId": "53646deb",
@@ -123,6 +123,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "ALL YOUR FRIENDS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "20b48401",
+      "dateISO": "2026-04-16",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf/686936?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF"
       ],
       "openers": []
     },

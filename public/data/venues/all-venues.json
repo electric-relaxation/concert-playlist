@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-02T01:51:49.600Z",
+  "generatedAtISO": "2026-04-02T04:26:13.255Z",
   "shows": [
     {
       "showId": "5a8fe372",
@@ -578,6 +578,19 @@
         "Damn Skippy",
         "RDGLDGRN"
       ]
+    },
+    {
+      "showId": "20b48401",
+      "dateISO": "2026-04-16",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf/686936?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF"
+      ],
+      "openers": []
     },
     {
       "showId": "53463c18",
