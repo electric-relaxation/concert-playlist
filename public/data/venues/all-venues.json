@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-02T16:53:15.385Z",
+  "generatedAtISO": "2026-04-02T21:32:14.463Z",
   "shows": [
     {
       "showId": "5a8fe372",
@@ -30,21 +30,6 @@
       ],
       "openers": [
         "Eli Wilson"
-      ]
-    },
-    {
-      "showId": "ed741335",
-      "dateISO": "2026-04-01",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/tom-skinner/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Tom Skinner"
-      ],
-      "openers": [
-        "Emmett Kelly"
       ]
     },
     {
@@ -749,7 +734,10 @@
       "headliners": [
         "ART BRUT"
       ],
-      "openers": []
+      "openers": [
+        "The Seagulls",
+        "The Vaxxines"
+      ]
     },
     {
       "showId": "b353272c",
