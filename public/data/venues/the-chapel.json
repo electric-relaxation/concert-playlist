@@ -4,40 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-03-31T17:52:06.678Z",
+  "generatedAtISO": "2026-04-03T17:29:11.197Z",
   "shows": [
-    {
-      "showId": "763a493f",
-      "dateISO": "2026-03-31",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/we-three/679182?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "We Three"
-      ],
-      "openers": [
-        "Eli Wilson"
-      ]
-    },
-    {
-      "showId": "c9bae81c",
-      "dateISO": "2026-04-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/go-kurosawa-of-kikagaku-moyo/677267?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Go Kurosawa (of Kikagaku Moyo)"
-      ],
-      "openers": [
-        "DJ MikeMannix",
-        "Lael Neale",
-        "Visuals by Zachary Rodell"
-      ]
-    },
     {
       "showId": "4d2ec20e",
       "dateISO": "2026-04-03",
@@ -279,6 +247,19 @@
       "openers": [
         "Mark Robinson sings Unrest"
       ]
+    },
+    {
+      "showId": "3efafa4c",
+      "dateISO": "2026-05-01",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/shabazz-palaces/687068?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Shabazz Palaces"
+      ],
+      "openers": []
     },
     {
       "showId": "2bd4d254",
