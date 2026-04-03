@@ -4,40 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-04-01T07:13:09.625Z",
+  "generatedAtISO": "2026-04-03T06:09:01.855Z",
   "shows": [
-    {
-      "showId": "5a8fe372",
-      "dateISO": "2026-03-31",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260331.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Saintseneca"
-      ],
-      "openers": [
-        "Gladie",
-        "Polkadot"
-      ]
-    },
-    {
-      "showId": "80a4d301",
-      "dateISO": "2026-04-01",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260401.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "WAAX"
-      ],
-      "openers": [
-        "Cut-Rate Druggist",
-        "Starzdust"
-      ]
-    },
     {
       "showId": "83f355ea",
       "dateISO": "2026-04-02",
@@ -207,7 +175,9 @@
       "headliners": [
         "Sgt. Splendor"
       ],
-      "openers": []
+      "openers": [
+        "Crop Top"
+      ]
     },
     {
       "showId": "b353272c",
