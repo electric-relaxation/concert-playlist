@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-03T17:29:17.779Z",
+  "generatedAtISO": "2026-04-04T01:46:42.624Z",
   "shows": [
     {
       "showId": "6041e51e",
@@ -13,21 +13,6 @@
         "This Party Is Killing You!: The Robyn Party"
       ],
       "openers": []
-    },
-    {
-      "showId": "fd53e3a4",
-      "dateISO": "2026-04-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/circles-around-the-sun/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Circles Around The Sun"
-      ],
-      "openers": [
-        "Bobby Lee & Joe Harvey-Whyte"
-      ]
     },
     {
       "showId": "83f355ea",
@@ -1259,7 +1244,7 @@
     {
       "showId": "2b55833f",
       "dateISO": "2026-05-09",
-      "startTime": "8:00 PM",
+      "startTime": "9:00 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/sports/",

@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-02T21:32:08.309Z",
+  "generatedAtISO": "2026-04-04T01:46:36.406Z",
   "shows": [
-    {
-      "showId": "fd53e3a4",
-      "dateISO": "2026-04-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/circles-around-the-sun/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Circles Around The Sun"
-      ],
-      "openers": [
-        "Bobby Lee & Joe Harvey-Whyte"
-      ]
-    },
     {
       "showId": "1929b015",
       "dateISO": "2026-04-03",
@@ -445,7 +430,7 @@
     {
       "showId": "2b55833f",
       "dateISO": "2026-05-09",
-      "startTime": "8:00 PM",
+      "startTime": "9:00 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/sports/",
