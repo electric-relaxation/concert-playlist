@@ -4,36 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-04T01:46:36.406Z",
+  "generatedAtISO": "2026-04-06T18:50:58.205Z",
   "shows": [
-    {
-      "showId": "1929b015",
-      "dateISO": "2026-04-03",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/eliza-mclamb/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Eliza McLamb"
-      ],
-      "openers": [
-        "Lily Seabird"
-      ]
-    },
-    {
-      "showId": "62f29320",
-      "dateISO": "2026-04-04",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/eggy-tapers-choice/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Eggy & Taper’s Choice"
-      ],
-      "openers": []
-    },
     {
       "showId": "4a4e879c",
       "dateISO": "2026-04-06",
@@ -425,7 +397,9 @@
       "headliners": [
         "Concrete Boys"
       ],
-      "openers": []
+      "openers": [
+        "Rio Amor"
+      ]
     },
     {
       "showId": "2b55833f",
