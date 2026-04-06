@@ -4,38 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-03T17:29:11.197Z",
+  "generatedAtISO": "2026-04-06T23:30:01.768Z",
   "shows": [
-    {
-      "showId": "4d2ec20e",
-      "dateISO": "2026-04-03",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/aj-lee-and-blue-summit/668376?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "AJ Lee & Blue Summit"
-      ],
-      "openers": [
-        "My Dog Jack"
-      ]
-    },
-    {
-      "showId": "f456a04a",
-      "dateISO": "2026-04-04",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/aj-lee-and-blue-summit/668386?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "AJ Lee & Blue Summit"
-      ],
-      "openers": [
-        "Wolf Jett"
-      ]
-    },
     {
       "showId": "861d26ae",
       "dateISO": "2026-04-08",
@@ -94,6 +64,7 @@
         "Flamin' Groovies"
       ],
       "openers": [
+        "DJ Joaquin Turner (The Flakes)",
         "Penelope Houston",
         "The Phantom Movers"
       ]
