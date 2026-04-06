@@ -4,51 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-02T16:53:08.274Z",
+  "generatedAtISO": "2026-04-06T19:49:01.301Z",
   "shows": [
-    {
-      "showId": "6041e51e",
-      "dateISO": "2026-04-02",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/this-party-is-killing-you-the-robyn-party/679152?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "This Party Is Killing You!: The Robyn Party"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "299d8941",
-      "dateISO": "2026-04-03",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/tokyo-tea-room/661034?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "TOKYO TEA ROOM"
-      ],
-      "openers": [
-        "dog eyes"
-      ]
-    },
-    {
-      "showId": "79b1e590",
-      "dateISO": "2026-04-04",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/westerman/667670?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "WESTERMAN"
-      ],
-      "openers": [
-        "Otto Benson"
-      ]
-    },
     {
       "showId": "8c7e3503",
       "dateISO": "2026-04-06",
@@ -448,6 +405,22 @@
         "PLAYLUNCH"
       ],
       "openers": []
+    },
+    {
+      "showId": "6daeb775",
+      "dateISO": "2026-08-14",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/smoked-out-soul/687319?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SMOKED OUT SOUL"
+      ],
+      "openers": [
+        "Otis McDonald",
+        "Seal Party"
+      ]
     },
     {
       "showId": "904d0917",
