@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-07T01:56:04.798Z",
+  "generatedAtISO": "2026-04-07T16:51:17.598Z",
   "shows": [
     {
       "showId": "83f355ea",
@@ -15,21 +15,6 @@
       "openers": [
         "Fust",
         "Georgia Maq"
-      ]
-    },
-    {
-      "showId": "8c7e3503",
-      "dateISO": "2026-04-06",
-      "startTime": "7:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/courtney-marie-andrews/668883?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "COURTNEY MARIE ANDREWS"
-      ],
-      "openers": [
-        "Margo Cilker"
       ]
     },
     {
@@ -1393,6 +1378,19 @@
       ]
     },
     {
+      "showId": "6b92ed0c",
+      "dateISO": "2026-05-22",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/BROADWAY-RAVE/686945?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BROADWAY RAVE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "613bd30a",
       "dateISO": "2026-05-22",
       "startTime": "9:00 PM",
@@ -2158,6 +2156,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Fleetwood Macramé"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "6202fcc4",
+      "dateISO": "2026-06-28",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/panic-shack/685912?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "PANIC SHACK"
       ],
       "openers": []
     },
