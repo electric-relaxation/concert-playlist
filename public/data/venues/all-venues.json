@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-07T16:51:17.598Z",
+  "generatedAtISO": "2026-04-07T18:56:38.361Z",
   "shows": [
     {
       "showId": "83f355ea",
@@ -15,21 +15,6 @@
       "openers": [
         "Fust",
         "Georgia Maq"
-      ]
-    },
-    {
-      "showId": "4a4e879c",
-      "dateISO": "2026-04-06",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-moss/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Moss with Rec Hall"
-      ],
-      "openers": [
-        "Rec Hall"
       ]
     },
     {
@@ -2713,7 +2698,9 @@
       "headliners": [
         "Deer Tick"
       ],
-      "openers": []
+      "openers": [
+        "Presley Haile"
+      ]
     },
     {
       "showId": "e0301153",

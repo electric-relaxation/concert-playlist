@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-06T18:50:58.205Z",
+  "generatedAtISO": "2026-04-07T18:56:31.538Z",
   "shows": [
-    {
-      "showId": "4a4e879c",
-      "dateISO": "2026-04-06",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-moss/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Moss with Rec Hall"
-      ],
-      "openers": [
-        "Rec Hall"
-      ]
-    },
     {
       "showId": "809e361b",
       "dateISO": "2026-04-09",
@@ -1020,7 +1005,9 @@
       "headliners": [
         "Deer Tick"
       ],
-      "openers": []
+      "openers": [
+        "Presley Haile"
+      ]
     },
     {
       "showId": "b08f4f20",
