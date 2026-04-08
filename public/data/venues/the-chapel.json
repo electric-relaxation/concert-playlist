@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-07T01:55:57.948Z",
+  "generatedAtISO": "2026-04-08T16:55:47.653Z",
   "shows": [
     {
       "showId": "861d26ae",
@@ -858,6 +858,21 @@
         "Soda Blonde"
       ],
       "openers": []
+    },
+    {
+      "showId": "0ea94193",
+      "dateISO": "2026-11-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-liminanas/686832?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Limiñanas"
+      ],
+      "openers": [
+        "Native Sun"
+      ]
     },
     {
       "showId": "f8913335",
