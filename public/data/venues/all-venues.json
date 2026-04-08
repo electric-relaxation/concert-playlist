@@ -1,53 +1,6 @@
 {
-  "generatedAtISO": "2026-04-08T20:38:38.360Z",
+  "generatedAtISO": "2026-04-08T21:37:15.367Z",
   "shows": [
-    {
-      "showId": "83f355ea",
-      "dateISO": "2026-04-02",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260402.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Merce Lemon"
-      ],
-      "openers": [
-        "Fust",
-        "Georgia Maq"
-      ]
-    },
-    {
-      "showId": "493d47fe",
-      "dateISO": "2026-04-06",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260406.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "STOMACH BOOK"
-      ],
-      "openers": [
-        "Girls Rituals"
-      ]
-    },
-    {
-      "showId": "13b4b85a",
-      "dateISO": "2026-04-07",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260407.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "The Lighting Section"
-      ],
-      "openers": [
-        "Lizzie Waters",
-        "Teleco"
-      ]
-    },
     {
       "showId": "861d26ae",
       "dateISO": "2026-04-08",
@@ -1359,7 +1312,8 @@
         "Foxtide"
       ],
       "openers": [
-        "Hana Eid"
+        "Hana Eid",
+        "Stanton"
       ]
     },
     {
