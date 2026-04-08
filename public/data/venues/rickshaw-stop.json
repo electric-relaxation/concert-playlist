@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-08T18:04:07.850Z",
+  "generatedAtISO": "2026-04-08T20:38:31.553Z",
   "shows": [
     {
       "showId": "0fcceb40",
@@ -266,12 +266,14 @@
       "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/samiamthe-flatliners/681028?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/samiam-the-flatliners/681028?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "SAMIAM/THE FLATLINERS"
+        "SAMIAM / THE FLATLINERS"
       ],
-      "openers": []
+      "openers": [
+        "Strangelight"
+      ]
     },
     {
       "showId": "f17eecfa",
