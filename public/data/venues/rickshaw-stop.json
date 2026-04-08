@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-07T16:51:10.562Z",
+  "generatedAtISO": "2026-04-08T18:04:07.850Z",
   "shows": [
-    {
-      "showId": "5befcaf0",
-      "dateISO": "2026-04-07",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/ulrika-spacek/672803?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ULRIKA SPACEK"
-      ],
-      "openers": [
-        "Badvril",
-        "Cindy"
-      ]
-    },
     {
       "showId": "0fcceb40",
       "dateISO": "2026-04-10",
@@ -458,6 +442,23 @@
         "FRIKO"
       ],
       "openers": []
+    },
+    {
+      "showId": "6b700074",
+      "dateISO": "2026-10-16",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/diles-que-no-me-maten/687568?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Diles Que No Me Maten"
+      ],
+      "openers": [
+        "Present",
+        "Trough",
+        "ulyssescfm"
+      ]
     }
   ]
 }

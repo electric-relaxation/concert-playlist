@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-08T16:55:47.653Z",
+  "generatedAtISO": "2026-04-08T18:04:07.850Z",
   "shows": [
     {
       "showId": "861d26ae",
@@ -856,6 +856,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Soda Blonde"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "14eb4c90",
+      "dateISO": "2026-10-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/weatherday-hornet-disaster-tour-2026/687518?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Weatherday: Hornet Disaster Tour 2026"
       ],
       "openers": []
     },

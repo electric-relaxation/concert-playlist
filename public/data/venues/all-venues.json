@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-08T16:55:54.497Z",
+  "generatedAtISO": "2026-04-08T18:04:15.914Z",
   "shows": [
     {
       "showId": "83f355ea",
@@ -30,22 +30,6 @@
       ],
       "openers": [
         "Girls Rituals"
-      ]
-    },
-    {
-      "showId": "5befcaf0",
-      "dateISO": "2026-04-07",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/ulrika-spacek/672803?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ULRIKA SPACEK"
-      ],
-      "openers": [
-        "Badvril",
-        "Cindy"
       ]
     },
     {
@@ -1244,6 +1228,22 @@
         "Junior Varsity"
       ],
       "openers": []
+    },
+    {
+      "showId": "8f30c54a",
+      "dateISO": "2026-05-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/toner/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "TONER"
+      ],
+      "openers": [
+        "System Exclusive",
+        "Welcome Strawberry"
+      ]
     },
     {
       "showId": "13c3322d",
@@ -2701,6 +2701,36 @@
       "openers": [
         "Presley Haile"
       ]
+    },
+    {
+      "showId": "6b700074",
+      "dateISO": "2026-10-16",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/diles-que-no-me-maten/687568?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Diles Que No Me Maten"
+      ],
+      "openers": [
+        "Present",
+        "Trough",
+        "ulyssescfm"
+      ]
+    },
+    {
+      "showId": "14eb4c90",
+      "dateISO": "2026-10-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/weatherday-hornet-disaster-tour-2026/687518?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Weatherday: Hornet Disaster Tour 2026"
+      ],
+      "openers": []
     },
     {
       "showId": "0ea94193",

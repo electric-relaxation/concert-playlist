@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-07T18:56:31.538Z",
+  "generatedAtISO": "2026-04-08T18:04:07.850Z",
   "shows": [
     {
       "showId": "809e361b",
@@ -454,6 +454,22 @@
         "Junior Varsity"
       ],
       "openers": []
+    },
+    {
+      "showId": "8f30c54a",
+      "dateISO": "2026-05-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/toner/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "TONER"
+      ],
+      "openers": [
+        "System Exclusive",
+        "Welcome Strawberry"
+      ]
     },
     {
       "showId": "48234472",
