@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-08T21:37:15.367Z",
+  "generatedAtISO": "2026-04-08T23:33:31.467Z",
   "shows": [
     {
       "showId": "861d26ae",
@@ -455,6 +455,22 @@
       ]
     },
     {
+      "showId": "b353272c",
+      "dateISO": "2026-04-21",
+      "startTime": "7:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260421.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Young Fresh Fellows"
+      ],
+      "openers": [
+        "The Rubinoos",
+        "Victor Krummenacher & Greg Lisher"
+      ]
+    },
+    {
       "showId": "f3d045c5",
       "dateISO": "2026-04-21",
       "startTime": "8:00 PM",
@@ -468,22 +484,6 @@
       "openers": [
         "The Seagulls",
         "The Vaxxines"
-      ]
-    },
-    {
-      "showId": "b353272c",
-      "dateISO": "2026-04-21",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260421.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Young Fresh Fellows"
-      ],
-      "openers": [
-        "The Rubinoos",
-        "Victor Krummenacher & Greg Lisher"
       ]
     },
     {
@@ -708,7 +708,9 @@
       "headliners": [
         "Chuwi"
       ],
-      "openers": []
+      "openers": [
+        "Lizzy al Toque"
+      ]
     },
     {
       "showId": "7bfa5984",

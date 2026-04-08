@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-08T18:04:07.850Z",
+  "generatedAtISO": "2026-04-08T23:33:24.456Z",
   "shows": [
     {
       "showId": "809e361b",
@@ -222,7 +222,9 @@
       "headliners": [
         "Chuwi"
       ],
-      "openers": []
+      "openers": [
+        "Lizzy al Toque"
+      ]
     },
     {
       "showId": "2edec91e",

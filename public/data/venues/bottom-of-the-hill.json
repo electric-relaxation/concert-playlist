@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-04-08T21:37:07.883Z",
+  "generatedAtISO": "2026-04-08T23:33:24.456Z",
   "shows": [
     {
       "showId": "4790385e",
@@ -135,7 +135,7 @@
     {
       "showId": "b353272c",
       "dateISO": "2026-04-21",
-      "startTime": "8:30 PM",
+      "startTime": "7:30 PM",
       "venueId": "bottom-of-the-hill",
       "venueName": "Bottom of the Hill",
       "showUrl": "http://www.bottomofthehill.com/20260421.html",
