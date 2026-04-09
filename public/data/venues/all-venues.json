@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-09T21:40:56.118Z",
+  "generatedAtISO": "2026-04-09T22:35:49.981Z",
   "shows": [
     {
       "showId": "4790385e",
@@ -1097,6 +1097,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Archive + JoyCut"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "813a4014",
+      "dateISO": "2026-05-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/allen-ginsberg-centennial-in-sf/687765?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Allen Ginsberg Centennial in SF"
       ],
       "openers": []
     },
