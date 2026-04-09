@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-09T01:48:46.291Z",
+  "generatedAtISO": "2026-04-09T17:01:26.923Z",
   "shows": [
-    {
-      "showId": "861d26ae",
-      "dateISO": "2026-04-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/jane-symmes/679269?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Jane Symmes"
-      ],
-      "openers": [
-        "Animal Prince",
-        "Ren Geisick"
-      ]
-    },
     {
       "showId": "b6b4772a",
       "dateISO": "2026-04-09",
@@ -277,6 +261,24 @@
       "openers": [
         "KEEP",
         "Money"
+      ]
+    },
+    {
+      "showId": "4acf399c",
+      "dateISO": "2026-05-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/band-contest-semi-finals/687661?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Band Contest Semi-Finals"
+      ],
+      "openers": [
+        "MC: Hot Buttered Rum",
+        "Oona",
+        "Shandri",
+        "Strange Vine"
       ]
     },
     {
