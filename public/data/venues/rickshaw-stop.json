@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-08T20:38:31.553Z",
+  "generatedAtISO": "2026-04-09T01:48:46.291Z",
   "shows": [
     {
       "showId": "0fcceb40",
@@ -92,7 +92,8 @@
         "GETDOWN SERVICES"
       ],
       "openers": [
-        "Litronix"
+        "Litronix",
+        "Mashi Mashi"
       ]
     },
     {

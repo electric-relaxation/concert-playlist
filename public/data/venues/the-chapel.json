@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-08T18:04:07.850Z",
+  "generatedAtISO": "2026-04-09T01:48:46.291Z",
   "shows": [
     {
       "showId": "861d26ae",
@@ -58,10 +58,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/flamin-groovies/683223?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/flamin-groovies-60th-anniversary-celebration/683223?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Flamin' Groovies"
+        "Flamin' Groovies (60th Anniversary Celebration!)"
       ],
       "openers": [
         "DJ Joaquin Turner (The Flakes)",
