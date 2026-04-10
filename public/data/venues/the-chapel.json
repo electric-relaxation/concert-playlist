@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-10T20:30:08.730Z",
+  "generatedAtISO": "2026-04-10T21:32:03.860Z",
   "shows": [
     {
       "showId": "53e0b7cb",
@@ -307,6 +307,7 @@
       ],
       "openers": [
         "Emma Swift",
+        "Mad Alchemy Liquid Light Show",
         "Those Pretty Wrongs"
       ]
     },
