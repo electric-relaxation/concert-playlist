@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-09T22:35:49.981Z",
+  "generatedAtISO": "2026-04-10T20:30:16.757Z",
   "shows": [
     {
       "showId": "4790385e",
@@ -15,23 +15,6 @@
       "openers": [
         "Hollow Minds",
         "Paper Straw"
-      ]
-    },
-    {
-      "showId": "b6b4772a",
-      "dateISO": "2026-04-09",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/rocketship/677115?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Rocketship"
-      ],
-      "openers": [
-        "Chime School",
-        "DJ Jessica B",
-        "The Umbrellas"
       ]
     },
     {
@@ -227,6 +210,7 @@
         "Drugdealer"
       ],
       "openers": [
+        "Goldy",
         "Josh da Costa"
       ]
     },

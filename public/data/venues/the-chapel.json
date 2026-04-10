@@ -4,25 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-09T22:35:44.286Z",
+  "generatedAtISO": "2026-04-10T20:30:08.730Z",
   "shows": [
-    {
-      "showId": "b6b4772a",
-      "dateISO": "2026-04-09",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/rocketship/677115?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Rocketship"
-      ],
-      "openers": [
-        "Chime School",
-        "DJ Jessica B",
-        "The Umbrellas"
-      ]
-    },
     {
       "showId": "53e0b7cb",
       "dateISO": "2026-04-10",
@@ -66,6 +49,7 @@
         "Drugdealer"
       ],
       "openers": [
+        "Goldy",
         "Josh da Costa"
       ]
     },
