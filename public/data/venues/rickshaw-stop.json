@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-09T01:48:46.291Z",
+  "generatedAtISO": "2026-04-11T01:50:47.735Z",
   "shows": [
     {
       "showId": "0fcceb40",
@@ -137,7 +137,9 @@
       "headliners": [
         "PACIFICA"
       ],
-      "openers": []
+      "openers": [
+        "Emi Grace"
+      ]
     },
     {
       "showId": "f362bfa1",

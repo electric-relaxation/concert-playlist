@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-10T21:32:11.462Z",
+  "generatedAtISO": "2026-04-11T01:50:55.568Z",
   "shows": [
     {
       "showId": "4790385e",
@@ -725,7 +725,9 @@
       "headliners": [
         "PACIFICA"
       ],
-      "openers": []
+      "openers": [
+        "Emi Grace"
+      ]
     },
     {
       "showId": "2978fe67",
