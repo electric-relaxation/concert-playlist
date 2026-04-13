@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-13T21:42:06.918Z",
+  "generatedAtISO": "2026-04-13T22:38:27.356Z",
   "shows": [
     {
       "showId": "20b48401",
@@ -293,6 +293,22 @@
       "openers": [
         "DJ N0be",
         "Mild Universe"
+      ]
+    },
+    {
+      "showId": "ff03a710",
+      "dateISO": "2026-06-11",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/prettyboy-chance/688119?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "PrettyBoy Chance"
+      ],
+      "openers": [
+        "Dirty Cello",
+        "Matt Jaffe"
       ]
     },
     {

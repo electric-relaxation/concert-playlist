@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-13T21:42:15.855Z",
+  "generatedAtISO": "2026-04-13T22:38:35.624Z",
   "shows": [
     {
       "showId": "1d7d53f4",
@@ -1040,6 +1040,19 @@
       "openers": []
     },
     {
+      "showId": "ef0f0641",
+      "dateISO": "2026-05-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/nick-waterhouse/688069?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Nick Waterhouse"
+      ],
+      "openers": []
+    },
+    {
       "showId": "8f30c54a",
       "dateISO": "2026-05-15",
       "startTime": "9:00 PM",
@@ -1680,6 +1693,22 @@
         "Mr Tout Le Monde"
       ],
       "openers": []
+    },
+    {
+      "showId": "ff03a710",
+      "dateISO": "2026-06-11",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/prettyboy-chance/688119?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "PrettyBoy Chance"
+      ],
+      "openers": [
+        "Dirty Cello",
+        "Matt Jaffe"
+      ]
     },
     {
       "showId": "34139145",

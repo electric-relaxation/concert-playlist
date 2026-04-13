@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-13T18:05:44.356Z",
+  "generatedAtISO": "2026-04-13T22:38:27.356Z",
   "shows": [
     {
       "showId": "60d680cf",
@@ -279,6 +279,19 @@
         "Mad Alchemy Liquid Light Show",
         "Those Pretty Wrongs"
       ]
+    },
+    {
+      "showId": "ef0f0641",
+      "dateISO": "2026-05-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/nick-waterhouse/688069?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Nick Waterhouse"
+      ],
+      "openers": []
     },
     {
       "showId": "20648e7f",
