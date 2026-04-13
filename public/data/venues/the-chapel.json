@@ -4,39 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-10T21:32:03.860Z",
+  "generatedAtISO": "2026-04-13T18:05:44.356Z",
   "shows": [
-    {
-      "showId": "53e0b7cb",
-      "dateISO": "2026-04-10",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/petty-theft/680108?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Petty Theft"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "225e2f0e",
-      "dateISO": "2026-04-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/flamin-groovies-60th-anniversary-celebration/683223?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Flamin' Groovies (60th Anniversary Celebration!)"
-      ],
-      "openers": [
-        "DJ Joaquin Turner (The Flakes)",
-        "Ether Wave Light Show",
-        "Penelope Houston",
-        "The Phantom Movers"
-      ]
-    },
     {
       "showId": "60d680cf",
       "dateISO": "2026-04-15",
@@ -627,6 +596,22 @@
         "Inara George (of The Bird and the Bee)"
       ],
       "openers": []
+    },
+    {
+      "showId": "b7f0f911",
+      "dateISO": "2026-07-17",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dead-souls-a-tribute-to-joy-division/688000?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dead Souls: A Tribute to Joy Division"
+      ],
+      "openers": [
+        "DJ Starr Noir (Nightshift)",
+        "Voodoo Dolly: Black Siouxsie Tribute"
+      ]
     },
     {
       "showId": "d40cb5be",

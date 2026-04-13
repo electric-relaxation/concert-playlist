@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-13T07:54:48.892Z",
+  "generatedAtISO": "2026-04-13T18:05:53.015Z",
   "shows": [
     {
       "showId": "4790385e",
@@ -51,19 +51,6 @@
       ]
     },
     {
-      "showId": "53e0b7cb",
-      "dateISO": "2026-04-10",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/petty-theft/680108?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Petty Theft"
-      ],
-      "openers": []
-    },
-    {
       "showId": "c8f38168",
       "dateISO": "2026-04-11",
       "startTime": "8:00 PM",
@@ -76,24 +63,6 @@
       ],
       "openers": [
         "The Mainliners"
-      ]
-    },
-    {
-      "showId": "225e2f0e",
-      "dateISO": "2026-04-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/flamin-groovies-60th-anniversary-celebration/683223?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Flamin' Groovies (60th Anniversary Celebration!)"
-      ],
-      "openers": [
-        "DJ Joaquin Turner (The Flakes)",
-        "Ether Wave Light Show",
-        "Penelope Houston",
-        "The Phantom Movers"
       ]
     },
     {
@@ -2141,6 +2110,22 @@
         "Inara George (of The Bird and the Bee)"
       ],
       "openers": []
+    },
+    {
+      "showId": "b7f0f911",
+      "dateISO": "2026-07-17",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dead-souls-a-tribute-to-joy-division/688000?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dead Souls: A Tribute to Joy Division"
+      ],
+      "openers": [
+        "DJ Starr Noir (Nightshift)",
+        "Voodoo Dolly: Black Siouxsie Tribute"
+      ]
     },
     {
       "showId": "f3d78f20",
