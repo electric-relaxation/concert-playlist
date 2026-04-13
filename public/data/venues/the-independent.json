@@ -4,55 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-08T23:33:24.456Z",
+  "generatedAtISO": "2026-04-13T07:54:41.517Z",
   "shows": [
-    {
-      "showId": "809e361b",
-      "dateISO": "2026-04-09",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-casualties/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Casualties"
-      ],
-      "openers": [
-        "Bullshit Detector",
-        "MOKOSOS"
-      ]
-    },
-    {
-      "showId": "c116889d",
-      "dateISO": "2026-04-10",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/maria-somerville/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Maria Somerville"
-      ],
-      "openers": [
-        "r.image"
-      ]
-    },
-    {
-      "showId": "6816ad42",
-      "dateISO": "2026-04-11",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/saturdays-at-your-place/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "saturdays at your place"
-      ],
-      "openers": [
-        "Kerosene Heights",
-        "Retirement Party"
-      ]
-    },
     {
       "showId": "1d7d53f4",
       "dateISO": "2026-04-13",
@@ -173,7 +126,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/langhorne-slim-the-dreamin-kind-tour/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Langhorne Slim: The Dreamin’ Kind Tour"
+        "Langhorne Slim: The Dreamin' Kind Tour"
       ],
       "openers": [
         "Laney Jones and the Spirits"
