@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-13T18:05:53.015Z",
+  "generatedAtISO": "2026-04-13T20:01:42.032Z",
   "shows": [
     {
       "showId": "4790385e",
@@ -105,7 +105,9 @@
       "headliners": [
         "Die Spitz"
       ],
-      "openers": []
+      "openers": [
+        "Rocket"
+      ]
     },
     {
       "showId": "8ee58746",
@@ -118,7 +120,9 @@
       "headliners": [
         "Die Spitz"
       ],
-      "openers": []
+      "openers": [
+        "Rocket"
+      ]
     },
     {
       "showId": "60d680cf",

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-13T07:54:41.517Z",
+  "generatedAtISO": "2026-04-13T20:01:34.163Z",
   "shows": [
     {
       "showId": "1d7d53f4",
@@ -17,7 +17,9 @@
       "headliners": [
         "Die Spitz"
       ],
-      "openers": []
+      "openers": [
+        "Rocket"
+      ]
     },
     {
       "showId": "8ee58746",
@@ -30,7 +32,9 @@
       "headliners": [
         "Die Spitz"
       ],
-      "openers": []
+      "openers": [
+        "Rocket"
+      ]
     },
     {
       "showId": "56cf4207",
