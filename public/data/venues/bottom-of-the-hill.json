@@ -4,71 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-04-08T23:33:24.456Z",
+  "generatedAtISO": "2026-04-13T21:42:06.918Z",
   "shows": [
-    {
-      "showId": "4790385e",
-      "dateISO": "2026-04-08",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260408.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Ian Santillano"
-      ],
-      "openers": [
-        "Hollow Minds",
-        "Paper Straw"
-      ]
-    },
-    {
-      "showId": "f3cda3bb",
-      "dateISO": "2026-04-09",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260409.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Habibi"
-      ],
-      "openers": [
-        "Cole Berliner",
-        "nyre"
-      ]
-    },
-    {
-      "showId": "c8f38168",
-      "dateISO": "2026-04-11",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260411.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Slomosa"
-      ],
-      "openers": [
-        "The Mainliners"
-      ]
-    },
-    {
-      "showId": "86a27693",
-      "dateISO": "2026-04-12",
-      "startTime": "7:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260412.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Angela LaFlamme & Co."
-      ],
-      "openers": [
-        "Allison Lovejoy",
-        "Bela Ruino"
-      ]
-    },
     {
       "showId": "49e2a961",
       "dateISO": "2026-04-15",
@@ -130,6 +67,22 @@
       ],
       "openers": [
         "Crop Top"
+      ]
+    },
+    {
+      "showId": "ae635fbc",
+      "dateISO": "2026-04-20",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260420.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "The Dandy Lions"
+      ],
+      "openers": [
+        "Cape Fury",
+        "HIGHWINDS"
       ]
     },
     {

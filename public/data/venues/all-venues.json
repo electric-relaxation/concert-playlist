@@ -1,99 +1,6 @@
 {
-  "generatedAtISO": "2026-04-13T20:01:42.032Z",
+  "generatedAtISO": "2026-04-13T21:42:15.855Z",
   "shows": [
-    {
-      "showId": "4790385e",
-      "dateISO": "2026-04-08",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260408.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Ian Santillano"
-      ],
-      "openers": [
-        "Hollow Minds",
-        "Paper Straw"
-      ]
-    },
-    {
-      "showId": "f3cda3bb",
-      "dateISO": "2026-04-09",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260409.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Habibi"
-      ],
-      "openers": [
-        "Cole Berliner",
-        "nyre"
-      ]
-    },
-    {
-      "showId": "0fcceb40",
-      "dateISO": "2026-04-10",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/a-tribute-to-prince-and-bowie/679029?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "A TRIBUTE TO PRINCE & BOWIE"
-      ],
-      "openers": [
-        "CONTROVERSY",
-        "Meikee Magnetic",
-        "QUEEN BITCH"
-      ]
-    },
-    {
-      "showId": "c8f38168",
-      "dateISO": "2026-04-11",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260411.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Slomosa"
-      ],
-      "openers": [
-        "The Mainliners"
-      ]
-    },
-    {
-      "showId": "ef8a6ae0",
-      "dateISO": "2026-04-11",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/all-your-friends/682420?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ALL YOUR FRIENDS"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "86a27693",
-      "dateISO": "2026-04-12",
-      "startTime": "7:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260412.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Angela LaFlamme & Co."
-      ],
-      "openers": [
-        "Allison Lovejoy",
-        "Bela Ruino"
-      ]
-    },
     {
       "showId": "1d7d53f4",
       "dateISO": "2026-04-13",
@@ -330,6 +237,22 @@
       ],
       "openers": [
         "Tia Nomore"
+      ]
+    },
+    {
+      "showId": "ae635fbc",
+      "dateISO": "2026-04-20",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260420.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "The Dandy Lions"
+      ],
+      "openers": [
+        "Cape Fury",
+        "HIGHWINDS"
       ]
     },
     {
@@ -726,7 +649,9 @@
       "headliners": [
         "DUMBO GETS MAD"
       ],
-      "openers": []
+      "openers": [
+        "SHĀHERI"
+      ]
     },
     {
       "showId": "6cc290eb",

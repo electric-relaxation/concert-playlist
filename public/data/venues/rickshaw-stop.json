@@ -4,38 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-11T01:50:47.735Z",
+  "generatedAtISO": "2026-04-13T21:42:06.918Z",
   "shows": [
-    {
-      "showId": "0fcceb40",
-      "dateISO": "2026-04-10",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/a-tribute-to-prince-and-bowie/679029?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "A TRIBUTE TO PRINCE & BOWIE"
-      ],
-      "openers": [
-        "CONTROVERSY",
-        "Meikee Magnetic",
-        "QUEEN BITCH"
-      ]
-    },
-    {
-      "showId": "ef8a6ae0",
-      "dateISO": "2026-04-11",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/all-your-friends/682420?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ALL YOUR FRIENDS"
-      ],
-      "openers": []
-    },
     {
       "showId": "20b48401",
       "dateISO": "2026-04-16",
@@ -152,7 +122,9 @@
       "headliners": [
         "DUMBO GETS MAD"
       ],
-      "openers": []
+      "openers": [
+        "SHĀHERI"
+      ]
     },
     {
       "showId": "69fb05cd",
