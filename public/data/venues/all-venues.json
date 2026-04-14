@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-14T17:00:07.122Z",
+  "generatedAtISO": "2026-04-14T18:10:46.241Z",
   "shows": [
     {
       "showId": "1d7d53f4",
@@ -2171,6 +2171,19 @@
       "openers": [
         "BettySoo"
       ]
+    },
+    {
+      "showId": "556766ce",
+      "dateISO": "2026-07-24",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/spacemoth-album-release-show/687668?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SPACEMOTH (Album Release Show)"
+      ],
+      "openers": []
     },
     {
       "showId": "7dd25558",

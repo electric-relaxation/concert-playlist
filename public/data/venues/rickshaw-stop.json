@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-14T16:59:59.062Z",
+  "generatedAtISO": "2026-04-14T18:10:37.694Z",
   "shows": [
     {
       "showId": "20b48401",
@@ -391,6 +391,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "ALL YOUR FRIENDS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "556766ce",
+      "dateISO": "2026-07-24",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/spacemoth-album-release-show/687668?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SPACEMOTH (Album Release Show)"
       ],
       "openers": []
     },
