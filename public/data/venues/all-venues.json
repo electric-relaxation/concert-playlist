@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-14T13:44:13.275Z",
+  "generatedAtISO": "2026-04-14T17:00:07.122Z",
   "shows": [
     {
       "showId": "1d7d53f4",
@@ -2009,6 +2009,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "High Fade"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fff4a80d",
+      "dateISO": "2026-07-10",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/all-your-friends/687615?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALL YOUR FRIENDS"
       ],
       "openers": []
     },

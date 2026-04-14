@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-14T02:02:40.817Z",
+  "generatedAtISO": "2026-04-14T16:59:59.062Z",
   "shows": [
     {
       "showId": "20b48401",
@@ -378,6 +378,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "PANIC SHACK"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fff4a80d",
+      "dateISO": "2026-07-10",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/all-your-friends/687615?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALL YOUR FRIENDS"
       ],
       "openers": []
     },
