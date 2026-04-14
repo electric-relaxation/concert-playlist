@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-13T22:38:35.624Z",
+  "generatedAtISO": "2026-04-14T02:02:48.868Z",
   "shows": [
     {
       "showId": "1d7d53f4",
@@ -1565,6 +1565,22 @@
       ]
     },
     {
+      "showId": "ff03a710",
+      "dateISO": "2026-06-04",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/prettyboy-chance/688119?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "PrettyBoy Chance"
+      ],
+      "openers": [
+        "Dirty Cello",
+        "Matt Jaffe"
+      ]
+    },
+    {
       "showId": "e20a6f00",
       "dateISO": "2026-06-05",
       "startTime": "6:00 PM",
@@ -1693,22 +1709,6 @@
         "Mr Tout Le Monde"
       ],
       "openers": []
-    },
-    {
-      "showId": "ff03a710",
-      "dateISO": "2026-06-11",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/prettyboy-chance/688119?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "PrettyBoy Chance"
-      ],
-      "openers": [
-        "Dirty Cello",
-        "Matt Jaffe"
-      ]
     },
     {
       "showId": "34139145",
