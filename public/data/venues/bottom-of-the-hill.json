@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-04-13T21:42:06.918Z",
+  "generatedAtISO": "2026-04-14T21:44:34.623Z",
   "shows": [
     {
       "showId": "49e2a961",
@@ -162,6 +162,23 @@
       ],
       "openers": [
         "Misandrist"
+      ]
+    },
+    {
+      "showId": "6b46f9f1",
+      "dateISO": "2026-04-26",
+      "startTime": "4:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260426.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Mission Chris"
+      ],
+      "openers": [
+        "Grunge",
+        "House Abandon",
+        "The Riots"
       ]
     },
     {
