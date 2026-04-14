@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-04-14T18:10:46.241Z",
+  "generatedAtISO": "2026-04-14T20:02:01.587Z",
   "shows": [
-    {
-      "showId": "1d7d53f4",
-      "dateISO": "2026-04-13",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/die-spitz/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Die Spitz"
-      ],
-      "openers": [
-        "Rocket"
-      ]
-    },
     {
       "showId": "8ee58746",
       "dateISO": "2026-04-14",
@@ -1007,7 +992,9 @@
       "headliners": [
         "Texas is the Reason"
       ],
-      "openers": []
+      "openers": [
+        "Growing Pains"
+      ]
     },
     {
       "showId": "47e9bc53",
