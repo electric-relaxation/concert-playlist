@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-14T18:10:37.694Z",
+  "generatedAtISO": "2026-04-15T18:04:10.783Z",
   "shows": [
     {
       "showId": "20b48401",
@@ -406,6 +406,22 @@
         "SPACEMOTH (Album Release Show)"
       ],
       "openers": []
+    },
+    {
+      "showId": "5691461d",
+      "dateISO": "2026-07-31",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/super-greens/686946?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SUPER GREENS"
+      ],
+      "openers": [
+        "often easy",
+        "plaster"
+      ]
     },
     {
       "showId": "f9ee2292",

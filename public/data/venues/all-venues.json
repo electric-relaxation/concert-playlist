@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-15T01:59:34.092Z",
+  "generatedAtISO": "2026-04-15T18:04:17.572Z",
   "shows": [
     {
       "showId": "8ee58746",
@@ -1273,6 +1273,19 @@
       "openers": []
     },
     {
+      "showId": "441cfda3",
+      "dateISO": "2026-05-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/jacob-fred-jazz-odyssey/688222?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Jacob Fred Jazz Odyssey"
+      ],
+      "openers": []
+    },
+    {
       "showId": "3faceab8",
       "dateISO": "2026-05-27",
       "startTime": "8:30 PM",
@@ -2219,6 +2232,22 @@
       "openers": [
         "Resentvul",
         "Ryan Oakes"
+      ]
+    },
+    {
+      "showId": "5691461d",
+      "dateISO": "2026-07-31",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/super-greens/686946?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SUPER GREENS"
+      ],
+      "openers": [
+        "often easy",
+        "plaster"
       ]
     },
     {

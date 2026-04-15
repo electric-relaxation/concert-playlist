@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-15T01:59:25.923Z",
+  "generatedAtISO": "2026-04-15T18:04:10.783Z",
   "shows": [
     {
       "showId": "60d680cf",
@@ -330,6 +330,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "The Paper Kites"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "441cfda3",
+      "dateISO": "2026-05-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/jacob-fred-jazz-odyssey/688222?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Jacob Fred Jazz Odyssey"
       ],
       "openers": []
     },
