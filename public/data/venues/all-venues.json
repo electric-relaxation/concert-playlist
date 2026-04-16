@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-15T18:04:17.572Z",
+  "generatedAtISO": "2026-04-16T17:08:23.555Z",
   "shows": [
     {
       "showId": "8ee58746",
@@ -14,23 +14,6 @@
       ],
       "openers": [
         "Rocket"
-      ]
-    },
-    {
-      "showId": "60d680cf",
-      "dateISO": "2026-04-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/drugdealer/678778?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Drugdealer"
-      ],
-      "openers": [
-        "Ether Wave Light Show",
-        "Goldy",
-        "Josh da Costa"
       ]
     },
     {
@@ -1173,6 +1156,21 @@
         "Denial of Life",
         "Dying Remains",
         "Eternal"
+      ]
+    },
+    {
+      "showId": "c8b99019",
+      "dateISO": "2026-05-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-of-music-and-conversation-with-lol-tolhurst/688209?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An evening of music and conversation"
+      ],
+      "openers": [
+        "r.image"
       ]
     },
     {
