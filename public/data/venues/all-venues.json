@@ -1,36 +1,6 @@
 {
-  "generatedAtISO": "2026-04-16T17:08:23.555Z",
+  "generatedAtISO": "2026-04-16T19:04:42.609Z",
   "shows": [
-    {
-      "showId": "8ee58746",
-      "dateISO": "2026-04-14",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/die-spitz-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Die Spitz"
-      ],
-      "openers": [
-        "Rocket"
-      ]
-    },
-    {
-      "showId": "56cf4207",
-      "dateISO": "2026-04-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/newdad/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "NewDad"
-      ],
-      "openers": [
-        "Freak Slug"
-      ]
-    },
     {
       "showId": "49e2a961",
       "dateISO": "2026-04-15",
@@ -1268,7 +1238,10 @@
       "headliners": [
         "Old Mervs"
       ],
-      "openers": []
+      "openers": [
+        "Ra Ra Viper",
+        "Where’s West?"
+      ]
     },
     {
       "showId": "441cfda3",
