@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-16T17:08:15.499Z",
+  "generatedAtISO": "2026-04-16T20:42:23.684Z",
   "shows": [
     {
       "showId": "85843125",
@@ -302,21 +302,6 @@
         "Sleaford Mods"
       ],
       "openers": []
-    },
-    {
-      "showId": "c8b99019",
-      "dateISO": "2026-05-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-of-music-and-conversation-with-lol-tolhurst/688209?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An evening of music and conversation"
-      ],
-      "openers": [
-        "r.image"
-      ]
     },
     {
       "showId": "ef7eceaf",
