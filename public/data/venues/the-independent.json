@@ -4,20 +4,22 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-16T19:04:34.980Z",
+  "generatedAtISO": "2026-04-17T19:55:17.580Z",
   "shows": [
     {
-      "showId": "53463c18",
-      "dateISO": "2026-04-16",
+      "showId": "9c147d60",
+      "dateISO": "2026-03-17",
       "startTime": "8:00 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/hasan-raheem-2/",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Hasan Raheem"
+        "POSTPONED: Dogma"
       ],
-      "openers": []
+      "openers": [
+        "Frayle"
+      ]
     },
     {
       "showId": "66993bde",
@@ -279,7 +281,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/wu-lyf/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "WU LYF"
+        "POSTPONED: WU LYF"
       ],
       "openers": [
         "Bondo"
@@ -511,7 +513,9 @@
       "headliners": [
         "bixby"
       ],
-      "openers": []
+      "openers": [
+        "Bheruty"
+      ]
     },
     {
       "showId": "5e5a8a67",
@@ -524,7 +528,9 @@
       "headliners": [
         "bixby"
       ],
-      "openers": []
+      "openers": [
+        "Bheruty"
+      ]
     },
     {
       "showId": "69c019b2",
