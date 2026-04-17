@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-17T05:23:07.798Z",
+  "generatedAtISO": "2026-04-17T07:24:56.214Z",
   "shows": [
     {
       "showId": "49e2a961",
@@ -2423,19 +2423,6 @@
       ]
     },
     {
-      "showId": "904d0917",
-      "dateISO": "2026-08-28",
-      "startTime": "11:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/my-new-band-believe/684743?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MY NEW BAND BELIEVE"
-      ],
-      "openers": []
-    },
-    {
       "showId": "b4e8c07a",
       "dateISO": "2026-08-28",
       "startTime": "8:30 PM",
@@ -2449,6 +2436,19 @@
       "openers": [
         "Traps PS"
       ]
+    },
+    {
+      "showId": "904d0917",
+      "dateISO": "2026-08-28",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/my-new-band-believe/684743?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MY NEW BAND BELIEVE"
+      ],
+      "openers": []
     },
     {
       "showId": "467da42e",
