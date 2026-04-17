@@ -4,21 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-17T07:24:48.168Z",
+  "generatedAtISO": "2026-04-17T17:43:57.939Z",
   "shows": [
-    {
-      "showId": "20b48401",
-      "dateISO": "2026-04-16",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf/686936?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Nerd Nite SF"
-      ],
-      "openers": []
-    },
     {
       "showId": "874073e0",
       "dateISO": "2026-04-17",
@@ -260,6 +247,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "Nerd Nite SF #160"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e92f27d6",
+      "dateISO": "2026-05-28",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/proleter/688456?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ProleteR"
       ],
       "openers": []
     },

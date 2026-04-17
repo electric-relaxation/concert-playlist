@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-17T07:24:56.214Z",
+  "generatedAtISO": "2026-04-17T17:44:06.446Z",
   "shows": [
     {
       "showId": "49e2a961",
@@ -16,19 +16,6 @@
         "Damn Skippy",
         "RDGLDGRN"
       ]
-    },
-    {
-      "showId": "20b48401",
-      "dateISO": "2026-04-16",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf/686936?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Nerd Nite SF"
-      ],
-      "openers": []
     },
     {
       "showId": "53463c18",
@@ -1314,6 +1301,19 @@
         "Hangtown",
         "Scott H. Biram"
       ]
+    },
+    {
+      "showId": "e92f27d6",
+      "dateISO": "2026-05-28",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/proleter/688456?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ProleteR"
+      ],
+      "openers": []
     },
     {
       "showId": "87df5dc1",
