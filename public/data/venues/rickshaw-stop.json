@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-15T18:04:10.783Z",
+  "generatedAtISO": "2026-04-17T05:22:59.863Z",
   "shows": [
     {
       "showId": "20b48401",
@@ -18,6 +18,21 @@
         "Nerd Nite SF"
       ],
       "openers": []
+    },
+    {
+      "showId": "874073e0",
+      "dateISO": "2026-04-17",
+      "startTime": "10:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/olivia-rodrigo-dance-party-drop-dead-disco/688525?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "OLIVIA RODRIGO DANCE PARTY: DROP DEAD DISCO"
+      ],
+      "openers": [
+        "Kayvon"
+      ]
     },
     {
       "showId": "47d83cc3",
@@ -234,6 +249,19 @@
         "Evil Children",
         "Fat"
       ]
+    },
+    {
+      "showId": "866f40eb",
+      "dateISO": "2026-05-27",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-160/688685?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF #160"
+      ],
+      "openers": []
     },
     {
       "showId": "87df5dc1",

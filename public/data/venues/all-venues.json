@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-16T20:42:30.950Z",
+  "generatedAtISO": "2026-04-17T05:23:07.798Z",
   "shows": [
     {
       "showId": "49e2a961",
@@ -57,6 +57,21 @@
       "openers": [
         "Black Guy Fawkes",
         "Rudy Nuño & The Broadcasters"
+      ]
+    },
+    {
+      "showId": "874073e0",
+      "dateISO": "2026-04-17",
+      "startTime": "10:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/olivia-rodrigo-dance-party-drop-dead-disco/688525?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "OLIVIA RODRIGO DANCE PARTY: DROP DEAD DISCO"
+      ],
+      "openers": [
+        "Kayvon"
       ]
     },
     {
@@ -1227,6 +1242,19 @@
         "Ra Ra Viper",
         "Where’s West?"
       ]
+    },
+    {
+      "showId": "866f40eb",
+      "dateISO": "2026-05-27",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-160/688685?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF #160"
+      ],
+      "openers": []
     },
     {
       "showId": "441cfda3",
