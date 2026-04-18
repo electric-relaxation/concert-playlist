@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-04-17T19:55:26.650Z",
+  "generatedAtISO": "2026-04-18T01:54:30.374Z",
   "shows": [
-    {
-      "showId": "9c147d60",
-      "dateISO": "2026-03-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "POSTPONED: Dogma"
-      ],
-      "openers": [
-        "Frayle"
-      ]
-    },
     {
       "showId": "49e2a961",
       "dateISO": "2026-04-15",
@@ -2736,6 +2721,21 @@
         "Odezenne"
       ],
       "openers": []
+    },
+    {
+      "showId": "9c147d60",
+      "dateISO": "2027-03-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "POSTPONED: Dogma"
+      ],
+      "openers": [
+        "Frayle"
+      ]
     }
   ]
 }
