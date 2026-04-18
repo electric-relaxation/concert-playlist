@@ -1,38 +1,6 @@
 {
-  "generatedAtISO": "2026-04-18T01:54:30.374Z",
+  "generatedAtISO": "2026-04-18T20:30:06.101Z",
   "shows": [
-    {
-      "showId": "49e2a961",
-      "dateISO": "2026-04-15",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260415.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Jarv"
-      ],
-      "openers": [
-        "Damn Skippy",
-        "RDGLDGRN"
-      ]
-    },
-    {
-      "showId": "ed776c5c",
-      "dateISO": "2026-04-16",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260416.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "The Jack Knives"
-      ],
-      "openers": [
-        "Black Guy Fawkes",
-        "Rudy Nuño & The Broadcasters"
-      ]
-    },
     {
       "showId": "874073e0",
       "dateISO": "2026-04-17",
@@ -46,22 +14,6 @@
       ],
       "openers": [
         "Kayvon"
-      ]
-    },
-    {
-      "showId": "91b9298e",
-      "dateISO": "2026-04-17",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260417.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Mommy Mommy"
-      ],
-      "openers": [
-        "Personal Space Man",
-        "Vertige"
       ]
     },
     {
@@ -211,8 +163,7 @@
         "Young Fresh Fellows"
       ],
       "openers": [
-        "The Rubinoos",
-        "Victor Krummenacher & Greg Lisher"
+        "The Rubinoos"
       ]
     },
     {
