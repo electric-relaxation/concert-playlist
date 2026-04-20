@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-04-20T16:59:46.329Z",
+  "generatedAtISO": "2026-04-20T18:01:30.993Z",
   "shows": [
-    {
-      "showId": "874073e0",
-      "dateISO": "2026-04-17",
-      "startTime": "10:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/olivia-rodrigo-dance-party-drop-dead-disco/688525?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "OLIVIA RODRIGO DANCE PARTY: DROP DEAD DISCO"
-      ],
-      "openers": [
-        "Kayvon"
-      ]
-    },
     {
       "showId": "85843125",
       "dateISO": "2026-04-17",
@@ -30,22 +15,6 @@
       "openers": [
         "Artsick",
         "DJ Galine MoDmoiselle"
-      ]
-    },
-    {
-      "showId": "47d83cc3",
-      "dateISO": "2026-04-18",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/remember-sports/673722?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "REMEMBER SPORTS"
-      ],
-      "openers": [
-        "The She's",
-        "youbet"
       ]
     },
     {
@@ -518,6 +487,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Asim Azhar"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "21c322a7",
+      "dateISO": "2026-04-30",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/chelsea-cutler/688551?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CHELSEA CUTLER"
       ],
       "openers": []
     },
@@ -1315,6 +1297,19 @@
       "openers": [
         "Sam Blasucci"
       ]
+    },
+    {
+      "showId": "5b8eccd0",
+      "dateISO": "2026-05-30",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-10/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
+      ],
+      "openers": []
     },
     {
       "showId": "3cc9f5c3",
@@ -2603,6 +2598,23 @@
       "openers": [
         "Forever Came Calling",
         "Fox Royale"
+      ]
+    },
+    {
+      "showId": "743fb630",
+      "dateISO": "2026-11-20",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/natural-child/688788?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Natural Child"
+      ],
+      "openers": [
+        "Buzzed Lightbeer",
+        "Catnip",
+        "Milk for the Angry"
       ]
     },
     {

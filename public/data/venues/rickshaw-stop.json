@@ -4,39 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-17T17:43:57.939Z",
+  "generatedAtISO": "2026-04-20T18:01:19.154Z",
   "shows": [
-    {
-      "showId": "874073e0",
-      "dateISO": "2026-04-17",
-      "startTime": "10:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/olivia-rodrigo-dance-party-drop-dead-disco/688525?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "OLIVIA RODRIGO DANCE PARTY: DROP DEAD DISCO"
-      ],
-      "openers": [
-        "Kayvon"
-      ]
-    },
-    {
-      "showId": "47d83cc3",
-      "dateISO": "2026-04-18",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/remember-sports/673722?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "REMEMBER SPORTS"
-      ],
-      "openers": [
-        "The She's",
-        "youbet"
-      ]
-    },
     {
       "showId": "bba3b76a",
       "dateISO": "2026-04-23",
@@ -127,6 +96,19 @@
       "openers": [
         "SHĀHERI"
       ]
+    },
+    {
+      "showId": "21c322a7",
+      "dateISO": "2026-04-30",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/chelsea-cutler/688551?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CHELSEA CUTLER"
+      ],
+      "openers": []
     },
     {
       "showId": "69fb05cd",
@@ -521,6 +503,23 @@
         "Present",
         "Trough",
         "ulyssescfm"
+      ]
+    },
+    {
+      "showId": "743fb630",
+      "dateISO": "2026-11-20",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/natural-child/688788?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Natural Child"
+      ],
+      "openers": [
+        "Buzzed Lightbeer",
+        "Catnip",
+        "Milk for the Angry"
       ]
     }
   ]
