@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-20T21:41:20.788Z",
+  "generatedAtISO": "2026-04-20T22:38:09.474Z",
   "shows": [
     {
       "showId": "174a624d",
@@ -55,7 +55,7 @@
     {
       "showId": "5925724a",
       "dateISO": "2026-04-24",
-      "startTime": "9:00 PM",
+      "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/ultra-sunn/665741?afflky=TheChapel",

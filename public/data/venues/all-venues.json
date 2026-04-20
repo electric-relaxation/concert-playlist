@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-20T21:41:28.740Z",
+  "generatedAtISO": "2026-04-20T22:38:17.708Z",
   "shows": [
     {
       "showId": "ae635fbc",
@@ -189,6 +189,22 @@
       ]
     },
     {
+      "showId": "5925724a",
+      "dateISO": "2026-04-24",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ultra-sunn/665741?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ultra Sunn"
+      ],
+      "openers": [
+        "Bestial Mouths",
+        "DJ Aaron Axelsen (Popscene)"
+      ]
+    },
+    {
       "showId": "3fb9bd97",
       "dateISO": "2026-04-24",
       "startTime": "8:00 PM",
@@ -218,22 +234,6 @@
       "openers": [
         "Litronix",
         "Mashi Mashi"
-      ]
-    },
-    {
-      "showId": "5925724a",
-      "dateISO": "2026-04-24",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/ultra-sunn/665741?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Ultra Sunn"
-      ],
-      "openers": [
-        "Bestial Mouths",
-        "DJ Aaron Axelsen (Popscene)"
       ]
     },
     {
