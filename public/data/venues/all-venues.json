@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-20T19:57:54.345Z",
+  "generatedAtISO": "2026-04-20T21:41:28.740Z",
   "shows": [
     {
       "showId": "ae635fbc",
@@ -1008,6 +1008,19 @@
       "openers": []
     },
     {
+      "showId": "c96075fe",
+      "dateISO": "2026-05-22",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/collectivity-perform-pink-floyds-wish-you-were-here/688870?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Collectivity: Perform Pink Floyd's Wish You Were Here"
+      ],
+      "openers": []
+    },
+    {
       "showId": "613bd30a",
       "dateISO": "2026-05-22",
       "startTime": "9:00 PM",
@@ -1366,7 +1379,7 @@
         "bixby"
       ],
       "openers": [
-        "Bheruty"
+        "Bhertuy"
       ]
     },
     {
@@ -1396,7 +1409,7 @@
         "bixby"
       ],
       "openers": [
-        "Bheruty"
+        "Bhertuy"
       ]
     },
     {
