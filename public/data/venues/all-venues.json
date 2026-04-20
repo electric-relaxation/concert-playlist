@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-18T20:30:06.101Z",
+  "generatedAtISO": "2026-04-20T11:23:10.014Z",
   "shows": [
     {
       "showId": "874073e0",
@@ -88,21 +88,6 @@
         "The Emo Night Tour"
       ],
       "openers": []
-    },
-    {
-      "showId": "17a25fab",
-      "dateISO": "2026-04-19",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260419.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Sgt. Splendor"
-      ],
-      "openers": [
-        "Crop Top"
-      ]
     },
     {
       "showId": "be6f9566",
@@ -2644,6 +2629,22 @@
         "Armand Hammer"
       ],
       "openers": []
+    },
+    {
+      "showId": "6d346dbf",
+      "dateISO": "2026-11-10",
+      "startTime": "8:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20261110.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Hit The Lights"
+      ],
+      "openers": [
+        "Forever Came Calling",
+        "Fox Royale"
+      ]
     },
     {
       "showId": "f8913335",
