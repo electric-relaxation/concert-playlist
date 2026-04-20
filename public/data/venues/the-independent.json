@@ -4,49 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-18T01:54:23.661Z",
+  "generatedAtISO": "2026-04-20T16:59:38.543Z",
   "shows": [
-    {
-      "showId": "66993bde",
-      "dateISO": "2026-04-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/hasan-raheem/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Hasan Raheem"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "8abcbd4b",
-      "dateISO": "2026-04-18",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-9/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Emo Night Tour"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "be6f9566",
-      "dateISO": "2026-04-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/jane-handcock/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "JANE HANDCOCK"
-      ],
-      "openers": [
-        "Tia Nomore"
-      ]
-    },
     {
       "showId": "f3d045c5",
       "dateISO": "2026-04-21",
@@ -934,6 +893,19 @@
       "openers": [
         "Presley Haile"
       ]
+    },
+    {
+      "showId": "f446c9b6",
+      "dateISO": "2026-11-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dan-whitlam/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Dan Whitlam"
+      ],
+      "openers": []
     },
     {
       "showId": "b08f4f20",
