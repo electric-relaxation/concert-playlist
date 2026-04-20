@@ -1,37 +1,6 @@
 {
-  "generatedAtISO": "2026-04-20T18:01:30.993Z",
+  "generatedAtISO": "2026-04-20T19:57:54.345Z",
   "shows": [
-    {
-      "showId": "85843125",
-      "dateISO": "2026-04-17",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/throwing-muses/677402?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Throwing Muses"
-      ],
-      "openers": [
-        "Artsick",
-        "DJ Galine MoDmoiselle"
-      ]
-    },
-    {
-      "showId": "214b46b6",
-      "dateISO": "2026-04-18",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-maya-hawke/681296?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Maya Hawke"
-      ]
-    },
     {
       "showId": "ae635fbc",
       "dateISO": "2026-04-20",
@@ -1978,7 +1947,9 @@
       "headliners": [
         "Inara George (of The Bird and the Bee)"
       ],
-      "openers": []
+      "openers": [
+        "Asha Wells"
+      ]
     },
     {
       "showId": "b7f0f911",
