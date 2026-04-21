@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-21T15:07:49.294Z",
+  "generatedAtISO": "2026-04-21T20:43:57.881Z",
   "shows": [
     {
       "showId": "ae635fbc",
@@ -664,7 +664,7 @@
       ],
       "openers": [
         "MC: Hot Buttered Rum",
-        "Oona",
+        "Oona & the Good Band",
         "Shandri",
         "Strange Vine"
       ]
@@ -1698,6 +1698,21 @@
         "Choker"
       ],
       "openers": []
+    },
+    {
+      "showId": "eb721561",
+      "dateISO": "2026-06-18",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mestizo-beat-sun-hop-fat/688737?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MESTIZO BEAT / SUN HOP FAT"
+      ],
+      "openers": [
+        "Izzy Wise"
+      ]
     },
     {
       "showId": "31da9102",

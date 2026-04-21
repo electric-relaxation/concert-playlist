@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-20T18:01:19.154Z",
+  "generatedAtISO": "2026-04-21T20:43:50.564Z",
   "shows": [
     {
       "showId": "bba3b76a",
@@ -346,6 +346,21 @@
         "ZEP"
       ],
       "openers": []
+    },
+    {
+      "showId": "eb721561",
+      "dateISO": "2026-06-18",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mestizo-beat-sun-hop-fat/688737?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MESTIZO BEAT / SUN HOP FAT"
+      ],
+      "openers": [
+        "Izzy Wise"
+      ]
     },
     {
       "showId": "31da9102",
