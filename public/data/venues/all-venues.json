@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-21T02:04:16.373Z",
+  "generatedAtISO": "2026-04-21T15:07:49.294Z",
   "shows": [
     {
       "showId": "ae635fbc",
@@ -15,22 +15,6 @@
       "openers": [
         "Cape Fury",
         "HIGHWINDS"
-      ]
-    },
-    {
-      "showId": "174a624d",
-      "dateISO": "2026-04-20",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/throwing-muses/679154?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Throwing Muses"
-      ],
-      "openers": [
-        "DJ Andy Cabic",
-        "Now"
       ]
     },
     {
@@ -2453,6 +2437,21 @@
         "Temples: The BLISS Tour"
       ],
       "openers": []
+    },
+    {
+      "showId": "7a714c0c",
+      "dateISO": "2026-09-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/failure-rising-skyline-2026/688890?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "FAILURE: Rising Skyline 2026"
+      ],
+      "openers": [
+        "quannnic"
+      ]
     },
     {
       "showId": "c7daf696",
