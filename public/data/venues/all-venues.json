@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-21T20:43:57.881Z",
+  "generatedAtISO": "2026-04-21T23:30:53.462Z",
   "shows": [
     {
       "showId": "ae635fbc",
@@ -369,6 +369,19 @@
       "openers": [
         "Noelle & the Deserters"
       ]
+    },
+    {
+      "showId": "f4b09f87",
+      "dateISO": "2026-04-29",
+      "startTime": "7:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://act.buildon.org/event/better-together-concert-2026/e764468/register/new/select-tickets",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Better Together: A Benefit Concert Featuring Allen Stone"
+      ],
+      "openers": []
     },
     {
       "showId": "1bbd4133",
