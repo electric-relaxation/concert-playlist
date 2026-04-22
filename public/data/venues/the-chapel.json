@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-22T17:56:38.760Z",
+  "generatedAtISO": "2026-04-22T19:11:05.135Z",
   "shows": [
     {
       "showId": "6b0b22c4",
@@ -576,6 +576,19 @@
         "Bentley Robles",
         "TeZATalks"
       ]
+    },
+    {
+      "showId": "78007b15",
+      "dateISO": "2026-07-11",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Petty-Theft/689192?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Petty Theft"
+      ],
+      "openers": []
     },
     {
       "showId": "fd9223f9",

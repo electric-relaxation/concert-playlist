@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-22T17:56:38.760Z",
+  "generatedAtISO": "2026-04-22T19:11:05.135Z",
   "shows": [
     {
       "showId": "990c0a93",
@@ -832,7 +832,8 @@
         "Wax + DJ Hoppa"
       ],
       "openers": [
-        "Intuition"
+        "Intuition",
+        "K.A.A.N."
       ]
     },
     {
