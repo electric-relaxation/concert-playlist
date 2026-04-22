@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-21T23:30:46.643Z",
+  "generatedAtISO": "2026-04-22T17:56:38.760Z",
   "shows": [
     {
       "showId": "6b0b22c4",
@@ -148,7 +148,7 @@
         "Dead Meadow"
       ],
       "openers": [
-        "Cory Shane"
+        "Dravier"
       ]
     },
     {
@@ -254,7 +254,9 @@
       "headliners": [
         "Sleaford Mods"
       ],
-      "openers": []
+      "openers": [
+        "Dazy"
+      ]
     },
     {
       "showId": "103ec367",
@@ -267,7 +269,9 @@
       "headliners": [
         "Sleaford Mods"
       ],
-      "openers": []
+      "openers": [
+        "Dazy"
+      ]
     },
     {
       "showId": "c8b99019",
@@ -662,6 +666,21 @@
       ],
       "openers": [
         "BettySoo"
+      ]
+    },
+    {
+      "showId": "1b4ca35b",
+      "dateISO": "2026-08-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/alela-diane/688615?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Alela Diane"
+      ],
+      "openers": [
+        "Shannon Lay"
       ]
     },
     {

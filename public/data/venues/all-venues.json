@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-21T23:30:53.462Z",
+  "generatedAtISO": "2026-04-22T17:56:46.007Z",
   "shows": [
     {
       "showId": "ae635fbc",
@@ -30,22 +30,6 @@
       ],
       "openers": [
         "The Rubinoos"
-      ]
-    },
-    {
-      "showId": "f3d045c5",
-      "dateISO": "2026-04-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/art-brut/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "ART BRUT"
-      ],
-      "openers": [
-        "The Seagulls",
-        "The Vaxxines"
       ]
     },
     {
@@ -584,7 +568,7 @@
         "Dead Meadow"
       ],
       "openers": [
-        "Cory Shane"
+        "Dravier"
       ]
     },
     {
@@ -885,7 +869,9 @@
       "headliners": [
         "Sleaford Mods"
       ],
-      "openers": []
+      "openers": [
+        "Dazy"
+      ]
     },
     {
       "showId": "48234472",
@@ -913,7 +899,9 @@
       "headliners": [
         "Sleaford Mods"
       ],
-      "openers": []
+      "openers": [
+        "Dazy"
+      ]
     },
     {
       "showId": "d81c0295",
@@ -1040,6 +1028,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "The Paper Kites"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a858b96e",
+      "dateISO": "2026-05-23",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/hannah-lew/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Hannah Lew"
       ],
       "openers": []
     },
@@ -2127,6 +2128,21 @@
       ]
     },
     {
+      "showId": "1b4ca35b",
+      "dateISO": "2026-08-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/alela-diane/688615?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Alela Diane"
+      ],
+      "openers": [
+        "Shannon Lay"
+      ]
+    },
+    {
       "showId": "f9ee2292",
       "dateISO": "2026-08-11",
       "startTime": "8:00 PM",
@@ -2463,6 +2479,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Temples: The BLISS Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a3b88b90",
+      "dateISO": "2026-09-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ghostly-kisses/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ghostly Kisses"
       ],
       "openers": []
     },

@@ -4,24 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-20T21:41:20.788Z",
+  "generatedAtISO": "2026-04-22T17:56:38.760Z",
   "shows": [
-    {
-      "showId": "f3d045c5",
-      "dateISO": "2026-04-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/art-brut/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "ART BRUT"
-      ],
-      "openers": [
-        "The Seagulls",
-        "The Vaxxines"
-      ]
-    },
     {
       "showId": "990c0a93",
       "dateISO": "2026-04-22",
@@ -386,6 +370,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Electric Feels"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a858b96e",
+      "dateISO": "2026-05-23",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/hannah-lew/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Hannah Lew"
       ],
       "openers": []
     },
@@ -861,6 +858,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "deca joins"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a3b88b90",
+      "dateISO": "2026-09-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ghostly-kisses/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ghostly Kisses"
       ],
       "openers": []
     },
