@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-21T20:43:50.564Z",
+  "generatedAtISO": "2026-04-23T19:00:47.067Z",
   "shows": [
     {
       "showId": "bba3b76a",
@@ -429,6 +429,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "SPACEMOTH (Album Release Show)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a302c840",
+      "dateISO": "2026-07-25",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/ray-and-paul/689144?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "RAY AND PAUL"
       ],
       "openers": []
     },
