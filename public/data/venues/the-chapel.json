@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-22T19:11:05.135Z",
+  "generatedAtISO": "2026-04-23T20:45:24.813Z",
   "shows": [
-    {
-      "showId": "6b0b22c4",
-      "dateISO": "2026-04-22",
-      "startTime": "7:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/justb-snow-angel-tour/684122?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "JUSTB – SNOW ANGEL TOUR"
-      ],
-      "openers": []
-    },
     {
       "showId": "2c40dfb4",
       "dateISO": "2026-04-23",
@@ -86,7 +73,7 @@
       "startTime": "7:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://act.buildon.org/event/better-together-concert-2026/e764468/register/new/select-tickets",
+      "showUrl": "https://www.buildon.org/bettertogether",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Better Together: A Benefit Concert Featuring Allen Stone"
