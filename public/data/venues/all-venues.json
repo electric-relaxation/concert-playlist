@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-23T20:45:33.647Z",
+  "generatedAtISO": "2026-04-24T18:41:36.540Z",
   "shows": [
     {
       "showId": "ae635fbc",
@@ -110,21 +110,6 @@
       "openers": [
         "Grooblen",
         "Hot Brother"
-      ]
-    },
-    {
-      "showId": "bba3b76a",
-      "dateISO": "2026-04-23",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/ps-goner-peter-sagar-from-homeshake/682276?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ps goner (peter sagar from homeshake)"
-      ],
-      "openers": [
-        "Joy Guidry"
       ]
     },
     {
@@ -1975,6 +1960,22 @@
       ],
       "openers": [
         "Asha Wells"
+      ]
+    },
+    {
+      "showId": "ca083bc2",
+      "dateISO": "2026-07-16",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/bed-bug-guru/689438?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Bed Bug Guru"
+      ],
+      "openers": [
+        "Blous3",
+        "Welcome Strawberry"
       ]
     },
     {
