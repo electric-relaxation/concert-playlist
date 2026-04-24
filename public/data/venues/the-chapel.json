@@ -4,25 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-23T20:45:24.813Z",
+  "generatedAtISO": "2026-04-24T21:42:05.489Z",
   "shows": [
-    {
-      "showId": "2c40dfb4",
-      "dateISO": "2026-04-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/olum/684702?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "ÖLÜM"
-      ],
-      "openers": [
-        "Damma Damma",
-        "Dying Suns",
-        "Visuals by Zachary Rodell"
-      ]
-    },
     {
       "showId": "5925724a",
       "dateISO": "2026-04-24",
@@ -106,7 +89,9 @@
       "headliners": [
         "Shabazz Palaces"
       ],
-      "openers": []
+      "openers": [
+        "Cheflee"
+      ]
     },
     {
       "showId": "2bd4d254",
