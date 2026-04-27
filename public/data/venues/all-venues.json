@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-24T21:42:12.965Z",
+  "generatedAtISO": "2026-04-27T17:16:54.354Z",
   "shows": [
     {
       "showId": "ae635fbc",
@@ -144,22 +144,6 @@
       ]
     },
     {
-      "showId": "4ab966a2",
-      "dateISO": "2026-04-24",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/getdown-services/670457?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "GETDOWN SERVICES"
-      ],
-      "openers": [
-        "Litronix",
-        "Mashi Mashi"
-      ]
-    },
-    {
       "showId": "53a0cbec",
       "dateISO": "2026-04-25",
       "startTime": "8:00 PM",
@@ -186,19 +170,6 @@
       "openers": [
         "Misandrist"
       ]
-    },
-    {
-      "showId": "9e87e8f9",
-      "dateISO": "2026-04-25",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/686011?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": []
     },
     {
       "showId": "35dd8c00",
@@ -230,23 +201,6 @@
         "Grunge",
         "House Abandon",
         "The Riots"
-      ]
-    },
-    {
-      "showId": "7bfa5984",
-      "dateISO": "2026-04-26",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/buzzed-lightbeer/684045?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Buzzed Lightbeer"
-      ],
-      "openers": [
-        "Biblioteka",
-        "Bloodsugar",
-        "Linda From Work"
       ]
     },
     {
@@ -2387,6 +2341,19 @@
       "openers": [
         "Traps PS"
       ]
+    },
+    {
+      "showId": "3f3cf45a",
+      "dateISO": "2026-08-29",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mini-trees/689148?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Mini Trees"
+      ],
+      "openers": []
     },
     {
       "showId": "90dfe083",
