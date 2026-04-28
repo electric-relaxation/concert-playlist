@@ -4,85 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-22T19:11:05.135Z",
+  "generatedAtISO": "2026-04-28T17:42:57.210Z",
   "shows": [
-    {
-      "showId": "990c0a93",
-      "dateISO": "2026-04-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/langhorne-slim-the-dreamin-kind-tour/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Langhorne Slim: The Dreamin' Kind Tour"
-      ],
-      "openers": [
-        "Laney Jones and the Spirits"
-      ]
-    },
-    {
-      "showId": "795dbb99",
-      "dateISO": "2026-04-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/skizzy-mars/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Skizzy Mars"
-      ],
-      "openers": [
-        "Devvy Dub",
-        "Yung Delirious"
-      ]
-    },
-    {
-      "showId": "3fb9bd97",
-      "dateISO": "2026-04-24",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/phoneboy-with-heart-attack-man/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Phoneboy with Heart Attack Man"
-      ],
-      "openers": [
-        "PONY",
-        "Slow Joy"
-      ]
-    },
-    {
-      "showId": "35dd8c00",
-      "dateISO": "2026-04-25",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/chuwi/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Chuwi"
-      ],
-      "openers": [
-        "Lizzy al Toque"
-      ]
-    },
-    {
-      "showId": "2edec91e",
-      "dateISO": "2026-04-26",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/chris-grey/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Chris Grey"
-      ],
-      "openers": [
-        "Allegra Jordyn"
-      ]
-    },
     {
       "showId": "c4c2352a",
       "dateISO": "2026-04-28",
@@ -885,6 +808,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Chasing Abbey"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2a2d4b8f",
+      "dateISO": "2026-10-03",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/roya/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "ROYA"
       ],
       "openers": []
     },

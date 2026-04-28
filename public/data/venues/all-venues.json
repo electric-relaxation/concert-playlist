@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-27T20:56:40.031Z",
+  "generatedAtISO": "2026-04-28T17:43:04.830Z",
   "shows": [
     {
       "showId": "ae635fbc",
@@ -49,37 +49,6 @@
       ]
     },
     {
-      "showId": "990c0a93",
-      "dateISO": "2026-04-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/langhorne-slim-the-dreamin-kind-tour/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Langhorne Slim: The Dreamin' Kind Tour"
-      ],
-      "openers": [
-        "Laney Jones and the Spirits"
-      ]
-    },
-    {
-      "showId": "795dbb99",
-      "dateISO": "2026-04-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/skizzy-mars/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Skizzy Mars"
-      ],
-      "openers": [
-        "Devvy Dub",
-        "Yung Delirious"
-      ]
-    },
-    {
       "showId": "22b92afb",
       "dateISO": "2026-04-23",
       "startTime": "8:30 PM",
@@ -112,22 +81,6 @@
       ]
     },
     {
-      "showId": "3fb9bd97",
-      "dateISO": "2026-04-24",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/phoneboy-with-heart-attack-man/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Phoneboy with Heart Attack Man"
-      ],
-      "openers": [
-        "PONY",
-        "Slow Joy"
-      ]
-    },
-    {
       "showId": "3c1cf51b",
       "dateISO": "2026-04-25",
       "startTime": "9:00 PM",
@@ -140,21 +93,6 @@
       ],
       "openers": [
         "Misandrist"
-      ]
-    },
-    {
-      "showId": "35dd8c00",
-      "dateISO": "2026-04-25",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/chuwi/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Chuwi"
-      ],
-      "openers": [
-        "Lizzy al Toque"
       ]
     },
     {
@@ -172,21 +110,6 @@
         "Grunge",
         "House Abandon",
         "The Riots"
-      ]
-    },
-    {
-      "showId": "2edec91e",
-      "dateISO": "2026-04-26",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/chris-grey/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Chris Grey"
-      ],
-      "openers": [
-        "Allegra Jordyn"
       ]
     },
     {
@@ -2477,6 +2400,19 @@
       "openers": []
     },
     {
+      "showId": "2a2d4b8f",
+      "dateISO": "2026-10-03",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/roya/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "ROYA"
+      ],
+      "openers": []
+    },
+    {
       "showId": "57028ea1",
       "dateISO": "2026-10-06",
       "startTime": "7:30 PM",
@@ -2490,6 +2426,19 @@
       "openers": [
         "Initiate"
       ]
+    },
+    {
+      "showId": "58218d0c",
+      "dateISO": "2026-10-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/lilyisthatyou/689080?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Lilyisthatyou"
+      ],
+      "openers": []
     },
     {
       "showId": "682f9f7e",
