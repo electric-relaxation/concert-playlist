@@ -4,23 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-27T19:10:15.918Z",
+  "generatedAtISO": "2026-04-28T19:25:57.721Z",
   "shows": [
-    {
-      "showId": "97e7140e",
-      "dateISO": "2026-04-27",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/pacifica/683237?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "PACIFICA"
-      ],
-      "openers": [
-        "Emi Grace"
-      ]
-    },
     {
       "showId": "f362bfa1",
       "dateISO": "2026-04-29",
@@ -139,6 +124,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "BROADWAY RAVE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "20342d7e",
+      "dateISO": "2026-05-23",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/689469?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
       ],
       "openers": []
     },
