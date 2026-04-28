@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-28T21:02:50.979Z",
+  "generatedAtISO": "2026-04-28T22:51:41.523Z",
   "shows": [
     {
       "showId": "2978fe67",
@@ -162,7 +162,7 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/689814?afflky=TheChapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Private Event"
@@ -228,19 +228,6 @@
       "openers": [
         "Dazy"
       ]
-    },
-    {
-      "showId": "061bcfe9",
-      "dateISO": "2026-05-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/689815?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "c8b99019",
@@ -520,19 +507,6 @@
       ]
     },
     {
-      "showId": "2a8d848e",
-      "dateISO": "2026-06-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/689816?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
-    {
       "showId": "13adcbfc",
       "dateISO": "2026-06-27",
       "startTime": "9:00 PM",
@@ -694,32 +668,6 @@
       "openers": [
         "American Tomahawk"
       ]
-    },
-    {
-      "showId": "1e654920",
-      "dateISO": "2026-08-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/689817?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "c6b274c0",
-      "dateISO": "2026-08-16",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/689818?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "42c90c2f",
@@ -935,19 +883,6 @@
       "openers": []
     },
     {
-      "showId": "78d53572",
-      "dateISO": "2026-10-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/689819?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
-    {
       "showId": "58218d0c",
       "dateISO": "2026-10-06",
       "startTime": "8:00 PM",
@@ -957,32 +892,6 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Lilyisthatyou"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "2bed7696",
-      "dateISO": "2026-10-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/689820?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "61bdebe8",
-      "dateISO": "2026-10-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/689821?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
       ],
       "openers": []
     },
@@ -1028,32 +937,6 @@
       "openers": [
         "Kisser"
       ]
-    },
-    {
-      "showId": "27d58527",
-      "dateISO": "2026-12-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/689822?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "39bb6b6d",
-      "dateISO": "2026-12-12",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/689823?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     }
   ]
 }
