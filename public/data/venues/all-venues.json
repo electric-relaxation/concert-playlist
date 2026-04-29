@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-29T20:57:53.322Z",
+  "generatedAtISO": "2026-04-29T21:59:14.111Z",
   "shows": [
     {
       "showId": "f4b09f87",
@@ -415,7 +415,8 @@
         "CORNELIA MURR"
       ],
       "openers": [
-        "Reverend Baron"
+        "Reverend Baron",
+        "Sahara Grim"
       ]
     },
     {
@@ -850,7 +851,9 @@
       "headliners": [
         "ProleteR"
       ],
-      "openers": []
+      "openers": [
+        ".Tetsuo"
+      ]
     },
     {
       "showId": "87df5dc1",

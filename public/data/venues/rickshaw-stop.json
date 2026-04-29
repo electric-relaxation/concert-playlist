@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-29T17:22:28.358Z",
+  "generatedAtISO": "2026-04-29T21:59:06.049Z",
   "shows": [
     {
       "showId": "f362bfa1",
@@ -78,7 +78,8 @@
         "CORNELIA MURR"
       ],
       "openers": [
-        "Reverend Baron"
+        "Reverend Baron",
+        "Sahara Grim"
       ]
     },
     {
@@ -180,7 +181,9 @@
       "headliners": [
         "ProleteR"
       ],
-      "openers": []
+      "openers": [
+        ".Tetsuo"
+      ]
     },
     {
       "showId": "87df5dc1",
