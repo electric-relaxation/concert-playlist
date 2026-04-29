@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-04-29T10:51:13.293Z",
+  "generatedAtISO": "2026-04-29T20:57:45.473Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -159,7 +159,8 @@
         "Acid Mothers Temple"
       ],
       "openers": [
-        "Magick Potion"
+        "Magick Potion",
+        "The Green Door"
       ]
     },
     {
