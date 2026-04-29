@@ -1,36 +1,6 @@
 {
-  "generatedAtISO": "2026-04-29T10:51:22.711Z",
+  "generatedAtISO": "2026-04-29T17:22:37.266Z",
   "shows": [
-    {
-      "showId": "2978fe67",
-      "dateISO": "2026-04-28",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/depresion-sonora/672519?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Depresión Sonora"
-      ],
-      "openers": [
-        "Still Ruins"
-      ]
-    },
-    {
-      "showId": "c4c2352a",
-      "dateISO": "2026-04-28",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/emily-nenni/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Emily Nenni"
-      ],
-      "openers": [
-        "Noelle & the Deserters"
-      ]
-    },
     {
       "showId": "f4b09f87",
       "dateISO": "2026-04-29",
@@ -1223,6 +1193,21 @@
       ]
     },
     {
+      "showId": "401ea1b7",
+      "dateISO": "2026-06-07",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/white-hills/689888?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WHITE HILLS"
+      ],
+      "openers": [
+        "HEAT"
+      ]
+    },
+    {
       "showId": "ae072db7",
       "dateISO": "2026-06-07",
       "startTime": "8:00 PM",
@@ -1684,6 +1669,19 @@
       ]
     },
     {
+      "showId": "dcf47476",
+      "dateISO": "2026-07-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/mohama-saz/689840?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Mohama Saz"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c72c7896",
       "dateISO": "2026-07-15",
       "startTime": "8:00 PM",
@@ -2004,6 +2002,19 @@
       "openers": [
         "DJ Xander (Dancing Ghosts)"
       ]
+    },
+    {
+      "showId": "fc224129",
+      "dateISO": "2026-08-22",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/pearl-the-oysters/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Pearl & The Oysters"
+      ],
+      "openers": []
     },
     {
       "showId": "b7bfa907",
@@ -2327,6 +2338,19 @@
       "openers": [
         "Magick Potion"
       ]
+    },
+    {
+      "showId": "7dae82f0",
+      "dateISO": "2026-10-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rusowsky/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "rusowsky"
+      ],
+      "openers": []
     },
     {
       "showId": "57028ea1",

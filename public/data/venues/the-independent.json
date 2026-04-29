@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-04-28T17:42:57.210Z",
+  "generatedAtISO": "2026-04-29T17:22:28.358Z",
   "shows": [
-    {
-      "showId": "c4c2352a",
-      "dateISO": "2026-04-28",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/emily-nenni/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Emily Nenni"
-      ],
-      "openers": [
-        "Noelle & the Deserters"
-      ]
-    },
     {
       "showId": "1bbd4133",
       "dateISO": "2026-04-29",
@@ -744,6 +729,19 @@
       "openers": []
     },
     {
+      "showId": "fc224129",
+      "dateISO": "2026-08-22",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/pearl-the-oysters/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Pearl & The Oysters"
+      ],
+      "openers": []
+    },
+    {
       "showId": "467da42e",
       "dateISO": "2026-08-28",
       "startTime": "9:00 PM",
@@ -821,6 +819,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "ROYA"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7dae82f0",
+      "dateISO": "2026-10-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rusowsky/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "rusowsky"
       ],
       "openers": []
     },

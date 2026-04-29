@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-04-28T19:25:57.721Z",
+  "generatedAtISO": "2026-04-29T17:22:28.358Z",
   "shows": [
     {
       "showId": "f362bfa1",
@@ -240,6 +240,21 @@
       "openers": [
         "Dirty Cello",
         "Matt Jaffe"
+      ]
+    },
+    {
+      "showId": "401ea1b7",
+      "dateISO": "2026-06-07",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/white-hills/689888?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WHITE HILLS"
+      ],
+      "openers": [
+        "HEAT"
       ]
     },
     {
