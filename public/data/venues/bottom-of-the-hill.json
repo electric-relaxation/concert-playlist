@@ -4,119 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-04-21T02:04:07.696Z",
+  "generatedAtISO": "2026-04-29T10:51:13.293Z",
   "shows": [
-    {
-      "showId": "ae635fbc",
-      "dateISO": "2026-04-20",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260420.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "The Dandy Lions"
-      ],
-      "openers": [
-        "Cape Fury",
-        "HIGHWINDS"
-      ]
-    },
-    {
-      "showId": "b353272c",
-      "dateISO": "2026-04-21",
-      "startTime": "7:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260421.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Young Fresh Fellows"
-      ],
-      "openers": [
-        "The Rubinoos"
-      ]
-    },
-    {
-      "showId": "e565e8e0",
-      "dateISO": "2026-04-22",
-      "startTime": "7:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260422.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Rickshaw Billie's Burger Patrol"
-      ],
-      "openers": [
-        "American Sharks",
-        "George Crustanza"
-      ]
-    },
-    {
-      "showId": "22b92afb",
-      "dateISO": "2026-04-23",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260423.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Evolfo"
-      ],
-      "openers": [
-        "Grooblen",
-        "Hot Brother"
-      ]
-    },
-    {
-      "showId": "3cdee586",
-      "dateISO": "2026-04-24",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260424.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Sure Sure"
-      ],
-      "openers": [
-        "Indigo Elephant",
-        "Matt Jaffe"
-      ]
-    },
-    {
-      "showId": "3c1cf51b",
-      "dateISO": "2026-04-25",
-      "startTime": "9:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260425.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "El Ten Eleven"
-      ],
-      "openers": [
-        "Misandrist"
-      ]
-    },
-    {
-      "showId": "6b46f9f1",
-      "dateISO": "2026-04-26",
-      "startTime": "4:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260426.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Missing Chris"
-      ],
-      "openers": [
-        "Grunge",
-        "House Abandon",
-        "The Riots"
-      ]
-    },
     {
       "showId": "6955041e",
       "dateISO": "2026-04-29",
@@ -256,6 +145,21 @@
       "openers": [
         "CNTS",
         "Facet"
+      ]
+    },
+    {
+      "showId": "19f10398",
+      "dateISO": "2026-10-04",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20261004.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Acid Mothers Temple"
+      ],
+      "openers": [
+        "Magick Potion"
       ]
     },
     {
