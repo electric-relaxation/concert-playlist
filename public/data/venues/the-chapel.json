@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-29T17:22:28.358Z",
+  "generatedAtISO": "2026-04-30T19:11:29.969Z",
   "shows": [
-    {
-      "showId": "f4b09f87",
-      "dateISO": "2026-04-29",
-      "startTime": "7:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://www.buildon.org/bettertogether",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Better Together: A Benefit Concert Featuring Allen Stone"
-      ],
-      "openers": []
-    },
     {
       "showId": "6cc290eb",
       "dateISO": "2026-04-30",
@@ -706,7 +693,7 @@
         "Cocteaufest SF Night #2"
       ],
       "openers": [
-        "DJ Xander (Dancing Ghosts)"
+        "Simon Raymonde (DJ Set)"
       ]
     },
     {
