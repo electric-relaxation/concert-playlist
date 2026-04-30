@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-30T20:54:38.924Z",
+  "generatedAtISO": "2026-04-30T21:52:45.965Z",
   "shows": [
     {
       "showId": "6cc290eb",
@@ -49,7 +49,8 @@
         "King Tuff"
       ],
       "openers": [
-        "Gabriel Bernini"
+        "Gabriel Bernini",
+        "visuals by Zach Rodell"
       ]
     },
     {
