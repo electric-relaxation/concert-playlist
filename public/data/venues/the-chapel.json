@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-30T19:11:29.969Z",
+  "generatedAtISO": "2026-04-30T20:54:38.924Z",
   "shows": [
     {
       "showId": "6cc290eb",
@@ -243,7 +243,9 @@
       "headliners": [
         "The Paper Kites"
       ],
-      "openers": []
+      "openers": [
+        "Josiah Flores"
+      ]
     },
     {
       "showId": "441cfda3",

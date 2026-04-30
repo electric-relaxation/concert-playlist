@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-04-30T19:11:38.241Z",
+  "generatedAtISO": "2026-04-30T20:54:46.046Z",
   "shows": [
     {
       "showId": "1bbd4133",
@@ -682,7 +682,9 @@
       "headliners": [
         "The Paper Kites"
       ],
-      "openers": []
+      "openers": [
+        "Josiah Flores"
+      ]
     },
     {
       "showId": "20342d7e",
