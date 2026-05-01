@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-04-30T21:52:53.381Z",
+  "generatedAtISO": "2026-05-01T17:54:41.329Z",
   "shows": [
-    {
-      "showId": "1bbd4133",
-      "dateISO": "2026-04-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/cut-worms/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Cut Worms"
-      ],
-      "openers": [
-        "Angela Autumn"
-      ]
-    },
     {
       "showId": "6955041e",
       "dateISO": "2026-04-29",
@@ -45,35 +30,6 @@
       "openers": [
         "SHĀHERI"
       ]
-    },
-    {
-      "showId": "6cc290eb",
-      "dateISO": "2026-04-30",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-wedding-present-seamonsters-35th-anniversary/668179?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Wedding Present: Seamonsters 35th Anniversary"
-      ],
-      "openers": [
-        "DJ FOODCOURT",
-        "Mark Robinson sings Unrest"
-      ]
-    },
-    {
-      "showId": "3c425c6d",
-      "dateISO": "2026-04-30",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/asim-azhar/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Asim Azhar"
-      ],
-      "openers": []
     },
     {
       "showId": "21c322a7",
@@ -777,12 +733,14 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/jacob-fred-jazz-odyssey/688222?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-jacob-fred-jazz-odyssey/688222?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Jacob Fred Jazz Odyssey"
+        "An Evening"
       ],
-      "openers": []
+      "openers": [
+        "Jacob Fred Jazz Odyssey"
+      ]
     },
     {
       "showId": "3faceab8",
@@ -1289,6 +1247,19 @@
         "DJ and Host Irie Dole",
         "Floratura"
       ]
+    },
+    {
+      "showId": "dd123eb3",
+      "dateISO": "2026-06-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rave-jesus/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Rave Jesus"
+      ],
+      "openers": []
     },
     {
       "showId": "36606a06",

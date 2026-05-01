@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-04-30T21:52:45.965Z",
+  "generatedAtISO": "2026-05-01T17:54:32.962Z",
   "shows": [
-    {
-      "showId": "6cc290eb",
-      "dateISO": "2026-04-30",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-wedding-present-seamonsters-35th-anniversary/668179?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Wedding Present: Seamonsters 35th Anniversary"
-      ],
-      "openers": [
-        "DJ FOODCOURT",
-        "Mark Robinson sings Unrest"
-      ]
-    },
     {
       "showId": "3efafa4c",
       "dateISO": "2026-05-01",
@@ -254,12 +238,14 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/jacob-fred-jazz-odyssey/688222?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-jacob-fred-jazz-odyssey/688222?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Jacob Fred Jazz Odyssey"
+        "An Evening"
       ],
-      "openers": []
+      "openers": [
+        "Jacob Fred Jazz Odyssey"
+      ]
     },
     {
       "showId": "ca9919ad",
