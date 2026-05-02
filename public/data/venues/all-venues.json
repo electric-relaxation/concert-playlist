@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-02T02:10:59.651Z",
+  "generatedAtISO": "2026-05-02T18:50:54.857Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -15,34 +15,6 @@
       "openers": [
         "Capital Soirée"
       ]
-    },
-    {
-      "showId": "f362bfa1",
-      "dateISO": "2026-04-29",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/dumbo-gets-mad/679460?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "DUMBO GETS MAD"
-      ],
-      "openers": [
-        "SHĀHERI"
-      ]
-    },
-    {
-      "showId": "21c322a7",
-      "dateISO": "2026-04-30",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/chelsea-cutler/688551?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CHELSEA CUTLER"
-      ],
-      "openers": []
     },
     {
       "showId": "1b0359de",
@@ -1144,21 +1116,6 @@
       ]
     },
     {
-      "showId": "401ea1b7",
-      "dateISO": "2026-06-07",
-      "startTime": "7:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/white-hills/689888?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "WHITE HILLS"
-      ],
-      "openers": [
-        "HEAT"
-      ]
-    },
-    {
       "showId": "ae072db7",
       "dateISO": "2026-06-07",
       "startTime": "8:00 PM",
@@ -1171,6 +1128,21 @@
       ],
       "openers": [
         "The Drowns"
+      ]
+    },
+    {
+      "showId": "401ea1b7",
+      "dateISO": "2026-06-07",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/white-hills/689888?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WHITE HILLS"
+      ],
+      "openers": [
+        "HEAT"
       ]
     },
     {
