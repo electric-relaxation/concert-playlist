@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-01T17:54:41.329Z",
+  "generatedAtISO": "2026-05-02T02:10:59.651Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -1958,13 +1958,14 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/cocteaufest-sf-night-2-with-sugar-hiccup-mocteau-twins/684955?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/cocteaufest-sf-night-2-with-simon-raymonde-dj-set/684955?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Cocteaufest SF Night #2"
       ],
       "openers": [
-        "Simon Raymonde (DJ Set)"
+        "Mocteau Twins",
+        "Sugar Hiccup"
       ]
     },
     {
