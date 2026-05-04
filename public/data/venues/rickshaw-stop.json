@@ -4,25 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-02T18:50:47.550Z",
+  "generatedAtISO": "2026-05-04T19:21:10.822Z",
   "shows": [
-    {
-      "showId": "69fb05cd",
-      "dateISO": "2026-05-02",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/adult/678625?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ADULT."
-      ],
-      "openers": [
-        "DJ Omar",
-        "Donzii",
-        "The Treasury"
-      ]
-    },
     {
       "showId": "b0597593",
       "dateISO": "2026-05-07",
@@ -318,6 +301,23 @@
       ],
       "openers": [
         "Tele Novella"
+      ]
+    },
+    {
+      "showId": "5803efb5",
+      "dateISO": "2026-06-26",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/pocket-full-of-crumbs/690287?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Pocket Full Of Crumbs"
+      ],
+      "openers": [
+        "Quinine",
+        "Reed",
+        "figure eight"
       ]
     },
     {

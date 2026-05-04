@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-04T17:27:44.657Z",
+  "generatedAtISO": "2026-05-04T19:21:10.822Z",
   "shows": [
     {
       "showId": "342b31db",
@@ -846,13 +846,13 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole/687528?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole-solo-electric/687528?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "An Evening"
       ],
       "openers": [
-        "Lloyd Cole"
+        "Lloyd Cole (Solo Electric)"
       ]
     },
     {

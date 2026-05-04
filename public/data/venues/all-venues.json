@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-04T17:27:51.533Z",
+  "generatedAtISO": "2026-05-04T19:21:19.100Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -28,23 +28,6 @@
         "Earlybirds Club"
       ],
       "openers": []
-    },
-    {
-      "showId": "69fb05cd",
-      "dateISO": "2026-05-02",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/adult/678625?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ADULT."
-      ],
-      "openers": [
-        "DJ Omar",
-        "Donzii",
-        "The Treasury"
-      ]
     },
     {
       "showId": "01a15fd9",
@@ -1434,6 +1417,23 @@
       ]
     },
     {
+      "showId": "5803efb5",
+      "dateISO": "2026-06-26",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/pocket-full-of-crumbs/690287?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Pocket Full Of Crumbs"
+      ],
+      "openers": [
+        "Quinine",
+        "Reed",
+        "figure eight"
+      ]
+    },
+    {
       "showId": "276c59f6",
       "dateISO": "2026-06-26",
       "startTime": "9:00 PM",
@@ -2293,13 +2293,13 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole/687528?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole-solo-electric/687528?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "An Evening"
       ],
       "openers": [
-        "Lloyd Cole"
+        "Lloyd Cole (Solo Electric)"
       ]
     },
     {
