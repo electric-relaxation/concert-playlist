@@ -4,39 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-02T02:10:51.751Z",
+  "generatedAtISO": "2026-05-04T17:27:44.657Z",
   "shows": [
-    {
-      "showId": "3efafa4c",
-      "dateISO": "2026-05-01",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/shabazz-palaces/687068?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Shabazz Palaces"
-      ],
-      "openers": [
-        "Cheflee"
-      ]
-    },
-    {
-      "showId": "2bd4d254",
-      "dateISO": "2026-05-02",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/king-tuff/678908?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "King Tuff"
-      ],
-      "openers": [
-        "Gabriel Bernini",
-        "visuals by Zach Rodell"
-      ]
-    },
     {
       "showId": "342b31db",
       "dateISO": "2026-05-06",
@@ -870,6 +839,21 @@
         "Lilyisthatyou"
       ],
       "openers": []
+    },
+    {
+      "showId": "cec76c21",
+      "dateISO": "2026-10-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole/687528?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Lloyd Cole"
+      ]
     },
     {
       "showId": "14eb4c90",
