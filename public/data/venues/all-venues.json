@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-04T19:21:19.100Z",
+  "generatedAtISO": "2026-05-04T22:52:24.783Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -14,49 +14,6 @@
       ],
       "openers": [
         "Capital Soirée"
-      ]
-    },
-    {
-      "showId": "1b0359de",
-      "dateISO": "2026-05-01",
-      "startTime": "6:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-3/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Earlybirds Club"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "01a15fd9",
-      "dateISO": "2026-05-02",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/jensen-mcrae/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Jensen McRae – God Has A Hitman Tour"
-      ],
-      "openers": [
-        "Marie Dresselhuis"
-      ]
-    },
-    {
-      "showId": "0aa28a5e",
-      "dateISO": "2026-05-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/jensen-mcrae-god-has-a-hitman-tour/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Jensen McRae – God Has A Hitman Tour"
-      ],
-      "openers": [
-        "Marie Dresselhuis"
       ]
     },
     {
@@ -1366,7 +1323,9 @@
       "headliners": [
         "Mamas Gun"
       ],
-      "openers": []
+      "openers": [
+        "GENEVA"
+      ]
     },
     {
       "showId": "53bf4144",
