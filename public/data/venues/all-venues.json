@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-05T19:11:18.728Z",
+  "generatedAtISO": "2026-05-05T20:57:46.770Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -999,6 +999,19 @@
       "openers": [
         "Jerry's Middle Finger"
       ]
+    },
+    {
+      "showId": "84b7c69d",
+      "dateISO": "2026-06-05",
+      "startTime": "9:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/house-party-san-francisco/690538?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HOUSE PARTY SAN FRANCISCO"
+      ],
+      "openers": []
     },
     {
       "showId": "8bcf0ea2",

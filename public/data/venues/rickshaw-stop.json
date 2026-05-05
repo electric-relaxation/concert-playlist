@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-05T19:11:09.670Z",
+  "generatedAtISO": "2026-05-05T20:57:38.460Z",
   "shows": [
     {
       "showId": "b0597593",
@@ -199,6 +199,19 @@
         "Dirty Cello",
         "Matt Jaffe"
       ]
+    },
+    {
+      "showId": "84b7c69d",
+      "dateISO": "2026-06-05",
+      "startTime": "9:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/house-party-san-francisco/690538?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HOUSE PARTY SAN FRANCISCO"
+      ],
+      "openers": []
     },
     {
       "showId": "401ea1b7",
