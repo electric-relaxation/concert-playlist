@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-04T19:21:10.822Z",
+  "generatedAtISO": "2026-05-05T17:18:30.249Z",
   "shows": [
     {
       "showId": "b0597593",
@@ -488,6 +488,19 @@
         "Trough",
         "ulyssescfm"
       ]
+    },
+    {
+      "showId": "0348ce57",
+      "dateISO": "2026-10-17",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/flower-face/690547?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "FLOWER FACE"
+      ],
+      "openers": []
     },
     {
       "showId": "743fb630",

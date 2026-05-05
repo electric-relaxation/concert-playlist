@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-05T15:49:16.908Z",
+  "generatedAtISO": "2026-05-05T17:18:30.249Z",
   "shows": [
     {
       "showId": "7f89e854",
@@ -643,6 +643,19 @@
         "Resentvul",
         "Ryan Oakes"
       ]
+    },
+    {
+      "showId": "562374f1",
+      "dateISO": "2026-08-01",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/air-guitar-national-finals/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Air Guitar National Finals"
+      ],
+      "openers": []
     },
     {
       "showId": "326adf57",

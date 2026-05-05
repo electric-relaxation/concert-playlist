@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-05T15:49:24.087Z",
+  "generatedAtISO": "2026-05-05T17:18:38.590Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -1609,6 +1609,19 @@
       ]
     },
     {
+      "showId": "95f9dbad",
+      "dateISO": "2026-07-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/babe-rainbow/689075?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Babe Rainbow"
+      ],
+      "openers": []
+    },
+    {
       "showId": "960d41a4",
       "dateISO": "2026-07-19",
       "startTime": "8:00 PM",
@@ -1738,6 +1751,19 @@
         "often easy",
         "plaster"
       ]
+    },
+    {
+      "showId": "562374f1",
+      "dateISO": "2026-08-01",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/air-guitar-national-finals/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Air Guitar National Finals"
+      ],
+      "openers": []
     },
     {
       "showId": "1b4ca35b",
@@ -2055,6 +2081,19 @@
       "openers": []
     },
     {
+      "showId": "2dc8dcb1",
+      "dateISO": "2026-09-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/carla-dal-forno/689760?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Carla dal Forno"
+      ],
+      "openers": []
+    },
+    {
       "showId": "91429860",
       "dateISO": "2026-09-17",
       "startTime": "8:30 PM",
@@ -2305,6 +2344,19 @@
         "Trough",
         "ulyssescfm"
       ]
+    },
+    {
+      "showId": "0348ce57",
+      "dateISO": "2026-10-17",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/flower-face/690547?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "FLOWER FACE"
+      ],
+      "openers": []
     },
     {
       "showId": "14eb4c90",
