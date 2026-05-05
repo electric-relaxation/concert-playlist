@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-05T17:18:38.590Z",
+  "generatedAtISO": "2026-05-05T19:11:18.728Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -548,7 +548,11 @@
       "headliners": [
         "Hannah Lew"
       ],
-      "openers": []
+      "openers": [
+        "April Magazine",
+        "Catherine Moan",
+        "DJ YNG GMA"
+      ]
     },
     {
       "showId": "e8119d97",
@@ -2344,19 +2348,6 @@
         "Trough",
         "ulyssescfm"
       ]
-    },
-    {
-      "showId": "0348ce57",
-      "dateISO": "2026-10-17",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/flower-face/690547?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "FLOWER FACE"
-      ],
-      "openers": []
     },
     {
       "showId": "14eb4c90",
