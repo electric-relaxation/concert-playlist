@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-04T22:52:24.783Z",
+  "generatedAtISO": "2026-05-05T15:49:24.087Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -2025,6 +2025,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "MINI TREES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ce2f0d49",
+      "dateISO": "2026-08-29",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/brenn/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Brenn!"
       ],
       "openers": []
     },
