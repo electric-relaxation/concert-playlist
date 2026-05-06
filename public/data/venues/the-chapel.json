@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-05T17:18:30.249Z",
+  "generatedAtISO": "2026-05-06T17:44:55.288Z",
   "shows": [
     {
       "showId": "342b31db",
@@ -653,6 +653,19 @@
       "openers": []
     },
     {
+      "showId": "c5f1b456",
+      "dateISO": "2026-08-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/black-joe-lewis-and-the-honeybears/690098?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Black Joe Lewis & The Honeybears"
+      ],
+      "openers": []
+    },
+    {
       "showId": "99b87ab8",
       "dateISO": "2026-08-22",
       "startTime": "9:00 PM",
@@ -850,6 +863,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Soda Blonde"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "627a41d0",
+      "dateISO": "2026-10-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/rum-jungle/689221?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Rum Jungle"
       ],
       "openers": []
     },

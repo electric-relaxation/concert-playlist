@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-05T19:11:09.670Z",
+  "generatedAtISO": "2026-05-06T17:44:55.288Z",
   "shows": [
-    {
-      "showId": "7f89e854",
-      "dateISO": "2026-05-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/grace-ives/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Grace Ives"
-      ],
-      "openers": [
-        "dance arts center"
-      ]
-    },
     {
       "showId": "376ed913",
       "dateISO": "2026-05-06",
@@ -384,6 +369,19 @@
       ]
     },
     {
+      "showId": "d36f5d6b",
+      "dateISO": "2026-06-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/conway-the-machine/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Conway The Machine"
+      ],
+      "openers": []
+    },
+    {
       "showId": "b07a2ef4",
       "dateISO": "2026-06-09",
       "startTime": "8:00 PM",
@@ -677,6 +675,19 @@
       ]
     },
     {
+      "showId": "45342e1c",
+      "dateISO": "2026-08-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/krooked-kings/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Krooked Kings"
+      ],
+      "openers": []
+    },
+    {
       "showId": "0066b5a9",
       "dateISO": "2026-08-19",
       "startTime": "8:00 PM",
@@ -838,6 +849,19 @@
       "openers": [
         "Presley Haile"
       ]
+    },
+    {
+      "showId": "8cdaaf7d",
+      "dateISO": "2026-10-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/santiago-cruz/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Santiago Cruz"
+      ],
+      "openers": []
     },
     {
       "showId": "f446c9b6",

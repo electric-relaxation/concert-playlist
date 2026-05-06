@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-06T15:59:23.487Z",
+  "generatedAtISO": "2026-05-06T17:45:03.721Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -14,21 +14,6 @@
       ],
       "openers": [
         "Capital Soirée"
-      ]
-    },
-    {
-      "showId": "7f89e854",
-      "dateISO": "2026-05-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/grace-ives/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Grace Ives"
-      ],
-      "openers": [
-        "dance arts center"
       ]
     },
     {
@@ -1072,6 +1057,19 @@
       ]
     },
     {
+      "showId": "d36f5d6b",
+      "dateISO": "2026-06-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/conway-the-machine/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Conway The Machine"
+      ],
+      "openers": []
+    },
+    {
       "showId": "b07a2ef4",
       "dateISO": "2026-06-09",
       "startTime": "8:00 PM",
@@ -1811,19 +1809,6 @@
       "openers": []
     },
     {
-      "showId": "25118a24",
-      "dateISO": "2026-08-12",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/babymorocco/690721?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BABYMOROCCO"
-      ],
-      "openers": []
-    },
-    {
       "showId": "326adf57",
       "dateISO": "2026-08-12",
       "startTime": "8:00 PM",
@@ -1870,6 +1855,19 @@
       ]
     },
     {
+      "showId": "45342e1c",
+      "dateISO": "2026-08-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/krooked-kings/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Krooked Kings"
+      ],
+      "openers": []
+    },
+    {
       "showId": "42c90c2f",
       "dateISO": "2026-08-17",
       "startTime": "8:00 PM",
@@ -1905,6 +1903,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Angine de Poitrine"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c5f1b456",
+      "dateISO": "2026-08-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/black-joe-lewis-and-the-honeybears/690098?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Black Joe Lewis & The Honeybears"
       ],
       "openers": []
     },
@@ -2288,6 +2299,19 @@
       ]
     },
     {
+      "showId": "627a41d0",
+      "dateISO": "2026-10-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/rum-jungle/689221?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Rum Jungle"
+      ],
+      "openers": []
+    },
+    {
       "showId": "7dae82f0",
       "dateISO": "2026-10-04",
       "startTime": "8:00 PM",
@@ -2357,6 +2381,19 @@
       "openers": [
         "Presley Haile"
       ]
+    },
+    {
+      "showId": "8cdaaf7d",
+      "dateISO": "2026-10-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/santiago-cruz/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Santiago Cruz"
+      ],
+      "openers": []
     },
     {
       "showId": "6b700074",
