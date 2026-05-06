@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-05T20:57:38.460Z",
+  "generatedAtISO": "2026-05-06T15:59:14.833Z",
   "shows": [
     {
       "showId": "b0597593",
@@ -427,6 +427,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "PLAYLUNCH"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "25118a24",
+      "dateISO": "2026-08-12",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/babymorocco/690721?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BABYMOROCCO"
       ],
       "openers": []
     },
