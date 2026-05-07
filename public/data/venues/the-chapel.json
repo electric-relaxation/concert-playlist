@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-06T17:44:55.288Z",
+  "generatedAtISO": "2026-05-07T02:26:07.202Z",
   "shows": [
     {
       "showId": "342b31db",
@@ -18,7 +18,7 @@
         "Dead Meadow"
       ],
       "openers": [
-        "Dravier"
+        "Cerise"
       ]
     },
     {
@@ -505,7 +505,10 @@
       "headliners": [
         "Mohama Saz"
       ],
-      "openers": []
+      "openers": [
+        "Ritmos Tropicosmos",
+        "The Seismics"
+      ]
     },
     {
       "showId": "c72c7896",
@@ -513,10 +516,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/inara-george-of-the-bird-and-the-bee/684441?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/inara-george-the-birds-and-the-bees-w-special-guest-eleni/684441?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Inara George (of The Bird and the Bee)"
+        "Inara George (The Birds and The Bees) w/ Special Guest Eleni"
       ],
       "openers": [
         "Asha Wells"
