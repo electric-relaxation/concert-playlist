@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-07T18:19:39.451Z",
+  "generatedAtISO": "2026-05-07T20:10:15.590Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -1166,7 +1166,9 @@
       "headliners": [
         "THE MESSTHETICS AND JAMES BRANDON LEWIS"
       ],
-      "openers": []
+      "openers": [
+        "Chris Forsyth"
+      ]
     },
     {
       "showId": "f2b6f4fd",
