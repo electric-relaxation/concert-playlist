@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-07T02:26:16.835Z",
+  "generatedAtISO": "2026-05-07T18:19:39.451Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -14,37 +14,6 @@
       ],
       "openers": [
         "Capital Soirée"
-      ]
-    },
-    {
-      "showId": "342b31db",
-      "dateISO": "2026-05-06",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dead-meadow/683097?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Dead Meadow"
-      ],
-      "openers": [
-        "Cerise"
-      ]
-    },
-    {
-      "showId": "376ed913",
-      "dateISO": "2026-05-06",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/powfu-presents-the-lofi-library-tour/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Powfu Presents: Lofi Library Tour"
-      ],
-      "openers": [
-        "Foster",
-        "Jomie"
       ]
     },
     {
@@ -1465,6 +1434,23 @@
       "openers": []
     },
     {
+      "showId": "7c2b71a2",
+      "dateISO": "2026-07-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mac-gross-project-sf-rock-project-benefit-against-medical-advice-album-release/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mac Gross Project – SF Rock Project Benefit + Against Medical Advice Album Release"
+      ],
+      "openers": [
+        "Delano Milano",
+        "Persephone",
+        "Swami 3"
+      ]
+    },
+    {
       "showId": "ad2a0537",
       "dateISO": "2026-07-08",
       "startTime": "8:00 PM",
@@ -1593,6 +1579,19 @@
         "Blous3",
         "Welcome Strawberry"
       ]
+    },
+    {
+      "showId": "f801ac13",
+      "dateISO": "2026-07-17",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/akriila/690533?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "AKRIILA"
+      ],
+      "openers": []
     },
     {
       "showId": "b7f0f911",
@@ -1881,7 +1880,9 @@
       "headliners": [
         "Valerie June"
       ],
-      "openers": []
+      "openers": [
+        "Tianna Esperanza"
+      ]
     },
     {
       "showId": "64f4d148",
@@ -1889,12 +1890,14 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Valerie-June/686251?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/valerie-june/686251?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Valerie June"
       ],
-      "openers": []
+      "openers": [
+        "Tianna Esperanza"
+      ]
     },
     {
       "showId": "0066b5a9",

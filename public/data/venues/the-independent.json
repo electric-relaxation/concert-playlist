@@ -4,24 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-06T17:44:55.288Z",
+  "generatedAtISO": "2026-05-07T18:19:31.978Z",
   "shows": [
-    {
-      "showId": "376ed913",
-      "dateISO": "2026-05-06",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/powfu-presents-the-lofi-library-tour/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Powfu Presents: Lofi Library Tour"
-      ],
-      "openers": [
-        "Foster",
-        "Jomie"
-      ]
-    },
     {
       "showId": "875129b8",
       "dateISO": "2026-05-07",
@@ -558,6 +542,23 @@
         "Hugo de la Lune",
         "Love Spiral",
         "Mommy Mommy"
+      ]
+    },
+    {
+      "showId": "7c2b71a2",
+      "dateISO": "2026-07-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mac-gross-project-sf-rock-project-benefit-against-medical-advice-album-release/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mac Gross Project – SF Rock Project Benefit + Against Medical Advice Album Release"
+      ],
+      "openers": [
+        "Delano Milano",
+        "Persephone",
+        "Swami 3"
       ]
     },
     {

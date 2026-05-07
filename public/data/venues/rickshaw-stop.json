@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-06T17:44:55.288Z",
+  "generatedAtISO": "2026-05-07T18:19:31.978Z",
   "shows": [
     {
       "showId": "b0597593",
@@ -374,6 +374,19 @@
         "Blous3",
         "Welcome Strawberry"
       ]
+    },
+    {
+      "showId": "f801ac13",
+      "dateISO": "2026-07-17",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/akriila/690533?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "AKRIILA"
+      ],
+      "openers": []
     },
     {
       "showId": "556766ce",
