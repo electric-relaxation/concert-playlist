@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-07T20:10:06.906Z",
+  "generatedAtISO": "2026-05-08T02:33:35.051Z",
   "shows": [
     {
       "showId": "b0597593",
@@ -109,7 +109,8 @@
       ],
       "openers": [
         "Evil Children",
-        "Fat"
+        "Fat",
+        "Poor Image"
       ]
     },
     {
