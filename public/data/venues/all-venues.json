@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-08T02:33:42.182Z",
+  "generatedAtISO": "2026-05-08T19:09:12.316Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -29,21 +29,6 @@
       ],
       "openers": [
         "Maggie Gently"
-      ]
-    },
-    {
-      "showId": "875129b8",
-      "dateISO": "2026-05-07",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/wu-lyf/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "POSTPONED: WU LYF"
-      ],
-      "openers": [
-        "Bondo"
       ]
     },
     {
@@ -1754,6 +1739,21 @@
       "openers": [
         "Resentvul",
         "Ryan Oakes"
+      ]
+    },
+    {
+      "showId": "875129b8",
+      "dateISO": "2026-07-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/wu-lyf/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "WU LYF"
+      ],
+      "openers": [
+        "Bondo"
       ]
     },
     {
