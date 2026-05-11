@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-08T19:09:12.316Z",
+  "generatedAtISO": "2026-05-11T18:53:58.302Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -32,22 +32,6 @@
       ]
     },
     {
-      "showId": "3e85108e",
-      "dateISO": "2026-05-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/trauma-ray-glixen/677724?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "trauma ray, Glixen"
-      ],
-      "openers": [
-        "KEEP",
-        "Money"
-      ]
-    },
-    {
       "showId": "823c1b85",
       "dateISO": "2026-05-08",
       "startTime": "9:00 PM",
@@ -63,24 +47,6 @@
       ]
     },
     {
-      "showId": "4acf399c",
-      "dateISO": "2026-05-09",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/band-contest-semi-finals/687661?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Band Contest Semi-Finals"
-      ],
-      "openers": [
-        "MC: Hot Buttered Rum",
-        "Oona & the Good Band",
-        "Shandri",
-        "Strange Vine"
-      ]
-    },
-    {
       "showId": "2b55833f",
       "dateISO": "2026-05-09",
       "startTime": "9:00 PM",
@@ -93,21 +59,6 @@
       ],
       "openers": [
         "Ally Evenson"
-      ]
-    },
-    {
-      "showId": "fa52ac45",
-      "dateISO": "2026-05-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/ritt-momney/679644?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Ritt Momney"
-      ],
-      "openers": [
-        "mercury"
       ]
     },
     {
@@ -1543,10 +1494,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/inara-george-the-birds-and-the-bees-w-special-guest-eleni/684441?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/inara-george-of-the-bird-and-the-bee-with-special-guest-el/684441?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Inara George (The Birds and The Bees) w/ Special Guest Eleni"
+        "Inara George (of The Bird and the Bee)"
       ],
       "openers": [
         "Asha Wells"
