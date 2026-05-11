@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-11T18:53:50.112Z",
+  "generatedAtISO": "2026-05-11T20:29:22.634Z",
   "shows": [
     {
       "showId": "813a4014",
@@ -17,7 +17,9 @@
       "headliners": [
         "Allen Ginsberg Centennial in SF"
       ],
-      "openers": []
+      "openers": [
+        "Ether Wave Light Show"
+      ]
     },
     {
       "showId": "3265634e",

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-11T18:53:58.302Z",
+  "generatedAtISO": "2026-05-11T20:29:30.300Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -85,7 +85,9 @@
       "headliners": [
         "Allen Ginsberg Centennial in SF"
       ],
-      "openers": []
+      "openers": [
+        "Ether Wave Light Show"
+      ]
     },
     {
       "showId": "9db9e176",
