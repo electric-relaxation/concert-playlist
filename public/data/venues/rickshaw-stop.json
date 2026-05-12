@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-12T06:09:25.658Z",
+  "generatedAtISO": "2026-05-12T17:05:16.767Z",
   "shows": [
     {
       "showId": "cb110479",
@@ -486,6 +486,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "MINI TREES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a0c3601b",
+      "dateISO": "2026-09-18",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sweeping-promises/691105?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SWEEPING PROMISES"
       ],
       "openers": []
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-12T14:08:14.100Z",
+  "generatedAtISO": "2026-05-12T17:05:25.072Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -14,21 +14,6 @@
       ],
       "openers": [
         "Capital Soirée"
-      ]
-    },
-    {
-      "showId": "813a4014",
-      "dateISO": "2026-05-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/allen-ginsberg-centennial-in-sf/687765?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Allen Ginsberg Centennial in SF"
-      ],
-      "openers": [
-        "Ether Wave Light Show"
       ]
     },
     {
@@ -2084,6 +2069,19 @@
       ]
     },
     {
+      "showId": "a0c3601b",
+      "dateISO": "2026-09-18",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sweeping-promises/691105?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SWEEPING PROMISES"
+      ],
+      "openers": []
+    },
+    {
       "showId": "952ddd51",
       "dateISO": "2026-09-20",
       "startTime": "8:00 PM",
@@ -2119,6 +2117,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Marlon Magnée (of La Femme)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "88bf8a7a",
+      "dateISO": "2026-09-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sondre-lerche/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Sondre Lerche"
       ],
       "openers": []
     },
@@ -2346,6 +2357,21 @@
       ]
     },
     {
+      "showId": "9dd38e31",
+      "dateISO": "2026-10-16",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/this-is-lorelei/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "This is Lorelei"
+      ],
+      "openers": [
+        "Colin Miller"
+      ]
+    },
+    {
       "showId": "14eb4c90",
       "dateISO": "2026-10-24",
       "startTime": "9:00 PM",
@@ -2355,6 +2381,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Weatherday: Hornet Disaster Tour 2026"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f8c08fc0",
+      "dateISO": "2026-10-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/theo-katzman-solo/690498?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Theo Katzman (Solo)"
       ],
       "openers": []
     },
@@ -2371,6 +2410,21 @@
       ],
       "openers": [
         "Native Sun"
+      ]
+    },
+    {
+      "showId": "8a5577e6",
+      "dateISO": "2026-11-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/squirrel-flower/691286?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Squirrel Flower"
+      ],
+      "openers": [
+        "Sour Widows"
       ]
     },
     {
@@ -2445,6 +2499,47 @@
       ],
       "openers": [
         "Kisser"
+      ]
+    },
+    {
+      "showId": "19b3be9c",
+      "dateISO": "2026-12-11",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-bobby-lees/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "THE BOBBY LEES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1563ed15",
+      "dateISO": "2026-12-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/swervedriver-raise-at-35/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Swervedriver raise at 35"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "75d7d113",
+      "dateISO": "2027-01-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/book-of-love-40th-anniversary-tour/691276?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Book of Love: 40th Anniversary Tour"
+      ],
+      "openers": [
+        "DJ Omar Perez (Popscene)"
       ]
     },
     {
