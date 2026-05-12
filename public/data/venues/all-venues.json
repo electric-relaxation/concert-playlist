@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-12T17:05:25.072Z",
+  "generatedAtISO": "2026-05-12T19:42:09.203Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -132,7 +132,9 @@
       "headliners": [
         "Nick Waterhouse"
       ],
-      "openers": []
+      "openers": [
+        "The Pranks"
+      ]
     },
     {
       "showId": "8f30c54a",
@@ -494,21 +496,6 @@
       ]
     },
     {
-      "showId": "e92f27d6",
-      "dateISO": "2026-05-28",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/proleter/688456?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ProleteR"
-      ],
-      "openers": [
-        ".Tetsuo"
-      ]
-    },
-    {
       "showId": "87df5dc1",
       "dateISO": "2026-05-29",
       "startTime": "8:00 PM",
@@ -832,22 +819,6 @@
         "HOUSE PARTY SAN FRANCISCO"
       ],
       "openers": []
-    },
-    {
-      "showId": "9358c7e3",
-      "dateISO": "2026-06-06",
-      "startTime": "10:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/rize-sf-qt-pie/691325?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Rize SF: QT PIE"
-      ],
-      "openers": [
-        "Deep N Dark",
-        "Novalyze"
-      ]
     },
     {
       "showId": "8bcf0ea2",
