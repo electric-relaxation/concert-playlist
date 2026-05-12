@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-12T19:42:09.203Z",
+  "generatedAtISO": "2026-05-12T23:55:28.330Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -119,7 +119,9 @@
       "headliners": [
         "Junior Varsity"
       ],
-      "openers": []
+      "openers": [
+        "Candy Cigarettes"
+      ]
     },
     {
       "showId": "ef0f0641",
