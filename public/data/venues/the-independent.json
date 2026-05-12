@@ -4,51 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-08T19:09:03.446Z",
+  "generatedAtISO": "2026-05-12T14:08:06.794Z",
   "shows": [
-    {
-      "showId": "823c1b85",
-      "dateISO": "2026-05-08",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/concrete-boys/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Concrete Boys"
-      ],
-      "openers": [
-        "Rio Amor"
-      ]
-    },
-    {
-      "showId": "2b55833f",
-      "dateISO": "2026-05-09",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/sports/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Sports"
-      ],
-      "openers": [
-        "Ally Evenson"
-      ]
-    },
-    {
-      "showId": "454c83c9",
-      "dateISO": "2026-05-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/archive-joycut/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Archive + JoyCut"
-      ],
-      "openers": []
-    },
     {
       "showId": "9db9e176",
       "dateISO": "2026-05-12",
@@ -753,6 +710,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "PawPaw Rod"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a0ef2173",
+      "dateISO": "2026-09-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-tear-garden-the-legendary-pink-dots-cevin-key/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Tear Garden (The Legendary Pink Dots & cEvin Key)"
       ],
       "openers": []
     },

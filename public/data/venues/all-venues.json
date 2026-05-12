@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-12T06:09:33.767Z",
+  "generatedAtISO": "2026-05-12T14:08:14.100Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -15,49 +15,6 @@
       "openers": [
         "Capital Soirée"
       ]
-    },
-    {
-      "showId": "823c1b85",
-      "dateISO": "2026-05-08",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/concrete-boys/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Concrete Boys"
-      ],
-      "openers": [
-        "Rio Amor"
-      ]
-    },
-    {
-      "showId": "2b55833f",
-      "dateISO": "2026-05-09",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/sports/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Sports"
-      ],
-      "openers": [
-        "Ally Evenson"
-      ]
-    },
-    {
-      "showId": "454c83c9",
-      "dateISO": "2026-05-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/archive-joycut/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Archive + JoyCut"
-      ],
-      "openers": []
     },
     {
       "showId": "813a4014",
@@ -2094,6 +2051,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Carla dal Forno"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a0ef2173",
+      "dateISO": "2026-09-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-tear-garden-the-legendary-pink-dots-cevin-key/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Tear Garden (The Legendary Pink Dots & cEvin Key)"
       ],
       "openers": []
     },
