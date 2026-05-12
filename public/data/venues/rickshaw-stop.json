@@ -4,23 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-08T02:33:35.051Z",
+  "generatedAtISO": "2026-05-12T06:09:25.658Z",
   "shows": [
-    {
-      "showId": "b0597593",
-      "dateISO": "2026-05-07",
-      "startTime": "7:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/louiza-waterstrider/683852?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Louiza / Waterstrider"
-      ],
-      "openers": [
-        "Maggie Gently"
-      ]
-    },
     {
       "showId": "cb110479",
       "dateISO": "2026-05-13",
@@ -213,6 +198,22 @@
         "HOUSE PARTY SAN FRANCISCO"
       ],
       "openers": []
+    },
+    {
+      "showId": "9358c7e3",
+      "dateISO": "2026-06-06",
+      "startTime": "10:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/rize-sf-qt-pie/691325?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Rize SF: QT PIE"
+      ],
+      "openers": [
+        "Deep N Dark",
+        "Novalyze"
+      ]
     },
     {
       "showId": "401ea1b7",
