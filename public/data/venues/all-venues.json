@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-13T09:39:36.445Z",
+  "generatedAtISO": "2026-05-13T14:44:32.155Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -2343,6 +2343,19 @@
       "openers": [
         "Colin Miller"
       ]
+    },
+    {
+      "showId": "ddb0e605",
+      "dateISO": "2026-10-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/hovvdy/691044?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Hovvdy"
+      ],
+      "openers": []
     },
     {
       "showId": "14eb4c90",

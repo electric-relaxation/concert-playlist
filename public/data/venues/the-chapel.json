@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-13T09:39:27.594Z",
+  "generatedAtISO": "2026-05-13T14:44:24.264Z",
   "shows": [
     {
       "showId": "3265634e",
@@ -838,6 +838,19 @@
       "openers": [
         "Lloyd Cole (Solo Electric)"
       ]
+    },
+    {
+      "showId": "ddb0e605",
+      "dateISO": "2026-10-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/hovvdy/691044?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Hovvdy"
+      ],
+      "openers": []
     },
     {
       "showId": "14eb4c90",
