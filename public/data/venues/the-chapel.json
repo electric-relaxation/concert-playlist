@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-12T19:42:00.134Z",
+  "generatedAtISO": "2026-05-13T09:39:27.594Z",
   "shows": [
     {
       "showId": "3265634e",
@@ -441,10 +441,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/inara-george-of-the-bird-and-the-bee-with-special-guest-el/684441?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/inara-george-the-bird-and-the-bee-w-guest-eleni-mandell/684441?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Inara George (of The Bird and the Bee)"
+        "Inara George (The Bird and the Bee) w/ Guest Eleni Mandell"
       ],
       "openers": [
         "Asha Wells"
