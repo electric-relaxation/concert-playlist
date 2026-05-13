@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-13T14:44:32.155Z",
+  "generatedAtISO": "2026-05-13T17:12:25.937Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -496,6 +496,19 @@
         "Hangtown",
         "Scott H. Biram"
       ]
+    },
+    {
+      "showId": "544ae473",
+      "dateISO": "2026-05-28",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/quinn-xcii/691294?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Quinn XCII"
+      ],
+      "openers": []
     },
     {
       "showId": "87df5dc1",
@@ -2055,6 +2068,19 @@
       "openers": []
     },
     {
+      "showId": "650696d9",
+      "dateISO": "2026-09-19",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/be-your-own-pet/690464?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BE YOUR OWN PET"
+      ],
+      "openers": []
+    },
+    {
       "showId": "952ddd51",
       "dateISO": "2026-09-20",
       "startTime": "8:00 PM",
@@ -2412,6 +2438,19 @@
       "openers": [
         "Sour Widows"
       ]
+    },
+    {
+      "showId": "c7234bff",
+      "dateISO": "2026-11-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Alex Cameron"
+      ],
+      "openers": []
     },
     {
       "showId": "e0301153",

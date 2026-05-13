@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-13T14:44:24.264Z",
+  "generatedAtISO": "2026-05-13T17:12:15.590Z",
   "shows": [
     {
       "showId": "3265634e",
@@ -907,6 +907,19 @@
       "openers": [
         "Sour Widows"
       ]
+    },
+    {
+      "showId": "c7234bff",
+      "dateISO": "2026-11-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Alex Cameron"
+      ],
+      "openers": []
     },
     {
       "showId": "f8913335",
