@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-13T17:12:25.937Z",
+  "generatedAtISO": "2026-05-14T02:39:00.002Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -14,21 +14,6 @@
       ],
       "openers": [
         "Capital Soirée"
-      ]
-    },
-    {
-      "showId": "9db9e176",
-      "dateISO": "2026-05-12",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/robert-lester-folsom-with-special-guest-kassi-valazza/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Robert Lester Folsom"
-      ],
-      "openers": [
-        "Kassi Valazza"
       ]
     },
     {
@@ -388,7 +373,9 @@
       "headliners": [
         "Rose Gray"
       ],
-      "openers": []
+      "openers": [
+        "Sergi(ooh)"
+      ]
     },
     {
       "showId": "d9362738",
