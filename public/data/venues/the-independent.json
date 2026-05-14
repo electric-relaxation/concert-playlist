@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-14T02:38:51.676Z",
+  "generatedAtISO": "2026-05-14T16:08:26.233Z",
   "shows": [
-    {
-      "showId": "719d15cb",
-      "dateISO": "2026-05-13",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/texas-is-the-reason/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Texas is the Reason"
-      ],
-      "openers": [
-        "Growing Pains"
-      ]
-    },
     {
       "showId": "122569c8",
       "dateISO": "2026-05-14",
@@ -751,6 +736,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Ghostly Kisses"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "801c6a3b",
+      "dateISO": "2026-09-26",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/west-22nd/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "West 22nd"
       ],
       "openers": []
     },

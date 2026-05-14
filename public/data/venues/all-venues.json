@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-14T13:56:37.854Z",
+  "generatedAtISO": "2026-05-14T16:08:35.185Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -46,21 +46,6 @@
       "openers": [
         "Reverend Baron",
         "Sahara Grim"
-      ]
-    },
-    {
-      "showId": "719d15cb",
-      "dateISO": "2026-05-13",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/texas-is-the-reason/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Texas is the Reason"
-      ],
-      "openers": [
-        "Growing Pains"
       ]
     },
     {
@@ -2155,6 +2140,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Ghostly Kisses"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "801c6a3b",
+      "dateISO": "2026-09-26",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/west-22nd/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "West 22nd"
       ],
       "openers": []
     },
