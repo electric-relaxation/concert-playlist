@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-14T02:39:00.002Z",
+  "generatedAtISO": "2026-05-14T13:56:37.854Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -47,19 +47,6 @@
         "Reverend Baron",
         "Sahara Grim"
       ]
-    },
-    {
-      "showId": "3265634e",
-      "dateISO": "2026-05-13",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "719d15cb",
@@ -1197,6 +1184,19 @@
       "openers": [
         "Tele Novella"
       ]
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-06-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "b2f48cd1",
