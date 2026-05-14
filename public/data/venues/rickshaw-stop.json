@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-14T18:50:21.978Z",
+  "generatedAtISO": "2026-05-14T23:52:57.340Z",
   "shows": [
     {
       "showId": "13c3322d",
@@ -193,6 +193,7 @@
         "WHITE HILLS"
       ],
       "openers": [
+        "Ex-Heir",
         "HEAT"
       ]
     },
