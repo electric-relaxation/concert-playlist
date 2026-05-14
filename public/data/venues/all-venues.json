@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-14T16:08:35.185Z",
+  "generatedAtISO": "2026-05-14T18:50:33.558Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -30,22 +30,6 @@
       "openers": [
         ": All Metal Tribute to the Bee Gees & Beyond",
         "Tragedy"
-      ]
-    },
-    {
-      "showId": "cb110479",
-      "dateISO": "2026-05-13",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/cornelia-murr/674464?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CORNELIA MURR"
-      ],
-      "openers": [
-        "Reverend Baron",
-        "Sahara Grim"
       ]
     },
     {
@@ -1611,6 +1595,22 @@
       ]
     },
     {
+      "showId": "3a7bf41b",
+      "dateISO": "2026-07-29",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/witch-whores-of-satan/691480?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Witch Whores of Satan"
+      ],
+      "openers": [
+        "Meathook and the Vital organs",
+        "Puppet Fister Theater"
+      ]
+    },
+    {
       "showId": "5691461d",
       "dateISO": "2026-07-31",
       "startTime": "8:30 PM",
@@ -2365,6 +2365,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Hovvdy"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0477bf2a",
+      "dateISO": "2026-10-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/frankie-cosmos-celebrating-10-years-of-next-thing/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Frankie Cosmos – Celebrating 10 Years of Next Thing"
       ],
       "openers": []
     },

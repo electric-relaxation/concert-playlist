@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-13T17:12:15.590Z",
+  "generatedAtISO": "2026-05-14T18:50:21.978Z",
   "shows": [
-    {
-      "showId": "cb110479",
-      "dateISO": "2026-05-13",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/cornelia-murr/674464?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CORNELIA MURR"
-      ],
-      "openers": [
-        "Reverend Baron",
-        "Sahara Grim"
-      ]
-    },
     {
       "showId": "13c3322d",
       "dateISO": "2026-05-16",
@@ -399,6 +383,22 @@
         "RAY AND PAUL"
       ],
       "openers": []
+    },
+    {
+      "showId": "3a7bf41b",
+      "dateISO": "2026-07-29",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/witch-whores-of-satan/691480?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Witch Whores of Satan"
+      ],
+      "openers": [
+        "Meathook and the Vital organs",
+        "Puppet Fister Theater"
+      ]
     },
     {
       "showId": "5691461d",

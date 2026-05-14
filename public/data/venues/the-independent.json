@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-14T16:08:26.233Z",
+  "generatedAtISO": "2026-05-14T18:50:21.978Z",
   "shows": [
     {
       "showId": "122569c8",
@@ -848,6 +848,19 @@
       "openers": [
         "Colin Miller"
       ]
+    },
+    {
+      "showId": "0477bf2a",
+      "dateISO": "2026-10-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/frankie-cosmos-celebrating-10-years-of-next-thing/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Frankie Cosmos – Celebrating 10 Years of Next Thing"
+      ],
+      "openers": []
     },
     {
       "showId": "f446c9b6",
