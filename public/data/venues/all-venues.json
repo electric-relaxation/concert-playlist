@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-14T23:53:04.755Z",
+  "generatedAtISO": "2026-05-15T02:39:42.008Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -1034,7 +1034,9 @@
       "headliners": [
         "Jesca Hoop"
       ],
-      "openers": []
+      "openers": [
+        "Faun Fables"
+      ]
     },
     {
       "showId": "be46e803",

@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-14T13:56:29.227Z",
+  "generatedAtISO": "2026-05-15T02:39:33.682Z",
   "shows": [
     {
       "showId": "47e9bc53",
@@ -317,7 +317,9 @@
       "headliners": [
         "Jesca Hoop"
       ],
-      "openers": []
+      "openers": [
+        "Faun Fables"
+      ]
     },
     {
       "showId": "0e5bb119",
