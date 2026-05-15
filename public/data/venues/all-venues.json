@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-15T02:39:42.008Z",
+  "generatedAtISO": "2026-05-15T16:00:45.906Z",
   "shows": [
     {
       "showId": "6955041e",
@@ -30,23 +30,6 @@
       "openers": [
         ": All Metal Tribute to the Bee Gees & Beyond",
         "Tragedy"
-      ]
-    },
-    {
-      "showId": "47e9bc53",
-      "dateISO": "2026-05-14",
-      "startTime": "7:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/robyn-hitchcock-live-and-electric-full-band-show/682670?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Robyn Hitchcock \"Live And Electric - Full Band Show\""
-      ],
-      "openers": [
-        "Emma Swift",
-        "Mad Alchemy Liquid Light Show",
-        "Those Pretty Wrongs"
       ]
     },
     {
@@ -2118,7 +2101,9 @@
       "headliners": [
         "Temples: The BLISS Tour"
       ],
-      "openers": []
+      "openers": [
+        "Poppy Jean Crawford"
+      ]
     },
     {
       "showId": "c5ca3437",
@@ -2126,12 +2111,14 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Temples-The-BLISS-Tour/687377?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/temples-the-bliss-tour/687377?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Temples: The BLISS Tour"
       ],
-      "openers": []
+      "openers": [
+        "Poppy Jean Crawford"
+      ]
     },
     {
       "showId": "a3b88b90",
