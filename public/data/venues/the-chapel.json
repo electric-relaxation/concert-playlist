@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-15T16:00:35.735Z",
+  "generatedAtISO": "2026-05-15T18:17:55.836Z",
   "shows": [
     {
       "showId": "ef0f0641",
@@ -357,6 +357,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Fleetwood Macramé"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "cecdc4d3",
+      "dateISO": "2026-07-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dylan-leblanc/691420?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dylan LeBlanc"
       ],
       "openers": []
     },

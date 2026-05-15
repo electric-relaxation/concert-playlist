@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-14T18:50:21.978Z",
+  "generatedAtISO": "2026-05-15T18:17:55.836Z",
   "shows": [
-    {
-      "showId": "122569c8",
-      "dateISO": "2026-05-14",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/junior-varsity/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Junior Varsity"
-      ],
-      "openers": [
-        "Candy Cigarettes"
-      ]
-    },
     {
       "showId": "8f30c54a",
       "dateISO": "2026-05-15",
@@ -790,21 +775,6 @@
         "rusowsky"
       ],
       "openers": []
-    },
-    {
-      "showId": "57028ea1",
-      "dateISO": "2026-10-06",
-      "startTime": "7:30 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/enter-shikari/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Enter Shikari"
-      ],
-      "openers": [
-        "Initiate"
-      ]
     },
     {
       "showId": "682f9f7e",

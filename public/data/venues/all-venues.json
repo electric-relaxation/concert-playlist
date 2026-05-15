@@ -1,52 +1,6 @@
 {
-  "generatedAtISO": "2026-05-15T16:00:45.906Z",
+  "generatedAtISO": "2026-05-15T18:18:03.675Z",
   "shows": [
-    {
-      "showId": "6955041e",
-      "dateISO": "2026-04-29",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260429.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Never Ending Fall"
-      ],
-      "openers": [
-        "Capital Soirée"
-      ]
-    },
-    {
-      "showId": "5543e8b5",
-      "dateISO": "2026-05-12",
-      "startTime": "9:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260512.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Electric Six"
-      ],
-      "openers": [
-        ": All Metal Tribute to the Bee Gees & Beyond",
-        "Tragedy"
-      ]
-    },
-    {
-      "showId": "122569c8",
-      "dateISO": "2026-05-14",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/junior-varsity/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Junior Varsity"
-      ],
-      "openers": [
-        "Candy Cigarettes"
-      ]
-    },
     {
       "showId": "ef0f0641",
       "dateISO": "2026-05-15",
@@ -350,6 +304,22 @@
       ]
     },
     {
+      "showId": "3faceab8",
+      "dateISO": "2026-05-27",
+      "startTime": "8:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260527.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Accessory"
+      ],
+      "openers": [
+        "Badvril",
+        "Facing"
+      ]
+    },
+    {
       "showId": "866f40eb",
       "dateISO": "2026-05-27",
       "startTime": "8:00 PM",
@@ -375,21 +345,6 @@
       ],
       "openers": [
         "Jacob Fred Jazz Odyssey"
-      ]
-    },
-    {
-      "showId": "3faceab8",
-      "dateISO": "2026-05-27",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260527.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Accessory"
-      ],
-      "openers": [
-        "Facing"
       ]
     },
     {
@@ -1261,6 +1216,19 @@
         "Persephone",
         "Swami 3"
       ]
+    },
+    {
+      "showId": "cecdc4d3",
+      "dateISO": "2026-07-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dylan-leblanc/691420?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dylan LeBlanc"
+      ],
+      "openers": []
     },
     {
       "showId": "ad2a0537",
@@ -2241,21 +2209,6 @@
         "rusowsky"
       ],
       "openers": []
-    },
-    {
-      "showId": "57028ea1",
-      "dateISO": "2026-10-06",
-      "startTime": "7:30 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/enter-shikari/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Enter Shikari"
-      ],
-      "openers": [
-        "Initiate"
-      ]
     },
     {
       "showId": "58218d0c",

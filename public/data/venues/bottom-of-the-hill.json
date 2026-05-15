@@ -4,39 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-04-29T20:57:45.473Z",
+  "generatedAtISO": "2026-05-15T18:17:55.836Z",
   "shows": [
-    {
-      "showId": "6955041e",
-      "dateISO": "2026-04-29",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260429.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Never Ending Fall"
-      ],
-      "openers": [
-        "Capital Soirée"
-      ]
-    },
-    {
-      "showId": "5543e8b5",
-      "dateISO": "2026-05-12",
-      "startTime": "9:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260512.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Electric Six"
-      ],
-      "openers": [
-        ": All Metal Tribute to the Bee Gees & Beyond",
-        "Tragedy"
-      ]
-    },
     {
       "showId": "cce78953",
       "dateISO": "2026-05-22",
@@ -56,7 +25,7 @@
     {
       "showId": "3faceab8",
       "dateISO": "2026-05-27",
-      "startTime": "8:30 PM",
+      "startTime": "8:00 PM",
       "venueId": "bottom-of-the-hill",
       "venueName": "Bottom of the Hill",
       "showUrl": "http://www.bottomofthehill.com/20260527.html",
@@ -65,6 +34,7 @@
         "Accessory"
       ],
       "openers": [
+        "Badvril",
         "Facing"
       ]
     },
