@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-15T18:18:03.675Z",
+  "generatedAtISO": "2026-05-15T20:11:50.436Z",
   "shows": [
     {
       "showId": "ef0f0641",
@@ -1157,9 +1157,22 @@
       "openers": []
     },
     {
+      "showId": "13adcbfc",
+      "dateISO": "2026-06-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/fleetwood-macrame/666550?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Fleetwood Macramé"
+      ],
+      "openers": []
+    },
+    {
       "showId": "8ec537e6",
       "dateISO": "2026-06-27",
-      "startTime": "8:00 PM",
+      "startTime": "9:00 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/bay-pride-amplified-2/",
@@ -1173,19 +1186,6 @@
         "Love Spiral",
         "Mommy Mommy"
       ]
-    },
-    {
-      "showId": "13adcbfc",
-      "dateISO": "2026-06-27",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/fleetwood-macrame/666550?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Fleetwood Macramé"
-      ],
-      "openers": []
     },
     {
       "showId": "6202fcc4",
@@ -2492,6 +2492,21 @@
         "Swervedriver raise at 35"
       ],
       "openers": []
+    },
+    {
+      "showId": "ee3d1750",
+      "dateISO": "2027-01-15",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/book-of-love-40th-anniversary-tour/689091?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Book of Love: 40th Anniversary Tour"
+      ],
+      "openers": [
+        "DJ Shindog (New Wave City)"
+      ]
     },
     {
       "showId": "75d7d113",

@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-15T18:17:55.836Z",
+  "generatedAtISO": "2026-05-15T20:11:40.834Z",
   "shows": [
     {
       "showId": "ef0f0641",
@@ -936,6 +936,21 @@
       ],
       "openers": [
         "Kisser"
+      ]
+    },
+    {
+      "showId": "ee3d1750",
+      "dateISO": "2027-01-15",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/book-of-love-40th-anniversary-tour/689091?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Book of Love: 40th Anniversary Tour"
+      ],
+      "openers": [
+        "DJ Shindog (New Wave City)"
       ]
     },
     {
