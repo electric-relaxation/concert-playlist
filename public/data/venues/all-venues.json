@@ -1,6 +1,19 @@
 {
-  "generatedAtISO": "2026-05-15T20:11:50.436Z",
+  "generatedAtISO": "2026-05-16T05:49:37.620Z",
   "shows": [
+    {
+      "showId": "13a9c429",
+      "dateISO": "2026-05-15",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/culture-wars/691977?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Culture Wars"
+      ],
+      "openers": []
+    },
     {
       "showId": "ef0f0641",
       "dateISO": "2026-05-15",
@@ -236,7 +249,9 @@
       "headliners": [
         "EMO NITE"
       ],
-      "openers": []
+      "openers": [
+        "LØREN"
+      ]
     },
     {
       "showId": "a858b96e",
