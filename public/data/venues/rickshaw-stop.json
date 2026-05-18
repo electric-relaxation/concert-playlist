@@ -4,37 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-16T05:49:27.067Z",
+  "generatedAtISO": "2026-05-18T17:55:08.560Z",
   "shows": [
-    {
-      "showId": "13a9c429",
-      "dateISO": "2026-05-15",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/culture-wars/691977?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Culture Wars"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "13c3322d",
-      "dateISO": "2026-05-16",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/faetooth/675142?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "FAETOOTH"
-      ],
-      "openers": [
-        "Iress",
-        "Nightosphere"
-      ]
-    },
     {
       "showId": "f03c221d",
       "dateISO": "2026-05-20",
@@ -542,6 +513,19 @@
         "Trough",
         "ulyssescfm"
       ]
+    },
+    {
+      "showId": "6afa1ff1",
+      "dateISO": "2026-11-04",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mary-in-the-junkyard/691949?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "mary in the junkyard"
+      ],
+      "openers": []
     },
     {
       "showId": "743fb630",

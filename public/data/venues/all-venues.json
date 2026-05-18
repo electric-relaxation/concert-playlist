@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-05-16T05:49:37.620Z",
+  "generatedAtISO": "2026-05-18T17:55:18.396Z",
   "shows": [
-    {
-      "showId": "13a9c429",
-      "dateISO": "2026-05-15",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/culture-wars/691977?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Culture Wars"
-      ],
-      "openers": []
-    },
     {
       "showId": "ef0f0641",
       "dateISO": "2026-05-15",
@@ -30,38 +17,6 @@
       ]
     },
     {
-      "showId": "8f30c54a",
-      "dateISO": "2026-05-15",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/toner/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "TONER"
-      ],
-      "openers": [
-        "System Exclusive",
-        "Welcome Strawberry"
-      ]
-    },
-    {
-      "showId": "13c3322d",
-      "dateISO": "2026-05-16",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/faetooth/675142?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "FAETOOTH"
-      ],
-      "openers": [
-        "Iress",
-        "Nightosphere"
-      ]
-    },
-    {
       "showId": "20648e7f",
       "dateISO": "2026-05-16",
       "startTime": "9:00 PM",
@@ -74,21 +29,6 @@
       ],
       "openers": [
         "Dazy"
-      ]
-    },
-    {
-      "showId": "48234472",
-      "dateISO": "2026-05-16",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/yumi-zouma/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Yumi Zouma"
-      ],
-      "openers": [
-        "Ducks Ltd."
       ]
     },
     {
@@ -2353,6 +2293,21 @@
       "openers": []
     },
     {
+      "showId": "88961e7e",
+      "dateISO": "2026-10-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/everclear/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Everclear"
+      ],
+      "openers": [
+        "American Hi-Fi"
+      ]
+    },
+    {
       "showId": "f8c08fc0",
       "dateISO": "2026-10-28",
       "startTime": "8:00 PM",
@@ -2379,6 +2334,19 @@
       "openers": [
         "Native Sun"
       ]
+    },
+    {
+      "showId": "6afa1ff1",
+      "dateISO": "2026-11-04",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mary-in-the-junkyard/691949?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "mary in the junkyard"
+      ],
+      "openers": []
     },
     {
       "showId": "8a5577e6",

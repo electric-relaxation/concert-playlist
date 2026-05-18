@@ -4,39 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-15T20:11:40.834Z",
+  "generatedAtISO": "2026-05-18T17:55:08.560Z",
   "shows": [
-    {
-      "showId": "8f30c54a",
-      "dateISO": "2026-05-15",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/toner/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "TONER"
-      ],
-      "openers": [
-        "System Exclusive",
-        "Welcome Strawberry"
-      ]
-    },
-    {
-      "showId": "48234472",
-      "dateISO": "2026-05-16",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/yumi-zouma/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Yumi Zouma"
-      ],
-      "openers": [
-        "Ducks Ltd."
-      ]
-    },
     {
       "showId": "d81c0295",
       "dateISO": "2026-05-18",
@@ -831,6 +800,21 @@
         "Frankie Cosmos – Celebrating 10 Years of Next Thing"
       ],
       "openers": []
+    },
+    {
+      "showId": "88961e7e",
+      "dateISO": "2026-10-24",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/everclear/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Everclear"
+      ],
+      "openers": [
+        "American Hi-Fi"
+      ]
     },
     {
       "showId": "f446c9b6",
