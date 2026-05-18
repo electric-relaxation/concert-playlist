@@ -1,51 +1,6 @@
 {
-  "generatedAtISO": "2026-05-18T19:39:12.596Z",
+  "generatedAtISO": "2026-05-18T21:06:02.190Z",
   "shows": [
-    {
-      "showId": "ef0f0641",
-      "dateISO": "2026-05-15",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/nick-waterhouse/688069?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Nick Waterhouse"
-      ],
-      "openers": [
-        "The Pranks"
-      ]
-    },
-    {
-      "showId": "20648e7f",
-      "dateISO": "2026-05-16",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/sleaford-mods/674593?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Sleaford Mods"
-      ],
-      "openers": [
-        "Dazy"
-      ]
-    },
-    {
-      "showId": "103ec367",
-      "dateISO": "2026-05-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/sleaford-mods/674970?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Sleaford Mods"
-      ],
-      "openers": [
-        "Dazy"
-      ]
-    },
     {
       "showId": "d81c0295",
       "dateISO": "2026-05-18",
@@ -1807,6 +1762,7 @@
         "OSEES ft. Brigid Dawson"
       ],
       "openers": [
+        "Gumby’s Junk",
         "Traps PS"
       ]
     },
