@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-19T18:00:11.143Z",
+  "generatedAtISO": "2026-05-19T20:00:20.985Z",
   "shows": [
     {
       "showId": "a345c344",
@@ -476,6 +476,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "aja monet"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-06-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
       ],
       "openers": []
     },
@@ -991,19 +1004,6 @@
       "openers": [
         "Tele Novella"
       ]
-    },
-    {
-      "showId": "3265634e",
-      "dateISO": "2026-06-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "b2f48cd1",
