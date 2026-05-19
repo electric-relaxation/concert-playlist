@@ -4,21 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-18T19:39:04.909Z",
+  "generatedAtISO": "2026-05-19T18:00:03.223Z",
   "shows": [
-    {
-      "showId": "d81c0295",
-      "dateISO": "2026-05-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/broncho/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "BRONCHO"
-      ],
-      "openers": []
-    },
     {
       "showId": "a345c344",
       "dateISO": "2026-05-19",
@@ -814,6 +801,21 @@
       ],
       "openers": [
         "American Hi-Fi"
+      ]
+    },
+    {
+      "showId": "0791eee8",
+      "dateISO": "2026-11-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/king-buffalo/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "King Buffalo"
+      ],
+      "openers": [
+        "L.A. Witch"
       ]
     },
     {

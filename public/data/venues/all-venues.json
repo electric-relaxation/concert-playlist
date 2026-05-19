@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-05-19T00:01:25.551Z",
+  "generatedAtISO": "2026-05-19T18:00:11.143Z",
   "shows": [
-    {
-      "showId": "d81c0295",
-      "dateISO": "2026-05-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/broncho/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "BRONCHO"
-      ],
-      "openers": []
-    },
     {
       "showId": "a345c344",
       "dateISO": "2026-05-19",
@@ -2320,6 +2307,21 @@
       ]
     },
     {
+      "showId": "0791eee8",
+      "dateISO": "2026-11-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/king-buffalo/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "King Buffalo"
+      ],
+      "openers": [
+        "L.A. Witch"
+      ]
+    },
+    {
       "showId": "c7234bff",
       "dateISO": "2026-11-07",
       "startTime": "9:00 PM",
@@ -2360,6 +2362,19 @@
         "Forever Came Calling",
         "Fox Royale"
       ]
+    },
+    {
+      "showId": "9002f093",
+      "dateISO": "2026-11-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/other-lives/691433?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Other Lives"
+      ],
+      "openers": []
     },
     {
       "showId": "743fb630",

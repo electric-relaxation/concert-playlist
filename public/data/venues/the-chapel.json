@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-19T00:01:16.684Z",
+  "generatedAtISO": "2026-05-19T18:00:03.223Z",
   "shows": [
     {
       "showId": "c8b99019",
@@ -876,6 +876,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Alex Cameron"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "9002f093",
+      "dateISO": "2026-11-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/other-lives/691433?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Other Lives"
       ],
       "openers": []
     },
