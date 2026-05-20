@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-19T18:00:03.223Z",
+  "generatedAtISO": "2026-05-20T14:47:46.070Z",
   "shows": [
-    {
-      "showId": "a345c344",
-      "dateISO": "2026-05-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/red-rum-club/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Red Rum Club"
-      ],
-      "openers": [
-        "The Moondrops"
-      ]
-    },
     {
       "showId": "613bd30a",
       "dateISO": "2026-05-22",
@@ -640,6 +625,23 @@
         "The Tear Garden (The Legendary Pink Dots & cEvin Key)"
       ],
       "openers": []
+    },
+    {
+      "showId": "ee748521",
+      "dateISO": "2026-09-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mustard-service/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mustard Service"
+      ],
+      "openers": [
+        "Chicano Mosh",
+        "Manwolves",
+        "Pity Party (Girls Club)"
+      ]
     },
     {
       "showId": "952ddd51",
