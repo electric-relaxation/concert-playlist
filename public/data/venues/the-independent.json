@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-20T14:47:46.070Z",
+  "generatedAtISO": "2026-05-20T17:51:28.851Z",
   "shows": [
     {
       "showId": "613bd30a",
@@ -384,6 +384,22 @@
         "Hugo de la Lune",
         "Love Spiral",
         "Mommy Mommy"
+      ]
+    },
+    {
+      "showId": "dd46aaef",
+      "dateISO": "2026-07-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/kelly-mcfarling/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Kelly McFarling"
+      ],
+      "openers": [
+        "Rose Paradise",
+        "Uwade"
       ]
     },
     {

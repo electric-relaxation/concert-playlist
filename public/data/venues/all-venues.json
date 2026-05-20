@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-20T14:47:53.713Z",
+  "generatedAtISO": "2026-05-20T17:51:38.063Z",
   "shows": [
     {
       "showId": "f03c221d",
@@ -1081,6 +1081,22 @@
         "PANIC SHACK"
       ],
       "openers": []
+    },
+    {
+      "showId": "dd46aaef",
+      "dateISO": "2026-07-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/kelly-mcfarling/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Kelly McFarling"
+      ],
+      "openers": [
+        "Rose Paradise",
+        "Uwade"
+      ]
     },
     {
       "showId": "7c2b71a2",
