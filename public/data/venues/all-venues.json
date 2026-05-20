@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-20T17:51:38.063Z",
+  "generatedAtISO": "2026-05-20T22:21:43.359Z",
   "shows": [
     {
       "showId": "f03c221d",
@@ -30,6 +30,7 @@
         "An evening of music and conversation"
       ],
       "openers": [
+        "DJ Callum McGowan",
         "r.image"
       ]
     },
@@ -462,7 +463,9 @@
       "headliners": [
         "aja monet"
       ],
-      "openers": []
+      "openers": [
+        "PHER"
+      ]
     },
     {
       "showId": "3265634e",
@@ -748,10 +751,10 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/don-carlos-rescheduled-from-thursday-february-19/677629?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/don-carlos/677629?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Don Carlos (rescheduled from Thursday, February 19)"
+        "Don Carlos"
       ],
       "openers": [
         "DJ and Host Irie Dole",
