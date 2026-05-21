@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-20T17:51:28.851Z",
+  "generatedAtISO": "2026-05-21T18:56:47.708Z",
   "shows": [
     {
       "showId": "613bd30a",
@@ -366,7 +366,9 @@
       "headliners": [
         "The Lagoons"
       ],
-      "openers": []
+      "openers": [
+        "Don Bloom"
+      ]
     },
     {
       "showId": "8ec537e6",
