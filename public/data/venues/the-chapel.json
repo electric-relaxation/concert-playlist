@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-21T05:05:49.988Z",
+  "generatedAtISO": "2026-05-21T20:49:57.989Z",
   "shows": [
     {
       "showId": "c8b99019",
@@ -177,10 +177,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/martin-rev/684976?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/martin-rev-of-suicide/684976?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Martin Rev"
+        "Martin Rev (of Suicide)"
       ],
       "openers": [
         "DJ Omar Perez (Popscene)",
