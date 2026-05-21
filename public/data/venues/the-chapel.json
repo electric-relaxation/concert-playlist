@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-21T20:49:57.989Z",
+  "generatedAtISO": "2026-05-21T23:57:18.802Z",
   "shows": [
     {
       "showId": "c8b99019",
@@ -481,6 +481,19 @@
       "openers": [
         "BettySoo"
       ]
+    },
+    {
+      "showId": "7805ff41",
+      "dateISO": "2026-07-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/meatbodies/692739?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Meatbodies"
+      ],
+      "openers": []
     },
     {
       "showId": "1b4ca35b",
