@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-21T23:57:18.802Z",
+  "generatedAtISO": "2026-05-22T20:40:21.104Z",
   "shows": [
-    {
-      "showId": "c8b99019",
-      "dateISO": "2026-05-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-of-music-and-conversation-with-lol-tolhurst/688209?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An evening of music and conversation"
-      ],
-      "openers": [
-        "DJ Callum McGowan",
-        "r.image"
-      ]
-    },
     {
       "showId": "c96075fe",
       "dateISO": "2026-05-22",
@@ -492,6 +476,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Meatbodies"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "419c415f",
+      "dateISO": "2026-07-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-crosseyed/692844?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Crosseyed"
       ],
       "openers": []
     },
