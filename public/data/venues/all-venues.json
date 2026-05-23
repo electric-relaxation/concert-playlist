@@ -1,23 +1,6 @@
 {
-  "generatedAtISO": "2026-05-22T20:40:30.916Z",
+  "generatedAtISO": "2026-05-23T04:34:55.820Z",
   "shows": [
-    {
-      "showId": "f03c221d",
-      "dateISO": "2026-05-20",
-      "startTime": "7:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/gatecreeper/682958?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "GATECREEPER"
-      ],
-      "openers": [
-        "Denial of Life",
-        "Dying Remains",
-        "Eternal"
-      ]
-    },
     {
       "showId": "cce78953",
       "dateISO": "2026-05-22",
@@ -884,22 +867,6 @@
       ],
       "openers": [
         "Izzy Wise"
-      ]
-    },
-    {
-      "showId": "31da9102",
-      "dateISO": "2026-06-19",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/family-not-a-group/685417?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "FAMILY NOT A GROUP"
-      ],
-      "openers": [
-        "Jammy",
-        "MaiahBae"
       ]
     },
     {
