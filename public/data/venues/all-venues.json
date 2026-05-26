@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-23T04:34:55.820Z",
+  "generatedAtISO": "2026-05-26T16:01:21.333Z",
   "shows": [
     {
       "showId": "cce78953",
@@ -18,19 +18,6 @@
       ]
     },
     {
-      "showId": "6b92ed0c",
-      "dateISO": "2026-05-22",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/BROADWAY-RAVE/686945?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BROADWAY RAVE"
-      ],
-      "openers": []
-    },
-    {
       "showId": "c96075fe",
       "dateISO": "2026-05-22",
       "startTime": "9:00 PM",
@@ -46,19 +33,6 @@
       ]
     },
     {
-      "showId": "613bd30a",
-      "dateISO": "2026-05-22",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/electric-feels-4/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Electric Feels"
-      ],
-      "openers": []
-    },
-    {
       "showId": "ef7eceaf",
       "dateISO": "2026-05-23",
       "startTime": "8:30 PM",
@@ -71,53 +45,6 @@
       ],
       "openers": [
         "Josiah Flores"
-      ]
-    },
-    {
-      "showId": "20342d7e",
-      "dateISO": "2026-05-23",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/689469?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": [
-        "LØREN"
-      ]
-    },
-    {
-      "showId": "a858b96e",
-      "dateISO": "2026-05-23",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/hannah-lew/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Hannah Lew"
-      ],
-      "openers": [
-        "April Magazine",
-        "Catherine Moan",
-        "DJ YNG GMA"
-      ]
-    },
-    {
-      "showId": "e8119d97",
-      "dateISO": "2026-05-24",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/rose-gray/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Rose Gray"
-      ],
-      "openers": [
-        "Sergi(ooh)"
       ]
     },
     {
@@ -1142,6 +1069,19 @@
       "openers": []
     },
     {
+      "showId": "176c86c3",
+      "dateISO": "2026-07-11",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/gimme-gimme-disco/692777?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "GIMME GIMME DISCO"
+      ],
+      "openers": []
+    },
+    {
       "showId": "78007b15",
       "dateISO": "2026-07-11",
       "startTime": "9:00 PM",
@@ -2015,6 +1955,21 @@
       "openers": []
     },
     {
+      "showId": "2f0eb9e0",
+      "dateISO": "2026-09-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/way-dynamic/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Way Dynamic"
+      ],
+      "openers": [
+        "Slippers"
+      ]
+    },
+    {
       "showId": "7a714c0c",
       "dateISO": "2026-09-30",
       "startTime": "8:00 PM",
@@ -2421,6 +2376,21 @@
       ],
       "openers": [
         "Kisser"
+      ]
+    },
+    {
+      "showId": "033f56b5",
+      "dateISO": "2026-12-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/feeble-little-horse-with-mop/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "feeble little horse with MOP"
+      ],
+      "openers": [
+        "MOP"
       ]
     },
     {

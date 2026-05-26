@@ -4,36 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-23T04:34:46.208Z",
+  "generatedAtISO": "2026-05-26T16:01:12.027Z",
   "shows": [
-    {
-      "showId": "6b92ed0c",
-      "dateISO": "2026-05-22",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/BROADWAY-RAVE/686945?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BROADWAY RAVE"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "20342d7e",
-      "dateISO": "2026-05-23",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/689469?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": [
-        "LØREN"
-      ]
-    },
     {
       "showId": "d9362738",
       "dateISO": "2026-05-26",
@@ -280,6 +252,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "ALL YOUR FRIENDS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "176c86c3",
+      "dateISO": "2026-07-11",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/gimme-gimme-disco/692777?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "GIMME GIMME DISCO"
       ],
       "openers": []
     },
