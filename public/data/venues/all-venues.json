@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-26T19:12:54.059Z",
+  "generatedAtISO": "2026-05-26T21:38:31.188Z",
   "shows": [
     {
       "showId": "cce78953",
@@ -15,36 +15,6 @@
       "openers": [
         "Hana Eid",
         "Stanton"
-      ]
-    },
-    {
-      "showId": "c96075fe",
-      "dateISO": "2026-05-22",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/pink-floyd-wish-you-were-here-lights-lasers-and-live-band/688870?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Pink Floyd: Wish You Were Here - Lights, Lasers, & Live Band"
-      ],
-      "openers": [
-        "Blü Egyptian"
-      ]
-    },
-    {
-      "showId": "ef7eceaf",
-      "dateISO": "2026-05-23",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-paper-kites/682267?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Paper Kites"
-      ],
-      "openers": [
-        "Josiah Flores"
       ]
     },
     {
@@ -836,7 +806,8 @@
         "Dengue Fever"
       ],
       "openers": [
-        "BOLERO!"
+        "BOLERO!",
+        "Mad Alchemy Liquid Light Show"
       ]
     },
     {
@@ -940,10 +911,10 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/fleetwood-macrame/666550?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/fleetwood-macrame-a-tribute-to-fleetwood-mac/666550?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Fleetwood Macramé"
+        "Fleetwood Macramé: A Tribute to Fleetwood Mac"
       ],
       "openers": [
         "DJ Junk"
@@ -2166,6 +2137,19 @@
       "openers": [
         "Presley Haile"
       ]
+    },
+    {
+      "showId": "57f6fe67",
+      "dateISO": "2026-10-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dublon/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "dublon"
+      ],
+      "openers": []
     },
     {
       "showId": "8cdaaf7d",

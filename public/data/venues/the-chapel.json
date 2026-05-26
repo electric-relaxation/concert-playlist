@@ -4,38 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-22T20:40:21.104Z",
+  "generatedAtISO": "2026-05-26T21:38:22.488Z",
   "shows": [
-    {
-      "showId": "c96075fe",
-      "dateISO": "2026-05-22",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/pink-floyd-wish-you-were-here-lights-lasers-and-live-band/688870?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Pink Floyd: Wish You Were Here - Lights, Lasers, & Live Band"
-      ],
-      "openers": [
-        "Blü Egyptian"
-      ]
-    },
-    {
-      "showId": "ef7eceaf",
-      "dateISO": "2026-05-23",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-paper-kites/682267?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Paper Kites"
-      ],
-      "openers": [
-        "Josiah Flores"
-      ]
-    },
     {
       "showId": "441cfda3",
       "dateISO": "2026-05-27",
@@ -271,7 +241,8 @@
         "Dengue Fever"
       ],
       "openers": [
-        "BOLERO!"
+        "BOLERO!",
+        "Mad Alchemy Liquid Light Show"
       ]
     },
     {
@@ -295,10 +266,10 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/fleetwood-macrame/666550?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/fleetwood-macrame-a-tribute-to-fleetwood-mac/666550?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Fleetwood Macramé"
+        "Fleetwood Macramé: A Tribute to Fleetwood Mac"
       ],
       "openers": [
         "DJ Junk"

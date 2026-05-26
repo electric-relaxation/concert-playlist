@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-26T19:12:44.623Z",
+  "generatedAtISO": "2026-05-26T21:38:22.488Z",
   "shows": [
     {
       "showId": "54d49657",
@@ -749,6 +749,19 @@
       "openers": [
         "Presley Haile"
       ]
+    },
+    {
+      "showId": "57f6fe67",
+      "dateISO": "2026-10-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dublon/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "dublon"
+      ],
+      "openers": []
     },
     {
       "showId": "8cdaaf7d",
