@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-26T16:01:21.333Z",
+  "generatedAtISO": "2026-05-26T19:12:54.059Z",
   "shows": [
     {
       "showId": "cce78953",
@@ -812,6 +812,19 @@
       ]
     },
     {
+      "showId": "ade76d05",
+      "dateISO": "2026-06-20",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/692774?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "0e5bb119",
       "dateISO": "2026-06-20",
       "startTime": "9:00 PM",
@@ -966,6 +979,22 @@
         "PANIC SHACK"
       ],
       "openers": []
+    },
+    {
+      "showId": "086236c8",
+      "dateISO": "2026-07-02",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/silverset/692943?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Silverset"
+      ],
+      "openers": [
+        "Lizzie Waters",
+        "Paper Straw"
+      ]
     },
     {
       "showId": "dd46aaef",
@@ -1374,6 +1403,23 @@
       ]
     },
     {
+      "showId": "b96c42c3",
+      "dateISO": "2026-07-30",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/kontravoid/692996?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "KONTRAVOID"
+      ],
+      "openers": [
+        "John.Rev (Das Bunker)",
+        "Normal Bias",
+        "Pink Stiletto"
+      ]
+    },
+    {
       "showId": "5691461d",
       "dateISO": "2026-07-31",
       "startTime": "8:30 PM",
@@ -1399,6 +1445,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "The Crosseyed"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "aeec2e68",
+      "dateISO": "2026-07-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chandol/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chandol"
       ],
       "openers": []
     },

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-26T16:01:12.027Z",
+  "generatedAtISO": "2026-05-26T19:12:44.623Z",
   "shows": [
     {
       "showId": "54d49657",
@@ -476,6 +476,19 @@
       "openers": [
         "Bondo"
       ]
+    },
+    {
+      "showId": "aeec2e68",
+      "dateISO": "2026-07-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/chandol/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Chandol"
+      ],
+      "openers": []
     },
     {
       "showId": "562374f1",

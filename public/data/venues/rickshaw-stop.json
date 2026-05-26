@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-26T16:01:12.027Z",
+  "generatedAtISO": "2026-05-26T19:12:44.623Z",
   "shows": [
     {
       "showId": "d9362738",
@@ -198,6 +198,19 @@
       ]
     },
     {
+      "showId": "ade76d05",
+      "dateISO": "2026-06-20",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/692774?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "d3f0392f",
       "dateISO": "2026-06-24",
       "startTime": "8:00 PM",
@@ -241,6 +254,22 @@
         "PANIC SHACK"
       ],
       "openers": []
+    },
+    {
+      "showId": "086236c8",
+      "dateISO": "2026-07-02",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/silverset/692943?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Silverset"
+      ],
+      "openers": [
+        "Lizzie Waters",
+        "Paper Straw"
+      ]
     },
     {
       "showId": "fff4a80d",
@@ -337,6 +366,23 @@
       "openers": [
         "Meathook and the Vital organs",
         "Puppet Fister Theater"
+      ]
+    },
+    {
+      "showId": "b96c42c3",
+      "dateISO": "2026-07-30",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/kontravoid/692996?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "KONTRAVOID"
+      ],
+      "openers": [
+        "John.Rev (Das Bunker)",
+        "Normal Bias",
+        "Pink Stiletto"
       ]
     },
     {
