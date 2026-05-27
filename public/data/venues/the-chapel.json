@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-26T21:38:22.488Z",
+  "generatedAtISO": "2026-05-27T02:51:40.809Z",
   "shows": [
     {
       "showId": "441cfda3",
@@ -669,7 +669,9 @@
       "headliners": [
         "Carla dal Forno"
       ],
-      "openers": []
+      "openers": [
+        "Cindy"
+      ]
     },
     {
       "showId": "82a11b1a",
