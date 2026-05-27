@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-27T20:06:51.452Z",
+  "generatedAtISO": "2026-05-27T22:27:28.596Z",
   "shows": [
     {
       "showId": "441cfda3",
@@ -390,7 +390,9 @@
       "headliners": [
         "Futurebirds"
       ],
-      "openers": []
+      "openers": [
+        "Deloyd Elze"
+      ]
     },
     {
       "showId": "95f9dbad",

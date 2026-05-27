@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-27T20:06:59.988Z",
+  "generatedAtISO": "2026-05-27T22:27:38.946Z",
   "shows": [
     {
       "showId": "cce78953",
@@ -1160,7 +1160,9 @@
       "headliners": [
         "Futurebirds"
       ],
-      "openers": []
+      "openers": [
+        "Deloyd Elze"
+      ]
     },
     {
       "showId": "f3d78f20",
@@ -1433,7 +1435,11 @@
       "headliners": [
         "AUSTIN TV"
       ],
-      "openers": []
+      "openers": [
+        "Dizz Brew",
+        "Rabbit",
+        "Trough"
+      ]
     },
     {
       "showId": "1b4ca35b",
@@ -2487,7 +2493,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/feeble-little-horse-with-mop/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "feeble little horse with MOP"
+        "feeble little horse"
       ],
       "openers": [
         "MOP"

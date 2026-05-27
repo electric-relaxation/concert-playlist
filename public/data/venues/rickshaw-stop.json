@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-27T20:06:51.452Z",
+  "generatedAtISO": "2026-05-27T22:27:28.596Z",
   "shows": [
     {
       "showId": "866f40eb",
@@ -392,7 +392,11 @@
       "headliners": [
         "AUSTIN TV"
       ],
-      "openers": []
+      "openers": [
+        "Dizz Brew",
+        "Rabbit",
+        "Trough"
+      ]
     },
     {
       "showId": "f9ee2292",
