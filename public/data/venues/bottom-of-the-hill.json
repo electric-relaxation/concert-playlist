@@ -4,24 +4,8 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-05-15T18:17:55.836Z",
+  "generatedAtISO": "2026-05-27T23:56:33.164Z",
   "shows": [
-    {
-      "showId": "cce78953",
-      "dateISO": "2026-05-22",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260522.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Foxtide"
-      ],
-      "openers": [
-        "Hana Eid",
-        "Stanton"
-      ]
-    },
     {
       "showId": "3faceab8",
       "dateISO": "2026-05-27",
@@ -97,6 +81,7 @@
         "Half Rotten Goddess"
       ],
       "openers": [
+        "/ Goblyn",
         "Persephone",
         "Rival Plague"
       ]

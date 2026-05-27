@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-05-27T22:27:38.946Z",
+  "generatedAtISO": "2026-05-27T23:56:41.041Z",
   "shows": [
-    {
-      "showId": "cce78953",
-      "dateISO": "2026-05-22",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260522.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Foxtide"
-      ],
-      "openers": [
-        "Hana Eid",
-        "Stanton"
-      ]
-    },
     {
       "showId": "3faceab8",
       "dateISO": "2026-05-27",
@@ -279,6 +263,7 @@
         "Half Rotten Goddess"
       ],
       "openers": [
+        "/ Goblyn",
         "Persephone",
         "Rival Plague"
       ]
@@ -429,7 +414,7 @@
         "An Evening"
       ],
       "openers": [
-        "Jerry's Middle Finger"
+        "Visuals by Undead Internet"
       ]
     },
     {
@@ -470,7 +455,7 @@
         "An Evening"
       ],
       "openers": [
-        "Jerry's Middle Finger"
+        "Visuals by Undead Internet"
       ]
     },
     {
@@ -884,7 +869,8 @@
         "Fleetwood Macramé: A Tribute to Fleetwood Mac"
       ],
       "openers": [
-        "DJ Junk"
+        "DJ Junkyard",
+        "DJ Zanne"
       ]
     },
     {
@@ -1262,7 +1248,10 @@
       "headliners": [
         "SPACEMOTH (Album Release Show)"
       ],
-      "openers": []
+      "openers": [
+        "Hannah Lew",
+        "beaunoise"
+      ]
     },
     {
       "showId": "7dd25558",

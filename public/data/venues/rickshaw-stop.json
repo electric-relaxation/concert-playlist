@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-27T22:27:28.596Z",
+  "generatedAtISO": "2026-05-27T23:56:33.164Z",
   "shows": [
     {
       "showId": "866f40eb",
@@ -317,7 +317,10 @@
       "headliners": [
         "SPACEMOTH (Album Release Show)"
       ],
-      "openers": []
+      "openers": [
+        "Hannah Lew",
+        "beaunoise"
+      ]
     },
     {
       "showId": "a302c840",
