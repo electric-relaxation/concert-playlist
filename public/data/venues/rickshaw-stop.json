@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-26T19:12:44.623Z",
+  "generatedAtISO": "2026-05-27T06:59:39.439Z",
   "shows": [
     {
       "showId": "d9362738",
@@ -261,15 +261,12 @@
       "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/silverset/692943?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/silverset-paper-straw-lizzie-waters/692943?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "Silverset"
+        "Silverset / Paper Straw / Lizzie Waters"
       ],
-      "openers": [
-        "Lizzie Waters",
-        "Paper Straw"
-      ]
+      "openers": []
     },
     {
       "showId": "fff4a80d",
