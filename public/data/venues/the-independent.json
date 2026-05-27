@@ -4,24 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-26T21:38:22.488Z",
+  "generatedAtISO": "2026-05-27T17:54:34.878Z",
   "shows": [
-    {
-      "showId": "54d49657",
-      "dateISO": "2026-05-26",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/old-mervs/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Old Mervs"
-      ],
-      "openers": [
-        "Ra Ra Viper",
-        "Where’s West?"
-      ]
-    },
     {
       "showId": "1b866582",
       "dateISO": "2026-05-29",
@@ -558,6 +542,19 @@
       "openers": []
     },
     {
+      "showId": "bbf98da4",
+      "dateISO": "2026-08-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/son-rompe-pera/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Son Rompe Pera"
+      ],
+      "openers": []
+    },
+    {
       "showId": "467da42e",
       "dateISO": "2026-08-28",
       "startTime": "9:00 PM",
@@ -818,6 +815,19 @@
       "openers": [
         "American Hi-Fi"
       ]
+    },
+    {
+      "showId": "fa745e1f",
+      "dateISO": "2026-11-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/gilla-band/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Gilla Band"
+      ],
+      "openers": []
     },
     {
       "showId": "0791eee8",

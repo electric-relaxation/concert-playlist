@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-27T02:51:40.809Z",
+  "generatedAtISO": "2026-05-27T17:54:34.878Z",
   "shows": [
     {
       "showId": "441cfda3",
@@ -537,6 +537,19 @@
       "openers": []
     },
     {
+      "showId": "4faec482",
+      "dateISO": "2026-08-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/electric-duke-david-bowie-tribute/693149?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Electric Duke - David Bowie Tribute"
+      ],
+      "openers": []
+    },
+    {
       "showId": "99b87ab8",
       "dateISO": "2026-08-22",
       "startTime": "9:00 PM",
@@ -795,6 +808,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Hovvdy"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4b08a48e",
+      "dateISO": "2026-10-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/justin-nozuka/691473?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Justin Nozuka"
       ],
       "openers": []
     },

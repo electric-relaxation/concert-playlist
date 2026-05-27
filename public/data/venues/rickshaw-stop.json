@@ -4,25 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-27T06:59:39.439Z",
+  "generatedAtISO": "2026-05-27T17:54:34.878Z",
   "shows": [
-    {
-      "showId": "d9362738",
-      "dateISO": "2026-05-26",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/lowertown/681015?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "LOWERTOWN"
-      ],
-      "openers": [
-        "Evil Children",
-        "Fat",
-        "Poor Image"
-      ]
-    },
     {
       "showId": "866f40eb",
       "dateISO": "2026-05-27",
@@ -450,6 +433,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "MINI TREES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "23ab0a20",
+      "dateISO": "2026-09-16",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/ali/692759?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALI"
       ],
       "openers": []
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-27T06:59:46.855Z",
+  "generatedAtISO": "2026-05-27T17:54:44.018Z",
   "shows": [
     {
       "showId": "cce78953",
@@ -15,39 +15,6 @@
       "openers": [
         "Hana Eid",
         "Stanton"
-      ]
-    },
-    {
-      "showId": "d9362738",
-      "dateISO": "2026-05-26",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/lowertown/681015?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "LOWERTOWN"
-      ],
-      "openers": [
-        "Evil Children",
-        "Fat",
-        "Poor Image"
-      ]
-    },
-    {
-      "showId": "54d49657",
-      "dateISO": "2026-05-26",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/old-mervs/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Old Mervs"
-      ],
-      "openers": [
-        "Ra Ra Viper",
-        "Where’s West?"
       ]
     },
     {
@@ -1586,6 +1553,19 @@
       "openers": []
     },
     {
+      "showId": "4faec482",
+      "dateISO": "2026-08-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/electric-duke-david-bowie-tribute/693149?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Electric Duke - David Bowie Tribute"
+      ],
+      "openers": []
+    },
+    {
       "showId": "99b87ab8",
       "dateISO": "2026-08-22",
       "startTime": "9:00 PM",
@@ -1673,6 +1653,19 @@
       "openers": [
         "Traps PS"
       ]
+    },
+    {
+      "showId": "bbf98da4",
+      "dateISO": "2026-08-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/son-rompe-pera/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Son Rompe Pera"
+      ],
+      "openers": []
     },
     {
       "showId": "ec1cb614",
@@ -1813,6 +1806,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "The Tear Garden (The Legendary Pink Dots & cEvin Key)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "23ab0a20",
+      "dateISO": "2026-09-16",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/ali/692759?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALI"
       ],
       "openers": []
     },
@@ -2209,6 +2215,19 @@
       "openers": []
     },
     {
+      "showId": "4b08a48e",
+      "dateISO": "2026-10-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/justin-nozuka/691473?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Justin Nozuka"
+      ],
+      "openers": []
+    },
+    {
       "showId": "0477bf2a",
       "dateISO": "2026-10-22",
       "startTime": "8:00 PM",
@@ -2259,6 +2278,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Theo Katzman (Solo)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fa745e1f",
+      "dateISO": "2026-11-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/gilla-band/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Gilla Band"
       ],
       "openers": []
     },
