@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-27T17:54:44.018Z",
+  "generatedAtISO": "2026-05-27T20:06:59.988Z",
   "shows": [
     {
       "showId": "cce78953",
@@ -67,7 +67,7 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/isobel-campbell/673391?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/isobel-campbell-with-special-guest-evie-sands/673391?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Isobel Campbell"
@@ -1150,6 +1150,19 @@
       ]
     },
     {
+      "showId": "337346a9",
+      "dateISO": "2026-07-18",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/futurebirds/692839?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Futurebirds"
+      ],
+      "openers": []
+    },
+    {
       "showId": "f3d78f20",
       "dateISO": "2026-07-18",
       "startTime": "9:00 PM",
@@ -1406,6 +1419,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Air Guitar National Finals"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e2f9c3df",
+      "dateISO": "2026-08-05",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/austin-tv/692765?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "AUSTIN TV"
       ],
       "openers": []
     },

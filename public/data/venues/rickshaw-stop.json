@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-27T17:54:34.878Z",
+  "generatedAtISO": "2026-05-27T20:06:51.452Z",
   "shows": [
     {
       "showId": "866f40eb",
@@ -380,6 +380,19 @@
         "often easy",
         "plaster"
       ]
+    },
+    {
+      "showId": "e2f9c3df",
+      "dateISO": "2026-08-05",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/austin-tv/692765?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "AUSTIN TV"
+      ],
+      "openers": []
     },
     {
       "showId": "f9ee2292",
