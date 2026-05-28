@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-28T18:02:21.584Z",
+  "generatedAtISO": "2026-05-28T23:10:13.391Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -546,7 +546,9 @@
       "headliners": [
         "Mr Tout Le Monde"
       ],
-      "openers": []
+      "openers": [
+        "Dave Cinco"
+      ]
     },
     {
       "showId": "34139145",
