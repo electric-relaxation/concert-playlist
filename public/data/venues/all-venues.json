@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-27T23:56:41.041Z",
+  "generatedAtISO": "2026-05-28T14:34:09.000Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -2455,6 +2455,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Dan Whitlam"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "cc19efa9",
+      "dateISO": "2026-12-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/meek/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "MEEK"
       ],
       "openers": []
     },
