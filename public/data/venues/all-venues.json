@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-28T14:34:09.000Z",
+  "generatedAtISO": "2026-05-28T18:02:21.584Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -16,19 +16,6 @@
         "Badvril",
         "Facing"
       ]
-    },
-    {
-      "showId": "866f40eb",
-      "dateISO": "2026-05-27",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-160/688685?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Nerd Nite SF #160"
-      ],
-      "openers": []
     },
     {
       "showId": "441cfda3",
@@ -716,6 +703,21 @@
       ],
       "openers": [
         "Izzy Wise"
+      ]
+    },
+    {
+      "showId": "f55819df",
+      "dateISO": "2026-06-19",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/club-slayyy-slayyyter-hyperpop-night/693358?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT"
+      ],
+      "openers": [
+        "DJ n0be"
       ]
     },
     {
@@ -1503,6 +1505,19 @@
       "openers": [
         "American Tomahawk"
       ]
+    },
+    {
+      "showId": "3449ac43",
+      "dateISO": "2026-08-14",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/four-square-vol-2-a-hip-hop-video-game-live-theatre-experience/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "FOUR SQUARE VOL. 2 – A HIP-HOP VIDEO GAME LIVE THEATRE EXPERIENCE"
+      ],
+      "openers": []
     },
     {
       "showId": "45342e1c",

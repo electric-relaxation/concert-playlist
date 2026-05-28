@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-28T14:33:59.431Z",
+  "generatedAtISO": "2026-05-28T18:02:12.063Z",
   "shows": [
     {
       "showId": "1b866582",
@@ -501,6 +501,19 @@
       "openers": [
         "Maria BC"
       ]
+    },
+    {
+      "showId": "3449ac43",
+      "dateISO": "2026-08-14",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/four-square-vol-2-a-hip-hop-video-game-live-theatre-experience/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "FOUR SQUARE VOL. 2 – A HIP-HOP VIDEO GAME LIVE THEATRE EXPERIENCE"
+      ],
+      "openers": []
     },
     {
       "showId": "45342e1c",

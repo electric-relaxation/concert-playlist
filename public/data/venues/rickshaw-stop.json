@@ -4,21 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-27T23:56:33.164Z",
+  "generatedAtISO": "2026-05-28T18:02:12.063Z",
   "shows": [
-    {
-      "showId": "866f40eb",
-      "dateISO": "2026-05-27",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-160/688685?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Nerd Nite SF #160"
-      ],
-      "openers": []
-    },
     {
       "showId": "544ae473",
       "dateISO": "2026-05-28",
@@ -178,6 +165,21 @@
       ],
       "openers": [
         "Izzy Wise"
+      ]
+    },
+    {
+      "showId": "f55819df",
+      "dateISO": "2026-06-19",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/club-slayyy-slayyyter-hyperpop-night/693358?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT"
+      ],
+      "openers": [
+        "DJ n0be"
       ]
     },
     {
