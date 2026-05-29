@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-29T17:30:21.011Z",
+  "generatedAtISO": "2026-05-29T20:12:31.726Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -32,19 +32,6 @@
         "Hangtown",
         "Scott H. Biram"
       ]
-    },
-    {
-      "showId": "544ae473",
-      "dateISO": "2026-05-28",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/quinn-xcii/691294?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Quinn XCII"
-      ],
-      "openers": []
     },
     {
       "showId": "87df5dc1",
@@ -1178,6 +1165,7 @@
         "Friendship"
       ],
       "openers": [
+        "Cindy",
         "Pinks & Purples",
         "The Reds"
       ]
@@ -1617,6 +1605,23 @@
         "Pearl & The Oysters"
       ],
       "openers": []
+    },
+    {
+      "showId": "c97ac9e5",
+      "dateISO": "2026-08-23",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/hippie-death-cult/692946?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HIPPIE DEATH CULT"
+      ],
+      "openers": [
+        "Earth Tongue",
+        "La Sombra",
+        "Snakemother"
+      ]
     },
     {
       "showId": "b7bfa907",

@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-29T17:30:11.711Z",
+  "generatedAtISO": "2026-05-29T20:12:21.127Z",
   "shows": [
     {
       "showId": "142890a8",
@@ -390,6 +390,7 @@
         "Friendship"
       ],
       "openers": [
+        "Cindy",
         "Pinks & Purples",
         "The Reds"
       ]

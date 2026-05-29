@@ -4,21 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-28T18:02:12.063Z",
+  "generatedAtISO": "2026-05-29T20:12:21.127Z",
   "shows": [
-    {
-      "showId": "544ae473",
-      "dateISO": "2026-05-28",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/quinn-xcii/691294?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Quinn XCII"
-      ],
-      "openers": []
-    },
     {
       "showId": "87df5dc1",
       "dateISO": "2026-05-29",
@@ -430,6 +417,23 @@
       "openers": [
         "Otis McDonald",
         "Seal Party"
+      ]
+    },
+    {
+      "showId": "c97ac9e5",
+      "dateISO": "2026-08-23",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/hippie-death-cult/692946?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HIPPIE DEATH CULT"
+      ],
+      "openers": [
+        "Earth Tongue",
+        "La Sombra",
+        "Snakemother"
       ]
     },
     {
