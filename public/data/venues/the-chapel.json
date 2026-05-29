@@ -4,38 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-27T23:56:33.164Z",
+  "generatedAtISO": "2026-05-29T17:30:11.711Z",
   "shows": [
-    {
-      "showId": "441cfda3",
-      "dateISO": "2026-05-27",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-jacob-fred-jazz-odyssey/688222?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Jacob Fred Jazz Odyssey"
-      ]
-    },
-    {
-      "showId": "ca9919ad",
-      "dateISO": "2026-05-28",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/isobel-campbell-with-special-guest-evie-sands/673391?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Isobel Campbell"
-      ],
-      "openers": [
-        "Pink Mountaintops"
-      ]
-    },
     {
       "showId": "142890a8",
       "dateISO": "2026-05-29",
@@ -407,6 +377,22 @@
         "Babe Rainbow"
       ],
       "openers": []
+    },
+    {
+      "showId": "288a4c30",
+      "dateISO": "2026-07-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/friendship/693120?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Friendship"
+      ],
+      "openers": [
+        "Pinks & Purples",
+        "The Reds"
+      ]
     },
     {
       "showId": "d40cb5be",
