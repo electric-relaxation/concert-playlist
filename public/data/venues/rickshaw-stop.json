@@ -4,52 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-05-29T20:12:21.127Z",
+  "generatedAtISO": "2026-06-01T17:26:29.260Z",
   "shows": [
-    {
-      "showId": "87df5dc1",
-      "dateISO": "2026-05-29",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/samiam-the-flatliners/681028?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SAMIAM / THE FLATLINERS"
-      ],
-      "openers": [
-        "Strangelight"
-      ]
-    },
-    {
-      "showId": "f17eecfa",
-      "dateISO": "2026-05-30",
-      "startTime": "2:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/child-thorn-el-kabong/685586?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CHILD, THORN, EL KABONG"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "0cd2547e",
-      "dateISO": "2026-05-31",
-      "startTime": "7:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/marietta/682272?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MARIETTA"
-      ],
-      "openers": [
-        "Snowing",
-        "awakebutstillinbed"
-      ]
-    },
     {
       "showId": "ff03a710",
       "dateISO": "2026-06-04",
@@ -530,6 +486,32 @@
         "Trough",
         "ulyssescfm"
       ]
+    },
+    {
+      "showId": "b3c2707a",
+      "dateISO": "2026-10-25",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/kyle-gordon/692750?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "KYLE GORDON"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f4bb4375",
+      "dateISO": "2026-10-27",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/violet-grohl/693787?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "VIOLET GROHL"
+      ],
+      "openers": []
     },
     {
       "showId": "6afa1ff1",

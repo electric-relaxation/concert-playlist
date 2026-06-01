@@ -4,49 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-05-28T23:10:03.636Z",
+  "generatedAtISO": "2026-06-01T17:26:29.260Z",
   "shows": [
-    {
-      "showId": "1b866582",
-      "dateISO": "2026-05-29",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/ray-bull/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Ray Bull"
-      ],
-      "openers": [
-        "Babehoven"
-      ]
-    },
-    {
-      "showId": "5b8eccd0",
-      "dateISO": "2026-05-30",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-10/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Emo Night Tour"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "3cc9f5c3",
-      "dateISO": "2026-05-31",
-      "startTime": "7:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/jaboukie-young-white/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Jaboukie Young-White"
-      ],
-      "openers": []
-    },
     {
       "showId": "6fbd1ccf",
       "dateISO": "2026-06-02",
@@ -389,6 +348,19 @@
       "openers": []
     },
     {
+      "showId": "0241f118",
+      "dateISO": "2026-07-11",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-11/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
+      ],
+      "openers": []
+    },
+    {
       "showId": "f3d78f20",
       "dateISO": "2026-07-18",
       "startTime": "9:00 PM",
@@ -677,6 +649,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Ghostly Kisses"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "64f27fea",
+      "dateISO": "2026-09-24",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/wesghost-red-leather/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "WesGhost & Red Leather"
       ],
       "openers": []
     },

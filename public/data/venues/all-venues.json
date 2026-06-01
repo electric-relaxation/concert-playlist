@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-05-29T20:12:31.726Z",
+  "generatedAtISO": "2026-06-01T17:26:37.558Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -34,21 +34,6 @@
       ]
     },
     {
-      "showId": "87df5dc1",
-      "dateISO": "2026-05-29",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/samiam-the-flatliners/681028?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SAMIAM / THE FLATLINERS"
-      ],
-      "openers": [
-        "Strangelight"
-      ]
-    },
-    {
       "showId": "18937d47",
       "dateISO": "2026-05-29",
       "startTime": "8:30 PM",
@@ -80,34 +65,6 @@
       ]
     },
     {
-      "showId": "1b866582",
-      "dateISO": "2026-05-29",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/ray-bull/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Ray Bull"
-      ],
-      "openers": [
-        "Babehoven"
-      ]
-    },
-    {
-      "showId": "f17eecfa",
-      "dateISO": "2026-05-30",
-      "startTime": "2:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/child-thorn-el-kabong/685586?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CHILD, THORN, EL KABONG"
-      ],
-      "openers": []
-    },
-    {
       "showId": "af1c77a6",
       "dateISO": "2026-05-30",
       "startTime": "8:30 PM",
@@ -135,48 +92,6 @@
       ],
       "openers": [
         "Sam Blasucci"
-      ]
-    },
-    {
-      "showId": "5b8eccd0",
-      "dateISO": "2026-05-30",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-10/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Emo Night Tour"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "3cc9f5c3",
-      "dateISO": "2026-05-31",
-      "startTime": "7:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/jaboukie-young-white/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Jaboukie Young-White"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "0cd2547e",
-      "dateISO": "2026-05-31",
-      "startTime": "7:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/marietta/682272?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MARIETTA"
-      ],
-      "openers": [
-        "Snowing",
-        "awakebutstillinbed"
       ]
     },
     {
@@ -1002,6 +917,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Petty Theft"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0241f118",
+      "dateISO": "2026-07-11",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-11/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
       ],
       "openers": []
     },
@@ -2006,6 +1934,19 @@
       "openers": []
     },
     {
+      "showId": "64f27fea",
+      "dateISO": "2026-09-24",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/wesghost-red-leather/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "WesGhost & Red Leather"
+      ],
+      "openers": []
+    },
+    {
       "showId": "801c6a3b",
       "dateISO": "2026-09-26",
       "startTime": "9:00 PM",
@@ -2296,6 +2237,32 @@
       "openers": [
         "American Hi-Fi"
       ]
+    },
+    {
+      "showId": "b3c2707a",
+      "dateISO": "2026-10-25",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/kyle-gordon/692750?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "KYLE GORDON"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f4bb4375",
+      "dateISO": "2026-10-27",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/violet-grohl/693787?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "VIOLET GROHL"
+      ],
+      "openers": []
     },
     {
       "showId": "f8c08fc0",
