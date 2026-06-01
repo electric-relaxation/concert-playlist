@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-01T21:25:16.269Z",
+  "generatedAtISO": "2026-06-01T23:23:15.246Z",
   "shows": [
     {
       "showId": "6fbd1ccf",
@@ -274,7 +274,7 @@
     {
       "showId": "8ec537e6",
       "dateISO": "2026-06-27",
-      "startTime": "9:00 PM",
+      "startTime": "8:00 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/bay-pride-amplified-2/",

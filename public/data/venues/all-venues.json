@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-01T21:25:25.499Z",
+  "generatedAtISO": "2026-06-01T23:23:24.304Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -720,6 +720,24 @@
       ]
     },
     {
+      "showId": "8ec537e6",
+      "dateISO": "2026-06-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bay-pride-amplified-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bay Pride Amplified!"
+      ],
+      "openers": [
+        "Evann McIntosh",
+        "Hugo de la Lune",
+        "Love Spiral",
+        "Mommy Mommy"
+      ]
+    },
+    {
       "showId": "13adcbfc",
       "dateISO": "2026-06-27",
       "startTime": "9:00 PM",
@@ -736,24 +754,6 @@
       ]
     },
     {
-      "showId": "8ec537e6",
-      "dateISO": "2026-06-27",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bay-pride-amplified-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Bay Pride Amplified!"
-      ],
-      "openers": [
-        "Evann McIntosh",
-        "Hugo de la Lune",
-        "Love Spiral",
-        "Mommy Mommy"
-      ]
-    },
-    {
       "showId": "6202fcc4",
       "dateISO": "2026-06-28",
       "startTime": "8:00 PM",
@@ -765,6 +765,23 @@
         "PANIC SHACK"
       ],
       "openers": []
+    },
+    {
+      "showId": "8dfac630",
+      "dateISO": "2026-07-01",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-live-oaks/693901?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "The Live Oaks"
+      ],
+      "openers": [
+        "DJ Walkin' Love",
+        "Damma Damma",
+        "Family Worship Center"
+      ]
     },
     {
       "showId": "086236c8",

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-01T21:25:16.269Z",
+  "generatedAtISO": "2026-06-01T23:23:15.246Z",
   "shows": [
     {
       "showId": "ff03a710",
@@ -167,6 +167,23 @@
         "PANIC SHACK"
       ],
       "openers": []
+    },
+    {
+      "showId": "8dfac630",
+      "dateISO": "2026-07-01",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-live-oaks/693901?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "The Live Oaks"
+      ],
+      "openers": [
+        "DJ Walkin' Love",
+        "Damma Damma",
+        "Family Worship Center"
+      ]
     },
     {
       "showId": "086236c8",
