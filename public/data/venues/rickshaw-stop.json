@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-01T17:26:29.260Z",
+  "generatedAtISO": "2026-06-01T21:25:16.269Z",
   "shows": [
     {
       "showId": "ff03a710",
@@ -137,21 +137,6 @@
         "EMO NITE"
       ],
       "openers": []
-    },
-    {
-      "showId": "d3f0392f",
-      "dateISO": "2026-06-24",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/solya/675140?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SOLYA"
-      ],
-      "openers": [
-        "Tele Novella"
-      ]
     },
     {
       "showId": "5803efb5",
@@ -458,6 +443,21 @@
       "openers": []
     },
     {
+      "showId": "d3f0392f",
+      "dateISO": "2026-09-20",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/solya/675140?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SOLYA"
+      ],
+      "openers": [
+        "Tele Novella"
+      ]
+    },
+    {
       "showId": "4cb6a096",
       "dateISO": "2026-09-21",
       "startTime": "8:00 PM",
@@ -497,19 +497,6 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "KYLE GORDON"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "f4bb4375",
-      "dateISO": "2026-10-27",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/violet-grohl/693787?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "VIOLET GROHL"
       ],
       "openers": []
     },

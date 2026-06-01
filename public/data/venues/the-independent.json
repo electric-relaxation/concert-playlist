@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-01T17:26:29.260Z",
+  "generatedAtISO": "2026-06-01T21:25:16.269Z",
   "shows": [
     {
       "showId": "6fbd1ccf",
@@ -219,7 +219,8 @@
         "Novulent"
       ],
       "openers": [
-        "Babyteeth"
+        "Babyteeth",
+        "Cathedral Bells"
       ]
     },
     {
@@ -332,7 +333,9 @@
       "headliners": [
         "High Fade"
       ],
-      "openers": []
+      "openers": [
+        "Turning Jane"
+      ]
     },
     {
       "showId": "0431d434",
@@ -581,7 +584,9 @@
       "headliners": [
         "PawPaw Rod"
       ],
-      "openers": []
+      "openers": [
+        "femdot"
+      ]
     },
     {
       "showId": "a0ef2173",

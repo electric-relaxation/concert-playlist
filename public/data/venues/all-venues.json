@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-01T17:26:37.558Z",
+  "generatedAtISO": "2026-06-01T21:25:25.499Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -606,7 +606,8 @@
         "Novulent"
       ],
       "openers": [
-        "Babyteeth"
+        "Babyteeth",
+        "Cathedral Bells"
       ]
     },
     {
@@ -666,21 +667,6 @@
       ],
       "openers": [
         "Brendan Eder Ensemble"
-      ]
-    },
-    {
-      "showId": "d3f0392f",
-      "dateISO": "2026-06-24",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/solya/675140?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SOLYA"
-      ],
-      "openers": [
-        "Tele Novella"
       ]
     },
     {
@@ -850,7 +836,9 @@
       "headliners": [
         "High Fade"
       ],
-      "openers": []
+      "openers": [
+        "Turning Jane"
+      ]
     },
     {
       "showId": "fff4a80d",
@@ -1736,7 +1724,9 @@
       "headliners": [
         "PawPaw Rod"
       ],
-      "openers": []
+      "openers": [
+        "femdot"
+      ]
     },
     {
       "showId": "2dc8dcb1",
@@ -1837,6 +1827,21 @@
         "BE YOUR OWN PET"
       ],
       "openers": []
+    },
+    {
+      "showId": "d3f0392f",
+      "dateISO": "2026-09-20",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/solya/675140?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SOLYA"
+      ],
+      "openers": [
+        "Tele Novella"
+      ]
     },
     {
       "showId": "952ddd51",
@@ -2248,19 +2253,6 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "KYLE GORDON"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "f4bb4375",
-      "dateISO": "2026-10-27",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/violet-grohl/693787?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "VIOLET GROHL"
       ],
       "openers": []
     },
