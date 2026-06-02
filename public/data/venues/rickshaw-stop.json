@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-01T23:23:15.246Z",
+  "generatedAtISO": "2026-06-02T20:39:08.552Z",
   "shows": [
     {
       "showId": "ff03a710",
@@ -32,6 +32,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "HOUSE PARTY SAN FRANCISCO"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "74583d38",
+      "dateISO": "2026-06-06",
+      "startTime": "6:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/midrift/693969?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MIDRIFT"
       ],
       "openers": []
     },
