@@ -4,69 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-05-29T20:12:21.127Z",
+  "generatedAtISO": "2026-06-02T17:15:15.668Z",
   "shows": [
-    {
-      "showId": "142890a8",
-      "dateISO": "2026-05-29",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/allah-las/680637?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Allah-Las"
-      ],
-      "openers": [
-        "Sam Blasucci"
-      ]
-    },
-    {
-      "showId": "96db9693",
-      "dateISO": "2026-05-30",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/allah-las/680643?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Allah-Las"
-      ],
-      "openers": [
-        "Sam Blasucci"
-      ]
-    },
-    {
-      "showId": "ea0e0304",
-      "dateISO": "2026-05-31",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/marc-and-the-casuals/684601?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Marc & the Casuals"
-      ],
-      "openers": [
-        "DJ Lead Teddy",
-        "The West Coast Spiritual Corinthians"
-      ]
-    },
-    {
-      "showId": "228a9781",
-      "dateISO": "2026-06-01",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/aja-monet/685615?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "aja monet"
-      ],
-      "openers": [
-        "PHER"
-      ]
-    },
     {
       "showId": "3265634e",
       "dateISO": "2026-06-02",
@@ -672,6 +611,21 @@
       ],
       "openers": [
         "Traps PS"
+      ]
+    },
+    {
+      "showId": "5c571773",
+      "dateISO": "2026-09-05",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-drink-the-sea/691451?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Drink The Sea"
       ]
     },
     {
