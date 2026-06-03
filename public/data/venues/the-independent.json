@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-03T20:14:25.502Z",
+  "generatedAtISO": "2026-06-03T23:01:18.428Z",
   "shows": [
     {
       "showId": "5e5a8a67",
@@ -88,7 +88,10 @@
       "headliners": [
         "Conway The Machine"
       ],
-      "openers": []
+      "openers": [
+        "DJ Muggs",
+        "TF"
+      ]
     },
     {
       "showId": "b07a2ef4",

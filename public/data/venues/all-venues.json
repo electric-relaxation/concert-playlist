@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-03T20:14:35.117Z",
+  "generatedAtISO": "2026-06-03T23:01:29.103Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -283,7 +283,10 @@
       "headliners": [
         "Conway The Machine"
       ],
-      "openers": []
+      "openers": [
+        "DJ Muggs",
+        "TF"
+      ]
     },
     {
       "showId": "b07a2ef4",
