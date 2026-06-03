@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-03T16:26:38.916Z",
+  "generatedAtISO": "2026-06-03T20:14:25.502Z",
   "shows": [
     {
       "showId": "ec133bc7",
@@ -765,6 +765,32 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Hovvdy"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2d77d17a",
+      "dateISO": "2026-10-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-devil-makes-three/693372?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Devil Makes Three"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "46ea37cc",
+      "dateISO": "2026-10-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/The-Devil-Makes-Three/693375?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Devil Makes Three"
       ],
       "openers": []
     },

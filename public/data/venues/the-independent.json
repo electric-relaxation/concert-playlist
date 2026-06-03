@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-03T16:26:38.916Z",
+  "generatedAtISO": "2026-06-03T20:14:25.502Z",
   "shows": [
     {
       "showId": "5e5a8a67",
@@ -345,6 +345,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "The Emo Night Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "cc1e8f63",
+      "dateISO": "2026-07-17",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bad-tuner-x-veggi/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "bad tuner x veggi"
       ],
       "openers": []
     },

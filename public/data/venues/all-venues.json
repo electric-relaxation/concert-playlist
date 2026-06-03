@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-03T16:26:50.364Z",
+  "generatedAtISO": "2026-06-03T20:14:35.117Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -967,6 +967,19 @@
       ]
     },
     {
+      "showId": "cc1e8f63",
+      "dateISO": "2026-07-17",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bad-tuner-x-veggi/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "bad tuner x veggi"
+      ],
+      "openers": []
+    },
+    {
       "showId": "337346a9",
       "dateISO": "2026-07-18",
       "startTime": "9:00 PM",
@@ -1431,6 +1444,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Black Joe Lewis & The Honeybears"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "dad27e0c",
+      "dateISO": "2026-08-21",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/lcd-soundsystem-vs-daft-punk-night/694083?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "LCD Soundsystem vs Daft Punk night"
       ],
       "openers": []
     },
@@ -2114,6 +2140,19 @@
       ]
     },
     {
+      "showId": "48c73de9",
+      "dateISO": "2026-10-09",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/tim-atlas/692999?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "TIM ATLAS"
+      ],
+      "openers": []
+    },
+    {
       "showId": "57f6fe67",
       "dateISO": "2026-10-10",
       "startTime": "9:00 PM",
@@ -2181,6 +2220,32 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Hovvdy"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2d77d17a",
+      "dateISO": "2026-10-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-devil-makes-three/693372?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Devil Makes Three"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "46ea37cc",
+      "dateISO": "2026-10-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/The-Devil-Makes-Three/693375?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Devil Makes Three"
       ],
       "openers": []
     },
