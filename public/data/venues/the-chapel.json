@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-02T17:15:15.668Z",
+  "generatedAtISO": "2026-06-03T16:26:38.916Z",
   "shows": [
-    {
-      "showId": "3265634e",
-      "dateISO": "2026-06-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
     {
       "showId": "ec133bc7",
       "dateISO": "2026-06-03",
@@ -137,6 +124,19 @@
       "openers": [
         "Faun Fables"
       ]
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-06-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "0e5bb119",
@@ -862,6 +862,21 @@
         "Other Lives"
       ],
       "openers": []
+    },
+    {
+      "showId": "94837d83",
+      "dateISO": "2026-11-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Margaret Glaspy"
+      ],
+      "openers": [
+        "Anna Tivel"
+      ]
     },
     {
       "showId": "f8913335",

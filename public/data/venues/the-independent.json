@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-03T00:27:24.069Z",
+  "generatedAtISO": "2026-06-03T16:26:38.916Z",
   "shows": [
-    {
-      "showId": "6fbd1ccf",
-      "dateISO": "2026-06-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bixby/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "bixby"
-      ],
-      "openers": [
-        "Bhertuy"
-      ]
-    },
     {
       "showId": "5e5a8a67",
       "dateISO": "2026-06-03",
@@ -641,6 +626,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Sondre Lerche"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "15708532",
+      "dateISO": "2026-09-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dana-and-alden/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Dana and Alden"
       ],
       "openers": []
     },
