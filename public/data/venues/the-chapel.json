@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-03T20:14:25.502Z",
+  "generatedAtISO": "2026-06-04T19:57:38.676Z",
   "shows": [
-    {
-      "showId": "ec133bc7",
-      "dateISO": "2026-06-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/rostam/683465?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "ROSTAM"
-      ],
-      "openers": [
-        "Henry Solomon"
-      ]
-    },
     {
       "showId": "4fba5a37",
       "dateISO": "2026-06-04",
@@ -390,7 +375,9 @@
       "headliners": [
         "Meatbodies"
       ],
-      "openers": []
+      "openers": [
+        "Lealani"
+      ]
     },
     {
       "showId": "419c415f",

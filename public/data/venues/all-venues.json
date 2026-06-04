@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-03T23:01:29.103Z",
+  "generatedAtISO": "2026-06-04T19:57:47.521Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -79,21 +79,6 @@
         "/ Goblyn",
         "Persephone",
         "Rival Plague"
-      ]
-    },
-    {
-      "showId": "ec133bc7",
-      "dateISO": "2026-06-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/rostam/683465?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "ROSTAM"
-      ],
-      "openers": [
-        "Henry Solomon"
       ]
     },
     {
@@ -1187,7 +1172,9 @@
       "headliners": [
         "Meatbodies"
       ],
-      "openers": []
+      "openers": [
+        "Lealani"
+      ]
     },
     {
       "showId": "3a7bf41b",
