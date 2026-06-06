@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-04T19:57:47.521Z",
+  "generatedAtISO": "2026-06-06T02:38:58.919Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -94,23 +94,6 @@
       ],
       "openers": [
         "Bhertuy"
-      ]
-    },
-    {
-      "showId": "4fba5a37",
-      "dateISO": "2026-06-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/martin-rev-of-suicide/684976?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Martin Rev (of Suicide)"
-      ],
-      "openers": [
-        "DJ Omar Perez (Popscene)",
-        "Dagger Polyester",
-        "VJ Divine Enfant"
       ]
     },
     {
@@ -258,6 +241,19 @@
       ]
     },
     {
+      "showId": "ad94ca32",
+      "dateISO": "2026-06-08",
+      "startTime": "5:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694553?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch the Finals in Our Main Bar"
+      ],
+      "openers": []
+    },
+    {
       "showId": "d36f5d6b",
       "dateISO": "2026-06-08",
       "startTime": "8:00 PM",
@@ -287,6 +283,19 @@
       "openers": [
         "Mori"
       ]
+    },
+    {
+      "showId": "492c2d9b",
+      "dateISO": "2026-06-10",
+      "startTime": "5:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-the-Finals-in-Our-Main-Bar/694559?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch the Finals in Our Main Bar"
+      ],
+      "openers": []
     },
     {
       "showId": "752a0210",
@@ -364,6 +373,19 @@
       "openers": []
     },
     {
+      "showId": "e2e01fc0",
+      "dateISO": "2026-06-13",
+      "startTime": "5:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-the-Finals-in-Our-Main-Bar/694560?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch the Finals in Our Main Bar"
+      ],
+      "openers": []
+    },
+    {
       "showId": "36606a06",
       "dateISO": "2026-06-13",
       "startTime": "9:00 PM",
@@ -421,6 +443,19 @@
       "openers": [
         "Janani K. Jha"
       ]
+    },
+    {
+      "showId": "d4e4c9ee",
+      "dateISO": "2026-06-16",
+      "startTime": "5:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-the-Finals-in-Our-Main-Bar/694561?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch the Finals in Our Main Bar"
+      ],
+      "openers": []
     },
     {
       "showId": "f0c0c1b5",
