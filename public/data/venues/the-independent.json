@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-08T17:47:44.287Z",
+  "generatedAtISO": "2026-06-08T20:06:35.191Z",
   "shows": [
     {
       "showId": "d36f5d6b",
@@ -532,6 +532,19 @@
       "openers": [
         "Ruby Plume"
       ]
+    },
+    {
+      "showId": "a5f962d5",
+      "dateISO": "2026-09-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bl3ss-360-set-north-american-tour-2026/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "BL3SS – 360 Set – North American Tour 2026"
+      ],
+      "openers": []
     },
     {
       "showId": "0cd2e665",

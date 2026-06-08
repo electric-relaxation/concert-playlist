@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-08T17:47:53.471Z",
+  "generatedAtISO": "2026-06-08T20:06:43.324Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -82,94 +82,6 @@
       ]
     },
     {
-      "showId": "ff03a710",
-      "dateISO": "2026-06-04",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/prettyboy-chance/688119?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "PrettyBoy Chance"
-      ],
-      "openers": [
-        "Dirty Cello",
-        "Matt Jaffe"
-      ]
-    },
-    {
-      "showId": "d7fcef35",
-      "dateISO": "2026-06-05",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-jerrys-middle-finger/670391?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Visuals by Undead Internet"
-      ]
-    },
-    {
-      "showId": "84b7c69d",
-      "dateISO": "2026-06-05",
-      "startTime": "9:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/house-party-san-francisco/690538?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "HOUSE PARTY SAN FRANCISCO"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "74583d38",
-      "dateISO": "2026-06-06",
-      "startTime": "6:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/midrift/693969?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MIDRIFT"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "fd601f1a",
-      "dateISO": "2026-06-06",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-jerrys-middle-finger/670399?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Visuals by Undead Internet"
-      ]
-    },
-    {
-      "showId": "401ea1b7",
-      "dateISO": "2026-06-07",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/white-hills/689888?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "WHITE HILLS"
-      ],
-      "openers": [
-        "Ex-Heir",
-        "HEAT"
-      ]
-    },
-    {
       "showId": "ad94ca32",
       "dateISO": "2026-06-08",
       "startTime": "5:30 PM",
@@ -242,6 +154,19 @@
       ]
     },
     {
+      "showId": "12f20196",
+      "dateISO": "2026-06-11",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar/694767?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
+    {
       "showId": "030c7fc4",
       "dateISO": "2026-06-11",
       "startTime": "8:00 PM",
@@ -273,6 +198,19 @@
       ]
     },
     {
+      "showId": "eb2ec05a",
+      "dateISO": "2026-06-12",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694771?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
+    {
       "showId": "34139145",
       "dateISO": "2026-06-12",
       "startTime": "9:00 PM",
@@ -298,6 +236,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Rave Jesus"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8c446a79",
+      "dateISO": "2026-06-13",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694773?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
       ],
       "openers": []
     },
@@ -342,6 +293,19 @@
         "Lovey",
         "SundaY"
       ]
+    },
+    {
+      "showId": "14fd459d",
+      "dateISO": "2026-06-14",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694776?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
     },
     {
       "showId": "4a1fc9aa",
@@ -557,6 +521,19 @@
       "openers": [
         "Brendan Eder Ensemble"
       ]
+    },
+    {
+      "showId": "7381ac63",
+      "dateISO": "2026-06-24",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-161/694727?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "NERD NITE SF #161"
+      ],
+      "openers": []
     },
     {
       "showId": "b2f48cd1",
@@ -1261,6 +1238,19 @@
       ]
     },
     {
+      "showId": "08f05ccf",
+      "dateISO": "2026-08-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/deradoorian/694766?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Deradoorian"
+      ],
+      "openers": []
+    },
+    {
       "showId": "f9ee2292",
       "dateISO": "2026-08-11",
       "startTime": "8:00 PM",
@@ -1648,6 +1638,19 @@
       "openers": []
     },
     {
+      "showId": "f7293b0b",
+      "dateISO": "2026-09-04",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/alan-vuong/694428?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALAN VUONG"
+      ],
+      "openers": []
+    },
+    {
       "showId": "5c571773",
       "dateISO": "2026-09-05",
       "startTime": "9:00 PM",
@@ -1691,6 +1694,19 @@
       "openers": [
         "Ruby Plume"
       ]
+    },
+    {
+      "showId": "a5f962d5",
+      "dateISO": "2026-09-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bl3ss-360-set-north-american-tour-2026/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "BL3SS – 360 Set – North American Tour 2026"
+      ],
+      "openers": []
     },
     {
       "showId": "2dc8dcb1",

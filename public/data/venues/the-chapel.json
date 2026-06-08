@@ -4,38 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-06T09:21:16.495Z",
+  "generatedAtISO": "2026-06-08T20:06:35.191Z",
   "shows": [
-    {
-      "showId": "d7fcef35",
-      "dateISO": "2026-06-05",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-jerrys-middle-finger/670391?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Visuals by Undead Internet"
-      ]
-    },
-    {
-      "showId": "fd601f1a",
-      "dateISO": "2026-06-06",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-jerrys-middle-finger/670399?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Visuals by Undead Internet"
-      ]
-    },
     {
       "showId": "ad94ca32",
       "dateISO": "2026-06-08",
@@ -63,6 +33,32 @@
       "openers": []
     },
     {
+      "showId": "12f20196",
+      "dateISO": "2026-06-11",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar/694767?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "eb2ec05a",
+      "dateISO": "2026-06-12",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694771?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
+    {
       "showId": "34139145",
       "dateISO": "2026-06-12",
       "startTime": "9:00 PM",
@@ -77,6 +73,19 @@
         "DJ and Host Irie Dole",
         "Floratura"
       ]
+    },
+    {
+      "showId": "8c446a79",
+      "dateISO": "2026-06-13",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694773?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
     },
     {
       "showId": "e2e01fc0",
@@ -101,6 +110,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Thee Marloes, Thee Heart Tones"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "14fd459d",
+      "dateISO": "2026-06-14",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694776?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
       ],
       "openers": []
     },
@@ -441,6 +463,19 @@
       "openers": [
         "Shannon Lay"
       ]
+    },
+    {
+      "showId": "08f05ccf",
+      "dateISO": "2026-08-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/deradoorian/694766?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Deradoorian"
+      ],
+      "openers": []
     },
     {
       "showId": "c44e475c",

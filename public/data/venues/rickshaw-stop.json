@@ -4,66 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-03T20:14:25.502Z",
+  "generatedAtISO": "2026-06-08T20:06:35.191Z",
   "shows": [
-    {
-      "showId": "ff03a710",
-      "dateISO": "2026-06-04",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/prettyboy-chance/688119?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "PrettyBoy Chance"
-      ],
-      "openers": [
-        "Dirty Cello",
-        "Matt Jaffe"
-      ]
-    },
-    {
-      "showId": "84b7c69d",
-      "dateISO": "2026-06-05",
-      "startTime": "9:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/house-party-san-francisco/690538?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "HOUSE PARTY SAN FRANCISCO"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "74583d38",
-      "dateISO": "2026-06-06",
-      "startTime": "6:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/midrift/693969?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MIDRIFT"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "401ea1b7",
-      "dateISO": "2026-06-07",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/white-hills/689888?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "WHITE HILLS"
-      ],
-      "openers": [
-        "Ex-Heir",
-        "HEAT"
-      ]
-    },
     {
       "showId": "030c7fc4",
       "dateISO": "2026-06-11",
@@ -148,6 +90,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7381ac63",
+      "dateISO": "2026-06-24",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-161/694727?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "NERD NITE SF #161"
       ],
       "openers": []
     },
@@ -443,6 +398,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "MINI TREES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f7293b0b",
+      "dateISO": "2026-09-04",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/alan-vuong/694428?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALAN VUONG"
       ],
       "openers": []
     },
