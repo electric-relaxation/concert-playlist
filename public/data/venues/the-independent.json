@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-08T14:44:18.384Z",
+  "generatedAtISO": "2026-06-08T17:47:44.287Z",
   "shows": [
     {
       "showId": "d36f5d6b",
@@ -778,6 +778,19 @@
       ]
     },
     {
+      "showId": "15540261",
+      "dateISO": "2026-10-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Sawyer Hill"
+      ],
+      "openers": []
+    },
+    {
       "showId": "0477bf2a",
       "dateISO": "2026-10-22",
       "startTime": "8:00 PM",
@@ -805,6 +818,21 @@
       ],
       "openers": [
         "American Hi-Fi"
+      ]
+    },
+    {
+      "showId": "559a72b1",
+      "dateISO": "2026-10-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/balthvs/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "BALTHVS"
+      ],
+      "openers": [
+        "Slow Coast"
       ]
     },
     {
@@ -845,6 +873,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Stop Light Observation"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4e79add1",
+      "dateISO": "2026-11-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/stephen-day/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Stephen Day"
       ],
       "openers": []
     },
