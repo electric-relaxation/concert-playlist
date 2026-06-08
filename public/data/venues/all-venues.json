@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-08T20:06:43.324Z",
+  "generatedAtISO": "2026-06-08T22:21:57.439Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -405,6 +405,19 @@
       "openers": []
     },
     {
+      "showId": "a5508b24",
+      "dateISO": "2026-06-18",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694779?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
+    {
       "showId": "3265634e",
       "dateISO": "2026-06-18",
       "startTime": "8:00 PM",
@@ -431,6 +444,19 @@
       "openers": [
         "Izzy Wise"
       ]
+    },
+    {
+      "showId": "424a0c95",
+      "dateISO": "2026-06-19",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694780?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
     },
     {
       "showId": "f55819df",
@@ -462,6 +488,19 @@
         "Babyteeth",
         "Cathedral Bells"
       ]
+    },
+    {
+      "showId": "68928173",
+      "dateISO": "2026-06-20",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694782?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
     },
     {
       "showId": "ade76d05",
@@ -508,6 +547,19 @@
       ]
     },
     {
+      "showId": "4e2b3ff7",
+      "dateISO": "2026-06-21",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694785?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
+    {
       "showId": "53bf4144",
       "dateISO": "2026-06-23",
       "startTime": "8:00 PM",
@@ -536,6 +588,19 @@
       "openers": []
     },
     {
+      "showId": "13d91995",
+      "dateISO": "2026-06-25",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694787?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
+    {
       "showId": "b2f48cd1",
       "dateISO": "2026-06-25",
       "startTime": "8:00 PM",
@@ -552,6 +617,19 @@
         "Thrown-Out Bones",
         "gloomy june"
       ]
+    },
+    {
+      "showId": "d194f77b",
+      "dateISO": "2026-06-26",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694788?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
     },
     {
       "showId": "5803efb5",
@@ -586,6 +664,19 @@
       ]
     },
     {
+      "showId": "42f259b8",
+      "dateISO": "2026-06-27",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694791?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
+    {
       "showId": "8ec537e6",
       "dateISO": "2026-06-27",
       "startTime": "8:00 PM",
@@ -618,6 +709,19 @@
         "DJ Junkyard",
         "DJ Zanne"
       ]
+    },
+    {
+      "showId": "44e0d44a",
+      "dateISO": "2026-06-28",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694792?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
     },
     {
       "showId": "6202fcc4",
