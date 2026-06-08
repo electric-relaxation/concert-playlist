@@ -4,79 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-03T23:01:18.428Z",
+  "generatedAtISO": "2026-06-08T14:44:18.384Z",
   "shows": [
-    {
-      "showId": "5e5a8a67",
-      "dateISO": "2026-06-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bixby-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "bixby"
-      ],
-      "openers": [
-        "Bhertuy"
-      ]
-    },
-    {
-      "showId": "69c019b2",
-      "dateISO": "2026-06-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/claire-rosinkranz/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Claire Rosinkranz"
-      ],
-      "openers": [
-        "Stevie Bill"
-      ]
-    },
-    {
-      "showId": "e20a6f00",
-      "dateISO": "2026-06-05",
-      "startTime": "6:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-4/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Earlybirds Club"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "8bcf0ea2",
-      "dateISO": "2026-06-06",
-      "startTime": "6:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/earlybirds-club-5/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Earlybirds Club"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "ae072db7",
-      "dateISO": "2026-06-07",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/agent-orange/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Agent Orange"
-      ],
-      "openers": [
-        "The Drowns"
-      ]
-    },
     {
       "showId": "d36f5d6b",
       "dateISO": "2026-06-08",
@@ -588,6 +517,34 @@
       "openers": [
         "femdot"
       ]
+    },
+    {
+      "showId": "6ab1a0f9",
+      "dateISO": "2026-09-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/kevin-atwater-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Kevin Atwater"
+      ],
+      "openers": [
+        "Ruby Plume"
+      ]
+    },
+    {
+      "showId": "0cd2e665",
+      "dateISO": "2026-09-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/towa-bird/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Towa Bird"
+      ],
+      "openers": []
     },
     {
       "showId": "a0ef2173",
