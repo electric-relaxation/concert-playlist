@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-08T22:21:47.311Z",
+  "generatedAtISO": "2026-06-09T14:40:02.046Z",
   "shows": [
-    {
-      "showId": "ad94ca32",
-      "dateISO": "2026-06-08",
-      "startTime": "5:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694553?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch the Finals in our Main Bar"
-      ],
-      "openers": []
-    },
     {
       "showId": "492c2d9b",
       "dateISO": "2026-06-10",
@@ -917,6 +904,23 @@
       ]
     },
     {
+      "showId": "76433cc6",
+      "dateISO": "2026-10-13",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Militarie Gun"
+      ],
+      "openers": [
+        "Dazy",
+        "Shady Nasty",
+        "Softcult"
+      ]
+    },
+    {
       "showId": "ddb0e605",
       "dateISO": "2026-10-19",
       "startTime": "8:00 PM",
@@ -1064,6 +1068,19 @@
       "openers": [
         "Anna Tivel"
       ]
+    },
+    {
+      "showId": "af645744",
+      "dateISO": "2026-11-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/maddie-zahm/694208?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "MADDIE ZAHM"
+      ],
+      "openers": []
     },
     {
       "showId": "f8913335",

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-08T22:21:57.439Z",
+  "generatedAtISO": "2026-06-09T14:40:12.467Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -79,35 +79,6 @@
         "/ Goblyn",
         "Persephone",
         "Rival Plague"
-      ]
-    },
-    {
-      "showId": "ad94ca32",
-      "dateISO": "2026-06-08",
-      "startTime": "5:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694553?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch the Finals in our Main Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "d36f5d6b",
-      "dateISO": "2026-06-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/conway-the-machine/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Conway The Machine"
-      ],
-      "openers": [
-        "DJ Muggs",
-        "TF"
       ]
     },
     {
@@ -2144,6 +2115,19 @@
       "openers": []
     },
     {
+      "showId": "455ebfb4",
+      "dateISO": "2026-10-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mari-froes/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mari Froes"
+      ],
+      "openers": []
+    },
+    {
       "showId": "2a2d4b8f",
       "dateISO": "2026-10-03",
       "startTime": "9:00 PM",
@@ -2279,6 +2263,23 @@
         "Santiago Cruz"
       ],
       "openers": []
+    },
+    {
+      "showId": "76433cc6",
+      "dateISO": "2026-10-13",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Militarie Gun"
+      ],
+      "openers": [
+        "Dazy",
+        "Shady Nasty",
+        "Softcult"
+      ]
     },
     {
       "showId": "6b700074",
@@ -2644,6 +2645,19 @@
         "Catnip",
         "Milk for the Angry"
       ]
+    },
+    {
+      "showId": "af645744",
+      "dateISO": "2026-11-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/maddie-zahm/694208?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "MADDIE ZAHM"
+      ],
+      "openers": []
     },
     {
       "showId": "f446c9b6",

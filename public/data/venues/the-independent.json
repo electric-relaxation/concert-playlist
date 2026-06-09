@@ -4,24 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-08T20:06:35.191Z",
+  "generatedAtISO": "2026-06-09T14:40:02.046Z",
   "shows": [
-    {
-      "showId": "d36f5d6b",
-      "dateISO": "2026-06-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/conway-the-machine/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Conway The Machine"
-      ],
-      "openers": [
-        "DJ Muggs",
-        "TF"
-      ]
-    },
     {
       "showId": "b07a2ef4",
       "dateISO": "2026-06-09",
@@ -705,6 +689,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Chasing Abbey"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "455ebfb4",
+      "dateISO": "2026-10-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mari-froes/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mari Froes"
       ],
       "openers": []
     },
