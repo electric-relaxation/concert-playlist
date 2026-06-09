@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-09T20:01:21.207Z",
+  "generatedAtISO": "2026-06-09T22:19:05.271Z",
   "shows": [
-    {
-      "showId": "492c2d9b",
-      "dateISO": "2026-06-10",
-      "startTime": "5:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694559?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch the Finals in our Main Bar"
-      ],
-      "openers": []
-    },
     {
       "showId": "12f20196",
       "dateISO": "2026-06-11",
