@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-09T17:22:02.232Z",
+  "generatedAtISO": "2026-06-09T20:01:21.207Z",
   "shows": [
     {
       "showId": "b07a2ef4",
@@ -106,7 +106,9 @@
       "headliners": [
         "Choker"
       ],
-      "openers": []
+      "openers": [
+        "Cutso"
+      ]
     },
     {
       "showId": "b917934a",

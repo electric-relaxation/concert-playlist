@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-09T17:22:02.232Z",
+  "generatedAtISO": "2026-06-09T20:01:21.207Z",
   "shows": [
     {
       "showId": "030c7fc4",
@@ -317,6 +317,19 @@
       ]
     },
     {
+      "showId": "8ef30a1f",
+      "dateISO": "2026-08-07",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/broadway-rave/694433?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BROADWAY RAVE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "f9ee2292",
       "dateISO": "2026-08-11",
       "startTime": "8:00 PM",
@@ -424,6 +437,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "YUMA ABE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "224ee565",
+      "dateISO": "2026-09-11",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/house-of-heavy/694434?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HOUSE OF HEAVY"
       ],
       "openers": []
     },
@@ -566,6 +592,19 @@
         "Catnip",
         "Milk for the Angry"
       ]
+    },
+    {
+      "showId": "8c443f13",
+      "dateISO": "2026-12-10",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/oliver-hazard/694276?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "OLIVER HAZARD"
+      ],
+      "openers": []
     }
   ]
 }

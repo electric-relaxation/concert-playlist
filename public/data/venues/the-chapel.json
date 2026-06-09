@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-09T17:22:02.232Z",
+  "generatedAtISO": "2026-06-09T20:01:21.207Z",
   "shows": [
     {
       "showId": "492c2d9b",
@@ -137,7 +137,9 @@
       "headliners": [
         "Ásgeir"
       ],
-      "openers": []
+      "openers": [
+        "Zoë Winter"
+      ]
     },
     {
       "showId": "f62564a0",
