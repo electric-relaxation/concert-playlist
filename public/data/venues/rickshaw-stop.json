@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-08T20:06:35.191Z",
+  "generatedAtISO": "2026-06-09T17:22:02.232Z",
   "shows": [
     {
       "showId": "030c7fc4",
@@ -411,6 +411,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "ALAN VUONG"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8f2633d9",
+      "dateISO": "2026-09-05",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/yuma-abe/692760?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "YUMA ABE"
       ],
       "openers": []
     },

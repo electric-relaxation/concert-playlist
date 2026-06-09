@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-09T14:40:02.046Z",
+  "generatedAtISO": "2026-06-09T17:22:02.232Z",
   "shows": [
     {
       "showId": "492c2d9b",
@@ -524,6 +524,7 @@
         "Meatbodies"
       ],
       "openers": [
+        "Heat",
         "Lealani"
       ]
     },

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-09T14:40:12.467Z",
+  "generatedAtISO": "2026-06-09T17:22:12.670Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -1189,6 +1189,7 @@
         "Meatbodies"
       ],
       "openers": [
+        "Heat",
         "Lealani"
       ]
     },
@@ -1726,6 +1727,19 @@
       "openers": []
     },
     {
+      "showId": "8f2633d9",
+      "dateISO": "2026-09-05",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/yuma-abe/692760?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "YUMA ABE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "5c571773",
       "dateISO": "2026-09-05",
       "startTime": "9:00 PM",
@@ -2239,6 +2253,19 @@
       "openers": []
     },
     {
+      "showId": "d034db56",
+      "dateISO": "2026-10-09",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/devon-gilfillian/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Devon Gilfillian"
+      ],
+      "openers": []
+    },
+    {
       "showId": "57f6fe67",
       "dateISO": "2026-10-10",
       "startTime": "9:00 PM",
@@ -2613,6 +2640,34 @@
         "Other Lives"
       ],
       "openers": []
+    },
+    {
+      "showId": "8b0e17e5",
+      "dateISO": "2026-11-14",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sean-hayes/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Sean Hayes"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "cf185bdd",
+      "dateISO": "2026-11-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/strongboi/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "strongboi"
+      ],
+      "openers": [
+        "Salami Rose Joe Louis"
+      ]
     },
     {
       "showId": "94837d83",

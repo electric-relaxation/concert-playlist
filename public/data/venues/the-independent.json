@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-09T14:40:02.046Z",
+  "generatedAtISO": "2026-06-09T17:22:02.232Z",
   "shows": [
     {
       "showId": "b07a2ef4",
@@ -747,6 +747,19 @@
       ]
     },
     {
+      "showId": "d034db56",
+      "dateISO": "2026-10-09",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/devon-gilfillian/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Devon Gilfillian"
+      ],
+      "openers": []
+    },
+    {
       "showId": "57f6fe67",
       "dateISO": "2026-10-10",
       "startTime": "9:00 PM",
@@ -898,6 +911,34 @@
         "Stephen Day"
       ],
       "openers": []
+    },
+    {
+      "showId": "8b0e17e5",
+      "dateISO": "2026-11-14",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sean-hayes/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Sean Hayes"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "cf185bdd",
+      "dateISO": "2026-11-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/strongboi/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "strongboi"
+      ],
+      "openers": [
+        "Salami Rose Joe Louis"
+      ]
     },
     {
       "showId": "f446c9b6",
