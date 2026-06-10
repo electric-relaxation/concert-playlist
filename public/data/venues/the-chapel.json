@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-10T19:30:05.081Z",
+  "generatedAtISO": "2026-06-10T21:53:53.475Z",
   "shows": [
     {
       "showId": "12f20196",
@@ -166,6 +166,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Private Event"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "9a3531eb",
+      "dateISO": "2026-06-19",
+      "startTime": "5:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-the-nba-finals-on-the-chapels-big-screen/695105?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch the NBA Finals on The Chapel's Big Screen"
       ],
       "openers": []
     },

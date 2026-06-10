@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-09T20:01:21.207Z",
+  "generatedAtISO": "2026-06-10T21:53:53.475Z",
   "shows": [
-    {
-      "showId": "b07a2ef4",
-      "dateISO": "2026-06-09",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/searows/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Searows"
-      ],
-      "openers": [
-        "Mori"
-      ]
-    },
     {
       "showId": "752a0210",
       "dateISO": "2026-06-10",
@@ -62,7 +47,9 @@
       "headliners": [
         "Rave Jesus"
       ],
-      "openers": []
+      "openers": [
+        "DJ Justified"
+      ]
     },
     {
       "showId": "8d456f8f",

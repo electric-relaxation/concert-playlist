@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-10T19:30:18.108Z",
+  "generatedAtISO": "2026-06-10T21:54:04.698Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -79,21 +79,6 @@
         "/ Goblyn",
         "Persephone",
         "Rival Plague"
-      ]
-    },
-    {
-      "showId": "b07a2ef4",
-      "dateISO": "2026-06-09",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/searows/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Searows"
-      ],
-      "openers": [
-        "Mori"
       ]
     },
     {
@@ -195,7 +180,9 @@
       "headliners": [
         "Rave Jesus"
       ],
-      "openers": []
+      "openers": [
+        "DJ Justified"
+      ]
     },
     {
       "showId": "8c446a79",
@@ -406,6 +393,19 @@
       "openers": [
         "Izzy Wise"
       ]
+    },
+    {
+      "showId": "9a3531eb",
+      "dateISO": "2026-06-19",
+      "startTime": "5:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-the-nba-finals-on-the-chapels-big-screen/695105?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch the NBA Finals on The Chapel's Big Screen"
+      ],
+      "openers": []
     },
     {
       "showId": "424a0c95",
