@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-10T05:12:12.029Z",
+  "generatedAtISO": "2026-06-10T19:30:18.108Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -1789,6 +1789,21 @@
       ]
     },
     {
+      "showId": "2ebbb1c0",
+      "dateISO": "2026-09-10",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/chanpan/694072?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CHANPAN"
+      ],
+      "openers": [
+        "SHEBAD"
+      ]
+    },
+    {
       "showId": "224ee565",
       "dateISO": "2026-09-11",
       "startTime": "8:30 PM",
@@ -2323,6 +2338,21 @@
         "Dazy",
         "Shady Nasty",
         "Softcult"
+      ]
+    },
+    {
+      "showId": "e86e778e",
+      "dateISO": "2026-10-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/hot-flash-heat-wave/693459?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Hot Flash Heat Wave"
+      ],
+      "openers": [
+        "Carpool Tunnel"
       ]
     },
     {

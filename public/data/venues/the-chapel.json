@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-10T05:12:01.562Z",
+  "generatedAtISO": "2026-06-10T19:30:05.081Z",
   "shows": [
     {
       "showId": "12f20196",
@@ -908,6 +908,21 @@
         "Dazy",
         "Shady Nasty",
         "Softcult"
+      ]
+    },
+    {
+      "showId": "e86e778e",
+      "dateISO": "2026-10-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/hot-flash-heat-wave/693459?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Hot Flash Heat Wave"
+      ],
+      "openers": [
+        "Carpool Tunnel"
       ]
     },
     {

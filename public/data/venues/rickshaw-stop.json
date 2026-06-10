@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-09T20:01:21.207Z",
+  "generatedAtISO": "2026-06-10T19:30:05.081Z",
   "shows": [
     {
       "showId": "030c7fc4",
@@ -439,6 +439,21 @@
         "YUMA ABE"
       ],
       "openers": []
+    },
+    {
+      "showId": "2ebbb1c0",
+      "dateISO": "2026-09-10",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/chanpan/694072?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CHANPAN"
+      ],
+      "openers": [
+        "SHEBAD"
+      ]
     },
     {
       "showId": "224ee565",
