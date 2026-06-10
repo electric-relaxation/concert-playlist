@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-09T22:19:05.271Z",
+  "generatedAtISO": "2026-06-10T05:12:01.562Z",
   "shows": [
     {
       "showId": "12f20196",
@@ -67,10 +67,10 @@
       "startTime": "5:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694560?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-the-nba-finals-in-our-main-bar/694560?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch the Finals in our Main Bar"
+        "Watch the NBA Finals in our Main Bar"
       ],
       "openers": []
     },
@@ -106,10 +106,10 @@
       "startTime": "5:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-finals-in-our-main-bar/694561?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-the-nba-finals-in-our-main-bar/694561?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch the Finals in our Main Bar"
+        "Watch the NBA Finals in our Main Bar"
       ],
       "openers": []
     },
