@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-10T21:54:04.698Z",
+  "generatedAtISO": "2026-06-11T16:48:02.978Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -2398,7 +2398,9 @@
       "headliners": [
         "Hovvdy"
       ],
-      "openers": []
+      "openers": [
+        "Emma Ogier"
+      ]
     },
     {
       "showId": "2d77d17a",

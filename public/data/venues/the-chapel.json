@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-10T21:53:53.475Z",
+  "generatedAtISO": "2026-06-11T16:47:54.996Z",
   "shows": [
     {
       "showId": "12f20196",
@@ -949,7 +949,9 @@
       "headliners": [
         "Hovvdy"
       ],
-      "openers": []
+      "openers": [
+        "Emma Ogier"
+      ]
     },
     {
       "showId": "2d77d17a",
