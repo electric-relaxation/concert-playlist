@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-11T16:48:02.978Z",
+  "generatedAtISO": "2026-06-12T14:45:51.435Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -108,22 +108,6 @@
         "Watch Soccer in our Main Bar"
       ],
       "openers": []
-    },
-    {
-      "showId": "030c7fc4",
-      "dateISO": "2026-06-11",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/brijean/685409?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BRIJEAN"
-      ],
-      "openers": [
-        "DJ N0be",
-        "Mild Universe"
-      ]
     },
     {
       "showId": "417c3142",
@@ -1880,6 +1864,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "ALI"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "64bc12d9",
+      "dateISO": "2026-09-17",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/american-aquarium/695263?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "AMERICAN AQUARIUM"
       ],
       "openers": []
     },

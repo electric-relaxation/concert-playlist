@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-10T19:30:05.081Z",
+  "generatedAtISO": "2026-06-12T14:45:40.325Z",
   "shows": [
-    {
-      "showId": "030c7fc4",
-      "dateISO": "2026-06-11",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/brijean/685409?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BRIJEAN"
-      ],
-      "openers": [
-        "DJ N0be",
-        "Mild Universe"
-      ]
-    },
     {
       "showId": "4a1fc9aa",
       "dateISO": "2026-06-14",
@@ -478,6 +462,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "ALI"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "64bc12d9",
+      "dateISO": "2026-09-17",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/american-aquarium/695263?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "AMERICAN AQUARIUM"
       ],
       "openers": []
     },
