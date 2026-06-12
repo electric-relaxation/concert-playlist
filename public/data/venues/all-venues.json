@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-12T14:45:51.435Z",
+  "generatedAtISO": "2026-06-12T20:02:05.951Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -95,19 +95,6 @@
       "openers": [
         "Mori"
       ]
-    },
-    {
-      "showId": "12f20196",
-      "dateISO": "2026-06-11",
-      "startTime": "12:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar/694767?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
     },
     {
       "showId": "417c3142",
@@ -751,10 +738,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dylan-leblanc/691420?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/dylan-leblanc-cautionary-tale-10-year-anniversary-tour/691420?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Dylan LeBlanc"
+        "Dylan LeBlanc: Cautionary Tale 10 Year Anniversary Tour"
       ],
       "openers": []
     },
