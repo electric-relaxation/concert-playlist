@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-12T14:45:40.325Z",
+  "generatedAtISO": "2026-06-13T19:16:46.598Z",
   "shows": [
     {
       "showId": "4a1fc9aa",
@@ -530,7 +530,9 @@
       "headliners": [
         "FRIKO"
       ],
-      "openers": []
+      "openers": [
+        "villagerrr"
+      ]
     },
     {
       "showId": "48c73de9",
