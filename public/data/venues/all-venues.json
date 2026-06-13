@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-12T20:02:05.951Z",
+  "generatedAtISO": "2026-06-13T00:16:20.682Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -885,6 +885,21 @@
       ],
       "openers": [
         "Asha Wells"
+      ]
+    },
+    {
+      "showId": "4159e055",
+      "dateISO": "2026-07-16",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://www.kqed.org/event/6586",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "La Doña & Friends"
+      ],
+      "openers": [
+        "Featuring Mxka and Louie El Ser"
       ]
     },
     {
