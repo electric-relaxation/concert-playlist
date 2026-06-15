@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-13T19:16:55.504Z",
+  "generatedAtISO": "2026-06-15T09:56:07.618Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -112,35 +112,6 @@
       ]
     },
     {
-      "showId": "eb2ec05a",
-      "dateISO": "2026-06-12",
-      "startTime": "6:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694771?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "34139145",
-      "dateISO": "2026-06-12",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/don-carlos/677629?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Don Carlos"
-      ],
-      "openers": [
-        "DJ and Host Irie Dole",
-        "Floratura"
-      ]
-    },
-    {
       "showId": "dd123eb3",
       "dateISO": "2026-06-12",
       "startTime": "9:00 PM",
@@ -154,45 +125,6 @@
       "openers": [
         "DJ Justified"
       ]
-    },
-    {
-      "showId": "8c446a79",
-      "dateISO": "2026-06-13",
-      "startTime": "12:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694773?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "e2e01fc0",
-      "dateISO": "2026-06-13",
-      "startTime": "5:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-nba-finals-in-our-main-bar/694560?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch the NBA Finals in our Main Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "36606a06",
-      "dateISO": "2026-06-13",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/thee-marloes-thee-heart-tones/683678?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Thee Marloes, Thee Heart Tones"
-      ],
-      "openers": []
     },
     {
       "showId": "8d456f8f",
@@ -252,19 +184,6 @@
       "openers": [
         "Janani K. Jha"
       ]
-    },
-    {
-      "showId": "d4e4c9ee",
-      "dateISO": "2026-06-16",
-      "startTime": "5:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-nba-finals-in-our-main-bar/694561?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch the NBA Finals in our Main Bar"
-      ],
-      "openers": []
     },
     {
       "showId": "f0c0c1b5",
@@ -364,19 +283,6 @@
       "openers": [
         "Izzy Wise"
       ]
-    },
-    {
-      "showId": "9a3531eb",
-      "dateISO": "2026-06-19",
-      "startTime": "5:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-nba-finals-on-the-chapels-big-screen/695105?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch the NBA Finals on The Chapel's Big Screen"
-      ],
-      "openers": []
     },
     {
       "showId": "424a0c95",
