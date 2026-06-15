@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-15T09:55:59.659Z",
+  "generatedAtISO": "2026-06-15T19:41:42.857Z",
   "shows": [
-    {
-      "showId": "14fd459d",
-      "dateISO": "2026-06-14",
-      "startTime": "12:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694776?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
-    },
     {
       "showId": "f0c0c1b5",
       "dateISO": "2026-06-16",
@@ -248,7 +235,7 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Petty-Theft/689192?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/petty-theft/689192?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Petty Theft"
@@ -413,7 +400,7 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/James-McMurtry-and-the-Martial-Law-Review/685865?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685865?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "James McMurtry and the Martial Law Review"
@@ -923,6 +910,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Theo Katzman (Solo)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c4c78887",
+      "dateISO": "2026-10-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Katie Pruitt"
       ],
       "openers": []
     },

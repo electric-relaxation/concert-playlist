@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-15T09:56:07.618Z",
+  "generatedAtISO": "2026-06-15T19:41:52.246Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -79,110 +79,6 @@
         "/ Goblyn",
         "Persephone",
         "Rival Plague"
-      ]
-    },
-    {
-      "showId": "752a0210",
-      "dateISO": "2026-06-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/searows-second-show-added-by-popular-demand/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Searows"
-      ],
-      "openers": [
-        "Mori"
-      ]
-    },
-    {
-      "showId": "417c3142",
-      "dateISO": "2026-06-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/mr-tout-le-monde/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Mr Tout Le Monde"
-      ],
-      "openers": [
-        "Dave Cinco"
-      ]
-    },
-    {
-      "showId": "dd123eb3",
-      "dateISO": "2026-06-12",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/rave-jesus/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Rave Jesus"
-      ],
-      "openers": [
-        "DJ Justified"
-      ]
-    },
-    {
-      "showId": "8d456f8f",
-      "dateISO": "2026-06-13",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/elujay/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Elujay"
-      ],
-      "openers": [
-        "Lovey",
-        "SundaY"
-      ]
-    },
-    {
-      "showId": "14fd459d",
-      "dateISO": "2026-06-14",
-      "startTime": "12:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694776?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "4a1fc9aa",
-      "dateISO": "2026-06-14",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-messthetics-and-james-brandon-lewis/684121?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "THE MESSTHETICS AND JAMES BRANDON LEWIS"
-      ],
-      "openers": [
-        "Chris Forsyth"
-      ]
-    },
-    {
-      "showId": "f2b6f4fd",
-      "dateISO": "2026-06-14",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/em-beihold/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Em Beihold"
-      ],
-      "openers": [
-        "Janani K. Jha"
       ]
     },
     {
@@ -727,7 +623,7 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Petty-Theft/689192?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/petty-theft/689192?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Petty Theft"
@@ -1007,7 +903,7 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/James-McMurtry-and-the-Martial-Law-Review/685865?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685865?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "James McMurtry and the Martial Law Review"
@@ -1044,6 +940,19 @@
         "Resentvul",
         "Ryan Oakes"
       ]
+    },
+    {
+      "showId": "a6040d49",
+      "dateISO": "2026-07-27",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/larry-and-his-flask/695193?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "LARRY & HIS FLASK"
+      ],
+      "openers": []
     },
     {
       "showId": "875129b8",
@@ -1360,6 +1269,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Black Joe Lewis & The Honeybears"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0a5841c8",
+      "dateISO": "2026-08-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/g-flip/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "G Flip"
       ],
       "openers": []
     },
@@ -1709,6 +1631,21 @@
       "openers": []
     },
     {
+      "showId": "035eddb4",
+      "dateISO": "2026-09-11",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/arlo/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Arlo"
+      ],
+      "openers": [
+        "fromclay"
+      ]
+    },
+    {
       "showId": "a5f962d5",
       "dateISO": "2026-09-12",
       "startTime": "9:00 PM",
@@ -1831,6 +1768,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "SWEEPING PROMISES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0518e4a7",
+      "dateISO": "2026-09-18",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/daniel-avery-live/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Daniel Avery Live"
       ],
       "openers": []
     },
@@ -2442,6 +2392,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Theo Katzman (Solo)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c4c78887",
+      "dateISO": "2026-10-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Katie Pruitt"
       ],
       "openers": []
     },

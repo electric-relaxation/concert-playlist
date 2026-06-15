@@ -4,23 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-13T19:16:46.598Z",
+  "generatedAtISO": "2026-06-15T19:41:42.857Z",
   "shows": [
-    {
-      "showId": "4a1fc9aa",
-      "dateISO": "2026-06-14",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-messthetics-and-james-brandon-lewis/684121?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "THE MESSTHETICS AND JAMES BRANDON LEWIS"
-      ],
-      "openers": [
-        "Chris Forsyth"
-      ]
-    },
     {
       "showId": "63eee893",
       "dateISO": "2026-06-17",
@@ -231,6 +216,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "RAY AND PAUL"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a6040d49",
+      "dateISO": "2026-07-27",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/larry-and-his-flask/695193?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "LARRY & HIS FLASK"
       ],
       "openers": []
     },
