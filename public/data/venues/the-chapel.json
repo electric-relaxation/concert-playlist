@@ -4,8 +4,21 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-15T19:41:42.857Z",
+  "generatedAtISO": "2026-06-15T22:13:19.184Z",
   "shows": [
+    {
+      "showId": "56072ee4",
+      "dateISO": "2026-06-16",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/695569?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
     {
       "showId": "f0c0c1b5",
       "dateISO": "2026-06-16",
@@ -65,13 +78,26 @@
     {
       "showId": "424a0c95",
       "dateISO": "2026-06-19",
-      "startTime": "6:00 PM",
+      "startTime": "12:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694780?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "69394807",
+      "dateISO": "2026-06-19",
+      "startTime": "5:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-brazil-vs-haiti-on-the-chapels-big-screen/695105?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Brazil vs. Haiti on The Chapel's Big Screen"
       ],
       "openers": []
     },
@@ -867,7 +893,7 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/The-Devil-Makes-Three/693375?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/the-devil-makes-three/693375?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "The Devil Makes Three"
