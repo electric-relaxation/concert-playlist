@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-16T20:56:56.281Z",
+  "generatedAtISO": "2026-06-16T22:52:13.519Z",
   "shows": [
     {
       "showId": "56072ee4",
@@ -127,6 +127,7 @@
       ],
       "openers": [
         "BOLERO!",
+        "DJ Shama Lama",
         "Mad Alchemy Liquid Light Show"
       ]
     },
