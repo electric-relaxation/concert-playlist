@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-16T00:26:13.068Z",
+  "generatedAtISO": "2026-06-16T17:59:14.804Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -996,6 +996,23 @@
       ]
     },
     {
+      "showId": "e292f541",
+      "dateISO": "2026-07-28",
+      "startTime": "7:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dead-heat/695625?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DEAD HEAT"
+      ],
+      "openers": [
+        "Kill Em All",
+        "Way of Earth",
+        "Wrecking Unit"
+      ]
+    },
+    {
       "showId": "7805ff41",
       "dateISO": "2026-07-28",
       "startTime": "8:00 PM",
@@ -1834,7 +1851,9 @@
       "headliners": [
         "BE YOUR OWN PET"
       ],
-      "openers": []
+      "openers": [
+        "Iguana Death Cult"
+      ]
     },
     {
       "showId": "d3f0392f",
@@ -2422,6 +2441,19 @@
       ]
     },
     {
+      "showId": "2eb804ce",
+      "dateISO": "2026-10-28",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/we-are-scientists/694279?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WE ARE SCIENTISTS"
+      ],
+      "openers": []
+    },
+    {
       "showId": "f8c08fc0",
       "dateISO": "2026-10-28",
       "startTime": "8:00 PM",
@@ -2641,6 +2673,19 @@
       "openers": [
         "Anna Tivel"
       ]
+    },
+    {
+      "showId": "ad0fd9ff",
+      "dateISO": "2026-11-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/silverada/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Silverada"
+      ],
+      "openers": []
     },
     {
       "showId": "743fb630",

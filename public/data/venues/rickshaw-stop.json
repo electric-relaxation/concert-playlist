@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-15T19:41:42.857Z",
+  "generatedAtISO": "2026-06-16T17:59:06.208Z",
   "shows": [
     {
       "showId": "63eee893",
@@ -231,6 +231,23 @@
         "LARRY & HIS FLASK"
       ],
       "openers": []
+    },
+    {
+      "showId": "e292f541",
+      "dateISO": "2026-07-28",
+      "startTime": "7:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dead-heat/695625?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DEAD HEAT"
+      ],
+      "openers": [
+        "Kill Em All",
+        "Way of Earth",
+        "Wrecking Unit"
+      ]
     },
     {
       "showId": "3a7bf41b",
@@ -500,7 +517,9 @@
       "headliners": [
         "BE YOUR OWN PET"
       ],
-      "openers": []
+      "openers": [
+        "Iguana Death Cult"
+      ]
     },
     {
       "showId": "d3f0392f",
@@ -572,6 +591,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "KYLE GORDON"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2eb804ce",
+      "dateISO": "2026-10-28",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/we-are-scientists/694279?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "WE ARE SCIENTISTS"
       ],
       "openers": []
     },

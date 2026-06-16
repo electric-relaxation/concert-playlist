@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-15T19:41:42.857Z",
+  "generatedAtISO": "2026-06-16T17:59:06.208Z",
   "shows": [
     {
       "showId": "be46e803",
@@ -893,6 +893,19 @@
       "openers": [
         "Salami Rose Joe Louis"
       ]
+    },
+    {
+      "showId": "ad0fd9ff",
+      "dateISO": "2026-11-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/silverada/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Silverada"
+      ],
+      "openers": []
     },
     {
       "showId": "f446c9b6",
