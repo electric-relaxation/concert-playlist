@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-16T00:26:03.810Z",
+  "generatedAtISO": "2026-06-16T20:56:56.281Z",
   "shows": [
     {
       "showId": "56072ee4",
@@ -237,7 +237,9 @@
       "headliners": [
         "Dylan LeBlanc: Cautionary Tale 10 Year Anniversary Tour"
       ],
-      "openers": []
+      "openers": [
+        "Olivia Wolf"
+      ]
     },
     {
       "showId": "8423c8c9",
@@ -371,7 +373,9 @@
       "headliners": [
         "Babe Rainbow"
       ],
-      "openers": []
+      "openers": [
+        "Sam Blasucci"
+      ]
     },
     {
       "showId": "288a4c30",

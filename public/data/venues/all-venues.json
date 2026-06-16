@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-16T17:59:14.804Z",
+  "generatedAtISO": "2026-06-16T20:57:06.957Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -571,7 +571,9 @@
       "headliners": [
         "Dylan LeBlanc: Cautionary Tale 10 Year Anniversary Tour"
       ],
-      "openers": []
+      "openers": [
+        "Olivia Wolf"
+      ]
     },
     {
       "showId": "ad2a0537",
@@ -830,7 +832,9 @@
       "headliners": [
         "Babe Rainbow"
       ],
-      "openers": []
+      "openers": [
+        "Sam Blasucci"
+      ]
     },
     {
       "showId": "960d41a4",
