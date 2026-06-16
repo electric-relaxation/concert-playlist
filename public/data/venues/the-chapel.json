@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-15T22:13:19.184Z",
+  "generatedAtISO": "2026-06-16T00:26:03.810Z",
   "shows": [
     {
       "showId": "56072ee4",
@@ -506,6 +506,19 @@
       "openers": [
         "American Tomahawk"
       ]
+    },
+    {
+      "showId": "df6318f3",
+      "dateISO": "2026-08-15",
+      "startTime": "9:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ypc-after-dark-ft-david-harness/683564?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "YPC After Dark ft. David Harness"
+      ],
+      "openers": []
     },
     {
       "showId": "42c90c2f",
