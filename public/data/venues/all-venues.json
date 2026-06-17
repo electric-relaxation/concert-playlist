@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-17T00:12:44.978Z",
+  "generatedAtISO": "2026-06-17T11:43:07.587Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -253,7 +253,7 @@
     {
       "showId": "68928173",
       "dateISO": "2026-06-20",
-      "startTime": "12:00 PM",
+      "startTime": "1:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694782?afflky=TheChapel",
@@ -350,19 +350,6 @@
       "openers": []
     },
     {
-      "showId": "13d91995",
-      "dateISO": "2026-06-25",
-      "startTime": "12:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694787?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
-    },
-    {
       "showId": "b2f48cd1",
       "dateISO": "2026-06-25",
       "startTime": "8:00 PM",
@@ -383,7 +370,7 @@
     {
       "showId": "d194f77b",
       "dateISO": "2026-06-26",
-      "startTime": "6:00 PM",
+      "startTime": "5:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694788?afflky=TheChapel",
@@ -428,7 +415,7 @@
     {
       "showId": "42f259b8",
       "dateISO": "2026-06-27",
-      "startTime": "12:00 PM",
+      "startTime": "2:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694791?afflky=TheChapel",
