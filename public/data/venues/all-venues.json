@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-17T21:01:30.861Z",
+  "generatedAtISO": "2026-06-17T23:19:01.421Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -830,6 +830,24 @@
         "Cindy",
         "Pinks & Purples",
         "The Reds"
+      ]
+    },
+    {
+      "showId": "cdaf89d7",
+      "dateISO": "2026-07-23",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco-vol-20/695893?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "NOW THAT'S WHAT I CALL ITALO DISCO Vol. 20"
+      ],
+      "openers": [
+        "Colours 87",
+        "DJ Playstation",
+        "J Key",
+        "MIPSY 3000"
       ]
     },
     {
