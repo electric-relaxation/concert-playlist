@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-16T17:59:06.208Z",
+  "generatedAtISO": "2026-06-17T18:10:56.842Z",
   "shows": [
     {
       "showId": "be46e803",
@@ -355,6 +355,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "G Flip"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3ed149c9",
+      "dateISO": "2026-08-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/niina-soleil/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Niina Soleil"
       ],
       "openers": []
     },

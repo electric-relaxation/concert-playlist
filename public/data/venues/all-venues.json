@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-17T11:43:07.587Z",
+  "generatedAtISO": "2026-06-17T18:11:06.344Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -79,34 +79,6 @@
         "/ Goblyn",
         "Persephone",
         "Rival Plague"
-      ]
-    },
-    {
-      "showId": "56072ee4",
-      "dateISO": "2026-06-16",
-      "startTime": "6:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/695569?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "f0c0c1b5",
-      "dateISO": "2026-06-16",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/asgeir/676917?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Ásgeir"
-      ],
-      "openers": [
-        "Zoë Winter"
       ]
     },
     {
@@ -1317,6 +1289,21 @@
       "openers": []
     },
     {
+      "showId": "8fa9af3c",
+      "dateISO": "2026-08-20",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/beach-goth-night/695626?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BEACH GOTH NIGHT"
+      ],
+      "openers": [
+        "DJ JPEG"
+      ]
+    },
+    {
       "showId": "dad27e0c",
       "dateISO": "2026-08-21",
       "startTime": "8:00 PM",
@@ -1339,6 +1326,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Electric Duke - David Bowie Tribute"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3ed149c9",
+      "dateISO": "2026-08-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/niina-soleil/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Niina Soleil"
       ],
       "openers": []
     },
@@ -2620,6 +2620,21 @@
       "openers": []
     },
     {
+      "showId": "a26d73dc",
+      "dateISO": "2026-11-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-craig-finn-and-the-band-of-forgiveness/695580?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Craig Finn & The Band of Forgiveness"
+      ]
+    },
+    {
       "showId": "cf185bdd",
       "dateISO": "2026-11-15",
       "startTime": "8:00 PM",
@@ -2829,6 +2844,21 @@
         "Odezenne"
       ],
       "openers": []
+    },
+    {
+      "showId": "8fd7eeed",
+      "dateISO": "2027-02-19",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/small-brown-bike/695336?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SMALL BROWN BIKE"
+      ],
+      "openers": [
+        "Suzzallo"
+      ]
     },
     {
       "showId": "9c147d60",

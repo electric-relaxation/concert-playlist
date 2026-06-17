@@ -4,36 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-17T11:42:59.014Z",
+  "generatedAtISO": "2026-06-17T18:10:56.842Z",
   "shows": [
-    {
-      "showId": "56072ee4",
-      "dateISO": "2026-06-16",
-      "startTime": "6:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/695569?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "f0c0c1b5",
-      "dateISO": "2026-06-16",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/asgeir/676917?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Ásgeir"
-      ],
-      "openers": [
-        "Zoë Winter"
-      ]
-    },
     {
       "showId": "f62564a0",
       "dateISO": "2026-06-17",
@@ -1012,6 +984,21 @@
         "Other Lives"
       ],
       "openers": []
+    },
+    {
+      "showId": "a26d73dc",
+      "dateISO": "2026-11-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-craig-finn-and-the-band-of-forgiveness/695580?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Craig Finn & The Band of Forgiveness"
+      ]
     },
     {
       "showId": "94837d83",
