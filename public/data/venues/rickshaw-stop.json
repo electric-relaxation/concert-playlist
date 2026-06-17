@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-17T18:10:56.842Z",
+  "generatedAtISO": "2026-06-17T21:01:23.799Z",
   "shows": [
     {
       "showId": "63eee893",
@@ -17,7 +17,9 @@
       "headliners": [
         "ZEP"
       ],
-      "openers": []
+      "openers": [
+        "Bastian Goat"
+      ]
     },
     {
       "showId": "eb721561",
@@ -231,6 +233,23 @@
         "LARRY & HIS FLASK"
       ],
       "openers": []
+    },
+    {
+      "showId": "e292f541",
+      "dateISO": "2026-07-28",
+      "startTime": "7:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dead-heat/695625?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DEAD HEAT"
+      ],
+      "openers": [
+        "Kill Em All",
+        "Way of Earth",
+        "Wrecking Unit"
+      ]
     },
     {
       "showId": "3a7bf41b",

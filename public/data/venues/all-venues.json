@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-17T18:11:06.344Z",
+  "generatedAtISO": "2026-06-17T21:01:30.861Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -92,7 +92,9 @@
       "headliners": [
         "ZEP"
       ],
-      "openers": []
+      "openers": [
+        "Bastian Goat"
+      ]
     },
     {
       "showId": "f62564a0",
@@ -130,12 +132,14 @@
       "startTime": "6:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694779?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar/694779?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Watch Soccer in our Main Bar"
       ],
-      "openers": []
+      "openers": [
+        "Plus Love Supreme (DJ Sets)"
+      ]
     },
     {
       "showId": "3265634e",
@@ -189,7 +193,9 @@
       "headliners": [
         "Watch Brazil vs. Haiti on The Chapel's Big Screen"
       ],
-      "openers": []
+      "openers": [
+        "Plus Love Supreme (DJ Sets)"
+      ]
     },
     {
       "showId": "f55819df",
@@ -957,6 +963,23 @@
       ],
       "openers": [
         "Bondo"
+      ]
+    },
+    {
+      "showId": "e292f541",
+      "dateISO": "2026-07-28",
+      "startTime": "7:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dead-heat/695625?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DEAD HEAT"
+      ],
+      "openers": [
+        "Kill Em All",
+        "Way of Earth",
+        "Wrecking Unit"
       ]
     },
     {
