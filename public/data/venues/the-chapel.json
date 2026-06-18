@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-17T21:01:23.799Z",
+  "generatedAtISO": "2026-06-18T19:22:22.553Z",
   "shows": [
-    {
-      "showId": "f62564a0",
-      "dateISO": "2026-06-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/jesca-hoop/684481?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Jesca Hoop"
-      ],
-      "openers": [
-        "Faun Fables"
-      ]
-    },
     {
       "showId": "a5508b24",
       "dateISO": "2026-06-18",
@@ -83,12 +68,31 @@
       "startTime": "1:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694782?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/695984?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Watch Soccer in our Main Bar"
       ],
       "openers": []
+    },
+    {
+      "showId": "a642c43f",
+      "dateISO": "2026-06-20",
+      "startTime": "11:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dengue-fever-and-bolero-after-party-in-the-chapels-main-bar/694782?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dengue Fever & BOLERO! After Party in The Chapel's Main Bar"
+      ],
+      "openers": [
+        "DJs: Walkin' Love",
+        "Kokopelli",
+        "Krissa Cupcake",
+        "NickyD",
+        "Nowandformerly"
+      ]
     },
     {
       "showId": "0e5bb119",
