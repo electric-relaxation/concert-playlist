@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-17T23:19:01.421Z",
+  "generatedAtISO": "2026-06-18T16:23:43.747Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -79,21 +79,6 @@
         "/ Goblyn",
         "Persephone",
         "Rival Plague"
-      ]
-    },
-    {
-      "showId": "63eee893",
-      "dateISO": "2026-06-17",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/zep/685693?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ZEP"
-      ],
-      "openers": [
-        "Bastian Goat"
       ]
     },
     {
@@ -2034,6 +2019,21 @@
         "West 22nd"
       ],
       "openers": []
+    },
+    {
+      "showId": "8b94f4c9",
+      "dateISO": "2026-09-29",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/brian-fallon-and-the-painkillers/695727?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BRIAN FALLON & THE PAINKILLERS"
+      ],
+      "openers": [
+        "Tim Barry"
+      ]
     },
     {
       "showId": "2f0eb9e0",

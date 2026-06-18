@@ -4,23 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-17T23:18:52.353Z",
+  "generatedAtISO": "2026-06-18T16:23:35.148Z",
   "shows": [
-    {
-      "showId": "63eee893",
-      "dateISO": "2026-06-17",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/zep/685693?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ZEP"
-      ],
-      "openers": [
-        "Bastian Goat"
-      ]
-    },
     {
       "showId": "eb721561",
       "dateISO": "2026-06-18",
@@ -584,6 +569,21 @@
       ],
       "openers": [
         "villagerrr"
+      ]
+    },
+    {
+      "showId": "8b94f4c9",
+      "dateISO": "2026-09-29",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/brian-fallon-and-the-painkillers/695727?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BRIAN FALLON & THE PAINKILLERS"
+      ],
+      "openers": [
+        "Tim Barry"
       ]
     },
     {
