@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-18T16:23:35.148Z",
+  "generatedAtISO": "2026-06-19T06:11:21.893Z",
   "shows": [
     {
       "showId": "eb721561",
@@ -222,7 +222,10 @@
       "headliners": [
         "RAY AND PAUL"
       ],
-      "openers": []
+      "openers": [
+        "Jamsoe",
+        "Sun Casino"
+      ]
     },
     {
       "showId": "a6040d49",

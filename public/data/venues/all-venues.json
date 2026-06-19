@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-18T22:01:18.519Z",
+  "generatedAtISO": "2026-06-19T06:11:29.261Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -911,7 +911,10 @@
       "headliners": [
         "RAY AND PAUL"
       ],
-      "openers": []
+      "openers": [
+        "Jamsoe",
+        "Sun Casino"
+      ]
     },
     {
       "showId": "b4332818",
