@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-19T06:11:29.261Z",
+  "generatedAtISO": "2026-06-19T11:16:31.179Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -80,34 +80,6 @@
         "Persephone",
         "Rival Plague"
       ]
-    },
-    {
-      "showId": "a5508b24",
-      "dateISO": "2026-06-18",
-      "startTime": "6:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar/694779?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": [
-        "Plus Love Supreme (DJ Sets)"
-      ]
-    },
-    {
-      "showId": "3265634e",
-      "dateISO": "2026-06-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "eb721561",
@@ -298,6 +270,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "NERD NITE SF #161"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-06-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
       ],
       "openers": []
     },
