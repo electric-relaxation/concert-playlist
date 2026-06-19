@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-19T11:16:31.179Z",
+  "generatedAtISO": "2026-06-19T22:50:23.658Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -259,6 +259,19 @@
       "openers": [
         "Brendan Eder Ensemble"
       ]
+    },
+    {
+      "showId": "5cc1b3d6",
+      "dateISO": "2026-06-24",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-czechia-vs-mexico-on-the-chapels-big-screen/696156?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Czechia vs. Mexico on The Chapel's Big Screen"
+      ],
+      "openers": []
     },
     {
       "showId": "7381ac63",
