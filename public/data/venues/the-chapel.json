@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-19T22:50:09.455Z",
+  "generatedAtISO": "2026-06-20T08:46:16.227Z",
   "shows": [
     {
       "showId": "424a0c95",
@@ -189,6 +189,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Watch Soccer in our Main Bar"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0aca62c6",
+      "dateISO": "2026-06-30",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-tbd-on-the-chapels-big-screen/696175?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Mexico vs. TBD on The Chapel's Big Screen"
       ],
       "openers": []
     },
