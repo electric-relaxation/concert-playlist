@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-22T15:19:06.234Z",
+  "generatedAtISO": "2026-06-22T19:20:57.480Z",
   "shows": [
     {
       "showId": "53bf4144",
@@ -27,10 +27,10 @@
       "startTime": "6:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-czechia-vs-mexico-on-the-chapels-big-screen/696156?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-czechia-on-the-chapels-big-screen/696156?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Czechia vs. Mexico on The Chapel's Big Screen"
+        "Watch Mexico vs. Czechia on The Chapel's Big Screen"
       ],
       "openers": []
     },
@@ -777,6 +777,19 @@
       "openers": [
         "Carpool Tunnel"
       ]
+    },
+    {
+      "showId": "ea23e8a2",
+      "dateISO": "2026-10-16",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/amelie-farren-lilith-max-rabbitology/695956?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Amélie Farren, Lilith Max, Rabbitology"
+      ],
+      "openers": []
     },
     {
       "showId": "ddb0e605",

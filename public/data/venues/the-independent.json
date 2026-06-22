@@ -4,39 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-18T19:22:22.553Z",
+  "generatedAtISO": "2026-06-22T19:20:57.480Z",
   "shows": [
-    {
-      "showId": "b917934a",
-      "dateISO": "2026-06-19",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/novulent/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Novulent"
-      ],
-      "openers": [
-        "Babyteeth",
-        "Cathedral Bells"
-      ]
-    },
-    {
-      "showId": "f59d0cfe",
-      "dateISO": "2026-06-20",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/mamas-gun/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Mamas Gun"
-      ],
-      "openers": [
-        "GENEVA"
-      ]
-    },
     {
       "showId": "b2f48cd1",
       "dateISO": "2026-06-25",
@@ -526,6 +495,19 @@
       "openers": []
     },
     {
+      "showId": "88dd3a93",
+      "dateISO": "2026-09-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/evan-giia/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "EVAN GIIA"
+      ],
+      "openers": []
+    },
+    {
       "showId": "952ddd51",
       "dateISO": "2026-09-20",
       "startTime": "8:00 PM",
@@ -809,6 +791,19 @@
       "openers": [
         "Slow Coast"
       ]
+    },
+    {
+      "showId": "1f579642",
+      "dateISO": "2026-10-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-wldlfe/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Wldlfe"
+      ],
+      "openers": []
     },
     {
       "showId": "b02ef305",
