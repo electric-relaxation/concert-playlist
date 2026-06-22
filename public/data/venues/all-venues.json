@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-20T08:46:25.531Z",
+  "generatedAtISO": "2026-06-22T15:19:16.073Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -97,34 +97,6 @@
       ]
     },
     {
-      "showId": "424a0c95",
-      "dateISO": "2026-06-19",
-      "startTime": "12:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694780?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "69394807",
-      "dateISO": "2026-06-19",
-      "startTime": "5:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-brazil-vs-haiti-on-the-chapels-big-screen/695105?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Brazil vs. Haiti on The Chapel's Big Screen"
-      ],
-      "openers": [
-        "Plus Love Supreme (DJ Sets)"
-      ]
-    },
-    {
       "showId": "f55819df",
       "dateISO": "2026-06-19",
       "startTime": "9:00 PM",
@@ -156,38 +128,6 @@
       ]
     },
     {
-      "showId": "68928173",
-      "dateISO": "2026-06-20",
-      "startTime": "1:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/695984?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "a642c43f",
-      "dateISO": "2026-06-20",
-      "startTime": "11:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dengue-fever-and-bolero-after-party-in-the-chapels-main-bar/694782?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Dengue Fever & BOLERO! After Party in The Chapel's Main Bar"
-      ],
-      "openers": [
-        "DJs: Walkin' Love",
-        "Krisa Cupcake",
-        "NickyD",
-        "Nowandformerly",
-        "and Kokopelli"
-      ]
-    },
-    {
       "showId": "ade76d05",
       "dateISO": "2026-06-20",
       "startTime": "9:00 PM",
@@ -199,23 +139,6 @@
         "EMO NITE"
       ],
       "openers": []
-    },
-    {
-      "showId": "0e5bb119",
-      "dateISO": "2026-06-20",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dengue-fever/679341?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Dengue Fever"
-      ],
-      "openers": [
-        "BOLERO!",
-        "DJ Shama Lama",
-        "Mad Alchemy Liquid Light Show"
-      ]
     },
     {
       "showId": "f59d0cfe",
@@ -231,19 +154,6 @@
       "openers": [
         "GENEVA"
       ]
-    },
-    {
-      "showId": "4e2b3ff7",
-      "dateISO": "2026-06-21",
-      "startTime": "12:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694785?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar"
-      ],
-      "openers": []
     },
     {
       "showId": "53bf4144",
@@ -1832,6 +1742,19 @@
       "openers": []
     },
     {
+      "showId": "4617c82f",
+      "dateISO": "2026-09-18",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/shawn-james/696157?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Shawn James"
+      ],
+      "openers": []
+    },
+    {
       "showId": "0518e4a7",
       "dateISO": "2026-09-18",
       "startTime": "9:00 PM",
@@ -2458,6 +2381,19 @@
       "openers": [
         "Slow Coast"
       ]
+    },
+    {
+      "showId": "43a95dbe",
+      "dateISO": "2026-10-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-war-and-treaty/694221?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The War And Treaty"
+      ],
+      "openers": []
     },
     {
       "showId": "2eb804ce",
