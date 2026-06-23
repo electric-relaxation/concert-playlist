@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-23T16:24:20.824Z",
+  "generatedAtISO": "2026-06-23T19:06:45.154Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -119,6 +119,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "NERD NITE SF #161"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "13d91995",
+      "dateISO": "2026-06-25",
+      "startTime": "5:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694787?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in our Main Bar"
       ],
       "openers": []
     },
@@ -578,6 +591,19 @@
       "openers": []
     },
     {
+      "showId": "a21045a0",
+      "dateISO": "2026-07-18",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/696009?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "337346a9",
       "dateISO": "2026-07-18",
       "startTime": "9:00 PM",
@@ -926,7 +952,9 @@
       "headliners": [
         "Air Guitar National Finals"
       ],
-      "openers": []
+      "openers": [
+        "Ultimate Fakebook"
+      ]
     },
     {
       "showId": "e2f9c3df",
@@ -961,6 +989,32 @@
       ]
     },
     {
+      "showId": "116c211f",
+      "dateISO": "2026-08-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/clipse/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Clipse"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "6e0adeba",
+      "dateISO": "2026-08-07",
+      "startTime": "10:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/griz/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "GRiZ"
+      ],
+      "openers": []
+    },
+    {
       "showId": "8ef30a1f",
       "dateISO": "2026-08-07",
       "startTime": "8:30 PM",
@@ -970,6 +1024,32 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "BROADWAY RAVE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ff38eaa0",
+      "dateISO": "2026-08-08",
+      "startTime": "10:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/goldie-boutilier/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Goldie Boutilier"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f920d234",
+      "dateISO": "2026-08-09",
+      "startTime": "10:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ben-bohmer/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ben Böhmer"
       ],
       "openers": []
     },
@@ -2199,6 +2279,19 @@
       ]
     },
     {
+      "showId": "e0ad479d",
+      "dateISO": "2026-10-17",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/asha-banks/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Asha Banks"
+      ],
+      "openers": []
+    },
+    {
       "showId": "ddb0e605",
       "dateISO": "2026-10-19",
       "startTime": "8:00 PM",
@@ -2458,6 +2551,22 @@
       ]
     },
     {
+      "showId": "ba89901b",
+      "dateISO": "2026-11-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/inoha/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "INOHA"
+      ],
+      "openers": [
+        "Buddha Trixie",
+        "Flight By Nothing"
+      ]
+    },
+    {
       "showId": "6afa1ff1",
       "dateISO": "2026-11-04",
       "startTime": "9:00 PM",
@@ -2580,21 +2689,6 @@
         "Stephen Day"
       ],
       "openers": []
-    },
-    {
-      "showId": "05a8725a",
-      "dateISO": "2026-11-13",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-hails/696419?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "THE HAILS"
-      ],
-      "openers": [
-        "opener tba"
-      ]
     },
     {
       "showId": "9002f093",

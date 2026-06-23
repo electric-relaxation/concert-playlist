@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-23T16:24:11.691Z",
+  "generatedAtISO": "2026-06-23T19:06:35.367Z",
   "shows": [
     {
       "showId": "7381ac63",
@@ -131,6 +131,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "AKRIILA"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a21045a0",
+      "dateISO": "2026-07-18",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/696009?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
       ],
       "openers": []
     },
@@ -627,21 +640,6 @@
         "mary in the junkyard"
       ],
       "openers": []
-    },
-    {
-      "showId": "05a8725a",
-      "dateISO": "2026-11-13",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-hails/696419?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "THE HAILS"
-      ],
-      "openers": [
-        "opener tba"
-      ]
     },
     {
       "showId": "743fb630",
