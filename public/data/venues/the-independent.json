@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-22T19:20:57.480Z",
+  "generatedAtISO": "2026-06-23T16:24:11.691Z",
   "shows": [
     {
       "showId": "b2f48cd1",
@@ -847,6 +847,19 @@
       "openers": [
         "L.A. Witch"
       ]
+    },
+    {
+      "showId": "5b7721bf",
+      "dateISO": "2026-11-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/karina-rykman/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Karina Rykman"
+      ],
+      "openers": []
     },
     {
       "showId": "8cfd34e1",

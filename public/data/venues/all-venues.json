@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-22T21:58:28.964Z",
+  "generatedAtISO": "2026-06-23T16:24:20.824Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -80,49 +80,6 @@
         "Persephone",
         "Rival Plague"
       ]
-    },
-    {
-      "showId": "eb721561",
-      "dateISO": "2026-06-18",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/mestizo-beat-sun-hop-fat/688737?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MESTIZO BEAT / SUN HOP FAT"
-      ],
-      "openers": [
-        "Izzy Wise"
-      ]
-    },
-    {
-      "showId": "f55819df",
-      "dateISO": "2026-06-19",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/club-slayyy-slayyyter-hyperpop-night/693358?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CLUB SLAYYY: SLAYYYTER + HYPERPOP NIGHT"
-      ],
-      "openers": [
-        "DJ n0be"
-      ]
-    },
-    {
-      "showId": "ade76d05",
-      "dateISO": "2026-06-20",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/692774?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": []
     },
     {
       "showId": "53bf4144",
@@ -2445,6 +2402,19 @@
       "openers": []
     },
     {
+      "showId": "a6f39fe0",
+      "dateISO": "2026-10-29",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-tubs/696006?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE TUBS"
+      ],
+      "openers": []
+    },
+    {
       "showId": "b02ef305",
       "dateISO": "2026-10-30",
       "startTime": "9:00 PM",
@@ -2544,6 +2514,19 @@
       "openers": []
     },
     {
+      "showId": "5b7721bf",
+      "dateISO": "2026-11-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/karina-rykman/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Karina Rykman"
+      ],
+      "openers": []
+    },
+    {
       "showId": "e0301153",
       "dateISO": "2026-11-08",
       "startTime": "8:00 PM",
@@ -2597,6 +2580,21 @@
         "Stephen Day"
       ],
       "openers": []
+    },
+    {
+      "showId": "05a8725a",
+      "dateISO": "2026-11-13",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-hails/696419?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE HAILS"
+      ],
+      "openers": [
+        "opener tba"
+      ]
     },
     {
       "showId": "9002f093",
