@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-24T18:47:31.783Z",
+  "generatedAtISO": "2026-06-24T20:43:30.783Z",
   "shows": [
     {
       "showId": "5cc1b3d6",
@@ -134,10 +134,10 @@
       "startTime": "3:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-czechia-on-the-chapels-big-screen/696696?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-tbd-on-the-chapels-big-screen/696696?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Mexico vs. Czechia on The Chapel's Big Screen"
+        "Watch Argentina vs. TBD on The Chapel's Big Screen"
       ],
       "openers": []
     },
