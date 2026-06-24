@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-24T02:43:47.554Z",
+  "generatedAtISO": "2026-06-24T16:13:13.142Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -2231,6 +2231,21 @@
         "Dazy",
         "Shady Nasty",
         "Softcult"
+      ]
+    },
+    {
+      "showId": "95d5d5a4",
+      "dateISO": "2026-10-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/automatic/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Automatic"
+      ],
+      "openers": [
+        "Donzii"
       ]
     },
     {

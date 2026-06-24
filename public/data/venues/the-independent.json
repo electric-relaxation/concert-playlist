@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-23T19:06:35.367Z",
+  "generatedAtISO": "2026-06-24T16:13:03.485Z",
   "shows": [
     {
       "showId": "b2f48cd1",
@@ -772,6 +772,21 @@
         "Santiago Cruz"
       ],
       "openers": []
+    },
+    {
+      "showId": "95d5d5a4",
+      "dateISO": "2026-10-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/automatic/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Automatic"
+      ],
+      "openers": [
+        "Donzii"
+      ]
     },
     {
       "showId": "9dd38e31",
