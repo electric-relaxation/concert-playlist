@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-24T16:13:03.485Z",
+  "generatedAtISO": "2026-06-24T18:47:31.783Z",
   "shows": [
     {
       "showId": "b2f48cd1",
@@ -843,6 +843,19 @@
       "openers": [
         "Gabby’s World"
       ]
+    },
+    {
+      "showId": "a063b28d",
+      "dateISO": "2026-10-23",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/frog/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Frog"
+      ],
+      "openers": []
     },
     {
       "showId": "88961e7e",

@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-24T02:43:40.218Z",
+  "generatedAtISO": "2026-06-24T18:47:31.783Z",
   "shows": [
-    {
-      "showId": "53bf4144",
-      "dateISO": "2026-06-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/gia-margaret/680077?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Gia Margaret"
-      ],
-      "openers": [
-        "Brendan Eder Ensemble"
-      ]
-    },
     {
       "showId": "5cc1b3d6",
       "dateISO": "2026-06-24",
@@ -42,10 +27,10 @@
       "startTime": "7:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694787?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-curio/694787?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Soccer in our Main Bar"
+        "Watch Soccer in Curio"
       ],
       "openers": []
     },
@@ -68,10 +53,10 @@
       "startTime": "5:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694788?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-curio/694788?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Soccer in our Main Bar"
+        "Watch Soccer in Curio"
       ],
       "openers": []
     },
@@ -81,10 +66,10 @@
       "startTime": "2:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694791?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar-and-curio/694791?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Soccer in our Main Bar"
+        "Watch Soccer in our Main Bar & Curio"
       ],
       "openers": []
     },
@@ -110,10 +95,10 @@
       "startTime": "12:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-our-Main-Bar/694792?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-curio/694792?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Soccer in our Main Bar"
+        "Watch Soccer in Curio"
       ],
       "openers": []
     },
@@ -127,6 +112,32 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Watch Mexico vs. TBD on The Chapel's Big Screen"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3e8b8d66",
+      "dateISO": "2026-07-01",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-usa-vs-tbd-on-the-chapels-big-screen/696695?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch USA vs. TBD on The Chapel's Big Screen"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "bdc64d3f",
+      "dateISO": "2026-07-03",
+      "startTime": "3:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-czechia-on-the-chapels-big-screen/696696?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Mexico vs. Czechia on The Chapel's Big Screen"
       ],
       "openers": []
     },
@@ -386,6 +397,19 @@
       "openers": [
         "Shannon Lay"
       ]
+    },
+    {
+      "showId": "dc271919",
+      "dateISO": "2026-08-08",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/cobweb-cabaret/696614?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Cobweb Cabaret"
+      ],
+      "openers": []
     },
     {
       "showId": "08f05ccf",
