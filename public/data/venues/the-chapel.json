@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-23T21:27:06.175Z",
+  "generatedAtISO": "2026-06-24T02:43:40.218Z",
   "shows": [
     {
       "showId": "53bf4144",
@@ -32,7 +32,9 @@
       "headliners": [
         "Watch Mexico vs. Czechia on The Chapel's Big Screen"
       ],
-      "openers": []
+      "openers": [
+        "DJ Sets by Guapi"
+      ]
     },
     {
       "showId": "13d91995",

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-23T19:06:35.367Z",
+  "generatedAtISO": "2026-06-24T02:43:40.218Z",
   "shows": [
     {
       "showId": "7381ac63",
@@ -102,6 +102,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "GIMME GIMME DISCO"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e7bcca1e",
+      "dateISO": "2026-07-15",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-162/696615?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF #162"
       ],
       "openers": []
     },

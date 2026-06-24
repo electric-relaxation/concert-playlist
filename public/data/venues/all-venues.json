@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-23T21:27:15.017Z",
+  "generatedAtISO": "2026-06-24T02:43:47.554Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -107,7 +107,9 @@
       "headliners": [
         "Watch Mexico vs. Czechia on The Chapel's Big Screen"
       ],
-      "openers": []
+      "openers": [
+        "DJ Sets by Guapi"
+      ]
     },
     {
       "showId": "7381ac63",
@@ -501,6 +503,19 @@
         "Ritmos Tropicosmos",
         "The Seismics"
       ]
+    },
+    {
+      "showId": "e7bcca1e",
+      "dateISO": "2026-07-15",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-162/696615?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF #162"
+      ],
+      "openers": []
     },
     {
       "showId": "c72c7896",
