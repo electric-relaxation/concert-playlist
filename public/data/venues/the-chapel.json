@@ -4,36 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-24T22:11:21.104Z",
+  "generatedAtISO": "2026-06-25T19:50:52.686Z",
   "shows": [
-    {
-      "showId": "409ada3b",
-      "dateISO": "2026-06-24",
-      "startTime": "3:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-curio/696696?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in Curio"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "5cc1b3d6",
-      "dateISO": "2026-06-24",
-      "startTime": "6:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-czechia-on-the-chapels-big-screen/696156?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Mexico vs. Czechia on The Chapel's Big Screen"
-      ],
-      "openers": [
-        "DJ Sets by Guapi"
-      ]
-    },
     {
       "showId": "13d91995",
       "dateISO": "2026-06-25",
@@ -131,7 +103,7 @@
     {
       "showId": "3e8b8d66",
       "dateISO": "2026-07-01",
-      "startTime": "6:00 PM",
+      "startTime": "5:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/watch-usa-vs-tbd-on-the-chapels-big-screen/696695?afflky=TheChapel",
@@ -151,6 +123,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Watch Argentina vs. TBD on The Chapel's Big Screen"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fd9b57ce",
+      "dateISO": "2026-07-05",
+      "startTime": "1:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-curio/696851?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in Curio"
       ],
       "openers": []
     },
