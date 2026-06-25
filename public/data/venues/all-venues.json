@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-25T00:04:04.051Z",
+  "generatedAtISO": "2026-06-25T04:59:47.009Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -855,7 +855,9 @@
       "headliners": [
         "LARRY & HIS FLASK"
       ],
-      "openers": []
+      "openers": [
+        "Andrew St. James"
+      ]
     },
     {
       "showId": "875129b8",

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-25T00:03:55.877Z",
+  "generatedAtISO": "2026-06-25T04:59:37.603Z",
   "shows": [
     {
       "showId": "7381ac63",
@@ -221,7 +221,9 @@
       "headliners": [
         "LARRY & HIS FLASK"
       ],
-      "openers": []
+      "openers": [
+        "Andrew St. James"
+      ]
     },
     {
       "showId": "e292f541",
