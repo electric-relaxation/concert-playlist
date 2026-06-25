@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-24T02:43:40.218Z",
+  "generatedAtISO": "2026-06-25T00:03:55.877Z",
   "shows": [
     {
       "showId": "7381ac63",
@@ -238,22 +238,6 @@
         "Kill Em All",
         "Way of Earth",
         "Wrecking Unit"
-      ]
-    },
-    {
-      "showId": "3a7bf41b",
-      "dateISO": "2026-07-29",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/witch-whores-of-satan/691480?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Witch Whores of Satan"
-      ],
-      "openers": [
-        "Meathook and the Vital organs",
-        "Puppet Fister Theater"
       ]
     },
     {
