@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-25T21:26:15.708Z",
+  "generatedAtISO": "2026-06-25T23:12:13.227Z",
   "shows": [
     {
       "showId": "13d91995",
@@ -88,17 +88,32 @@
       "openers": []
     },
     {
+      "showId": "909a35dd",
+      "dateISO": "2026-06-29",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-Curio/696912?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in Curio"
+      ],
+      "openers": []
+    },
+    {
       "showId": "0aca62c6",
       "dateISO": "2026-06-30",
       "startTime": "6:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-tbd-on-the-chapels-big-screen/696175?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-tbd-on-the-chapels-big-screen-and-in-curio/696175?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Mexico vs. TBD on The Chapel's Big Screen"
+        "Watch Mexico vs. TBD on The Chapel's Big Screen & in Curio"
       ],
-      "openers": []
+      "openers": [
+        "Love Supreme DJ Sets"
+      ]
     },
     {
       "showId": "3e8b8d66",
@@ -110,6 +125,21 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Watch USA vs. TBD on The Chapel's Big Screen"
+      ],
+      "openers": [
+        "Love Supreme DJ Sets"
+      ]
+    },
+    {
+      "showId": "cc028226",
+      "dateISO": "2026-07-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-Curio/696913?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer in Curio"
       ],
       "openers": []
     },
@@ -124,7 +154,9 @@
       "headliners": [
         "Watch Argentina vs. TBD on The Chapel's Big Screen"
       ],
-      "openers": []
+      "openers": [
+        "Love Supreme DJ Sets"
+      ]
     },
     {
       "showId": "fd9b57ce",
