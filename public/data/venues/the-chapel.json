@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-25T19:50:52.686Z",
+  "generatedAtISO": "2026-06-25T21:26:15.708Z",
   "shows": [
     {
       "showId": "13d91995",
@@ -499,10 +499,10 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/electric-duke-david-bowie-tribute/693149?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/electric-duke-temptation-tribute-to-new-order/693149?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Electric Duke - David Bowie Tribute"
+        "Electric Duke, Temptation - Tribute to New Order"
       ],
       "openers": []
     },
