@@ -4,21 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-25T04:59:37.603Z",
+  "generatedAtISO": "2026-06-25T14:13:30.166Z",
   "shows": [
-    {
-      "showId": "7381ac63",
-      "dateISO": "2026-06-24",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-161/694727?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "NERD NITE SF #161"
-      ],
-      "openers": []
-    },
     {
       "showId": "5803efb5",
       "dateISO": "2026-06-26",
@@ -47,7 +34,9 @@
       "headliners": [
         "PANIC SHACK"
       ],
-      "openers": []
+      "openers": [
+        "Luna Ivy"
+      ]
     },
     {
       "showId": "8dfac630",

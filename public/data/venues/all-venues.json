@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-25T04:59:47.009Z",
+  "generatedAtISO": "2026-06-25T14:13:40.267Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -108,19 +108,6 @@
       "openers": [
         "DJ Sets by Guapi"
       ]
-    },
-    {
-      "showId": "7381ac63",
-      "dateISO": "2026-06-24",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-161/694727?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "NERD NITE SF #161"
-      ],
-      "openers": []
     },
     {
       "showId": "13d91995",
@@ -282,7 +269,9 @@
       "headliners": [
         "PANIC SHACK"
       ],
-      "openers": []
+      "openers": [
+        "Luna Ivy"
+      ]
     },
     {
       "showId": "0aca62c6",
