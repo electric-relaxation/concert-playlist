@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-26T02:48:25.365Z",
+  "generatedAtISO": "2026-06-26T13:06:49.743Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -82,32 +82,6 @@
       ]
     },
     {
-      "showId": "13d91995",
-      "dateISO": "2026-06-25",
-      "startTime": "7:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-curio/694787?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in Curio"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "3265634e",
-      "dateISO": "2026-06-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
-    {
       "showId": "b2f48cd1",
       "dateISO": "2026-06-25",
       "startTime": "8:00 PM",
@@ -135,6 +109,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Watch Soccer in Curio"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-06-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
       ],
       "openers": []
     },
