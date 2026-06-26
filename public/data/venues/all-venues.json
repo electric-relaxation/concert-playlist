@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-26T13:06:49.743Z",
+  "generatedAtISO": "2026-06-26T18:26:44.528Z",
   "shows": [
     {
       "showId": "3faceab8",
@@ -1593,6 +1593,19 @@
       "openers": [
         "Drink The Sea"
       ]
+    },
+    {
+      "showId": "da6ad127",
+      "dateISO": "2026-09-08",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/the-bug-club/696618?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "THE BUG CLUB"
+      ],
+      "openers": []
     },
     {
       "showId": "90dfe083",
