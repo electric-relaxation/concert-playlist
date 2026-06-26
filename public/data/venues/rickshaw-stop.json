@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-25T19:50:52.686Z",
+  "generatedAtISO": "2026-06-26T02:48:17.049Z",
   "shows": [
     {
       "showId": "5803efb5",
@@ -155,10 +155,10 @@
       "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco-vol-20/695893?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/now-thats-what-i-call-italo-disco-vol-23/695893?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "NOW THAT'S WHAT I CALL ITALO DISCO Vol. 20"
+        "NOW THAT'S WHAT I CALL ITALO DISCO Vol. 23"
       ],
       "openers": [
         "Colours 87",
