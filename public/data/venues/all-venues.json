@@ -1,86 +1,6 @@
 {
-  "generatedAtISO": "2026-06-27T13:21:08.512Z",
+  "generatedAtISO": "2026-06-27T20:55:45.600Z",
   "shows": [
-    {
-      "showId": "3faceab8",
-      "dateISO": "2026-05-27",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260527.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Accessory"
-      ],
-      "openers": [
-        "Badvril",
-        "Facing"
-      ]
-    },
-    {
-      "showId": "50ef612d",
-      "dateISO": "2026-05-28",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260528.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Supersuckers"
-      ],
-      "openers": [
-        "Hangtown",
-        "Scott H. Biram"
-      ]
-    },
-    {
-      "showId": "18937d47",
-      "dateISO": "2026-05-29",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260529.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Chip Kinman & Band"
-      ],
-      "openers": [
-        "Steakhouse",
-        "Temple Beautiful Band"
-      ]
-    },
-    {
-      "showId": "af1c77a6",
-      "dateISO": "2026-05-30",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260530.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Leanna Firestone"
-      ],
-      "openers": [
-        "Abby Cates"
-      ]
-    },
-    {
-      "showId": "77d1140a",
-      "dateISO": "2026-05-31",
-      "startTime": "8:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260531.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Half Rotten Goddess"
-      ],
-      "openers": [
-        "/ Goblyn",
-        "Persephone",
-        "Rival Plague"
-      ]
-    },
     {
       "showId": "b2f48cd1",
       "dateISO": "2026-06-25",
@@ -2109,22 +2029,6 @@
         "ROYA"
       ],
       "openers": []
-    },
-    {
-      "showId": "19f10398",
-      "dateISO": "2026-10-04",
-      "startTime": "8:00 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20261004.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Acid Mothers Temple"
-      ],
-      "openers": [
-        "Magick Potion",
-        "The Green Door"
-      ]
     },
     {
       "showId": "627a41d0",
