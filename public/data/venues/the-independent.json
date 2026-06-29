@@ -4,59 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-24T18:47:31.783Z",
+  "generatedAtISO": "2026-06-29T19:00:59.587Z",
   "shows": [
-    {
-      "showId": "b2f48cd1",
-      "dateISO": "2026-06-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/out-loud/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Out & Loud"
-      ],
-      "openers": [
-        "The Fell Swoop",
-        "The Furious Tits",
-        "Thrown-Out Bones",
-        "gloomy june"
-      ]
-    },
-    {
-      "showId": "276c59f6",
-      "dateISO": "2026-06-26",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-lagoons/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Lagoons"
-      ],
-      "openers": [
-        "Don Bloom"
-      ]
-    },
-    {
-      "showId": "8ec537e6",
-      "dateISO": "2026-06-27",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bay-pride-amplified-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Bay Pride Amplified!"
-      ],
-      "openers": [
-        "Evann McIntosh",
-        "Hugo de la Lune",
-        "Love Spiral",
-        "Mommy Mommy"
-      ]
-    },
     {
       "showId": "dd46aaef",
       "dateISO": "2026-07-02",
@@ -171,7 +120,9 @@
       "headliners": [
         "Chinese American Bear"
       ],
-      "openers": []
+      "openers": [
+        "Indigo Elephant"
+      ]
     },
     {
       "showId": "99737836",

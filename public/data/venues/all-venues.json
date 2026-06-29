@@ -1,24 +1,6 @@
 {
-  "generatedAtISO": "2026-06-27T20:55:45.600Z",
+  "generatedAtISO": "2026-06-29T19:01:10.041Z",
   "shows": [
-    {
-      "showId": "b2f48cd1",
-      "dateISO": "2026-06-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/out-loud/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Out & Loud"
-      ],
-      "openers": [
-        "The Fell Swoop",
-        "The Furious Tits",
-        "Thrown-Out Bones",
-        "gloomy june"
-      ]
-    },
     {
       "showId": "5803efb5",
       "dateISO": "2026-06-26",
@@ -37,21 +19,6 @@
       ]
     },
     {
-      "showId": "276c59f6",
-      "dateISO": "2026-06-26",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-lagoons/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Lagoons"
-      ],
-      "openers": [
-        "Don Bloom"
-      ]
-    },
-    {
       "showId": "42f259b8",
       "dateISO": "2026-06-27",
       "startTime": "2:00 PM",
@@ -63,24 +30,6 @@
         "Watch Soccer in our Main Bar & Curio"
       ],
       "openers": []
-    },
-    {
-      "showId": "8ec537e6",
-      "dateISO": "2026-06-27",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bay-pride-amplified-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Bay Pride Amplified!"
-      ],
-      "openers": [
-        "Evann McIntosh",
-        "Hugo de la Lune",
-        "Love Spiral",
-        "Mommy Mommy"
-      ]
     },
     {
       "showId": "13adcbfc",
@@ -586,7 +535,9 @@
       "headliners": [
         "Chinese American Bear"
       ],
-      "openers": []
+      "openers": [
+        "Indigo Elephant"
+      ]
     },
     {
       "showId": "288a4c30",
