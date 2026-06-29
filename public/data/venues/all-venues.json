@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-29T19:01:10.041Z",
+  "generatedAtISO": "2026-06-29T21:20:24.297Z",
   "shows": [
     {
       "showId": "5803efb5",
@@ -17,48 +17,6 @@
         "Reed",
         "figure eight"
       ]
-    },
-    {
-      "showId": "42f259b8",
-      "dateISO": "2026-06-27",
-      "startTime": "2:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-our-main-bar-and-curio/694791?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in our Main Bar & Curio"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "13adcbfc",
-      "dateISO": "2026-06-27",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/fleetwood-macrame-a-tribute-to-fleetwood-mac/666550?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Fleetwood Macramé: A Tribute to Fleetwood Mac"
-      ],
-      "openers": [
-        "DJ Junkyard",
-        "DJ Zanne"
-      ]
-    },
-    {
-      "showId": "44e0d44a",
-      "dateISO": "2026-06-28",
-      "startTime": "12:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-curio/694792?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Soccer in Curio"
-      ],
-      "openers": []
     },
     {
       "showId": "6202fcc4",
@@ -81,10 +39,10 @@
       "startTime": "6:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-Curio/696912?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-netherlands-vs-morocco-in-curio/696912?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Soccer in Curio"
+        "Watch Netherlands vs. Morocco in Curio"
       ],
       "openers": []
     },
@@ -94,13 +52,13 @@
       "startTime": "6:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-tbd-on-the-chapels-big-screen-and-in-curio/696175?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-ecuador-on-the-chapels-big-screen/696175?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Mexico vs. TBD on The Chapel's Big Screen & in Curio"
+        "Watch Mexico vs. Ecuador on The Chapel's Big Screen"
       ],
       "openers": [
-        "Love Supreme DJ Sets"
+        "DJ Sets by Travie Bobbito (Love Supreme)"
       ]
     },
     {
@@ -109,13 +67,13 @@
       "startTime": "5:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-usa-vs-tbd-on-the-chapels-big-screen/696695?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-usa-vs-bosnia-and-herzegovina-on-the-chapels-big-screen/696695?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch USA vs. TBD on The Chapel's Big Screen"
+        "Watch USA vs Bosnia & Herzegovina on The Chapel's Big Screen"
       ],
       "openers": [
-        "Love Supreme DJ Sets"
+        "DJ Sets by Travie Bobbito (Love Supreme)"
       ]
     },
     {
@@ -154,10 +112,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Watch-Soccer-in-Curio/696913?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-switzerland-vs-algeria-in-curio/696913?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Soccer in Curio"
+        "Watch Switzerland vs. Algeria in Curio"
       ],
       "openers": []
     },
@@ -183,13 +141,13 @@
       "startTime": "3:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-tbd-on-the-chapels-big-screen/696749?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-on-the-chapels-big-screen/696749?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Argentina vs. TBD on The Chapel's Big Screen"
+        "Watch Argentina vs. Cabo Verde on The Chapel's Big Screen"
       ],
       "openers": [
-        "Love Supreme DJ Sets"
+        "DJ Sets by Travie Bobbito (Love Supreme)"
       ]
     },
     {
