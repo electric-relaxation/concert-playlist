@@ -4,40 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-26T18:26:32.823Z",
+  "generatedAtISO": "2026-06-30T03:54:42.047Z",
   "shows": [
-    {
-      "showId": "5803efb5",
-      "dateISO": "2026-06-26",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/pocket-full-of-crumbs/690287?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Pocket Full Of Crumbs"
-      ],
-      "openers": [
-        "Quinine",
-        "Reed",
-        "figure eight"
-      ]
-    },
-    {
-      "showId": "6202fcc4",
-      "dateISO": "2026-06-28",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/panic-shack/685912?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "PANIC SHACK"
-      ],
-      "openers": [
-        "Luna Ivy"
-      ]
-    },
     {
       "showId": "8dfac630",
       "dateISO": "2026-07-01",
@@ -50,7 +18,6 @@
         "The Live Oaks"
       ],
       "openers": [
-        "DJ Walkin' Love",
         "Damma Damma",
         "Family Worship Center"
       ]
@@ -380,7 +347,8 @@
         "Witch Whores of Satan"
       ],
       "openers": [
-        "Meathook and the Vital organs"
+        "Meathook and the Vital organs",
+        "opener tba"
       ]
     },
     {
