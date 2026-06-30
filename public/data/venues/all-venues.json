@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-06-30T18:52:59.996Z",
+  "generatedAtISO": "2026-06-30T20:54:34.080Z",
   "shows": [
-    {
-      "showId": "909a35dd",
-      "dateISO": "2026-06-29",
-      "startTime": "6:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-netherlands-vs-morocco-in-curio/696912?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Netherlands vs. Morocco in Curio"
-      ],
-      "openers": []
-    },
     {
       "showId": "0aca62c6",
       "dateISO": "2026-06-30",
@@ -419,6 +406,19 @@
         "Los So-Lows",
         "Sweet Lew"
       ]
+    },
+    {
+      "showId": "45a71315",
+      "dateISO": "2026-07-19",
+      "startTime": "2:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/love-supreme-summer-day-party-series/697524?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "LOVE SUPREME Summer Day Party Series"
+      ],
+      "openers": []
     },
     {
       "showId": "95f9dbad",
