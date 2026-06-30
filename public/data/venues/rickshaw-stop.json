@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-06-30T03:54:42.047Z",
+  "generatedAtISO": "2026-06-30T18:52:49.759Z",
   "shows": [
-    {
-      "showId": "8dfac630",
-      "dateISO": "2026-07-01",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-live-oaks/693901?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "The Live Oaks"
-      ],
-      "openers": [
-        "Damma Damma",
-        "Family Worship Center"
-      ]
-    },
     {
       "showId": "086236c8",
       "dateISO": "2026-07-02",

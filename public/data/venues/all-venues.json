@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-06-30T03:54:50.778Z",
+  "generatedAtISO": "2026-06-30T18:52:59.996Z",
   "shows": [
     {
       "showId": "909a35dd",
@@ -42,22 +42,6 @@
       ],
       "openers": [
         "DJ Sets by Travie Bobbito (Love Supreme)"
-      ]
-    },
-    {
-      "showId": "8dfac630",
-      "dateISO": "2026-07-01",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-live-oaks/693901?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "The Live Oaks"
-      ],
-      "openers": [
-        "Damma Damma",
-        "Family Worship Center"
       ]
     },
     {
@@ -217,7 +201,9 @@
       "headliners": [
         "Young Franco"
       ],
-      "openers": []
+      "openers": [
+        "Mojo"
+      ]
     },
     {
       "showId": "176c86c3",
@@ -2000,7 +1986,9 @@
       "headliners": [
         "Devon Gilfillian"
       ],
-      "openers": []
+      "openers": [
+        "Snacktime"
+      ]
     },
     {
       "showId": "57f6fe67",

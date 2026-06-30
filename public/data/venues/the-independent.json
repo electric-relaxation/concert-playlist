@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-06-29T19:00:59.587Z",
+  "generatedAtISO": "2026-06-30T18:52:49.759Z",
   "shows": [
     {
       "showId": "dd46aaef",
@@ -65,7 +65,9 @@
       "headliners": [
         "Young Franco"
       ],
-      "openers": []
+      "openers": [
+        "Mojo"
+      ]
     },
     {
       "showId": "0241f118",
@@ -696,7 +698,9 @@
       "headliners": [
         "Devon Gilfillian"
       ],
-      "openers": []
+      "openers": [
+        "Snacktime"
+      ]
     },
     {
       "showId": "57f6fe67",
