@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-01T19:45:09.046Z",
+  "generatedAtISO": "2026-07-01T21:22:14.585Z",
   "shows": [
     {
       "showId": "3e8b8d66",
@@ -638,6 +638,19 @@
       ]
     },
     {
+      "showId": "717519f9",
+      "dateISO": "2026-09-20",
+      "startTime": "2:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697838?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "LOVE SUPREME Summer Day Party Series"
+      ],
+      "openers": []
+    },
+    {
       "showId": "82a11b1a",
       "dateISO": "2026-09-21",
       "startTime": "8:00 PM",
@@ -791,6 +804,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Amélie Farren, Lilith Max, Rabbitology"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a42c6ca9",
+      "dateISO": "2026-10-18",
+      "startTime": "2:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697839?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "LOVE SUPREME Summer Day Party Series"
       ],
       "openers": []
     },
