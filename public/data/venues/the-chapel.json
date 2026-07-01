@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-06-30T20:54:25.925Z",
+  "generatedAtISO": "2026-07-01T09:36:13.348Z",
   "shows": [
     {
       "showId": "0aca62c6",
@@ -65,15 +65,15 @@
       ]
     },
     {
-      "showId": "fd9b57ce",
+      "showId": "d4acb732",
       "dateISO": "2026-07-05",
-      "startTime": "1:00 PM",
+      "startTime": "5:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-soccer-in-curio/696851?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-tbd-on-the-chapels-big-screen/696851?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Soccer in Curio"
+        "Watch Mexico vs. TBD on The Chapel's Big Screen"
       ],
       "openers": []
     },
