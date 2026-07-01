@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-07-01T09:36:21.919Z",
+  "generatedAtISO": "2026-07-01T19:45:22.663Z",
   "shows": [
-    {
-      "showId": "0aca62c6",
-      "dateISO": "2026-06-30",
-      "startTime": "6:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-ecuador-on-the-chapels-big-screen/696175?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Mexico vs. Ecuador on The Chapel's Big Screen"
-      ],
-      "openers": [
-        "DJ Sets by Travie Bobbito (Love Supreme)"
-      ]
-    },
     {
       "showId": "3e8b8d66",
       "dateISO": "2026-07-01",
@@ -111,12 +96,14 @@
       "startTime": "5:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-tbd-on-the-chapels-big-screen/696851?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-england-on-the-chapels-big-screen/696851?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Mexico vs. TBD on The Chapel's Big Screen"
+        "Watch Mexico vs. England on The Chapel's Big Screen"
       ],
-      "openers": []
+      "openers": [
+        "DJ Sets by Travie Bobbito (Love Supreme)"
+      ]
     },
     {
       "showId": "cecdc4d3",
@@ -948,6 +935,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "YPC After Dark ft. David Harness"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "98619c60",
+      "dateISO": "2026-08-16",
+      "startTime": "2:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697819?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "LOVE SUPREME Summer Day Party Series"
       ],
       "openers": []
     },
