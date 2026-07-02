@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-07-01T23:07:52.618Z",
+  "generatedAtISO": "2026-07-02T17:40:31.344Z",
   "shows": [
-    {
-      "showId": "3e8b8d66",
-      "dateISO": "2026-07-01",
-      "startTime": "5:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-usa-vs-bosnia-and-herzegovina-on-the-chapels-big-screen/696695?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch USA vs Bosnia & Herzegovina on The Chapel's Big Screen"
-      ],
-      "openers": [
-        "DJ Sets by Travie Bobbito (Love Supreme)"
-      ]
-    },
     {
       "showId": "086236c8",
       "dateISO": "2026-07-02",
@@ -64,10 +49,10 @@
       "startTime": "3:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-on-the-chapels-big-screen/696749?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-in-curio/696749?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Argentina vs. Cabo Verde on The Chapel's Big Screen"
+        "Watch Argentina vs. Cabo Verde in Curio"
       ],
       "openers": [
         "DJ Sets by Travie Bobbito (Love Supreme)"
@@ -91,6 +76,32 @@
       ]
     },
     {
+      "showId": "e99df946",
+      "dateISO": "2026-07-05",
+      "startTime": "1:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/world-cup-watch-party/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "World Cup Watch Party"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c36b220f",
+      "dateISO": "2026-07-05",
+      "startTime": "4:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/world-cup-watch-party-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "World Cup Watch Party"
+      ],
+      "openers": []
+    },
+    {
       "showId": "d4acb732",
       "dateISO": "2026-07-05",
       "startTime": "5:00 PM",
@@ -104,6 +115,19 @@
       "openers": [
         "DJ Sets by Travie Bobbito (Love Supreme)"
       ]
+    },
+    {
+      "showId": "dd399217",
+      "dateISO": "2026-07-06",
+      "startTime": "5:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-usa-vs-belgium-on-the-chapels-big-screen/697948?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch USA vs. Belgium on The Chapel's Big Screen"
+      ],
+      "openers": []
     },
     {
       "showId": "cecdc4d3",

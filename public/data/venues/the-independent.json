@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-01T23:07:44.242Z",
+  "generatedAtISO": "2026-07-02T17:40:20.655Z",
   "shows": [
     {
       "showId": "dd46aaef",
@@ -38,6 +38,32 @@
         "Persephone",
         "Swami 3"
       ]
+    },
+    {
+      "showId": "e99df946",
+      "dateISO": "2026-07-05",
+      "startTime": "1:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/world-cup-watch-party/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "World Cup Watch Party"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c36b220f",
+      "dateISO": "2026-07-05",
+      "startTime": "4:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/world-cup-watch-party-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "World Cup Watch Party"
+      ],
+      "openers": []
     },
     {
       "showId": "ad2a0537",

@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-01T21:22:14.585Z",
+  "generatedAtISO": "2026-07-02T17:40:20.655Z",
   "shows": [
-    {
-      "showId": "3e8b8d66",
-      "dateISO": "2026-07-01",
-      "startTime": "5:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-usa-vs-bosnia-and-herzegovina-on-the-chapels-big-screen/696695?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch USA vs Bosnia & Herzegovina on The Chapel's Big Screen"
-      ],
-      "openers": [
-        "DJ Sets by Travie Bobbito (Love Supreme)"
-      ]
-    },
     {
       "showId": "cc028226",
       "dateISO": "2026-07-02",
@@ -40,10 +25,10 @@
       "startTime": "3:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-on-the-chapels-big-screen/696749?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-in-curio/696749?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Argentina vs. Cabo Verde on The Chapel's Big Screen"
+        "Watch Argentina vs. Cabo Verde in Curio"
       ],
       "openers": [
         "DJ Sets by Travie Bobbito (Love Supreme)"
@@ -63,6 +48,19 @@
       "openers": [
         "DJ Sets by Travie Bobbito (Love Supreme)"
       ]
+    },
+    {
+      "showId": "dd399217",
+      "dateISO": "2026-07-06",
+      "startTime": "5:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-usa-vs-belgium-on-the-chapels-big-screen/697948?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch USA vs. Belgium on The Chapel's Big Screen"
+      ],
+      "openers": []
     },
     {
       "showId": "cecdc4d3",
