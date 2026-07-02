@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-02T17:40:20.655Z",
+  "generatedAtISO": "2026-07-02T22:10:47.349Z",
   "shows": [
     {
       "showId": "cc028226",
@@ -25,14 +25,27 @@
       "startTime": "3:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-in-curio/696749?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-in-curio-and-main-bar/696749?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Argentina vs. Cabo Verde in Curio"
+        "Watch Argentina vs. Cabo Verde in Curio & Main Bar"
       ],
       "openers": [
         "DJ Sets by Travie Bobbito (Love Supreme)"
       ]
+    },
+    {
+      "showId": "808d01a8",
+      "dateISO": "2026-07-05",
+      "startTime": "1:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-brazil-vs-norway-in-curio-and-main-bar/698022?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Brazil vs. Norway in Curio & Main Bar"
+      ],
+      "openers": []
     },
     {
       "showId": "d4acb732",
