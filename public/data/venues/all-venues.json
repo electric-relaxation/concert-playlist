@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-02T17:40:31.344Z",
+  "generatedAtISO": "2026-07-02T19:16:08.203Z",
   "shows": [
     {
       "showId": "086236c8",
@@ -89,19 +89,6 @@
       "openers": []
     },
     {
-      "showId": "c36b220f",
-      "dateISO": "2026-07-05",
-      "startTime": "4:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/world-cup-watch-party-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "World Cup Watch Party"
-      ],
-      "openers": []
-    },
-    {
       "showId": "d4acb732",
       "dateISO": "2026-07-05",
       "startTime": "5:00 PM",
@@ -126,6 +113,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Watch USA vs. Belgium on The Chapel's Big Screen"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c36b220f",
+      "dateISO": "2026-07-06",
+      "startTime": "5:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/world-cup-watch-party-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "World Cup Watch Party"
       ],
       "openers": []
     },

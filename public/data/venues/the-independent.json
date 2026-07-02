@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-02T17:40:20.655Z",
+  "generatedAtISO": "2026-07-02T19:15:59.497Z",
   "shows": [
     {
       "showId": "dd46aaef",
@@ -54,8 +54,8 @@
     },
     {
       "showId": "c36b220f",
-      "dateISO": "2026-07-05",
-      "startTime": "4:00 PM",
+      "dateISO": "2026-07-06",
+      "startTime": "5:00 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/world-cup-watch-party-2/",
