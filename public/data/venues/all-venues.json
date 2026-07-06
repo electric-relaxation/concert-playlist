@@ -1,39 +1,6 @@
 {
-  "generatedAtISO": "2026-07-06T17:38:33.263Z",
+  "generatedAtISO": "2026-07-06T21:24:28.887Z",
   "shows": [
-    {
-      "showId": "dd46aaef",
-      "dateISO": "2026-07-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/kelly-mcfarling/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Kelly McFarling"
-      ],
-      "openers": [
-        "Rose Paradise",
-        "Uwade"
-      ]
-    },
-    {
-      "showId": "7c2b71a2",
-      "dateISO": "2026-07-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/mac-gross-project-sf-rock-project-benefit-against-medical-advice-album-release/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Mac Gross Project – SF Rock Project Benefit + Against Medical Advice Album Release"
-      ],
-      "openers": [
-        "Delano Milano",
-        "Persephone",
-        "Swami 3"
-      ]
-    },
     {
       "showId": "e99df946",
       "dateISO": "2026-07-05",
@@ -878,7 +845,9 @@
       "headliners": [
         "FOUR SQUARE VOL. 2 – A HIP-HOP VIDEO GAME LIVE THEATRE EXPERIENCE"
       ],
-      "openers": []
+      "openers": [
+        "DJ Jenset"
+      ]
     },
     {
       "showId": "45342e1c",
