@@ -1,32 +1,6 @@
 {
-  "generatedAtISO": "2026-07-02T22:10:57.694Z",
+  "generatedAtISO": "2026-07-06T17:38:33.263Z",
   "shows": [
-    {
-      "showId": "086236c8",
-      "dateISO": "2026-07-02",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/silverset-paper-straw-lizzie-waters/692943?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Silverset / Paper Straw / Lizzie Waters"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "cc028226",
-      "dateISO": "2026-07-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-switzerland-vs-algeria-in-curio/696913?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Switzerland vs. Algeria in Curio"
-      ],
-      "openers": []
-    },
     {
       "showId": "dd46aaef",
       "dateISO": "2026-07-02",
@@ -41,21 +15,6 @@
       "openers": [
         "Rose Paradise",
         "Uwade"
-      ]
-    },
-    {
-      "showId": "bdc64d3f",
-      "dateISO": "2026-07-03",
-      "startTime": "3:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-cabo-verde-in-curio-and-main-bar/696749?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Argentina vs. Cabo Verde in Curio & Main Bar"
-      ],
-      "openers": [
-        "DJ Sets by Travie Bobbito (Love Supreme)"
       ]
     },
     {
@@ -76,19 +35,6 @@
       ]
     },
     {
-      "showId": "808d01a8",
-      "dateISO": "2026-07-05",
-      "startTime": "1:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-brazil-vs-norway-in-curio-and-main-bar/698022?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Brazil vs. Norway in Curio & Main Bar"
-      ],
-      "openers": []
-    },
-    {
       "showId": "e99df946",
       "dateISO": "2026-07-05",
       "startTime": "1:00 PM",
@@ -100,21 +46,6 @@
         "World Cup Watch Party"
       ],
       "openers": []
-    },
-    {
-      "showId": "d4acb732",
-      "dateISO": "2026-07-05",
-      "startTime": "5:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-mexico-vs-england-on-the-chapels-big-screen/696851?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Mexico vs. England on The Chapel's Big Screen"
-      ],
-      "openers": [
-        "DJ Sets by Travie Bobbito (Love Supreme)"
-      ]
     },
     {
       "showId": "dd399217",
@@ -1862,6 +1793,21 @@
       ]
     },
     {
+      "showId": "b06a9502",
+      "dateISO": "2026-09-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sophie-truax/697003?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Sophie Truax"
+      ],
+      "openers": [
+        "Sasha Cee"
+      ]
+    },
+    {
       "showId": "2f0eb9e0",
       "dateISO": "2026-09-29",
       "startTime": "8:00 PM",
@@ -2050,6 +1996,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "dublon"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d06553de",
+      "dateISO": "2026-10-11",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/edgar-alejandro-todo-lo-bueno-toma-tiempo-tour/697863?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EDGAR ALEJANDRO- Todo Lo Bueno Toma Tiempo Tour"
       ],
       "openers": []
     },

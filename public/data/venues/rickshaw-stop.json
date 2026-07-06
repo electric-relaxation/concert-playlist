@@ -4,21 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-01T05:18:10.094Z",
+  "generatedAtISO": "2026-07-06T17:38:24.352Z",
   "shows": [
-    {
-      "showId": "086236c8",
-      "dateISO": "2026-07-02",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/silverset-paper-straw-lizzie-waters/692943?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Silverset / Paper Straw / Lizzie Waters"
-      ],
-      "openers": []
-    },
     {
       "showId": "fff4a80d",
       "dateISO": "2026-07-10",
@@ -537,6 +524,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "TIM ATLAS"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d06553de",
+      "dateISO": "2026-10-11",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/edgar-alejandro-todo-lo-bueno-toma-tiempo-tour/697863?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EDGAR ALEJANDRO- Todo Lo Bueno Toma Tiempo Tour"
       ],
       "openers": []
     },
