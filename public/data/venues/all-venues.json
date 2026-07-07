@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-07T22:07:34.571Z",
+  "generatedAtISO": "2026-07-07T23:53:29.488Z",
   "shows": [
     {
       "showId": "c36b220f",
@@ -849,7 +849,9 @@
       "headliners": [
         "Krooked Kings"
       ],
-      "openers": []
+      "openers": [
+        "Pink Skies"
+      ]
     },
     {
       "showId": "df6318f3",
@@ -1146,7 +1148,9 @@
       "headliners": [
         "Son Rompe Pera"
       ],
-      "openers": []
+      "openers": [
+        "Inti Mystica"
+      ]
     },
     {
       "showId": "ec1cb614",

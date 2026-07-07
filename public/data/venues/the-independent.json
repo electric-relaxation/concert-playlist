@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-07T22:07:25.493Z",
+  "generatedAtISO": "2026-07-07T23:53:20.639Z",
   "shows": [
     {
       "showId": "c36b220f",
@@ -273,7 +273,9 @@
       "headliners": [
         "Krooked Kings"
       ],
-      "openers": []
+      "openers": [
+        "Pink Skies"
+      ]
     },
     {
       "showId": "0066b5a9",
@@ -338,7 +340,9 @@
       "headliners": [
         "Son Rompe Pera"
       ],
-      "openers": []
+      "openers": [
+        "Inti Mystica"
+      ]
     },
     {
       "showId": "467da42e",
