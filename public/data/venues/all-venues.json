@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-07-07T02:34:23.243Z",
+  "generatedAtISO": "2026-07-07T16:24:17.258Z",
   "shows": [
-    {
-      "showId": "e99df946",
-      "dateISO": "2026-07-05",
-      "startTime": "1:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/world-cup-watch-party/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "World Cup Watch Party"
-      ],
-      "openers": []
-    },
     {
       "showId": "dd399217",
       "dateISO": "2026-07-06",
@@ -2008,6 +1995,19 @@
       "openers": []
     },
     {
+      "showId": "9d19a8b6",
+      "dateISO": "2026-10-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/king-mala/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "KiNG MALA"
+      ],
+      "openers": []
+    },
+    {
       "showId": "76433cc6",
       "dateISO": "2026-10-13",
       "startTime": "7:00 PM",
@@ -2325,6 +2325,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Theo Katzman (Solo)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8ab42dc9",
+      "dateISO": "2026-10-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/freak-slug/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Freak Slug"
       ],
       "openers": []
     },
@@ -2665,6 +2678,19 @@
       "openers": []
     },
     {
+      "showId": "013dc169",
+      "dateISO": "2026-12-02",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/lrain/697892?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "L'RAIN"
+      ],
+      "openers": []
+    },
+    {
       "showId": "cc19efa9",
       "dateISO": "2026-12-03",
       "startTime": "8:00 PM",
@@ -2676,6 +2702,21 @@
         "MEEK"
       ],
       "openers": []
+    },
+    {
+      "showId": "dc575c4d",
+      "dateISO": "2026-12-05",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dragon-smoke-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Dragon Smoke"
+      ],
+      "openers": [
+        "DJ Harry Duncan"
+      ]
     },
     {
       "showId": "f8913335",

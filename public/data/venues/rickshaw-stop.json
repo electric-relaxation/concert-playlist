@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-06T17:38:24.352Z",
+  "generatedAtISO": "2026-07-07T16:24:07.929Z",
   "shows": [
     {
       "showId": "fff4a80d",
@@ -625,6 +625,19 @@
         "Catnip",
         "Milk for the Angry"
       ]
+    },
+    {
+      "showId": "013dc169",
+      "dateISO": "2026-12-02",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/lrain/697892?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "L'RAIN"
+      ],
+      "openers": []
     },
     {
       "showId": "8c443f13",
