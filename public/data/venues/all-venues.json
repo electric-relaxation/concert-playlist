@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-07T18:57:49.038Z",
+  "generatedAtISO": "2026-07-07T22:07:34.571Z",
   "shows": [
     {
       "showId": "c36b220f",
@@ -2694,7 +2694,9 @@
       "headliners": [
         "Silverada"
       ],
-      "openers": []
+      "openers": [
+        "Emily Nenni"
+      ]
     },
     {
       "showId": "743fb630",

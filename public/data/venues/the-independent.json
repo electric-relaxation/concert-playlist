@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-07T18:57:41.008Z",
+  "generatedAtISO": "2026-07-07T22:07:25.493Z",
   "shows": [
     {
       "showId": "c36b220f",
@@ -1030,7 +1030,9 @@
       "headliners": [
         "Silverada"
       ],
-      "openers": []
+      "openers": [
+        "Emily Nenni"
+      ]
     },
     {
       "showId": "f446c9b6",
