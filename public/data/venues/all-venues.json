@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-06T21:24:28.887Z",
+  "generatedAtISO": "2026-07-07T02:34:23.243Z",
   "shows": [
     {
       "showId": "e99df946",
@@ -634,6 +634,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Chandol"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "9068c99a",
+      "dateISO": "2026-08-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/corduroy-the-pearl-jam-experience/698292?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "CORDUROY - The Pearl Jam Experience"
       ],
       "openers": []
     },

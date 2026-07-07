@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-06T17:38:24.352Z",
+  "generatedAtISO": "2026-07-07T02:34:14.594Z",
   "shows": [
     {
       "showId": "dd399217",
@@ -271,6 +271,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "The Crosseyed"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "9068c99a",
+      "dateISO": "2026-08-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/corduroy-the-pearl-jam-experience/698292?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "CORDUROY - The Pearl Jam Experience"
       ],
       "openers": []
     },
