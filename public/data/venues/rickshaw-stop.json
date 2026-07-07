@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-07T16:24:07.929Z",
+  "generatedAtISO": "2026-07-07T18:57:41.008Z",
   "shows": [
     {
       "showId": "fff4a80d",
@@ -515,6 +515,19 @@
       ]
     },
     {
+      "showId": "90749d6e",
+      "dateISO": "2026-10-07",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/stephen-dawes-the-skin-to-skin-tour/697876?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "STEPHEN DAWES - The Skin to Skin Tour"
+      ],
+      "openers": []
+    },
+    {
       "showId": "48c73de9",
       "dateISO": "2026-10-09",
       "startTime": "9:00 PM",
@@ -608,6 +621,21 @@
         "mary in the junkyard"
       ],
       "openers": []
+    },
+    {
+      "showId": "e12f2614",
+      "dateISO": "2026-11-12",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/jake-minch-the-island-tour/695734?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "JAKE MINCH - The Island Tour"
+      ],
+      "openers": [
+        "Alix Page"
+      ]
     },
     {
       "showId": "743fb630",

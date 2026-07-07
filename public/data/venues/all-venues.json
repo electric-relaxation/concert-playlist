@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-07-07T16:24:17.258Z",
+  "generatedAtISO": "2026-07-07T18:57:49.038Z",
   "shows": [
-    {
-      "showId": "dd399217",
-      "dateISO": "2026-07-06",
-      "startTime": "5:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-usa-vs-belgium-on-the-chapels-big-screen/697948?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch USA vs. Belgium on The Chapel's Big Screen"
-      ],
-      "openers": []
-    },
     {
       "showId": "c36b220f",
       "dateISO": "2026-07-06",
@@ -635,7 +622,9 @@
       "headliners": [
         "CORDUROY - The Pearl Jam Experience"
       ],
-      "openers": []
+      "openers": [
+        "ELYSIUM - Nirvana Tribute"
+      ]
     },
     {
       "showId": "562374f1",
@@ -846,7 +835,7 @@
         "FOUR SQUARE VOL. 2 – A HIP-HOP VIDEO GAME LIVE THEATRE EXPERIENCE"
       ],
       "openers": [
-        "DJ Jenset"
+        "feat. Del The Funky Homosapien & Guapdad"
       ]
     },
     {
@@ -1274,6 +1263,19 @@
       "openers": []
     },
     {
+      "showId": "bde09429",
+      "dateISO": "2026-09-04",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/tonic-walter/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Tonic Walter"
+      ],
+      "openers": []
+    },
+    {
       "showId": "8f2633d9",
       "dateISO": "2026-09-05",
       "startTime": "9:00 PM",
@@ -1358,6 +1360,19 @@
       "openers": [
         "SHEBAD"
       ]
+    },
+    {
+      "showId": "fd510e51",
+      "dateISO": "2026-09-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rules/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Rules"
+      ],
+      "openers": []
     },
     {
       "showId": "224ee565",
@@ -1596,19 +1611,6 @@
       "openers": [
         "Tele Novella"
       ]
-    },
-    {
-      "showId": "952ddd51",
-      "dateISO": "2026-09-20",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/deca-joins/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "deca joins"
-      ],
-      "openers": []
     },
     {
       "showId": "4cb6a096",
@@ -1898,6 +1900,19 @@
       "openers": []
     },
     {
+      "showId": "90749d6e",
+      "dateISO": "2026-10-07",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/stephen-dawes-the-skin-to-skin-tour/697876?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "STEPHEN DAWES - The Skin to Skin Tour"
+      ],
+      "openers": []
+    },
+    {
       "showId": "cec76c21",
       "dateISO": "2026-10-07",
       "startTime": "8:00 PM",
@@ -2138,6 +2153,21 @@
       ],
       "openers": [
         "Emma Ogier"
+      ]
+    },
+    {
+      "showId": "ed7503ad",
+      "dateISO": "2026-10-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/new-constellations/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "New Constellations"
+      ],
+      "openers": [
+        "Vox Rea"
       ]
     },
     {
@@ -2393,7 +2423,9 @@
       "headliners": [
         "Gilla Band"
       ],
-      "openers": []
+      "openers": [
+        "Annie-Claude Deschênes"
+      ]
     },
     {
       "showId": "0ea94193",
@@ -2538,6 +2570,21 @@
       "openers": []
     },
     {
+      "showId": "e12f2614",
+      "dateISO": "2026-11-12",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/jake-minch-the-island-tour/695734?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "JAKE MINCH - The Island Tour"
+      ],
+      "openers": [
+        "Alix Page"
+      ]
+    },
+    {
       "showId": "4e79add1",
       "dateISO": "2026-11-12",
       "startTime": "8:00 PM",
@@ -2562,6 +2609,21 @@
         "Other Lives"
       ],
       "openers": []
+    },
+    {
+      "showId": "b8f03c77",
+      "dateISO": "2026-11-14",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-cactus-blossoms/697167?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Cactus Blossoms"
+      ],
+      "openers": [
+        "Margo Cilker"
+      ]
     },
     {
       "showId": "8b0e17e5",
