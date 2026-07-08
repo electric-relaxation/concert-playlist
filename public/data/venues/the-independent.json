@@ -4,21 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-07T23:53:20.639Z",
+  "generatedAtISO": "2026-07-08T17:23:43.046Z",
   "shows": [
-    {
-      "showId": "c36b220f",
-      "dateISO": "2026-07-06",
-      "startTime": "5:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/world-cup-watch-party-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "World Cup Watch Party"
-      ],
-      "openers": []
-    },
     {
       "showId": "ad2a0537",
       "dateISO": "2026-07-08",
@@ -1080,6 +1067,21 @@
       ]
     },
     {
+      "showId": "acb677cb",
+      "dateISO": "2026-12-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/feeble-little-horse/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "feeble little horse"
+      ],
+      "openers": [
+        "MOP"
+      ]
+    },
+    {
       "showId": "033f56b5",
       "dateISO": "2026-12-10",
       "startTime": "8:00 PM",
@@ -1119,6 +1121,22 @@
         "Swervedriver raise at 35"
       ],
       "openers": []
+    },
+    {
+      "showId": "dc5f5315",
+      "dateISO": "2027-01-08",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/com-truise-b2b-matthew-dear/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Com Truise b2b Matthew Dear"
+      ],
+      "openers": [
+        "Com Truise",
+        "Matthew Dear"
+      ]
     },
     {
       "showId": "b08f4f20",

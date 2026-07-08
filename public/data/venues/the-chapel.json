@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-08T15:13:56.426Z",
+  "generatedAtISO": "2026-07-08T17:23:43.046Z",
   "shows": [
     {
       "showId": "8423c8c9",
@@ -702,7 +702,9 @@
       "headliners": [
         "Lilyisthatyou"
       ],
-      "openers": []
+      "openers": [
+        "James the Seventh"
+      ]
     },
     {
       "showId": "cec76c21",
