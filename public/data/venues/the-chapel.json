@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-08T21:00:22.281Z",
+  "generatedAtISO": "2026-07-08T22:58:52.811Z",
   "shows": [
     {
       "showId": "8423c8c9",
@@ -25,7 +25,7 @@
     {
       "showId": "78007b15",
       "dateISO": "2026-07-11",
-      "startTime": "9:00 PM",
+      "startTime": "9:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/petty-theft/689192?afflky=TheChapel",

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-08T21:00:31.725Z",
+  "generatedAtISO": "2026-07-08T22:59:03.600Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -74,19 +74,6 @@
       "openers": []
     },
     {
-      "showId": "78007b15",
-      "dateISO": "2026-07-11",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/petty-theft/689192?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Petty Theft"
-      ],
-      "openers": []
-    },
-    {
       "showId": "0241f118",
       "dateISO": "2026-07-11",
       "startTime": "9:00 PM",
@@ -96,6 +83,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "The Emo Night Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "78007b15",
+      "dateISO": "2026-07-11",
+      "startTime": "9:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/petty-theft/689192?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Petty Theft"
       ],
       "openers": []
     },
