@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-07T18:57:41.008Z",
+  "generatedAtISO": "2026-07-08T02:07:50.921Z",
   "shows": [
     {
       "showId": "fff4a80d",
@@ -520,10 +520,10 @@
       "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/stephen-dawes-the-skin-to-skin-tour/697876?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/stephen-dawes-presents-the-skin-to-skin-tour/697876?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "STEPHEN DAWES - The Skin to Skin Tour"
+        "STEPHEN DAWES presents The Skin to Skin Tour"
       ],
       "openers": []
     },
