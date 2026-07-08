@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-08T17:23:43.046Z",
+  "generatedAtISO": "2026-07-08T19:15:49.648Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -589,7 +589,9 @@
       "headliners": [
         "West 22nd"
       ],
-      "openers": []
+      "openers": [
+        "Where’s West?"
+      ]
     },
     {
       "showId": "2f0eb9e0",

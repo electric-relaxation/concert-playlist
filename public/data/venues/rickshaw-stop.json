@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-08T02:07:50.921Z",
+  "generatedAtISO": "2026-07-08T19:15:49.648Z",
   "shows": [
     {
       "showId": "fff4a80d",
@@ -466,6 +466,7 @@
         "BE YOUR OWN PET"
       ],
       "openers": [
+        "Fake Dad",
         "Iguana Death Cult"
       ]
     },

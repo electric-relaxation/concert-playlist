@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-08T17:23:52.651Z",
+  "generatedAtISO": "2026-07-08T19:15:59.396Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -1544,6 +1544,7 @@
         "BE YOUR OWN PET"
       ],
       "openers": [
+        "Fake Dad",
         "Iguana Death Cult"
       ]
     },
@@ -1722,7 +1723,9 @@
       "headliners": [
         "West 22nd"
       ],
-      "openers": []
+      "openers": [
+        "Where’s West?"
+      ]
     },
     {
       "showId": "8b94f4c9",
