@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-07T18:57:41.008Z",
+  "generatedAtISO": "2026-07-08T15:13:56.426Z",
   "shows": [
-    {
-      "showId": "cecdc4d3",
-      "dateISO": "2026-07-07",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dylan-leblanc-cautionary-tale-10-year-anniversary-tour/691420?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Dylan LeBlanc: Cautionary Tale 10 Year Anniversary Tour"
-      ],
-      "openers": [
-        "Olivia Wolf"
-      ]
-    },
     {
       "showId": "8423c8c9",
       "dateISO": "2026-07-10",
@@ -1010,7 +995,9 @@
       "headliners": [
         "MADDIE ZAHM"
       ],
-      "openers": []
+      "openers": [
+        "OSTON"
+      ]
     },
     {
       "showId": "f8913335",
