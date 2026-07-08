@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-08T17:23:43.046Z",
+  "generatedAtISO": "2026-07-08T21:00:22.281Z",
   "shows": [
     {
       "showId": "8423c8c9",
@@ -274,6 +274,23 @@
       ],
       "openers": [
         "Shannon Lay"
+      ]
+    },
+    {
+      "showId": "1c100ded",
+      "dateISO": "2026-08-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/robots-of-the-ancient-world/698496?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Robots of the Ancient World"
+      ],
+      "openers": [
+        "The Ghost Next Door",
+        "The Spiral Electric",
+        "Zed"
       ]
     },
     {

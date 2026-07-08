@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-08T19:15:49.648Z",
+  "generatedAtISO": "2026-07-08T21:00:22.281Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -967,7 +967,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/stop-light-observation/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Stop Light Observation"
+        "Stop Light Observations"
       ],
       "openers": []
     },

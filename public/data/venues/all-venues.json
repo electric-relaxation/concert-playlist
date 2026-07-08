@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-08T19:15:59.396Z",
+  "generatedAtISO": "2026-07-08T21:00:31.725Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -670,6 +670,23 @@
         "GRiZ"
       ],
       "openers": []
+    },
+    {
+      "showId": "1c100ded",
+      "dateISO": "2026-08-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/robots-of-the-ancient-world/698496?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Robots of the Ancient World"
+      ],
+      "openers": [
+        "The Ghost Next Door",
+        "The Spiral Electric",
+        "Zed"
+      ]
     },
     {
       "showId": "8ef30a1f",
@@ -2546,7 +2563,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/stop-light-observation/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Stop Light Observation"
+        "Stop Light Observations"
       ],
       "openers": []
     },
