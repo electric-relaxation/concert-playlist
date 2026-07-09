@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-09T00:15:20.130Z",
+  "generatedAtISO": "2026-07-09T04:46:03.584Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -61,15 +61,28 @@
       ]
     },
     {
+      "showId": "5a9dd3d4",
+      "dateISO": "2026-07-11",
+      "startTime": "1:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-norway-vs-england-in-curio-and-our-main-bar/698536?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Norway vs. England in Curio & Our Main Bar"
+      ],
+      "openers": []
+    },
+    {
       "showId": "7ab7cc05",
       "dateISO": "2026-07-11",
       "startTime": "6:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-switzerland-on-the-chapels-big-screen/698536?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/Watch-Switzerland-vs-Argentina-on-The-Chapels-Big-Screen/698549?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Argentina vs. Switzerland on The Chapel's Big Screen"
+        "Watch Switzerland vs. Argentina on The Chapel's Big Screen"
       ],
       "openers": []
     },
