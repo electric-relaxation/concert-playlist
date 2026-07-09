@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-08T22:58:52.811Z",
+  "generatedAtISO": "2026-07-09T00:15:10.742Z",
   "shows": [
     {
       "showId": "8423c8c9",
@@ -21,6 +21,19 @@
         "Bentley Robles",
         "TeZATalks"
       ]
+    },
+    {
+      "showId": "7ab7cc05",
+      "dateISO": "2026-07-11",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-argentina-vs-switzerland-on-the-chapels-big-screen/698536?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Argentina vs. Switzerland on The Chapel's Big Screen"
+      ],
+      "openers": []
     },
     {
       "showId": "78007b15",
