@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-09T04:46:03.584Z",
+  "generatedAtISO": "2026-07-09T17:16:31.125Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -187,7 +187,7 @@
     {
       "showId": "4159e055",
       "dateISO": "2026-07-16",
-      "startTime": "8:00 PM",
+      "startTime": "7:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://www.kqed.org/event/6586",
@@ -1405,6 +1405,21 @@
         "HOUSE OF HEAVY"
       ],
       "openers": []
+    },
+    {
+      "showId": "0df414eb",
+      "dateISO": "2026-09-11",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/acid-tongue-the-farewell-show/698511?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Acid Tongue: the Farewell Show"
+      ],
+      "openers": [
+        "Los Dug Dug's"
+      ]
     },
     {
       "showId": "035eddb4",

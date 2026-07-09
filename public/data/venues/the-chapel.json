@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-09T04:45:54.217Z",
+  "generatedAtISO": "2026-07-09T17:16:21.674Z",
   "shows": [
     {
       "showId": "8423c8c9",
@@ -110,7 +110,7 @@
     {
       "showId": "4159e055",
       "dateISO": "2026-07-16",
-      "startTime": "8:00 PM",
+      "startTime": "7:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://www.kqed.org/event/6586",
@@ -590,6 +590,21 @@
       ],
       "openers": [
         "Drink The Sea"
+      ]
+    },
+    {
+      "showId": "0df414eb",
+      "dateISO": "2026-09-11",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/acid-tongue-the-farewell-show/698511?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Acid Tongue: the Farewell Show"
+      ],
+      "openers": [
+        "Los Dug Dug's"
       ]
     },
     {
