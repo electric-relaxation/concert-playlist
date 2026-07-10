@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-09T19:28:46.433Z",
+  "generatedAtISO": "2026-07-10T18:18:55.115Z",
   "shows": [
     {
       "showId": "8423c8c9",
@@ -733,6 +733,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Soda Blonde"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "14486166",
+      "dateISO": "2026-10-02",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/lyrics-born/698388?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Lyrics Born"
       ],
       "openers": []
     },

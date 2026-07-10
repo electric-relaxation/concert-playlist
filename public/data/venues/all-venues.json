@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-10T02:27:52.179Z",
+  "generatedAtISO": "2026-07-10T18:19:03.914Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -1887,6 +1887,19 @@
       "openers": []
     },
     {
+      "showId": "14486166",
+      "dateISO": "2026-10-02",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/lyrics-born/698388?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Lyrics Born"
+      ],
+      "openers": []
+    },
+    {
       "showId": "2a2d4b8f",
       "dateISO": "2026-10-03",
       "startTime": "9:00 PM",
@@ -2616,10 +2629,10 @@
       "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/jake-minch-the-island-tour/695734?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/jake-minch-getting-big-tour/695734?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "JAKE MINCH - The Island Tour"
+        "JAKE MINCH - Getting Big Tour"
       ],
       "openers": [
         "Alix Page"
