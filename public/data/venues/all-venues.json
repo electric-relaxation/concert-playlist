@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-09T19:28:57.851Z",
+  "generatedAtISO": "2026-07-10T02:27:52.179Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -790,7 +790,9 @@
       "headliners": [
         "PLAYLUNCH"
       ],
-      "openers": []
+      "openers": [
+        "Sego"
+      ]
     },
     {
       "showId": "326adf57",
