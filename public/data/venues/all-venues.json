@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-10T18:19:03.914Z",
+  "generatedAtISO": "2026-07-10T20:17:43.115Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -2967,6 +2967,19 @@
       "openers": [
         "DJ Omar Perez (Popscene)"
       ]
+    },
+    {
+      "showId": "1da58f98",
+      "dateISO": "2027-01-23",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/pete-floyd/698706?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Pete Floyd"
+      ],
+      "openers": []
     },
     {
       "showId": "b08f4f20",
