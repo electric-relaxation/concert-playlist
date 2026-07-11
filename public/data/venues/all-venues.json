@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-11T07:45:59.838Z",
+  "generatedAtISO": "2026-07-11T21:42:44.322Z",
   "shows": [
     {
       "showId": "ad2a0537",
@@ -1255,7 +1255,10 @@
       "headliners": [
         "MINI TREES"
       ],
-      "openers": []
+      "openers": [
+        "Coral Grief",
+        "opener tba"
+      ]
     },
     {
       "showId": "ce2f0d49",

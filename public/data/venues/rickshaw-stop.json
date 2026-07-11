@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-10T18:18:55.115Z",
+  "generatedAtISO": "2026-07-11T21:42:33.400Z",
   "shows": [
     {
       "showId": "fff4a80d",
@@ -348,7 +348,10 @@
       "headliners": [
         "MINI TREES"
       ],
-      "openers": []
+      "openers": [
+        "Coral Grief",
+        "opener tba"
+      ]
     },
     {
       "showId": "f7293b0b",
