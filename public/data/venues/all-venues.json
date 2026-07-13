@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-13T18:28:45.014Z",
+  "generatedAtISO": "2026-07-13T20:08:24.270Z",
   "shows": [
     {
       "showId": "dcf47476",
@@ -161,6 +161,19 @@
         "Los So-Lows",
         "Sweet Lew"
       ]
+    },
+    {
+      "showId": "1e8639a0",
+      "dateISO": "2026-07-19",
+      "startTime": "12:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-soccer-on-the-chapels-big-screen/698948?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Soccer on The Chapel's Big Screen"
+      ],
+      "openers": []
     },
     {
       "showId": "45a71315",
@@ -1800,7 +1813,9 @@
       "headliners": [
         "Rum Jungle"
       ],
-      "openers": []
+      "openers": [
+        "Trestles"
+      ]
     },
     {
       "showId": "7dae82f0",
@@ -1984,6 +1999,19 @@
       "openers": [
         "Donzii"
       ]
+    },
+    {
+      "showId": "bf1f5769",
+      "dateISO": "2026-10-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/juice/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Juice"
+      ],
+      "openers": []
     },
     {
       "showId": "e86e778e",

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-13T18:28:35.585Z",
+  "generatedAtISO": "2026-07-13T20:08:14.399Z",
   "shows": [
     {
       "showId": "cc1e8f63",
@@ -713,6 +713,19 @@
       "openers": [
         "Donzii"
       ]
+    },
+    {
+      "showId": "bf1f5769",
+      "dateISO": "2026-10-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/juice/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Juice"
+      ],
+      "openers": []
     },
     {
       "showId": "9dd38e31",
