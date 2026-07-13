@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-13T16:25:57.406Z",
+  "generatedAtISO": "2026-07-13T18:28:45.014Z",
   "shows": [
     {
       "showId": "dcf47476",
@@ -1187,6 +1187,19 @@
       "openers": [
         "Drink The Sea"
       ]
+    },
+    {
+      "showId": "d9c7d726",
+      "dateISO": "2026-09-05",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-12/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
+      ],
+      "openers": []
     },
     {
       "showId": "da6ad127",
@@ -2916,6 +2929,19 @@
       "openers": [
         "Frayle"
       ]
+    },
+    {
+      "showId": "015c7829",
+      "dateISO": "2027-03-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dan-and-peggy-reeder/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Dan and Peggy Reeder"
+      ],
+      "openers": []
     },
     {
       "showId": "f6d388e7",
