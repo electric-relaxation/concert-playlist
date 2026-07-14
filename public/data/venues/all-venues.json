@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-14T13:20:33.699Z",
+  "generatedAtISO": "2026-07-14T15:19:30.042Z",
   "shows": [
     {
       "showId": "dcf47476",
@@ -1171,7 +1171,9 @@
       "headliners": [
         "ALAN VUONG"
       ],
-      "openers": []
+      "openers": [
+        "elias"
+      ]
     },
     {
       "showId": "bde09429",
