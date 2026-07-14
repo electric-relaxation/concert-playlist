@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-14T19:09:59.171Z",
+  "generatedAtISO": "2026-07-14T22:52:31.935Z",
   "shows": [
     {
       "showId": "dcf47476",
@@ -168,12 +168,14 @@
       "startTime": "12:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-soccer-on-the-chapels-big-screen/698948?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-spain-vs-englandargentina-on-the-chapels-big-screen/698948?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Soccer on The Chapel's Big Screen"
+        "Watch Spain vs. England/Argentina on The Chapel's Big Screen"
       ],
-      "openers": []
+      "openers": [
+        "DJ Sets by Travie Bobbito (Love Supreme)"
+      ]
     },
     {
       "showId": "45a71315",
