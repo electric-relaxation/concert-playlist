@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-13T20:08:24.270Z",
+  "generatedAtISO": "2026-07-14T13:20:33.699Z",
   "shows": [
     {
       "showId": "dcf47476",
@@ -743,6 +743,19 @@
       "openers": [
         "Pink Skies"
       ]
+    },
+    {
+      "showId": "603011f4",
+      "dateISO": "2026-08-15",
+      "startTime": "9:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/haus-party-san-francisco/699067?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HAUS PARTY SAN FRANCISCO"
+      ],
+      "openers": []
     },
     {
       "showId": "df6318f3",
