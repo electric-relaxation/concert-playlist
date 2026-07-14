@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-13T20:08:14.399Z",
+  "generatedAtISO": "2026-07-14T17:07:47.255Z",
   "shows": [
     {
       "showId": "cc1e8f63",
@@ -1063,6 +1063,19 @@
       "openers": [
         "DJ Harry Duncan"
       ]
+    },
+    {
+      "showId": "efb5b8de",
+      "dateISO": "2026-12-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/fireworks/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Fireworks"
+      ],
+      "openers": []
     },
     {
       "showId": "acb677cb",

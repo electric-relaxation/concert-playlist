@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-13T20:08:14.399Z",
+  "generatedAtISO": "2026-07-14T17:07:47.255Z",
   "shows": [
     {
       "showId": "dcf47476",
@@ -566,6 +566,21 @@
       ]
     },
     {
+      "showId": "eebd9a5d",
+      "dateISO": "2026-09-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/magic-sword/698674?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Magic Sword"
+      ],
+      "openers": [
+        "Skylimit"
+      ]
+    },
+    {
       "showId": "4617c82f",
       "dateISO": "2026-09-18",
       "startTime": "9:00 PM",
@@ -959,6 +974,19 @@
         "Grade 2",
         "Modern English"
       ]
+    },
+    {
+      "showId": "9df65d69",
+      "dateISO": "2026-11-12",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/marc-broussard/694235?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Marc Broussard"
+      ],
+      "openers": []
     },
     {
       "showId": "9002f093",

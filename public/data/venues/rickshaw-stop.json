@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-14T15:19:20.731Z",
+  "generatedAtISO": "2026-07-14T17:07:47.255Z",
   "shows": [
     {
       "showId": "e7bcca1e",
@@ -495,6 +495,19 @@
       ]
     },
     {
+      "showId": "7765d9b1",
+      "dateISO": "2026-09-25",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/cain-culto/698041?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CAIN CULTO"
+      ],
+      "openers": []
+    },
+    {
       "showId": "8b94f4c9",
       "dateISO": "2026-09-29",
       "startTime": "8:00 PM",
@@ -661,6 +674,21 @@
         "L'RAIN"
       ],
       "openers": []
+    },
+    {
+      "showId": "a7a5ae68",
+      "dateISO": "2026-12-09",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/jessica-lea-mayfield/698043?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "JESSICA LEA MAYFIELD"
+      ],
+      "openers": [
+        "Horsepower"
+      ]
     },
     {
       "showId": "8c443f13",
