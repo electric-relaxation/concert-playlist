@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-14T22:52:31.935Z",
+  "generatedAtISO": "2026-07-15T01:53:33.352Z",
   "shows": [
     {
       "showId": "dcf47476",
@@ -812,6 +812,19 @@
       "openers": [
         "Tianna Esperanza"
       ]
+    },
+    {
+      "showId": "976cac73",
+      "dateISO": "2026-08-18",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-163/699215?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF #163"
+      ],
+      "openers": []
     },
     {
       "showId": "64f4d148",
