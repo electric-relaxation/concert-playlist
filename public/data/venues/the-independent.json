@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-15T17:10:52.982Z",
+  "generatedAtISO": "2026-07-15T22:53:36.899Z",
   "shows": [
     {
       "showId": "cc1e8f63",
@@ -135,7 +135,9 @@
       "headliners": [
         "Clipse"
       ],
-      "openers": []
+      "openers": [
+        "Fijiana"
+      ]
     },
     {
       "showId": "6e0adeba",

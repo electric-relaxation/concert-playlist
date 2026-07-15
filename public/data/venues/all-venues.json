@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-15T21:53:20.944Z",
+  "generatedAtISO": "2026-07-15T22:53:46.219Z",
   "shows": [
     {
       "showId": "e7bcca1e",
@@ -542,7 +542,9 @@
       "headliners": [
         "Clipse"
       ],
-      "openers": []
+      "openers": [
+        "Fijiana"
+      ]
     },
     {
       "showId": "6e0adeba",
