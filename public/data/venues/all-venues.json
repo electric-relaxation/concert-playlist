@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-15T01:53:33.352Z",
+  "generatedAtISO": "2026-07-15T17:11:05.353Z",
   "shows": [
     {
       "showId": "dcf47476",
@@ -2337,6 +2337,19 @@
       ]
     },
     {
+      "showId": "ca9a1331",
+      "dateISO": "2026-10-26",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/psyched-fest-with-wine-lips/698688?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "PSYCHED! FEST with WINE LIPS"
+      ],
+      "openers": []
+    },
+    {
       "showId": "43a95dbe",
       "dateISO": "2026-10-26",
       "startTime": "8:00 PM",
@@ -2952,6 +2965,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Swervedriver raise at 35"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ebac9c1d",
+      "dateISO": "2026-12-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/willi-carlisle-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Willi Carlisle"
       ],
       "openers": []
     },
