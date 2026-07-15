@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-15T17:11:05.353Z",
+  "generatedAtISO": "2026-07-15T20:53:47.303Z",
   "shows": [
     {
       "showId": "dcf47476",
@@ -2978,6 +2978,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Willi Carlisle"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e6562674",
+      "dateISO": "2026-12-15",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/ruby-haunt/697882?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Ruby Haunt"
       ],
       "openers": []
     },
