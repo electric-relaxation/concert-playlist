@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-14T22:52:20.848Z",
+  "generatedAtISO": "2026-07-15T21:53:11.504Z",
   "shows": [
-    {
-      "showId": "dcf47476",
-      "dateISO": "2026-07-14",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/mohama-saz/689840?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Mohama Saz"
-      ],
-      "openers": [
-        "Ritmos Tropicosmos",
-        "The Seismics"
-      ]
-    },
     {
       "showId": "c72c7896",
       "dateISO": "2026-07-15",
@@ -89,10 +73,10 @@
       "startTime": "12:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-spain-vs-englandargentina-on-the-chapels-big-screen/698948?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-spain-vs-argentina-on-the-chapels-big-screen/698948?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Spain vs. England/Argentina on The Chapel's Big Screen"
+        "Watch Spain vs. Argentina on The Chapel's Big Screen"
       ],
       "openers": [
         "DJ Sets by Travie Bobbito (Love Supreme)"
