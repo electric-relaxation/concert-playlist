@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-15T22:53:36.899Z",
+  "generatedAtISO": "2026-07-16T22:52:12.829Z",
   "shows": [
     {
       "showId": "cc1e8f63",
@@ -17,7 +17,9 @@
       "headliners": [
         "bad tuner x veggi"
       ],
-      "openers": []
+      "openers": [
+        "STARFARI"
+      ]
     },
     {
       "showId": "f3d78f20",

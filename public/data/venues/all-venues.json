@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-07-16T19:58:12.142Z",
+  "generatedAtISO": "2026-07-16T22:52:21.033Z",
   "shows": [
-    {
-      "showId": "c72c7896",
-      "dateISO": "2026-07-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/inara-george-the-bird-and-the-bee-w-guest-eleni-mandell/684441?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Inara George (The Bird and the Bee) w/ Guest Eleni Mandell"
-      ],
-      "openers": [
-        "Asha Wells"
-      ]
-    },
     {
       "showId": "4159e055",
       "dateISO": "2026-07-16",
@@ -89,7 +74,9 @@
       "headliners": [
         "bad tuner x veggi"
       ],
-      "openers": []
+      "openers": [
+        "STARFARI"
+      ]
     },
     {
       "showId": "a21045a0",
@@ -2581,10 +2568,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/buzzcocks-celebrating-50-years-of-buzzcocks/695321?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695321?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Buzzcocks: Celebrating 50 Years of Buzzcocks"
+        "Celebrating 50 Years of Buzzcocks"
       ],
       "openers": [
         "Grade 2",
