@@ -1,19 +1,6 @@
 {
-  "generatedAtISO": "2026-07-16T05:34:09.188Z",
+  "generatedAtISO": "2026-07-16T19:58:12.142Z",
   "shows": [
-    {
-      "showId": "e7bcca1e",
-      "dateISO": "2026-07-15",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-162/696615?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Nerd Nite SF #162"
-      ],
-      "openers": []
-    },
     {
       "showId": "c72c7896",
       "dateISO": "2026-07-15",
@@ -71,7 +58,9 @@
       "headliners": [
         "AKRIILA"
       ],
-      "openers": []
+      "openers": [
+        "Heartgaze"
+      ]
     },
     {
       "showId": "b7f0f911",
