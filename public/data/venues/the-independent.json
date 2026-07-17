@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-17T02:06:48.205Z",
+  "generatedAtISO": "2026-07-17T22:42:18.085Z",
   "shows": [
     {
       "showId": "cc1e8f63",
@@ -152,7 +152,9 @@
       "headliners": [
         "GRiZ"
       ],
-      "openers": []
+      "openers": [
+        "Vyhara"
+      ]
     },
     {
       "showId": "ff38eaa0",

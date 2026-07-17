@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-17T19:17:58.795Z",
+  "generatedAtISO": "2026-07-17T22:42:28.138Z",
   "shows": [
     {
       "showId": "ca083bc2",
@@ -532,7 +532,9 @@
       "headliners": [
         "GRiZ"
       ],
-      "openers": []
+      "openers": [
+        "Vyhara"
+      ]
     },
     {
       "showId": "1c100ded",
