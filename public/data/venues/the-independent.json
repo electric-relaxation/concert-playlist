@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-16T22:52:12.829Z",
+  "generatedAtISO": "2026-07-17T02:06:48.205Z",
   "shows": [
     {
       "showId": "cc1e8f63",
@@ -165,7 +165,9 @@
       "headliners": [
         "Goldie Boutilier"
       ],
-      "openers": []
+      "openers": [
+        "Mama Celeste"
+      ]
     },
     {
       "showId": "f920d234",

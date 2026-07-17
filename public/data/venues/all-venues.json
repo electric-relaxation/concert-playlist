@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-16T22:52:21.033Z",
+  "generatedAtISO": "2026-07-17T02:06:57.612Z",
   "shows": [
     {
       "showId": "4159e055",
@@ -577,7 +577,9 @@
       "headliners": [
         "Goldie Boutilier"
       ],
-      "openers": []
+      "openers": [
+        "Mama Celeste"
+      ]
     },
     {
       "showId": "dc271919",
