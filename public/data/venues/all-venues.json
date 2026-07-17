@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-07-17T02:06:57.612Z",
+  "generatedAtISO": "2026-07-17T17:59:31.544Z",
   "shows": [
-    {
-      "showId": "4159e055",
-      "dateISO": "2026-07-16",
-      "startTime": "7:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://www.kqed.org/event/6586",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "La Doña & Friends"
-      ],
-      "openers": [
-        "Featuring Mxka and Louie El Ser"
-      ]
-    },
     {
       "showId": "ca083bc2",
       "dateISO": "2026-07-16",
@@ -1141,6 +1126,22 @@
       "openers": []
     },
     {
+      "showId": "3fe8ceb9",
+      "dateISO": "2026-09-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/pink-breath-of-heaven/699433?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Pink Breath of Heaven"
+      ],
+      "openers": [
+        "Chime School",
+        "r.image"
+      ]
+    },
+    {
       "showId": "f7293b0b",
       "dateISO": "2026-09-04",
       "startTime": "9:00 PM",
@@ -1250,6 +1251,22 @@
       ],
       "openers": [
         "Ruby Plume"
+      ]
+    },
+    {
+      "showId": "572ade80",
+      "dateISO": "2026-09-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/pink-breath-of-heaven/699436?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Pink Breath of Heaven"
+      ],
+      "openers": [
+        "Christina's Trip",
+        "Topographies"
       ]
     },
     {
