@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-17T22:42:28.138Z",
+  "generatedAtISO": "2026-07-19T05:45:23.592Z",
   "shows": [
     {
       "showId": "ca083bc2",
@@ -30,22 +30,6 @@
       ],
       "openers": [
         "Heartgaze"
-      ]
-    },
-    {
-      "showId": "b7f0f911",
-      "dateISO": "2026-07-17",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dead-souls-a-tribute-to-joy-division/688000?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Dead Souls: A Tribute to Joy Division"
-      ],
-      "openers": [
-        "DJ Starr Noir (Nightshift)",
-        "Voodoo Dolly: Black Siouxsie Tribute"
       ]
     },
     {
@@ -902,7 +886,7 @@
     {
       "showId": "99b87ab8",
       "dateISO": "2026-08-22",
-      "startTime": "9:00 PM",
+      "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/cocteaufest-sf-night-2-with-simon-raymonde-dj-set/684955?afflky=TheChapel",
