@@ -4,54 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-17T22:42:18.085Z",
+  "generatedAtISO": "2026-07-20T22:53:31.480Z",
   "shows": [
-    {
-      "showId": "cc1e8f63",
-      "dateISO": "2026-07-17",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bad-tuner-x-veggi/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "bad tuner x veggi"
-      ],
-      "openers": [
-        "STARFARI"
-      ]
-    },
-    {
-      "showId": "f3d78f20",
-      "dateISO": "2026-07-18",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/los-tranquilos/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Los Tranquilos"
-      ],
-      "openers": [
-        "Los So-Lows",
-        "Sweet Lew"
-      ]
-    },
-    {
-      "showId": "960d41a4",
-      "dateISO": "2026-07-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/chinese-american-bear/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Chinese American Bear"
-      ],
-      "openers": [
-        "Indigo Elephant"
-      ]
-    },
     {
       "showId": "99737836",
       "dateISO": "2026-07-23",
@@ -109,7 +63,9 @@
       "headliners": [
         "Chandol"
       ],
-      "openers": []
+      "openers": [
+        "Meyru"
+      ]
     },
     {
       "showId": "562374f1",
