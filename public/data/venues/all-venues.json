@@ -1,37 +1,6 @@
 {
-  "generatedAtISO": "2026-07-19T05:45:23.592Z",
+  "generatedAtISO": "2026-07-20T19:36:57.763Z",
   "shows": [
-    {
-      "showId": "ca083bc2",
-      "dateISO": "2026-07-16",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/bed-bug-guru/689438?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Bed Bug Guru"
-      ],
-      "openers": [
-        "Blous3",
-        "Welcome Strawberry"
-      ]
-    },
-    {
-      "showId": "f801ac13",
-      "dateISO": "2026-07-17",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/akriila/690533?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "AKRIILA"
-      ],
-      "openers": [
-        "Heartgaze"
-      ]
-    },
     {
       "showId": "cc1e8f63",
       "dateISO": "2026-07-17",
@@ -57,19 +26,6 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Watch France vs. England in Curio Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "a21045a0",
-      "dateISO": "2026-07-18",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/696009?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
       ],
       "openers": []
     },
@@ -1478,7 +1434,10 @@
       "headliners": [
         "SWEEPING PROMISES"
       ],
-      "openers": []
+      "openers": [
+        "Fake Fruit",
+        "System Exclusive"
+      ]
     },
     {
       "showId": "4617c82f",

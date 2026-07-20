@@ -4,52 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-16T19:58:03.509Z",
+  "generatedAtISO": "2026-07-20T19:36:48.424Z",
   "shows": [
-    {
-      "showId": "ca083bc2",
-      "dateISO": "2026-07-16",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/bed-bug-guru/689438?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Bed Bug Guru"
-      ],
-      "openers": [
-        "Blous3",
-        "Welcome Strawberry"
-      ]
-    },
-    {
-      "showId": "f801ac13",
-      "dateISO": "2026-07-17",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/akriila/690533?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "AKRIILA"
-      ],
-      "openers": [
-        "Heartgaze"
-      ]
-    },
-    {
-      "showId": "a21045a0",
-      "dateISO": "2026-07-18",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/696009?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": []
-    },
     {
       "showId": "cdaf89d7",
       "dateISO": "2026-07-23",
@@ -448,7 +404,10 @@
       "headliners": [
         "SWEEPING PROMISES"
       ],
-      "openers": []
+      "openers": [
+        "Fake Fruit",
+        "System Exclusive"
+      ]
     },
     {
       "showId": "650696d9",
