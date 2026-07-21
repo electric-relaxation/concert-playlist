@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-21T17:10:33.695Z",
+  "generatedAtISO": "2026-07-21T19:10:46.220Z",
   "shows": [
     {
       "showId": "288a4c30",
@@ -738,6 +738,19 @@
         "Mocteau Twins",
         "Sugar Hiccup"
       ]
+    },
+    {
+      "showId": "00853b20",
+      "dateISO": "2026-08-22",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/699608?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
     },
     {
       "showId": "fc224129",
@@ -1982,6 +1995,19 @@
       "openers": []
     },
     {
+      "showId": "30d8c59f",
+      "dateISO": "2026-10-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/raaginder/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Raaginder"
+      ],
+      "openers": []
+    },
+    {
       "showId": "ddb0e605",
       "dateISO": "2026-10-19",
       "startTime": "8:00 PM",
@@ -2282,6 +2308,19 @@
       "openers": [
         "HABITAAT"
       ]
+    },
+    {
+      "showId": "dadf1e90",
+      "dateISO": "2026-11-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/six60/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "SIX60"
+      ],
+      "openers": []
     },
     {
       "showId": "fa745e1f",

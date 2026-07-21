@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-21T17:10:24.574Z",
+  "generatedAtISO": "2026-07-21T19:10:36.328Z",
   "shows": [
     {
       "showId": "99737836",
@@ -720,6 +720,19 @@
       "openers": []
     },
     {
+      "showId": "30d8c59f",
+      "dateISO": "2026-10-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/raaginder/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Raaginder"
+      ],
+      "openers": []
+    },
+    {
       "showId": "ed7503ad",
       "dateISO": "2026-10-19",
       "startTime": "8:00 PM",
@@ -858,6 +871,19 @@
       "openers": [
         "HABITAAT"
       ]
+    },
+    {
+      "showId": "dadf1e90",
+      "dateISO": "2026-11-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/six60/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "SIX60"
+      ],
+      "openers": []
     },
     {
       "showId": "fa745e1f",

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-20T19:36:48.424Z",
+  "generatedAtISO": "2026-07-21T19:10:36.328Z",
   "shows": [
     {
       "showId": "cdaf89d7",
@@ -233,6 +233,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "LCD Soundsystem vs Daft Punk night"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "00853b20",
+      "dateISO": "2026-08-22",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/699608?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
       ],
       "openers": []
     },
