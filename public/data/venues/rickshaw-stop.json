@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-21T19:10:36.328Z",
+  "generatedAtISO": "2026-07-21T22:49:33.129Z",
   "shows": [
     {
       "showId": "cdaf89d7",
@@ -84,7 +84,8 @@
       ],
       "openers": [
         "Kill Em All",
-        "Way of Earth",
+        "MAUL",
+        "WAY OF EARTH",
         "Wrecking Unit"
       ]
     },
