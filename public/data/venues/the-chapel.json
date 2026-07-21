@@ -4,80 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-19T05:45:15.101Z",
+  "generatedAtISO": "2026-07-21T17:10:24.574Z",
   "shows": [
-    {
-      "showId": "919ec046",
-      "dateISO": "2026-07-18",
-      "startTime": "2:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-france-vs-england-in-curio-bar/699523?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch France vs. England in Curio Bar"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "337346a9",
-      "dateISO": "2026-07-18",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/futurebirds/692839?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Futurebirds"
-      ],
-      "openers": [
-        "Deloyd Elze"
-      ]
-    },
-    {
-      "showId": "1e8639a0",
-      "dateISO": "2026-07-19",
-      "startTime": "12:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-spain-vs-argentina-on-the-chapels-big-screen/698948?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Spain vs. Argentina on The Chapel's Big Screen"
-      ],
-      "openers": [
-        "DJ Sets by Travie Bobbito (Love Supreme)"
-      ]
-    },
-    {
-      "showId": "45a71315",
-      "dateISO": "2026-07-19",
-      "startTime": "2:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/love-supreme-summer-day-party-series/697524?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "LOVE SUPREME Summer Day Party Series"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "95f9dbad",
-      "dateISO": "2026-07-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/babe-rainbow/689075?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Babe Rainbow"
-      ],
-      "openers": [
-        "DJ Walkin' Love",
-        "Sam Blasucci"
-      ]
-    },
     {
       "showId": "288a4c30",
       "dateISO": "2026-07-22",
@@ -822,7 +750,9 @@
       "headliners": [
         "The Devil Makes Three"
       ],
-      "openers": []
+      "openers": [
+        "Two Runner"
+      ]
     },
     {
       "showId": "46ea37cc",
@@ -835,7 +765,9 @@
       "headliners": [
         "The Devil Makes Three"
       ],
-      "openers": []
+      "openers": [
+        "Two Runner"
+      ]
     },
     {
       "showId": "4b08a48e",

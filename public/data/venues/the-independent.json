@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-20T22:53:31.480Z",
+  "generatedAtISO": "2026-07-21T17:10:24.574Z",
   "shows": [
     {
       "showId": "99737836",
@@ -888,6 +888,21 @@
       "openers": [
         "Buddha Trixie",
         "Flight By Nothing"
+      ]
+    },
+    {
+      "showId": "dfe5bd6b",
+      "dateISO": "2026-11-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/greg-freeman/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Greg Freeman"
+      ],
+      "openers": [
+        "Trinity Ace"
       ]
     },
     {
