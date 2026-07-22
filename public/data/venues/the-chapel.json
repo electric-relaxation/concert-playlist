@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-22T17:10:36.228Z",
+  "generatedAtISO": "2026-07-22T20:59:06.664Z",
   "shows": [
     {
       "showId": "288a4c30",
@@ -917,6 +917,22 @@
         "Alex Cameron"
       ],
       "openers": []
+    },
+    {
+      "showId": "3a1b0959",
+      "dateISO": "2026-11-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695312?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Celebrating 50 Years of Buzzcocks"
+      ],
+      "openers": [
+        "Grade 2",
+        "Modern English"
+      ]
     },
     {
       "showId": "6922e43a",

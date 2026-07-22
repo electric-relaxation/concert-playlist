@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-22T17:10:36.228Z",
+  "generatedAtISO": "2026-07-22T20:59:06.664Z",
   "shows": [
     {
       "showId": "cdaf89d7",
@@ -405,7 +405,9 @@
       "headliners": [
         "AMERICAN AQUARIUM"
       ],
-      "openers": []
+      "openers": [
+        "Buffalo Nichols"
+      ]
     },
     {
       "showId": "a0c3601b",
