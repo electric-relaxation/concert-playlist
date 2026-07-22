@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-21T17:10:24.574Z",
+  "generatedAtISO": "2026-07-22T17:10:36.228Z",
   "shows": [
     {
       "showId": "288a4c30",
@@ -480,6 +480,19 @@
       ]
     },
     {
+      "showId": "694af068",
+      "dateISO": "2026-09-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Bobby Bare Jr. (of Guided By Voices)"
+      ],
+      "openers": []
+    },
+    {
       "showId": "eebd9a5d",
       "dateISO": "2026-09-16",
       "startTime": "8:00 PM",
@@ -564,6 +577,34 @@
       "openers": [
         "Poppy Jean Crawford"
       ]
+    },
+    {
+      "showId": "481679dc",
+      "dateISO": "2026-09-25",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/rose-city-band/699837?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Rose City Band"
+      ],
+      "openers": [
+        "Rain Parade"
+      ]
+    },
+    {
+      "showId": "5871c7f3",
+      "dateISO": "2026-09-26",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Rose-City-Band/699842?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Rose City Band"
+      ],
+      "openers": []
     },
     {
       "showId": "b06a9502",

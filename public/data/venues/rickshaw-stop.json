@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-21T22:49:33.129Z",
+  "generatedAtISO": "2026-07-22T17:10:36.228Z",
   "shows": [
     {
       "showId": "cdaf89d7",
@@ -470,6 +470,19 @@
       ]
     },
     {
+      "showId": "ccccc21a",
+      "dateISO": "2026-09-24",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mei-ehara/699620?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MEI EHARA"
+      ],
+      "openers": []
+    },
+    {
       "showId": "7765d9b1",
       "dateISO": "2026-09-25",
       "startTime": "9:00 PM",
@@ -603,7 +616,9 @@
       "headliners": [
         "THE TUBS"
       ],
-      "openers": []
+      "openers": [
+        "Touch Girl Apple Blossom"
+      ]
     },
     {
       "showId": "6afa1ff1",

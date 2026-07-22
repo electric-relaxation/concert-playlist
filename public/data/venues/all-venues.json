@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-21T22:49:41.051Z",
+  "generatedAtISO": "2026-07-22T17:10:50.051Z",
   "shows": [
     {
       "showId": "288a4c30",
@@ -1235,6 +1235,19 @@
       "openers": []
     },
     {
+      "showId": "694af068",
+      "dateISO": "2026-09-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Bobby Bare Jr. (of Guided By Voices)"
+      ],
+      "openers": []
+    },
+    {
       "showId": "a0ef2173",
       "dateISO": "2026-09-15",
       "startTime": "8:00 PM",
@@ -1520,6 +1533,19 @@
       "openers": []
     },
     {
+      "showId": "ccccc21a",
+      "dateISO": "2026-09-24",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mei-ehara/699620?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MEI EHARA"
+      ],
+      "openers": []
+    },
+    {
       "showId": "64f27fea",
       "dateISO": "2026-09-24",
       "startTime": "8:00 PM",
@@ -1546,6 +1572,21 @@
       "openers": []
     },
     {
+      "showId": "481679dc",
+      "dateISO": "2026-09-25",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/rose-city-band/699837?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Rose City Band"
+      ],
+      "openers": [
+        "Rain Parade"
+      ]
+    },
+    {
       "showId": "1b52b4c4",
       "dateISO": "2026-09-25",
       "startTime": "9:00 PM",
@@ -1555,6 +1596,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "In Color"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5871c7f3",
+      "dateISO": "2026-09-26",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Rose-City-Band/699842?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Rose City Band"
       ],
       "openers": []
     },
@@ -2293,7 +2347,9 @@
       "headliners": [
         "THE TUBS"
       ],
-      "openers": []
+      "openers": [
+        "Touch Girl Apple Blossom"
+      ]
     },
     {
       "showId": "b02ef305",
