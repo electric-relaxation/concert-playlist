@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-21T19:10:36.328Z",
+  "generatedAtISO": "2026-07-22T19:04:27.406Z",
   "shows": [
     {
       "showId": "99737836",
@@ -222,7 +222,10 @@
       "headliners": [
         "Niina Soleil"
       ],
-      "openers": []
+      "openers": [
+        "Camille Trust",
+        "Rex & The Rhythm"
+      ]
     },
     {
       "showId": "fc224129",

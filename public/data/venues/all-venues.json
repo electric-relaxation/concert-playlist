@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-22T17:10:50.051Z",
+  "generatedAtISO": "2026-07-22T19:04:36.893Z",
   "shows": [
     {
       "showId": "288a4c30",
@@ -722,7 +722,10 @@
       "headliners": [
         "Niina Soleil"
       ],
-      "openers": []
+      "openers": [
+        "Camille Trust",
+        "Rex & The Rhythm"
+      ]
     },
     {
       "showId": "99b87ab8",
