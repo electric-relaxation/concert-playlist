@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-22T22:07:43.160Z",
+  "generatedAtISO": "2026-07-22T23:57:11.111Z",
   "shows": [
     {
       "showId": "288a4c30",
@@ -96,7 +96,9 @@
       "headliners": [
         "The Crosseyed"
       ],
-      "openers": []
+      "openers": [
+        "DJ Walkin' Love"
+      ]
     },
     {
       "showId": "9068c99a",
