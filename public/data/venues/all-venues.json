@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-22T23:57:19.209Z",
+  "generatedAtISO": "2026-07-23T02:40:33.840Z",
   "shows": [
     {
       "showId": "288a4c30",
@@ -477,6 +477,19 @@
       "openers": [
         "Maria BC"
       ]
+    },
+    {
+      "showId": "91b634a5",
+      "dateISO": "2026-08-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/afrolicious/699854?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Afrolicious"
+      ],
+      "openers": []
     },
     {
       "showId": "6daeb775",
