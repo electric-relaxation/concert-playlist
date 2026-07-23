@@ -1,23 +1,6 @@
 {
-  "generatedAtISO": "2026-07-23T19:05:34.832Z",
+  "generatedAtISO": "2026-07-23T22:01:29.717Z",
   "shows": [
-    {
-      "showId": "288a4c30",
-      "dateISO": "2026-07-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/friendship/693120?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Friendship"
-      ],
-      "openers": [
-        "Cindy",
-        "Pinks & Purples",
-        "The Reds"
-      ]
-    },
     {
       "showId": "cdaf89d7",
       "dateISO": "2026-07-23",
@@ -1983,7 +1966,8 @@
         "Hot Flash Heat Wave"
       ],
       "openers": [
-        "Carpool Tunnel"
+        "Carpool Tunnel",
+        "Starzdust"
       ]
     },
     {
