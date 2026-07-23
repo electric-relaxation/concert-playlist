@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-23T13:42:57.732Z",
+  "generatedAtISO": "2026-07-23T17:13:22.309Z",
   "shows": [
     {
       "showId": "288a4c30",
@@ -2042,7 +2042,9 @@
       "headliners": [
         "Asha Banks"
       ],
-      "openers": []
+      "openers": [
+        "Alfie Jukes"
+      ]
     },
     {
       "showId": "a42c6ca9",
@@ -2775,6 +2777,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Dan Whitlam"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1a0517af",
+      "dateISO": "2026-11-22",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mark-william-lewis/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "mark william lewis"
       ],
       "openers": []
     },
