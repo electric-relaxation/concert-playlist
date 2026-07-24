@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-23T19:05:26.464Z",
+  "generatedAtISO": "2026-07-24T16:34:13.655Z",
   "shows": [
-    {
-      "showId": "99737836",
-      "dateISO": "2026-07-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/riff-wood/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Riff Wood"
-      ],
-      "openers": [
-        "The Cherry Bombs"
-      ]
-    },
     {
       "showId": "b4332818",
       "dateISO": "2026-07-25",
@@ -1084,7 +1069,8 @@
         "Dragon Smoke"
       ],
       "openers": [
-        "DJ Harry Duncan"
+        "DJ Harry Duncan",
+        "The Heeters"
       ]
     },
     {
