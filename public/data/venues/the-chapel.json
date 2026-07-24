@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-24T18:14:01.222Z",
+  "generatedAtISO": "2026-07-24T20:15:09.171Z",
   "shows": [
     {
       "showId": "9c0d3749",
@@ -146,12 +146,14 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/afrolicious/699854?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-afrolicious/699854?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Afrolicious"
+        "An Evening"
       ],
-      "openers": []
+      "openers": [
+        "Afrolicious"
+      ]
     },
     {
       "showId": "c44e475c",
