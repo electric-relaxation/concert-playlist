@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-23T22:01:21.567Z",
+  "generatedAtISO": "2026-07-24T18:14:01.222Z",
   "shows": [
-    {
-      "showId": "d40cb5be",
-      "dateISO": "2026-07-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/natural-information-society-and-bitchin-bajas/684112?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Natural Information Society & Bitchin Bajas"
-      ],
-      "openers": [
-        "Jill Fraser",
-        "Visuals by Zach Rodell"
-      ]
-    },
     {
       "showId": "9c0d3749",
       "dateISO": "2026-07-24",
@@ -64,7 +48,7 @@
         "Meatbodies"
       ],
       "openers": [
-        "Heat",
+        "H E A T",
         "Lealani"
       ]
     },
