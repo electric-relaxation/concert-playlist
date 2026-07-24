@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-24T16:34:13.655Z",
+  "generatedAtISO": "2026-07-24T21:59:26.700Z",
   "shows": [
     {
       "showId": "b4332818",
@@ -377,7 +377,9 @@
       "headliners": [
         "Towa Bird"
       ],
-      "openers": []
+      "openers": [
+        "Mother Soki"
+      ]
     },
     {
       "showId": "a0ef2173",
