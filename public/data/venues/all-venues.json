@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-24T21:59:34.794Z",
+  "generatedAtISO": "2026-07-27T18:20:36.824Z",
   "shows": [
     {
       "showId": "cdaf89d7",
@@ -20,21 +20,6 @@
       ]
     },
     {
-      "showId": "9c0d3749",
-      "dateISO": "2026-07-24",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685861?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "James McMurtry and the Martial Law Review"
-      ],
-      "openers": [
-        "BettySoo"
-      ]
-    },
-    {
       "showId": "556766ce",
       "dateISO": "2026-07-24",
       "startTime": "8:45 PM",
@@ -51,21 +36,6 @@
       ]
     },
     {
-      "showId": "7dd25558",
-      "dateISO": "2026-07-25",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685865?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "James McMurtry and the Martial Law Review"
-      ],
-      "openers": [
-        "BettySoo"
-      ]
-    },
-    {
       "showId": "a302c840",
       "dateISO": "2026-07-25",
       "startTime": "8:45 PM",
@@ -79,22 +49,6 @@
       "openers": [
         "Jamsoe",
         "Sun Casino"
-      ]
-    },
-    {
-      "showId": "b4332818",
-      "dateISO": "2026-07-25",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/diggy-graves/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Diggy Graves"
-      ],
-      "openers": [
-        "Resentvul",
-        "Ryan Oakes"
       ]
     },
     {
@@ -385,7 +339,9 @@
       "headliners": [
         "Ben Böhmer"
       ],
-      "openers": []
+      "openers": [
+        "Limbo"
+      ]
     },
     {
       "showId": "08f05ccf",
@@ -638,7 +594,9 @@
       "headliners": [
         "G Flip"
       ],
-      "openers": []
+      "openers": [
+        "Vienna Vienna"
+      ]
     },
     {
       "showId": "8fa9af3c",
@@ -2304,6 +2262,19 @@
       "openers": []
     },
     {
+      "showId": "886d8e74",
+      "dateISO": "2026-10-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/patrick-wolf/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Patrick Wolf"
+      ],
+      "openers": []
+    },
+    {
       "showId": "a6f39fe0",
       "dateISO": "2026-10-29",
       "startTime": "9:00 PM",
@@ -2433,6 +2404,21 @@
       ],
       "openers": [
         "Trinity Ace"
+      ]
+    },
+    {
+      "showId": "52e55f21",
+      "dateISO": "2026-11-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-legend-zeppelin/699678?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Legend Zeppelin"
       ]
     },
     {

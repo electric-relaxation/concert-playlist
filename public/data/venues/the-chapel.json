@@ -4,38 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-24T20:15:09.171Z",
+  "generatedAtISO": "2026-07-27T18:20:29.594Z",
   "shows": [
-    {
-      "showId": "9c0d3749",
-      "dateISO": "2026-07-24",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685861?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "James McMurtry and the Martial Law Review"
-      ],
-      "openers": [
-        "BettySoo"
-      ]
-    },
-    {
-      "showId": "7dd25558",
-      "dateISO": "2026-07-25",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/james-mcmurtry-and-the-martial-law-review/685865?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "James McMurtry and the Martial Law Review"
-      ],
-      "openers": [
-        "BettySoo"
-      ]
-    },
     {
       "showId": "7805ff41",
       "dateISO": "2026-07-28",
@@ -889,6 +859,21 @@
       ],
       "openers": [
         "Sour Widows"
+      ]
+    },
+    {
+      "showId": "52e55f21",
+      "dateISO": "2026-11-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-legend-zeppelin/699678?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "An Evening"
+      ],
+      "openers": [
+        "Legend Zeppelin"
       ]
     },
     {
