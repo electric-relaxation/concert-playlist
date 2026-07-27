@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-27T22:00:27.336Z",
+  "generatedAtISO": "2026-07-27T23:12:08.979Z",
   "shows": [
     {
       "showId": "a6040d49",
@@ -173,6 +173,21 @@
         "Dizz Brew",
         "Rabbit",
         "Trough"
+      ]
+    },
+    {
+      "showId": "72d1c3c1",
+      "dateISO": "2026-08-06",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sumyer-of-love-osl-pre-party/700457?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Sumyer of Love: OSL Pre-Party"
+      ],
+      "openers": [
+        "Music by Seth Finkin & Malki"
       ]
     },
     {

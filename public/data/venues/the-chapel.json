@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-07-27T18:20:29.594Z",
+  "generatedAtISO": "2026-07-27T23:11:58.532Z",
   "shows": [
     {
       "showId": "7805ff41",
@@ -50,6 +50,21 @@
       ],
       "openers": [
         "ELYSIUM - Nirvana Tribute"
+      ]
+    },
+    {
+      "showId": "72d1c3c1",
+      "dateISO": "2026-08-06",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sumyer-of-love-osl-pre-party/700457?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Sumyer of Love: OSL Pre-Party"
+      ],
+      "openers": [
+        "Music by Seth Finkin & Malki"
       ]
     },
     {
