@@ -4,23 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-27T22:00:19.401Z",
+  "generatedAtISO": "2026-07-28T21:57:35.614Z",
   "shows": [
-    {
-      "showId": "a6040d49",
-      "dateISO": "2026-07-27",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/larry-and-his-flask/695193?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "LARRY & HIS FLASK"
-      ],
-      "openers": [
-        "Andrew St. James"
-      ]
-    },
     {
       "showId": "e292f541",
       "dateISO": "2026-07-28",
@@ -655,7 +640,7 @@
       "showUrl": "https://wl.seetickets.us/event/ruby-haunt/697882?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "Ruby Haunt"
+        "RUBY HAUNT"
       ],
       "openers": []
     },
