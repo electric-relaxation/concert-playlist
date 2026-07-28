@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-28T02:00:25.537Z",
+  "generatedAtISO": "2026-07-28T18:08:34.673Z",
   "shows": [
     {
       "showId": "a6040d49",
@@ -14,21 +14,6 @@
       ],
       "openers": [
         "Andrew St. James"
-      ]
-    },
-    {
-      "showId": "875129b8",
-      "dateISO": "2026-07-27",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/wu-lyf/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "WU LYF"
-      ],
-      "openers": [
-        "Bondo"
       ]
     },
     {
@@ -1725,6 +1710,19 @@
       "openers": [
         "Presley Haile"
       ]
+    },
+    {
+      "showId": "db508f2f",
+      "dateISO": "2026-10-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-breaks/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Breaks"
+      ],
+      "openers": []
     },
     {
       "showId": "48c73de9",
