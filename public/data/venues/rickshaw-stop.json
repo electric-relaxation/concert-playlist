@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-29T16:16:43.408Z",
+  "generatedAtISO": "2026-07-29T18:02:41.576Z",
   "shows": [
     {
       "showId": "b96c42c3",
@@ -388,6 +388,19 @@
       "openers": [
         "villagerrr"
       ]
+    },
+    {
+      "showId": "ccccc21a",
+      "dateISO": "2026-09-24",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mei-ehara/699620?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MEI EHARA"
+      ],
+      "openers": []
     },
     {
       "showId": "7765d9b1",

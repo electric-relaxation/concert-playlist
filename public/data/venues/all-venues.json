@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-29T16:16:54.834Z",
+  "generatedAtISO": "2026-07-29T18:02:51.967Z",
   "shows": [
     {
       "showId": "b96c42c3",
@@ -1368,6 +1368,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Ghostly Kisses"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ccccc21a",
+      "dateISO": "2026-09-24",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mei-ehara/699620?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MEI EHARA"
       ],
       "openers": []
     },
