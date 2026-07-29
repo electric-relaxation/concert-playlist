@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-28T18:08:24.973Z",
+  "generatedAtISO": "2026-07-29T16:16:43.408Z",
   "shows": [
     {
       "showId": "aeec2e68",
@@ -947,6 +947,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Karina Rykman"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "052ffe4b",
+      "dateISO": "2026-11-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/thao/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "THAO"
       ],
       "openers": []
     },

@@ -4,26 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-07-28T21:57:35.614Z",
+  "generatedAtISO": "2026-07-29T16:16:43.408Z",
   "shows": [
-    {
-      "showId": "e292f541",
-      "dateISO": "2026-07-28",
-      "startTime": "7:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/dead-heat/695625?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "DEAD HEAT"
-      ],
-      "openers": [
-        "Kill Em All",
-        "MAUL",
-        "WAY OF EARTH",
-        "Wrecking Unit"
-      ]
-    },
     {
       "showId": "b96c42c3",
       "dateISO": "2026-07-30",
@@ -555,6 +537,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "mary in the junkyard"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e349ea26",
+      "dateISO": "2026-11-05",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/kennedy-ryon/700515?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "KENNEDY RYON"
       ],
       "openers": []
     },
