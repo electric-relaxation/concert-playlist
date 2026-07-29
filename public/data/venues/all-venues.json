@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-28T21:57:44.833Z",
+  "generatedAtISO": "2026-07-29T14:07:44.011Z",
   "shows": [
     {
       "showId": "e292f541",
@@ -17,22 +17,6 @@
         "MAUL",
         "WAY OF EARTH",
         "Wrecking Unit"
-      ]
-    },
-    {
-      "showId": "7805ff41",
-      "dateISO": "2026-07-28",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/meatbodies/692739?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Meatbodies"
-      ],
-      "openers": [
-        "H E A T",
-        "Lealani"
       ]
     },
     {
@@ -2684,6 +2668,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Mark William Lewis"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "9c34808d",
+      "dateISO": "2026-12-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/gauri-b-years-in-the-breaking/700616?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "GAURI B: YEARS IN THE BREAKING"
       ],
       "openers": []
     },
