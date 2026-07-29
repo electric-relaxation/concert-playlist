@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-29T18:02:51.967Z",
+  "generatedAtISO": "2026-07-29T22:56:09.010Z",
   "shows": [
     {
       "showId": "b96c42c3",
@@ -809,6 +809,22 @@
         "Brenn!"
       ],
       "openers": []
+    },
+    {
+      "showId": "0985872b",
+      "dateISO": "2026-08-30",
+      "startTime": "7:30 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260830.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Tom Kenny & the Hi Seas"
+      ],
+      "openers": [
+        "Cape Fury",
+        "Michael Michael Motorcycle"
+      ]
     },
     {
       "showId": "3fe8ceb9",
