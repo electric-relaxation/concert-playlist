@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-07-29T16:16:43.408Z",
+  "generatedAtISO": "2026-07-30T21:01:14.206Z",
   "shows": [
     {
       "showId": "aeec2e68",
@@ -108,7 +108,8 @@
         "Greg Mendez"
       ],
       "openers": [
-        "Maria BC"
+        "Maria BC",
+        "Slake"
       ]
     },
     {
