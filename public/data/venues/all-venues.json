@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-07-30T21:01:24.535Z",
+  "generatedAtISO": "2026-08-03T18:46:04.617Z",
   "shows": [
     {
       "showId": "b96c42c3",
@@ -50,21 +50,6 @@
       ]
     },
     {
-      "showId": "aeec2e68",
-      "dateISO": "2026-07-31",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/chandol/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Chandol"
-      ],
-      "openers": [
-        "Meyru"
-      ]
-    },
-    {
       "showId": "9068c99a",
       "dateISO": "2026-08-01",
       "startTime": "8:00 PM",
@@ -77,21 +62,6 @@
       ],
       "openers": [
         "ELYSIUM - Nirvana Tribute"
-      ]
-    },
-    {
-      "showId": "562374f1",
-      "dateISO": "2026-08-01",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/air-guitar-national-finals/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Air Guitar National Finals"
-      ],
-      "openers": [
-        "Ultimate Fakebook"
       ]
     },
     {
@@ -1388,7 +1358,9 @@
       "headliners": [
         "Ghostly Kisses"
       ],
-      "openers": []
+      "openers": [
+        "Rosie Carney"
+      ]
     },
     {
       "showId": "ccccc21a",
