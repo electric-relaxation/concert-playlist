@@ -1,39 +1,6 @@
 {
-  "generatedAtISO": "2026-08-03T18:46:04.617Z",
+  "generatedAtISO": "2026-08-03T20:22:20.039Z",
   "shows": [
-    {
-      "showId": "b96c42c3",
-      "dateISO": "2026-07-30",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/kontravoid/692996?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "KONTRAVOID"
-      ],
-      "openers": [
-        "John.Rev (Das Bunker)",
-        "Normal Bias",
-        "Pink Stiletto"
-      ]
-    },
-    {
-      "showId": "5691461d",
-      "dateISO": "2026-07-31",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/super-greens/686946?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SUPER GREENS"
-      ],
-      "openers": [
-        "often easy",
-        "plaster"
-      ]
-    },
     {
       "showId": "419c415f",
       "dateISO": "2026-07-31",
@@ -241,7 +208,7 @@
         "PLAYLUNCH"
       ],
       "openers": [
-        "Sego"
+        "YAGKI"
       ]
     },
     {
