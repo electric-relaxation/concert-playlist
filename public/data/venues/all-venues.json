@@ -1,36 +1,6 @@
 {
-  "generatedAtISO": "2026-08-03T20:22:20.039Z",
+  "generatedAtISO": "2026-08-04T17:39:09.576Z",
   "shows": [
-    {
-      "showId": "419c415f",
-      "dateISO": "2026-07-31",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-crosseyed/692844?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Crosseyed"
-      ],
-      "openers": [
-        "DJ Walkin' Love"
-      ]
-    },
-    {
-      "showId": "9068c99a",
-      "dateISO": "2026-08-01",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/corduroy-the-pearl-jam-experience/698292?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "CORDUROY - The Pearl Jam Experience"
-      ],
-      "openers": [
-        "ELYSIUM - Nirvana Tribute"
-      ]
-    },
     {
       "showId": "e2f9c3df",
       "dateISO": "2026-08-05",
@@ -1188,6 +1158,23 @@
       ]
     },
     {
+      "showId": "8189c746",
+      "dateISO": "2026-09-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/geneva-jacuzzi/701181?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Geneva Jacuzzi"
+      ],
+      "openers": [
+        "Diesel Dudes",
+        "Ex-Heir",
+        "Nick Moss (DJ Set)"
+      ]
+    },
+    {
       "showId": "88dd3a93",
       "dateISO": "2026-09-19",
       "startTime": "9:00 PM",
@@ -1402,12 +1389,14 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Rose-City-Band/699842?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/rose-city-band/699842?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Rose City Band"
       ],
-      "openers": []
+      "openers": [
+        "Jas Stade"
+      ]
     },
     {
       "showId": "801c6a3b",
@@ -2591,6 +2580,19 @@
       "openers": [
         "Emily Nenni"
       ]
+    },
+    {
+      "showId": "a8b48de4",
+      "dateISO": "2026-11-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "John Carroll Kirby"
+      ],
+      "openers": []
     },
     {
       "showId": "743fb630",
