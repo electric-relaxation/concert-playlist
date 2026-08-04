@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-04T17:39:09.576Z",
+  "generatedAtISO": "2026-08-04T19:22:58.725Z",
   "shows": [
     {
       "showId": "e2f9c3df",
@@ -767,6 +767,19 @@
         "Last Known Species",
         "elias"
       ]
+    },
+    {
+      "showId": "495b2771",
+      "dateISO": "2026-09-04",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sister-nancy-and-the-steady-rock-band/701232?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "SISTER NANCY & THE STEADY ROCK BAND"
+      ],
+      "openers": []
     },
     {
       "showId": "bde09429",
