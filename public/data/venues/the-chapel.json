@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-04T21:05:15.170Z",
+  "generatedAtISO": "2026-08-04T22:56:49.788Z",
   "shows": [
     {
       "showId": "1b4ca35b",
@@ -565,7 +565,8 @@
         "Rose City Band"
       ],
       "openers": [
-        "Jas Stade"
+        "Jas Stade",
+        "Møtrik"
       ]
     },
     {
