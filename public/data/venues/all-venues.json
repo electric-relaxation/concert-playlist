@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-04T22:56:58.504Z",
+  "generatedAtISO": "2026-08-05T19:21:13.740Z",
   "shows": [
     {
       "showId": "e2f9c3df",
@@ -379,7 +379,9 @@
       "headliners": [
         "Angine de Poitrine"
       ],
-      "openers": []
+      "openers": [
+        "Population II"
+      ]
     },
     {
       "showId": "c5f1b456",
