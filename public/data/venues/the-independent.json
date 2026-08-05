@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-05T19:21:03.551Z",
+  "generatedAtISO": "2026-08-05T22:52:39.105Z",
   "shows": [
     {
       "showId": "116c211f",
@@ -612,7 +612,9 @@
       "headliners": [
         "KiNG MALA"
       ],
-      "openers": []
+      "openers": [
+        "Jayden Hammer"
+      ]
     },
     {
       "showId": "95d5d5a4",

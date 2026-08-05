@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-05T19:21:13.740Z",
+  "generatedAtISO": "2026-08-05T22:52:50.719Z",
   "shows": [
     {
       "showId": "e2f9c3df",
@@ -1733,7 +1733,9 @@
       "headliners": [
         "KiNG MALA"
       ],
-      "openers": []
+      "openers": [
+        "Jayden Hammer"
+      ]
     },
     {
       "showId": "76433cc6",
