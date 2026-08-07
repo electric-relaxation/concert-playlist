@@ -1,68 +1,6 @@
 {
-  "generatedAtISO": "2026-08-07T00:37:38.605Z",
+  "generatedAtISO": "2026-08-07T17:42:58.334Z",
   "shows": [
-    {
-      "showId": "e2f9c3df",
-      "dateISO": "2026-08-05",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/austin-tv/692765?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "AUSTIN TV"
-      ],
-      "openers": [
-        "Dizz Brew",
-        "Rabbit",
-        "Trough"
-      ]
-    },
-    {
-      "showId": "1b4ca35b",
-      "dateISO": "2026-08-06",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/alela-diane/688615?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Alela Diane"
-      ],
-      "openers": [
-        "Shannon Lay"
-      ]
-    },
-    {
-      "showId": "72d1c3c1",
-      "dateISO": "2026-08-06",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://www.eventbrite.com/e/sumyer-of-love-osl-pre-party-tickets-1995041401537",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Sumyer of Love: OSL Pre-Party"
-      ],
-      "openers": [
-        "Music by Seth Finkin & Malki"
-      ]
-    },
-    {
-      "showId": "116c211f",
-      "dateISO": "2026-08-06",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/clipse/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Clipse"
-      ],
-      "openers": [
-        "Fijiana"
-      ]
-    },
     {
       "showId": "6e0adeba",
       "dateISO": "2026-08-07",
@@ -660,7 +598,9 @@
       "headliners": [
         "MY NEW BAND BELIEVE"
       ],
-      "openers": []
+      "openers": [
+        "Ryley Walker"
+      ]
     },
     {
       "showId": "467da42e",
@@ -1313,7 +1253,9 @@
       "headliners": [
         "Dana and Alden"
       ],
-      "openers": []
+      "openers": [
+        "Ania Hoo"
+      ]
     },
     {
       "showId": "4edea92d",
@@ -1410,6 +1352,7 @@
         "Rose City Band"
       ],
       "openers": [
+        "Light Fantastic",
         "Rain Parade"
       ]
     },

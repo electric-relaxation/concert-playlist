@@ -4,25 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-07T00:37:29.668Z",
+  "generatedAtISO": "2026-08-07T17:42:48.724Z",
   "shows": [
-    {
-      "showId": "e2f9c3df",
-      "dateISO": "2026-08-05",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/austin-tv/692765?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "AUSTIN TV"
-      ],
-      "openers": [
-        "Dizz Brew",
-        "Rabbit",
-        "Trough"
-      ]
-    },
     {
       "showId": "8ef30a1f",
       "dateISO": "2026-08-07",
@@ -178,7 +161,9 @@
       "headliners": [
         "MY NEW BAND BELIEVE"
       ],
-      "openers": []
+      "openers": [
+        "Ryley Walker"
+      ]
     },
     {
       "showId": "3f3cf45a",

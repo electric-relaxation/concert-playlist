@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-07T00:37:29.668Z",
+  "generatedAtISO": "2026-08-07T17:42:48.724Z",
   "shows": [
-    {
-      "showId": "116c211f",
-      "dateISO": "2026-08-06",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/clipse/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Clipse"
-      ],
-      "openers": [
-        "Fijiana"
-      ]
-    },
     {
       "showId": "6e0adeba",
       "dateISO": "2026-08-07",
@@ -407,7 +392,9 @@
       "headliners": [
         "Dana and Alden"
       ],
-      "openers": []
+      "openers": [
+        "Ania Hoo"
+      ]
     },
     {
       "showId": "a3b88b90",
