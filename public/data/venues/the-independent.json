@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-05T22:52:39.105Z",
+  "generatedAtISO": "2026-08-07T00:37:29.668Z",
   "shows": [
     {
       "showId": "116c211f",
@@ -529,6 +529,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "rusowsky"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "b0370d72",
+      "dateISO": "2026-10-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/cure-for-paranoia/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Cure for Paranoia"
       ],
       "openers": []
     },
@@ -1144,7 +1157,9 @@
       "headliners": [
         "Willi Carlisle"
       ],
-      "openers": []
+      "openers": [
+        "Amelia Day"
+      ]
     },
     {
       "showId": "dc5f5315",

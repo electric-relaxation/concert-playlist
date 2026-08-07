@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-03T20:22:10.574Z",
+  "generatedAtISO": "2026-08-07T00:37:29.668Z",
   "shows": [
     {
       "showId": "e2f9c3df",
@@ -267,6 +267,19 @@
       "openers": []
     },
     {
+      "showId": "f81b3eee",
+      "dateISO": "2026-09-12",
+      "startTime": "9:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dance-4-u-slayyyter-x-charli-xcx-night/701674?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DANCE … 4 U: SLAYYYTER x CHARLI XCX NIGHT"
+      ],
+      "openers": []
+    },
+    {
       "showId": "23ab0a20",
       "dateISO": "2026-09-16",
       "startTime": "8:00 PM",
@@ -355,6 +368,19 @@
       "openers": [
         "villagerrr"
       ]
+    },
+    {
+      "showId": "4edea92d",
+      "dateISO": "2026-09-23",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-164/701597?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF #164"
+      ],
+      "openers": []
     },
     {
       "showId": "ccccc21a",
@@ -564,6 +590,19 @@
         "Catnip",
         "Milk for the Angry"
       ]
+    },
+    {
+      "showId": "bdb6fbd3",
+      "dateISO": "2026-11-22",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/qendresa/701355?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "QENDRESA"
+      ],
+      "openers": []
     },
     {
       "showId": "013dc169",

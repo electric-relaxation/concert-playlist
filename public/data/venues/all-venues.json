@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-05T22:52:50.719Z",
+  "generatedAtISO": "2026-08-07T00:37:38.605Z",
   "shows": [
     {
       "showId": "e2f9c3df",
@@ -445,10 +445,10 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/electric-duke-temptation-tribute-to-new-order/693149?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/electric-duke-bowie-tribute-temptation-new-order-tribute/693149?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Electric Duke, Temptation - Tribute to New Order"
+        "Electric Duke: Bowie Tribute, Temptation: New Order Tribute"
       ],
       "openers": []
     },
@@ -981,6 +981,19 @@
       "openers": []
     },
     {
+      "showId": "f81b3eee",
+      "dateISO": "2026-09-12",
+      "startTime": "9:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/dance-4-u-slayyyter-x-charli-xcx-night/701674?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "DANCE … 4 U: SLAYYYTER x CHARLI XCX NIGHT"
+      ],
+      "openers": []
+    },
+    {
       "showId": "2dc8dcb1",
       "dateISO": "2026-09-13",
       "startTime": "8:00 PM",
@@ -1303,6 +1316,19 @@
       "openers": []
     },
     {
+      "showId": "4edea92d",
+      "dateISO": "2026-09-23",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-164/701597?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF #164"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c5ca3437",
       "dateISO": "2026-09-23",
       "startTime": "8:00 PM",
@@ -1598,6 +1624,19 @@
       "openers": [
         "James the Seventh"
       ]
+    },
+    {
+      "showId": "b0370d72",
+      "dateISO": "2026-10-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/cure-for-paranoia/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Cure for Paranoia"
+      ],
+      "openers": []
     },
     {
       "showId": "90749d6e",
@@ -2660,6 +2699,19 @@
       "openers": []
     },
     {
+      "showId": "bdb6fbd3",
+      "dateISO": "2026-11-22",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/qendresa/701355?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "QENDRESA"
+      ],
+      "openers": []
+    },
+    {
       "showId": "1a0517af",
       "dateISO": "2026-11-22",
       "startTime": "8:00 PM",
@@ -2850,7 +2902,9 @@
       "headliners": [
         "Willi Carlisle"
       ],
-      "openers": []
+      "openers": [
+        "Amelia Day"
+      ]
     },
     {
       "showId": "e6562674",
