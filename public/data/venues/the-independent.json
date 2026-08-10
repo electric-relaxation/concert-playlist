@@ -4,53 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-07T17:42:48.724Z",
+  "generatedAtISO": "2026-08-10T14:16:52.595Z",
   "shows": [
-    {
-      "showId": "6e0adeba",
-      "dateISO": "2026-08-07",
-      "startTime": "10:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/griz/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "GRiZ"
-      ],
-      "openers": [
-        "Vyhara"
-      ]
-    },
-    {
-      "showId": "ff38eaa0",
-      "dateISO": "2026-08-08",
-      "startTime": "10:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/goldie-boutilier/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Goldie Boutilier"
-      ],
-      "openers": [
-        "Mama Celeste"
-      ]
-    },
-    {
-      "showId": "f920d234",
-      "dateISO": "2026-08-09",
-      "startTime": "10:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/ben-bohmer/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Ben Böhmer"
-      ],
-      "openers": [
-        "Limbo"
-      ]
-    },
     {
       "showId": "326adf57",
       "dateISO": "2026-08-12",
@@ -1202,6 +1157,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Dan and Peggy Reeder"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "80a0fab9",
+      "dateISO": "2027-04-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/iceage/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Iceage"
       ],
       "openers": []
     }
