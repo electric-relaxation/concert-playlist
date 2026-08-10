@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-10T14:17:00.888Z",
+  "generatedAtISO": "2026-08-10T17:46:26.432Z",
   "shows": [
     {
       "showId": "1c100ded",
@@ -17,19 +17,6 @@
         "The Spiral Electric",
         "Zed"
       ]
-    },
-    {
-      "showId": "8ef30a1f",
-      "dateISO": "2026-08-07",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/broadway-rave/694433?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BROADWAY RAVE"
-      ],
-      "openers": []
     },
     {
       "showId": "dc271919",
@@ -2208,7 +2195,9 @@
       "headliners": [
         "mary in the junkyard"
       ],
-      "openers": []
+      "openers": [
+        "Lefty Parker"
+      ]
     },
     {
       "showId": "e349ea26",

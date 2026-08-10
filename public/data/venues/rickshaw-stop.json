@@ -4,21 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-07T17:42:48.724Z",
+  "generatedAtISO": "2026-08-10T17:46:17.292Z",
   "shows": [
-    {
-      "showId": "8ef30a1f",
-      "dateISO": "2026-08-07",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/broadway-rave/694433?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BROADWAY RAVE"
-      ],
-      "openers": []
-    },
     {
       "showId": "f9ee2292",
       "dateISO": "2026-08-11",
@@ -529,7 +516,9 @@
       "headliners": [
         "mary in the junkyard"
       ],
-      "openers": []
+      "openers": [
+        "Lefty Parker"
+      ]
     },
     {
       "showId": "e349ea26",
