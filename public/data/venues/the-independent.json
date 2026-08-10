@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-10T14:16:52.595Z",
+  "generatedAtISO": "2026-08-10T18:47:49.290Z",
   "shows": [
     {
       "showId": "326adf57",
@@ -109,7 +109,9 @@
       "headliners": [
         "Pearl & The Oysters"
       ],
-      "openers": []
+      "openers": [
+        "Chris Cohen (Solo)"
+      ]
     },
     {
       "showId": "bbf98da4",
@@ -334,7 +336,9 @@
       "headliners": [
         "Sondre Lerche"
       ],
-      "openers": []
+      "openers": [
+        "The Saxophones"
+      ]
     },
     {
       "showId": "15708532",

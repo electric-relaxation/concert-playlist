@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-10T17:46:26.432Z",
+  "generatedAtISO": "2026-08-10T18:47:59.291Z",
   "shows": [
     {
       "showId": "1c100ded",
@@ -388,7 +388,9 @@
       "headliners": [
         "Pearl & The Oysters"
       ],
-      "openers": []
+      "openers": [
+        "Chris Cohen (Solo)"
+      ]
     },
     {
       "showId": "c97ac9e5",
@@ -1166,7 +1168,9 @@
       "headliners": [
         "Sondre Lerche"
       ],
-      "openers": []
+      "openers": [
+        "The Saxophones"
+      ]
     },
     {
       "showId": "ba0351dd",
