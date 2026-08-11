@@ -4,53 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-07T17:42:48.724Z",
+  "generatedAtISO": "2026-08-11T14:15:12.278Z",
   "shows": [
-    {
-      "showId": "1c100ded",
-      "dateISO": "2026-08-07",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/robots-of-the-ancient-world/698496?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Robots of the Ancient World"
-      ],
-      "openers": [
-        "The Ghost Next Door",
-        "The Spiral Electric",
-        "Zed"
-      ]
-    },
-    {
-      "showId": "dc271919",
-      "dateISO": "2026-08-08",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/cobweb-cabaret/696614?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Cobweb Cabaret"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "08f05ccf",
-      "dateISO": "2026-08-09",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/deradoorian/694766?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Deradoorian"
-      ],
-      "openers": [
-        "Squiggle"
-      ]
-    },
     {
       "showId": "91b634a5",
       "dateISO": "2026-08-13",
@@ -808,7 +763,9 @@
       "headliners": [
         "Katie Pruitt"
       ],
-      "openers": []
+      "openers": [
+        "Olivia Barton"
+      ]
     },
     {
       "showId": "0ea94193",
