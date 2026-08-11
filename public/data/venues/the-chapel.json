@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-11T14:15:12.278Z",
+  "generatedAtISO": "2026-08-11T17:53:04.811Z",
   "shows": [
     {
       "showId": "91b634a5",
@@ -1026,6 +1026,21 @@
         "Pete Floyd"
       ],
       "openers": []
+    },
+    {
+      "showId": "ba356308",
+      "dateISO": "2027-02-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/fat-tuesday-celebration-with-rebirth-brass-band/701503?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Fat Tuesday Celebration"
+      ],
+      "openers": [
+        "Rebirth Brass Band"
+      ]
     }
   ]
 }

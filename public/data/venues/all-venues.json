@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-11T14:15:20.181Z",
+  "generatedAtISO": "2026-08-11T17:53:13.156Z",
   "shows": [
     {
       "showId": "f9ee2292",
@@ -2727,6 +2727,19 @@
       "openers": []
     },
     {
+      "showId": "62fc07cc",
+      "dateISO": "2026-12-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-olllam/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "the olllam"
+      ],
+      "openers": []
+    },
+    {
       "showId": "1563ed15",
       "dateISO": "2026-12-13",
       "startTime": "8:00 PM",
@@ -2838,6 +2851,21 @@
         "Odezenne"
       ],
       "openers": []
+    },
+    {
+      "showId": "ba356308",
+      "dateISO": "2027-02-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/fat-tuesday-celebration-with-rebirth-brass-band/701503?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Fat Tuesday Celebration"
+      ],
+      "openers": [
+        "Rebirth Brass Band"
+      ]
     },
     {
       "showId": "8fd7eeed",

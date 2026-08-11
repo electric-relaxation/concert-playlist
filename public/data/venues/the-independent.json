@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-10T18:47:49.290Z",
+  "generatedAtISO": "2026-08-11T17:53:04.811Z",
   "shows": [
     {
       "showId": "326adf57",
@@ -1076,6 +1076,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "THE BOBBY LEES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "62fc07cc",
+      "dateISO": "2026-12-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-olllam/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "the olllam"
       ],
       "openers": []
     },
