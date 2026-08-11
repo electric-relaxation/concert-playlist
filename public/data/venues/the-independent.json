@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-11T17:53:04.811Z",
+  "generatedAtISO": "2026-08-11T19:57:34.822Z",
   "shows": [
     {
       "showId": "326adf57",
@@ -1103,7 +1103,9 @@
       "headliners": [
         "Swervedriver raise at 35"
       ],
-      "openers": []
+      "openers": [
+        "Bleary Eyed"
+      ]
     },
     {
       "showId": "ebac9c1d",
