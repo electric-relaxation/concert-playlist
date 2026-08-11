@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-11T17:53:04.811Z",
+  "generatedAtISO": "2026-08-11T21:39:30.095Z",
   "shows": [
     {
       "showId": "91b634a5",
@@ -116,7 +116,9 @@
       "headliners": [
         "Black Joe Lewis & The Honeybears"
       ],
-      "openers": []
+      "openers": [
+        "Chris Guthridge"
+      ]
     },
     {
       "showId": "4faec482",

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-11T19:57:44.439Z",
+  "generatedAtISO": "2026-08-11T21:39:40.028Z",
   "shows": [
     {
       "showId": "f9ee2292",
@@ -229,7 +229,9 @@
       "headliners": [
         "Black Joe Lewis & The Honeybears"
       ],
-      "openers": []
+      "openers": [
+        "Chris Guthridge"
+      ]
     },
     {
       "showId": "0a5841c8",
