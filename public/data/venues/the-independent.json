@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-11T19:57:34.822Z",
+  "generatedAtISO": "2026-08-12T14:17:25.221Z",
   "shows": [
     {
       "showId": "326adf57",
@@ -967,6 +967,19 @@
       "openers": [
         "Emily Nenni"
       ]
+    },
+    {
+      "showId": "6ce98336",
+      "dateISO": "2026-11-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/pretty-sick/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Pretty Sick"
+      ],
+      "openers": []
     },
     {
       "showId": "f446c9b6",

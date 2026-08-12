@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-11T21:39:40.028Z",
+  "generatedAtISO": "2026-08-12T14:17:35.563Z",
   "shows": [
     {
       "showId": "f9ee2292",
@@ -2500,6 +2500,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "John Carroll Kirby"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "6ce98336",
+      "dateISO": "2026-11-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/pretty-sick/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Pretty Sick"
       ],
       "openers": []
     },
