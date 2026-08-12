@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-08-12T14:17:35.563Z",
+  "generatedAtISO": "2026-08-12T17:53:46.201Z",
   "shows": [
-    {
-      "showId": "f9ee2292",
-      "dateISO": "2026-08-11",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/playlunch/682338?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "PLAYLUNCH"
-      ],
-      "openers": [
-        "YAGKI"
-      ]
-    },
     {
       "showId": "326adf57",
       "dateISO": "2026-08-12",
@@ -1218,6 +1203,23 @@
       "openers": []
     },
     {
+      "showId": "f17490f6",
+      "dateISO": "2026-09-24",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/femmes-thems-and-friends-a-folsom-kickoff-party/702095?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Femmes, Thems & Friends: A Folsom Kickoff Party"
+      ],
+      "openers": [
+        "37 Houses",
+        "Black Gold Sun",
+        "Furious Tits"
+      ]
+    },
+    {
       "showId": "64f27fea",
       "dateISO": "2026-09-24",
       "startTime": "8:00 PM",
@@ -1798,6 +1800,19 @@
       "openers": [
         "Vox Rea"
       ]
+    },
+    {
+      "showId": "c381734e",
+      "dateISO": "2026-10-20",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/avery-cochrane-weapons-of-iridescence-tour/702083?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "AVERY COCHRANE: Weapons of Iridescence Tour"
+      ],
+      "openers": []
     },
     {
       "showId": "2d77d17a",

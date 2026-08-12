@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-11T21:39:30.095Z",
+  "generatedAtISO": "2026-08-12T17:53:38.628Z",
   "shows": [
     {
       "showId": "91b634a5",
@@ -463,6 +463,23 @@
       "openers": [
         "Poppy Jean Crawford",
         "Visuals by Zach Rodell"
+      ]
+    },
+    {
+      "showId": "f17490f6",
+      "dateISO": "2026-09-24",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/femmes-thems-and-friends-a-folsom-kickoff-party/702095?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Femmes, Thems & Friends: A Folsom Kickoff Party"
+      ],
+      "openers": [
+        "37 Houses",
+        "Black Gold Sun",
+        "Furious Tits"
       ]
     },
     {
