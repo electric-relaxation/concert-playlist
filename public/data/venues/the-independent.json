@@ -4,24 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-12T14:17:25.221Z",
+  "generatedAtISO": "2026-08-13T19:53:21.004Z",
   "shows": [
-    {
-      "showId": "326adf57",
-      "dateISO": "2026-08-12",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/greg-mendez/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Greg Mendez"
-      ],
-      "openers": [
-        "Maria BC",
-        "Slake"
-      ]
-    },
     {
       "showId": "3449ac43",
       "dateISO": "2026-08-14",
@@ -449,6 +433,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Mari Froes"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8a434cbd",
+      "dateISO": "2026-10-02",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bella-kay/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bella Kay"
       ],
       "openers": []
     },

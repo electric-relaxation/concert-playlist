@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-08-13T14:19:54.220Z",
+  "generatedAtISO": "2026-08-13T19:53:30.977Z",
   "shows": [
-    {
-      "showId": "326adf57",
-      "dateISO": "2026-08-12",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/greg-mendez/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Greg Mendez"
-      ],
-      "openers": [
-        "Maria BC",
-        "Slake"
-      ]
-    },
     {
       "showId": "91b634a5",
       "dateISO": "2026-08-13",
@@ -1418,6 +1402,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Lyrics Born"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8a434cbd",
+      "dateISO": "2026-10-02",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bella-kay/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bella Kay"
       ],
       "openers": []
     },
