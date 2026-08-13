@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-13T19:53:21.004Z",
+  "generatedAtISO": "2026-08-13T23:34:38.654Z",
   "shows": [
     {
       "showId": "3449ac43",
@@ -139,7 +139,9 @@
       "headliners": [
         "Brenn!"
       ],
-      "openers": []
+      "openers": [
+        "Tom Siletto"
+      ]
     },
     {
       "showId": "bde09429",
@@ -365,7 +367,9 @@
       "headliners": [
         "WesGhost & Red Leather"
       ],
-      "openers": []
+      "openers": [
+        "Eurotripp"
+      ]
     },
     {
       "showId": "1b52b4c4",

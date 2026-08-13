@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-13T21:38:14.337Z",
+  "generatedAtISO": "2026-08-13T23:34:46.993Z",
   "shows": [
     {
       "showId": "91b634a5",
@@ -530,7 +530,9 @@
       "headliners": [
         "Brenn!"
       ],
-      "openers": []
+      "openers": [
+        "Tom Siletto"
+      ]
     },
     {
       "showId": "0985872b",
@@ -1218,7 +1220,9 @@
       "headliners": [
         "WesGhost & Red Leather"
       ],
-      "openers": []
+      "openers": [
+        "Eurotripp"
+      ]
     },
     {
       "showId": "7765d9b1",
