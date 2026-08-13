@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-12T21:38:36.000Z",
+  "generatedAtISO": "2026-08-13T01:23:38.822Z",
   "shows": [
     {
       "showId": "91b634a5",
@@ -296,7 +296,11 @@
         "An Evening"
       ],
       "openers": [
-        "Drink The Sea"
+        "Alain Johannes",
+        "Barrett Martin",
+        "Duke Garwood",
+        "Feat. Peter Buck",
+        "Lisette Garcia"
       ]
     },
     {
