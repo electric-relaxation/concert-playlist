@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-13T01:23:38.822Z",
+  "generatedAtISO": "2026-08-13T14:19:44.254Z",
   "shows": [
     {
       "showId": "91b634a5",
@@ -634,6 +634,23 @@
         "Dazy",
         "Shady Nasty",
         "Softcult"
+      ]
+    },
+    {
+      "showId": "db39eefd",
+      "dateISO": "2026-10-14",
+      "startTime": "7:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dummy/700215?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dummy"
+      ],
+      "openers": [
+        "Golomb",
+        "Sachi's Mirror",
+        "figure eight"
       ]
     },
     {
