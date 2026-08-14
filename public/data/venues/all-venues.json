@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-08-13T23:34:46.993Z",
+  "generatedAtISO": "2026-08-14T16:48:56.297Z",
   "shows": [
-    {
-      "showId": "91b634a5",
-      "dateISO": "2026-08-13",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-afrolicious/699854?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Two Full Live Sets & DJ Sets"
-      ]
-    },
     {
       "showId": "6daeb775",
       "dateISO": "2026-08-14",
@@ -2283,7 +2268,9 @@
       "headliners": [
         "Alex Cameron"
       ],
-      "openers": []
+      "openers": [
+        "Josh da Costa"
+      ]
     },
     {
       "showId": "5b7721bf",
