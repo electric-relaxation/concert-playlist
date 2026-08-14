@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-14T19:43:38.420Z",
+  "generatedAtISO": "2026-08-14T20:24:41.930Z",
   "shows": [
     {
       "showId": "6daeb775",
@@ -1493,7 +1493,9 @@
       "headliners": [
         "STEPHEN DAWES presents The Skin to Skin Tour"
       ],
-      "openers": []
+      "openers": [
+        "Jojomber"
+      ]
     },
     {
       "showId": "cec76c21",

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-12T17:53:38.628Z",
+  "generatedAtISO": "2026-08-14T20:24:33.433Z",
   "shows": [
     {
       "showId": "6daeb775",
@@ -391,7 +391,9 @@
       "headliners": [
         "STEPHEN DAWES presents The Skin to Skin Tour"
       ],
-      "openers": []
+      "openers": [
+        "Jojomber"
+      ]
     },
     {
       "showId": "48c73de9",
