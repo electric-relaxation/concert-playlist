@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-14T16:48:46.539Z",
+  "generatedAtISO": "2026-08-14T19:43:29.056Z",
   "shows": [
     {
       "showId": "c44e475c",
@@ -634,8 +634,8 @@
       ],
       "openers": [
         "Golomb",
-        "Sachi's Mirror",
-        "figure eight"
+        "figure eight",
+        "sachi's mirror"
       ]
     },
     {

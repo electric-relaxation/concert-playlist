@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-14T18:44:08.300Z",
+  "generatedAtISO": "2026-08-14T19:43:38.420Z",
   "shows": [
     {
       "showId": "6daeb775",
@@ -848,7 +848,9 @@
       "headliners": [
         "The Tear Garden (The Legendary Pink Dots & cEvin Key)"
       ],
-      "openers": []
+      "openers": [
+        "Anthony Xavier Jackson"
+      ]
     },
     {
       "showId": "23ab0a20",
@@ -1249,7 +1251,9 @@
       "headliners": [
         "In Color"
       ],
-      "openers": []
+      "openers": [
+        "Jack Gray"
+      ]
     },
     {
       "showId": "5871c7f3",
@@ -1405,7 +1409,9 @@
       "headliners": [
         "Bella Kay"
       ],
-      "openers": []
+      "openers": [
+        "Hailey Picardi"
+      ]
     },
     {
       "showId": "2a2d4b8f",
@@ -1659,8 +1665,8 @@
       ],
       "openers": [
         "Golomb",
-        "Sachi's Mirror",
-        "figure eight"
+        "figure eight",
+        "sachi's mirror"
       ]
     },
     {
