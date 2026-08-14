@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-13T23:34:38.654Z",
+  "generatedAtISO": "2026-08-14T18:44:00.211Z",
   "shows": [
     {
       "showId": "3449ac43",
@@ -757,7 +757,9 @@
       "headliners": [
         "The Wldlfe"
       ],
-      "openers": []
+      "openers": [
+        "Landon Conrath"
+      ]
     },
     {
       "showId": "8ab42dc9",

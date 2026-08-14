@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-14T16:48:56.297Z",
+  "generatedAtISO": "2026-08-14T18:44:08.300Z",
   "shows": [
     {
       "showId": "6daeb775",
@@ -2011,7 +2011,9 @@
       "headliners": [
         "The Wldlfe"
       ],
-      "openers": []
+      "openers": [
+        "Landon Conrath"
+      ]
     },
     {
       "showId": "2eb804ce",
