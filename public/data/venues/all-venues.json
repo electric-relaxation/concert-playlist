@@ -1,35 +1,6 @@
 {
-  "generatedAtISO": "2026-08-17T20:18:54.691Z",
+  "generatedAtISO": "2026-08-17T21:19:46.125Z",
   "shows": [
-    {
-      "showId": "6daeb775",
-      "dateISO": "2026-08-14",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/smoked-out-soul/687319?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SMOKED OUT SOUL"
-      ],
-      "openers": [
-        "Otis McDonald",
-        "Seal Party"
-      ]
-    },
-    {
-      "showId": "603011f4",
-      "dateISO": "2026-08-15",
-      "startTime": "9:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/haus-party-san-francisco/699067?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "HAUS PARTY SAN FRANCISCO"
-      ],
-      "openers": []
-    },
     {
       "showId": "42c90c2f",
       "dateISO": "2026-08-17",
@@ -520,7 +491,10 @@
       "headliners": [
         "YUMA ABE"
       ],
-      "openers": []
+      "openers": [
+        "Adam Spry",
+        "Jared Mattson x Chili Corder"
+      ]
     },
     {
       "showId": "5c571773",
