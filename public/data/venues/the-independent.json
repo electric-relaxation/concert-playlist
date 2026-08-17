@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-17T16:20:02.123Z",
+  "generatedAtISO": "2026-08-17T20:18:46.135Z",
   "shows": [
     {
       "showId": "0066b5a9",
@@ -985,19 +985,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Pretty Sick"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "f446c9b6",
-      "dateISO": "2026-11-20",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/dan-whitlam/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Dan Whitlam"
       ],
       "openers": []
     },

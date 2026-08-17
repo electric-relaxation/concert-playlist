@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-17T16:20:11.884Z",
+  "generatedAtISO": "2026-08-17T20:18:54.691Z",
   "shows": [
     {
       "showId": "6daeb775",
@@ -2538,19 +2538,6 @@
       "openers": [
         "OSTON"
       ]
-    },
-    {
-      "showId": "f446c9b6",
-      "dateISO": "2026-11-20",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/dan-whitlam/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Dan Whitlam"
-      ],
-      "openers": []
     },
     {
       "showId": "47574fdf",
