@@ -4,38 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-14T19:43:29.056Z",
+  "generatedAtISO": "2026-08-17T16:20:02.123Z",
   "shows": [
-    {
-      "showId": "3449ac43",
-      "dateISO": "2026-08-14",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/four-square-vol-2-a-hip-hop-video-game-live-theatre-experience/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "FOUR SQUARE VOL. 2 – A HIP-HOP VIDEO GAME LIVE THEATRE EXPERIENCE"
-      ],
-      "openers": [
-        "feat. Del The Funky Homosapien & Guapdad"
-      ]
-    },
-    {
-      "showId": "45342e1c",
-      "dateISO": "2026-08-15",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/krooked-kings/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Krooked Kings"
-      ],
-      "openers": [
-        "Pink Skies"
-      ]
-    },
     {
       "showId": "0066b5a9",
       "dateISO": "2026-08-19",
@@ -909,6 +879,19 @@
       "openers": []
     },
     {
+      "showId": "7bf5a7d3",
+      "dateISO": "2026-11-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/weston-estate/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Weston Estate"
+      ],
+      "openers": []
+    },
+    {
       "showId": "8cfd34e1",
       "dateISO": "2026-11-11",
       "startTime": "8:00 PM",
@@ -933,6 +916,21 @@
         "Stephen Day"
       ],
       "openers": []
+    },
+    {
+      "showId": "3eccc978",
+      "dateISO": "2026-11-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/whitmer-thomas/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Whitmer Thomas"
+      ],
+      "openers": [
+        "Clay Tatum"
+      ]
     },
     {
       "showId": "8b0e17e5",
@@ -1002,6 +1000,21 @@
         "Dan Whitlam"
       ],
       "openers": []
+    },
+    {
+      "showId": "47574fdf",
+      "dateISO": "2026-11-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/q-marsden/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Q Marsden"
+      ],
+      "openers": [
+        "RAHM"
+      ]
     },
     {
       "showId": "1a0517af",
