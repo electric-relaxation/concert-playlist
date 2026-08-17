@@ -4,62 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-14T19:43:29.056Z",
+  "generatedAtISO": "2026-08-17T13:34:25.657Z",
   "shows": [
-    {
-      "showId": "c44e475c",
-      "dateISO": "2026-08-14",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/man-man/685629?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Man Man"
-      ],
-      "openers": [
-        "American Tomahawk"
-      ]
-    },
-    {
-      "showId": "df6318f3",
-      "dateISO": "2026-08-15",
-      "startTime": "9:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/ypc-after-dark-ft-david-harness/683564?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "YPC After Dark ft. David Harness"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "98619c60",
-      "dateISO": "2026-08-16",
-      "startTime": "2:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697819?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "LOVE SUPREME Summer Day Party Series"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "3265634e",
-      "dateISO": "2026-08-16",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
     {
       "showId": "42c90c2f",
       "dateISO": "2026-08-17",
@@ -556,6 +502,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Lyrics Born"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-10-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
       ],
       "openers": []
     },
