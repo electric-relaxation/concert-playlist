@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-17T21:19:46.125Z",
+  "generatedAtISO": "2026-08-18T16:23:29.363Z",
   "shows": [
     {
       "showId": "42c90c2f",
@@ -2635,6 +2635,21 @@
       ],
       "openers": [
         "Kisser"
+      ]
+    },
+    {
+      "showId": "b0947ba4",
+      "dateISO": "2026-12-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/wishy/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Wishy"
+      ],
+      "openers": [
+        "The Umbrellas"
       ]
     },
     {

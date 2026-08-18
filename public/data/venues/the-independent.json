@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-17T20:18:46.135Z",
+  "generatedAtISO": "2026-08-18T16:23:20.846Z",
   "shows": [
     {
       "showId": "0066b5a9",
@@ -1057,6 +1057,21 @@
         "Fireworks"
       ],
       "openers": []
+    },
+    {
+      "showId": "b0947ba4",
+      "dateISO": "2026-12-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/wishy/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Wishy"
+      ],
+      "openers": [
+        "The Umbrellas"
+      ]
     },
     {
       "showId": "acb677cb",
