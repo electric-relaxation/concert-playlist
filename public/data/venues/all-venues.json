@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-08-18T16:23:29.363Z",
+  "generatedAtISO": "2026-08-18T17:20:48.708Z",
   "shows": [
-    {
-      "showId": "42c90c2f",
-      "dateISO": "2026-08-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/valerie-june/686246?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Valerie June"
-      ],
-      "openers": [
-        "Tianna Esperanza"
-      ]
-    },
     {
       "showId": "976cac73",
       "dateISO": "2026-08-18",
@@ -1354,6 +1339,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "rusowsky"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e2b3793e",
+      "dateISO": "2026-10-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/lee-dewyze/702686?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Lee DeWyze"
       ],
       "openers": []
     },

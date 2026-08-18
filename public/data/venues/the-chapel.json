@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-17T13:34:25.657Z",
+  "generatedAtISO": "2026-08-18T17:20:38.334Z",
   "shows": [
-    {
-      "showId": "42c90c2f",
-      "dateISO": "2026-08-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/valerie-june/686246?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Valerie June"
-      ],
-      "openers": [
-        "Tianna Esperanza"
-      ]
-    },
     {
       "showId": "64f4d148",
       "dateISO": "2026-08-18",
@@ -532,6 +517,19 @@
       "openers": [
         "Trestles"
       ]
+    },
+    {
+      "showId": "e2b3793e",
+      "dateISO": "2026-10-05",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/lee-dewyze/702686?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Lee DeWyze"
+      ],
+      "openers": []
     },
     {
       "showId": "58218d0c",
