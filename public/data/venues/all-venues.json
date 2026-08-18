@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-18T17:20:48.708Z",
+  "generatedAtISO": "2026-08-18T18:28:45.829Z",
   "shows": [
     {
       "showId": "976cac73",
@@ -1162,6 +1162,19 @@
       ]
     },
     {
+      "showId": "26736cce",
+      "dateISO": "2026-09-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/hot-chip-dj-set/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Hot Chip DJ Set"
+      ],
+      "openers": []
+    },
+    {
       "showId": "8b94f4c9",
       "dateISO": "2026-09-29",
       "startTime": "8:00 PM",
@@ -1785,6 +1798,23 @@
         "City of the Sun"
       ],
       "openers": []
+    },
+    {
+      "showId": "5a2f4641",
+      "dateISO": "2026-10-22",
+      "startTime": "7:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/country-risque-record-release-party/702103?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Country Risqué (record release party)"
+      ],
+      "openers": [
+        "Barfight",
+        "Dinner Date",
+        "Tom Conneely and Birds of Paradise"
+      ]
     },
     {
       "showId": "4b08a48e",
