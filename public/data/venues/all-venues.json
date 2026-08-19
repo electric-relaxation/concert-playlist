@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-19T14:26:01.855Z",
+  "generatedAtISO": "2026-08-19T16:23:55.672Z",
   "shows": [
     {
       "showId": "64f4d148",
@@ -2581,6 +2581,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Mark William Lewis"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "b3ed5315",
+      "dateISO": "2026-11-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/oflynn/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "O’Flynn"
       ],
       "openers": []
     },
