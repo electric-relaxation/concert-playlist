@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-19T16:23:55.672Z",
+  "generatedAtISO": "2026-08-19T18:24:45.141Z",
   "shows": [
     {
       "showId": "64f4d148",
@@ -1261,6 +1261,19 @@
       "openers": []
     },
     {
+      "showId": "bf83f1e7",
+      "dateISO": "2026-10-01",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus-album-release/702573?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Miss Hits / Litty Debungus (album release)"
+      ],
+      "openers": []
+    },
+    {
       "showId": "14486166",
       "dateISO": "2026-10-02",
       "startTime": "9:00 PM",
@@ -1789,7 +1802,7 @@
     {
       "showId": "5a2f4641",
       "dateISO": "2026-10-22",
-      "startTime": "7:45 PM",
+      "startTime": "7:30 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
       "showUrl": "https://wl.seetickets.us/event/country-risque-record-release-party/702103?afflky=RickshawStop",
@@ -2593,7 +2606,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/oflynn/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "O’Flynn"
+        "O'Flynn"
       ],
       "openers": []
     },
