@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-18T18:28:45.829Z",
+  "generatedAtISO": "2026-08-19T02:15:23.343Z",
   "shows": [
     {
       "showId": "976cac73",
@@ -2295,6 +2295,21 @@
       "openers": [
         "Forever Came Calling",
         "Fox Royale"
+      ]
+    },
+    {
+      "showId": "f1597962",
+      "dateISO": "2026-11-11",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sparta/702137?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SPARTA"
+      ],
+      "openers": [
+        "Public Opinion"
       ]
     },
     {

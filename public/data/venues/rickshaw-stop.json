@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-18T18:28:36.857Z",
+  "generatedAtISO": "2026-08-19T02:15:14.956Z",
   "shows": [
     {
       "showId": "976cac73",
@@ -523,6 +523,21 @@
         "KENNEDY RYON"
       ],
       "openers": []
+    },
+    {
+      "showId": "f1597962",
+      "dateISO": "2026-11-11",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/sparta/702137?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SPARTA"
+      ],
+      "openers": [
+        "Public Opinion"
+      ]
     },
     {
       "showId": "e12f2614",
