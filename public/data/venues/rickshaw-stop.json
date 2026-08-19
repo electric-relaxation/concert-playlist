@@ -4,21 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-19T02:15:14.956Z",
+  "generatedAtISO": "2026-08-19T14:25:51.962Z",
   "shows": [
-    {
-      "showId": "976cac73",
-      "dateISO": "2026-08-18",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-163/699215?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Nerd Nite SF #163"
-      ],
-      "openers": []
-    },
     {
       "showId": "8fa9af3c",
       "dateISO": "2026-08-20",
@@ -622,6 +609,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "OLIVER HAZARD"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1933b30e",
+      "dateISO": "2026-12-11",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/graham-hunt-9million-co-headline/702096?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Graham Hunt / 9Million (co-headline)"
       ],
       "openers": []
     },
