@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-08-19T18:24:45.141Z",
+  "generatedAtISO": "2026-08-20T17:22:43.842Z",
   "shows": [
-    {
-      "showId": "64f4d148",
-      "dateISO": "2026-08-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/valerie-june/686251?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Valerie June"
-      ],
-      "openers": [
-        "Tianna Esperanza"
-      ]
-    },
     {
       "showId": "0066b5a9",
       "dateISO": "2026-08-19",
@@ -1440,6 +1425,19 @@
       "openers": [
         "Presley Haile"
       ]
+    },
+    {
+      "showId": "3aec9614",
+      "dateISO": "2026-10-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/y-la-bamba-10-years-of-ojos-del-sol/703013?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Y La Bamba - 10 Years of Ojos Del Sol"
+      ],
+      "openers": []
     },
     {
       "showId": "db508f2f",

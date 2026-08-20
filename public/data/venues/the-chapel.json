@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-18T17:20:38.334Z",
+  "generatedAtISO": "2026-08-20T17:22:35.797Z",
   "shows": [
-    {
-      "showId": "64f4d148",
-      "dateISO": "2026-08-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/valerie-june/686251?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Valerie June"
-      ],
-      "openers": [
-        "Tianna Esperanza"
-      ]
-    },
     {
       "showId": "c5f1b456",
       "dateISO": "2026-08-20",
@@ -560,6 +545,19 @@
       "openers": [
         "Lloyd Cole (Solo Electric)"
       ]
+    },
+    {
+      "showId": "3aec9614",
+      "dateISO": "2026-10-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/y-la-bamba-10-years-of-ojos-del-sol/703013?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Y La Bamba - 10 Years of Ojos Del Sol"
+      ],
+      "openers": []
     },
     {
       "showId": "76433cc6",
