@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-19T18:24:34.796Z",
+  "generatedAtISO": "2026-08-20T23:19:58.876Z",
   "shows": [
     {
       "showId": "8fa9af3c",
@@ -340,19 +340,6 @@
       "openers": [
         "Tim Barry"
       ]
-    },
-    {
-      "showId": "bf83f1e7",
-      "dateISO": "2026-10-01",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus-album-release/702573?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Miss Hits / Litty Debungus (album release)"
-      ],
-      "openers": []
     },
     {
       "showId": "90749d6e",

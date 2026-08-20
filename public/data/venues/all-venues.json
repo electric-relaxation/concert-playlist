@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-08-20T17:22:43.842Z",
+  "generatedAtISO": "2026-08-20T23:20:05.960Z",
   "shows": [
-    {
-      "showId": "0066b5a9",
-      "dateISO": "2026-08-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/angine-de-poitrine/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Angine de Poitrine"
-      ],
-      "openers": [
-        "Population II"
-      ]
-    },
     {
       "showId": "c5f1b456",
       "dateISO": "2026-08-20",
@@ -853,19 +838,6 @@
       ]
     },
     {
-      "showId": "88dd3a93",
-      "dateISO": "2026-09-19",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/evan-giia/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "EVAN GIIA"
-      ],
-      "openers": []
-    },
-    {
       "showId": "717519f9",
       "dateISO": "2026-09-20",
       "startTime": "2:00 PM",
@@ -1242,19 +1214,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Mari Froes"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "bf83f1e7",
-      "dateISO": "2026-10-01",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus-album-release/702573?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Miss Hits / Litty Debungus (album release)"
       ],
       "openers": []
     },
@@ -2999,6 +2958,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "VALENCIA GRACE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "88dd3a93",
+      "dateISO": "2027-07-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/evan-giia/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "EVAN GIIA"
       ],
       "openers": []
     }

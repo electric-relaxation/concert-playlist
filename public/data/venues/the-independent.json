@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-19T18:24:34.796Z",
+  "generatedAtISO": "2026-08-20T23:19:58.876Z",
   "shows": [
-    {
-      "showId": "0066b5a9",
-      "dateISO": "2026-08-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/angine-de-poitrine/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Angine de Poitrine"
-      ],
-      "openers": [
-        "Population II"
-      ]
-    },
     {
       "showId": "0a5841c8",
       "dateISO": "2026-08-20",
@@ -267,19 +252,6 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Daniel Avery Live"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "88dd3a93",
-      "dateISO": "2026-09-19",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/evan-giia/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "EVAN GIIA"
       ],
       "openers": []
     },
@@ -1252,6 +1224,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Iceage"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "88dd3a93",
+      "dateISO": "2027-07-10",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/evan-giia/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "EVAN GIIA"
       ],
       "openers": []
     }
