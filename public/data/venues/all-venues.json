@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-21T22:17:16.195Z",
+  "generatedAtISO": "2026-08-21T23:17:28.268Z",
   "shows": [
     {
       "showId": "c5f1b456",
@@ -1043,7 +1043,10 @@
       "headliners": [
         "CAIN CULTO"
       ],
-      "openers": []
+      "openers": [
+        "DJ AARON AXELSEN",
+        "TwoLips"
+      ]
     },
     {
       "showId": "481679dc",
@@ -1106,6 +1109,19 @@
       "openers": [
         "Where’s West?"
       ]
+    },
+    {
+      "showId": "062a8aab",
+      "dateISO": "2026-09-27",
+      "startTime": "2:00 PM",
+      "venueId": "bottom-of-the-hill",
+      "venueName": "Bottom of the Hill",
+      "showUrl": "http://www.bottomofthehill.com/20260927.html",
+      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
+      "headliners": [
+        "Remedy 7"
+      ],
+      "openers": []
     },
     {
       "showId": "26736cce",
@@ -1204,7 +1220,9 @@
       "headliners": [
         "Miss Hits / Litty Debungus (album release)"
       ],
-      "openers": []
+      "openers": [
+        "I Am the Octopus"
+      ]
     },
     {
       "showId": "d9705bdb",

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-21T22:17:07.509Z",
+  "generatedAtISO": "2026-08-21T23:17:20.359Z",
   "shows": [
     {
       "showId": "8fa9af3c",
@@ -324,7 +324,10 @@
       "headliners": [
         "CAIN CULTO"
       ],
-      "openers": []
+      "openers": [
+        "DJ AARON AXELSEN",
+        "TwoLips"
+      ]
     },
     {
       "showId": "8b94f4c9",
@@ -352,7 +355,9 @@
       "headliners": [
         "Miss Hits / Litty Debungus (album release)"
       ],
-      "openers": []
+      "openers": [
+        "I Am the Octopus"
+      ]
     },
     {
       "showId": "90749d6e",
