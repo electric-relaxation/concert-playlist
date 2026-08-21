@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-21T03:44:27.491Z",
+  "generatedAtISO": "2026-08-21T17:22:20.898Z",
   "shows": [
     {
       "showId": "c5f1b456",
@@ -1216,6 +1216,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Mari Froes"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "bf83f1e7",
+      "dateISO": "2026-10-01",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus-album-release/702573?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Miss Hits / Litty Debungus (album release)"
       ],
       "openers": []
     },
