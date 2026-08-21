@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-21T17:22:12.238Z",
+  "generatedAtISO": "2026-08-21T22:17:07.509Z",
   "shows": [
     {
       "showId": "8fa9af3c",
@@ -344,7 +344,7 @@
     {
       "showId": "bf83f1e7",
       "dateISO": "2026-10-01",
-      "startTime": "8:30 PM",
+      "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
       "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus-album-release/702573?afflky=RickshawStop",
