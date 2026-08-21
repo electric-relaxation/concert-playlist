@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-20T17:22:35.797Z",
+  "generatedAtISO": "2026-08-21T03:44:21.015Z",
   "shows": [
     {
       "showId": "c5f1b456",
@@ -24,7 +24,7 @@
     {
       "showId": "4faec482",
       "dateISO": "2026-08-21",
-      "startTime": "9:00 PM",
+      "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/electric-duke-bowie-tribute-temptation-new-order-tribute/693149?afflky=TheChapel",
@@ -32,7 +32,9 @@
       "headliners": [
         "Electric Duke: Bowie Tribute, Temptation: New Order Tribute"
       ],
-      "openers": []
+      "openers": [
+        "The Singularity"
+      ]
     },
     {
       "showId": "99b87ab8",
