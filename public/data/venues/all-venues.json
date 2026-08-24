@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-08-21T23:17:28.268Z",
+  "generatedAtISO": "2026-08-24T17:25:07.581Z",
   "shows": [
-    {
-      "showId": "c5f1b456",
-      "dateISO": "2026-08-20",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/black-joe-lewis-and-the-honeybears/690098?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Black Joe Lewis & The Honeybears"
-      ],
-      "openers": [
-        "Chris Guthridge"
-      ]
-    },
     {
       "showId": "0a5841c8",
       "dateISO": "2026-08-20",
@@ -60,21 +45,6 @@
       "openers": []
     },
     {
-      "showId": "4faec482",
-      "dateISO": "2026-08-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/electric-duke-bowie-tribute-temptation-new-order-tribute/693149?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Electric Duke: Bowie Tribute, Temptation: New Order Tribute"
-      ],
-      "openers": [
-        "The Singularity"
-      ]
-    },
-    {
       "showId": "3ed149c9",
       "dateISO": "2026-08-21",
       "startTime": "9:00 PM",
@@ -88,22 +58,6 @@
       "openers": [
         "Camille Trust",
         "Rex & The Rhythm"
-      ]
-    },
-    {
-      "showId": "99b87ab8",
-      "dateISO": "2026-08-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/cocteaufest-sf-night-2-with-simon-raymonde-dj-set/684955?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Cocteaufest SF Night #2"
-      ],
-      "openers": [
-        "Mocteau Twins",
-        "Sugar Hiccup"
       ]
     },
     {
@@ -149,21 +103,6 @@
         "Earth Tongue",
         "La Sombra",
         "Snakemother"
-      ]
-    },
-    {
-      "showId": "b7bfa907",
-      "dateISO": "2026-08-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/built-to-spill/683036?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Built to Spill"
-      ],
-      "openers": [
-        "PLAYDEAD"
       ]
     },
     {
@@ -1009,12 +948,12 @@
       "showUrl": "https://wl.seetickets.us/event/femmes-thems-and-friends-a-folsom-kickoff-party/702095?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Femmes, Thems & Friends: A Folsom Kickoff Party"
+        "Femmes, Thems, And Friends: A Folsom Kickoff Party"
       ],
       "openers": [
         "37 Houses",
         "Black Gold Sun",
-        "Furious Tits"
+        "The Furious Tits"
       ]
     },
     {
