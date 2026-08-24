@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-08-24T17:25:07.581Z",
+  "generatedAtISO": "2026-08-24T18:30:55.933Z",
   "shows": [
-    {
-      "showId": "0a5841c8",
-      "dateISO": "2026-08-20",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/g-flip/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "G Flip"
-      ],
-      "openers": [
-        "Vienna Vienna"
-      ]
-    },
     {
       "showId": "8fa9af3c",
       "dateISO": "2026-08-20",
@@ -45,22 +30,6 @@
       "openers": []
     },
     {
-      "showId": "3ed149c9",
-      "dateISO": "2026-08-21",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/niina-soleil/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Niina Soleil"
-      ],
-      "openers": [
-        "Camille Trust",
-        "Rex & The Rhythm"
-      ]
-    },
-    {
       "showId": "00853b20",
       "dateISO": "2026-08-22",
       "startTime": "9:00 PM",
@@ -72,21 +41,6 @@
         "EMO NITE"
       ],
       "openers": []
-    },
-    {
-      "showId": "fc224129",
-      "dateISO": "2026-08-22",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/pearl-the-oysters/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Pearl & The Oysters"
-      ],
-      "openers": [
-        "Chris Cohen (Solo)"
-      ]
     },
     {
       "showId": "c97ac9e5",
@@ -1544,6 +1498,19 @@
       ]
     },
     {
+      "showId": "02cf1448",
+      "dateISO": "2026-10-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lost-kings-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lost Kings"
+      ],
+      "openers": []
+    },
+    {
       "showId": "6b700074",
       "dateISO": "2026-10-16",
       "startTime": "8:30 PM",
@@ -2437,6 +2404,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "John Carroll Kirby"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "70b8e62f",
+      "dateISO": "2026-11-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/icona-pop/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Icona Pop"
       ],
       "openers": []
     },
