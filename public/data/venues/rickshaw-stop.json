@@ -4,66 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-21T23:17:20.359Z",
+  "generatedAtISO": "2026-08-24T20:22:22.869Z",
   "shows": [
-    {
-      "showId": "8fa9af3c",
-      "dateISO": "2026-08-20",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/beach-goth-night/695626?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BEACH GOTH NIGHT"
-      ],
-      "openers": [
-        "DJ JPEG"
-      ]
-    },
-    {
-      "showId": "dad27e0c",
-      "dateISO": "2026-08-21",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/lcd-soundsystem-vs-daft-punk-night/694083?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "LCD Soundsystem vs Daft Punk night"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "00853b20",
-      "dateISO": "2026-08-22",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/699608?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "c97ac9e5",
-      "dateISO": "2026-08-23",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/hippie-death-cult/692946?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "HIPPIE DEATH CULT"
-      ],
-      "openers": [
-        "Earth Tongue",
-        "La Sombra",
-        "Snakemother"
-      ]
-    },
     {
       "showId": "40ea0fcd",
       "dateISO": "2026-08-26",
@@ -208,7 +150,9 @@
       "headliners": [
         "ALI"
       ],
-      "openers": []
+      "openers": [
+        "The Helltones"
+      ]
     },
     {
       "showId": "64bc12d9",
