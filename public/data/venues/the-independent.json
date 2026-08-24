@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-24T18:30:46.627Z",
+  "generatedAtISO": "2026-08-24T21:22:09.148Z",
   "shows": [
     {
       "showId": "bbf98da4",
@@ -522,7 +522,7 @@
     {
       "showId": "02cf1448",
       "dateISO": "2026-10-15",
-      "startTime": "8:00 PM",
+      "startTime": "9:00 PM",
       "venueId": "the-independent",
       "venueName": "The Independent",
       "showUrl": "https://www.theindependentsf.com/tm-event/lost-kings-2/",
