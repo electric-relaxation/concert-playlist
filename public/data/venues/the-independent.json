@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-25T19:25:52.657Z",
+  "generatedAtISO": "2026-08-25T22:19:32.248Z",
   "shows": [
     {
       "showId": "bbf98da4",
@@ -63,7 +63,9 @@
       "headliners": [
         "Tonic Walter"
       ],
-      "openers": []
+      "openers": [
+        "TVLI"
+      ]
     },
     {
       "showId": "d9c7d726",

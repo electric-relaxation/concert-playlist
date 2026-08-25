@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-25T19:25:59.164Z",
+  "generatedAtISO": "2026-08-25T22:19:40.444Z",
   "shows": [
     {
       "showId": "b8e5d43a",
@@ -246,7 +246,9 @@
       "headliners": [
         "Tonic Walter"
       ],
-      "openers": []
+      "openers": [
+        "TVLI"
+      ]
     },
     {
       "showId": "8f2633d9",
