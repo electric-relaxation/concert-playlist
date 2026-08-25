@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-25T18:30:55.109Z",
+  "generatedAtISO": "2026-08-25T19:25:52.657Z",
   "shows": [
     {
       "showId": "bbf98da4",
@@ -351,7 +351,9 @@
       "headliners": [
         "Chasing Abbey"
       ],
-      "openers": []
+      "openers": [
+        "Ali Coyle"
+      ]
     },
     {
       "showId": "455ebfb4",

@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-25T18:31:03.584Z",
+  "generatedAtISO": "2026-08-25T19:25:59.164Z",
   "shows": [
     {
       "showId": "b8e5d43a",
@@ -307,7 +307,10 @@
       "headliners": [
         "THE BUG CLUB"
       ],
-      "openers": []
+      "openers": [
+        "Lunchbox",
+        "Preschool"
+      ]
     },
     {
       "showId": "90dfe083",
@@ -1046,7 +1049,9 @@
       "headliners": [
         "Chasing Abbey"
       ],
-      "openers": []
+      "openers": [
+        "Ali Coyle"
+      ]
     },
     {
       "showId": "bf83f1e7",

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-24T20:22:22.869Z",
+  "generatedAtISO": "2026-08-25T19:25:52.657Z",
   "shows": [
     {
       "showId": "40ea0fcd",
@@ -96,7 +96,10 @@
       "headliners": [
         "THE BUG CLUB"
       ],
-      "openers": []
+      "openers": [
+        "Lunchbox",
+        "Preschool"
+      ]
     },
     {
       "showId": "2ebbb1c0",
