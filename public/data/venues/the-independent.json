@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-24T21:22:09.148Z",
+  "generatedAtISO": "2026-08-25T18:30:55.109Z",
   "shows": [
     {
       "showId": "bbf98da4",
@@ -206,6 +206,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Daniel Avery Live"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "87d063f7",
+      "dateISO": "2026-09-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/cut-chemist/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Cut Chemist"
       ],
       "openers": []
     },

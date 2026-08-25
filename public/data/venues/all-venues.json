@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-25T16:29:26.413Z",
+  "generatedAtISO": "2026-08-25T18:31:03.584Z",
   "shows": [
     {
       "showId": "b8e5d43a",
@@ -664,6 +664,19 @@
         "Ex-Heir",
         "Nick Moss (DJ Set)"
       ]
+    },
+    {
+      "showId": "87d063f7",
+      "dateISO": "2026-09-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/cut-chemist/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Cut Chemist"
+      ],
+      "openers": []
     },
     {
       "showId": "717519f9",
