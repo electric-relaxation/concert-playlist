@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-25T05:25:49.945Z",
+  "generatedAtISO": "2026-08-25T16:29:16.733Z",
   "shows": [
-    {
-      "showId": "458143dc",
-      "dateISO": "2026-08-24",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/built-to-spill/683043?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Built to Spill"
-      ],
-      "openers": [
-        "PLAYDEAD"
-      ]
-    },
     {
       "showId": "b8e5d43a",
       "dateISO": "2026-08-25",
@@ -501,6 +486,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Y La Bamba - 10 Years of Ojos Del Sol"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ea92e6ef",
+      "dateISO": "2026-10-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/derya-yildirim-and-grup-simsek-thee-marloes/702768?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Derya Yildirim & Grup Şimşek, Thee Marloes"
       ],
       "openers": []
     },
