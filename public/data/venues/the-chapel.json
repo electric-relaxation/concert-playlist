@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-25T16:29:16.733Z",
+  "generatedAtISO": "2026-08-26T07:40:16.454Z",
   "shows": [
     {
       "showId": "b8e5d43a",
@@ -688,21 +688,6 @@
       ],
       "openers": [
         "Olivia Barton"
-      ]
-    },
-    {
-      "showId": "0ea94193",
-      "dateISO": "2026-11-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-liminanas/686832?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Limiñanas"
-      ],
-      "openers": [
-        "Native Sun"
       ]
     },
     {
