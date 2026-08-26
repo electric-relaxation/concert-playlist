@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-26T14:37:30.155Z",
+  "generatedAtISO": "2026-08-26T18:52:59.972Z",
   "shows": [
     {
       "showId": "91d115b7",
@@ -471,6 +471,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Y La Bamba - 10 Years of Ojos Del Sol"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a3792ff8",
+      "dateISO": "2026-10-09",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Cobweb-Cabaret/703371?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Cobweb Cabaret"
       ],
       "openers": []
     },

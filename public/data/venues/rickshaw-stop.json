@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-25T19:25:52.657Z",
+  "generatedAtISO": "2026-08-26T18:52:59.972Z",
   "shows": [
     {
       "showId": "40ea0fcd",
@@ -447,6 +447,19 @@
       "openers": [
         "Touch Girl Apple Blossom"
       ]
+    },
+    {
+      "showId": "c7fa5946",
+      "dateISO": "2026-10-30",
+      "startTime": "9:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/haus-party-halloween/703660?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "HAUS PARTY HALLOWEEN"
+      ],
+      "openers": []
     },
     {
       "showId": "6afa1ff1",

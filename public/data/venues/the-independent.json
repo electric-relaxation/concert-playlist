@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-25T22:19:32.248Z",
+  "generatedAtISO": "2026-08-26T18:52:59.972Z",
   "shows": [
     {
       "showId": "bbf98da4",
@@ -396,7 +396,9 @@
       "headliners": [
         "ROYA"
       ],
-      "openers": []
+      "openers": [
+        "1ycia"
+      ]
     },
     {
       "showId": "7dae82f0",
@@ -717,7 +719,9 @@
       "headliners": [
         "Freak Slug"
       ],
-      "openers": []
+      "openers": [
+        "Mamalarky"
+      ]
     },
     {
       "showId": "886d8e74",
