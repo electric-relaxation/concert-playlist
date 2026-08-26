@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-26T07:40:16.454Z",
+  "generatedAtISO": "2026-08-26T14:37:30.155Z",
   "shows": [
-    {
-      "showId": "b8e5d43a",
-      "dateISO": "2026-08-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/built-to-spill/683046?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Built to Spill"
-      ],
-      "openers": [
-        "PLAYDEAD"
-      ]
-    },
     {
       "showId": "91d115b7",
       "dateISO": "2026-08-26",
@@ -950,6 +935,21 @@
       ],
       "openers": [
         "Rebirth Brass Band"
+      ]
+    },
+    {
+      "showId": "989245f1",
+      "dateISO": "2027-05-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-liminanas/686832?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Limiñanas"
+      ],
+      "openers": [
+        "Native Sun"
       ]
     }
   ]
