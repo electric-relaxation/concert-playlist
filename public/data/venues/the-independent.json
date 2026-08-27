@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-26T21:34:15.527Z",
+  "generatedAtISO": "2026-08-27T23:28:16.516Z",
   "shows": [
     {
       "showId": "bbf98da4",
@@ -875,7 +875,9 @@
       "headliners": [
         "Stop Light Observations"
       ],
-      "openers": []
+      "openers": [
+        "Runner and Bobby"
+      ]
     },
     {
       "showId": "4e79add1",
@@ -971,6 +973,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Pretty Sick"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "21b4875d",
+      "dateISO": "2026-11-20",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/nickcheo-the-tour-the-movie/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "@NICKCHEO the *TOUR* the *MOVIE*"
       ],
       "openers": []
     },

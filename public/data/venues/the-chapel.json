@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-26T18:52:59.972Z",
+  "generatedAtISO": "2026-08-27T23:28:16.516Z",
   "shows": [
-    {
-      "showId": "91d115b7",
-      "dateISO": "2026-08-26",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672239?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "OSEES ft. Brigid Dawson"
-      ],
-      "openers": [
-        "DJ David Katznelson",
-        "Traps PS"
-      ]
-    },
     {
       "showId": "ec1cb614",
       "dateISO": "2026-08-27",
@@ -98,7 +82,9 @@
       "headliners": [
         "Sister Nancy & The Steady Rock Band"
       ],
-      "openers": []
+      "openers": [
+        "DJ Sep (Dub Mission)"
+      ]
     },
     {
       "showId": "5c571773",
