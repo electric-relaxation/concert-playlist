@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-26T18:52:59.972Z",
+  "generatedAtISO": "2026-08-27T02:47:53.449Z",
   "shows": [
     {
       "showId": "40ea0fcd",
@@ -258,7 +258,9 @@
       "headliners": [
         "MEI EHARA"
       ],
-      "openers": []
+      "openers": [
+        "Badvril"
+      ]
     },
     {
       "showId": "7765d9b1",

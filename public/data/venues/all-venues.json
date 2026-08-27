@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-26T21:34:23.117Z",
+  "generatedAtISO": "2026-08-27T02:48:01.048Z",
   "shows": [
     {
       "showId": "91d115b7",
@@ -827,7 +827,9 @@
       "headliners": [
         "MEI EHARA"
       ],
-      "openers": []
+      "openers": [
+        "Badvril"
+      ]
     },
     {
       "showId": "f17490f6",
