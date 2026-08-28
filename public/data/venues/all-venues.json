@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-08-27T23:28:25.650Z",
+  "generatedAtISO": "2026-08-28T20:36:13.946Z",
   "shows": [
     {
       "showId": "40ea0fcd",
@@ -30,22 +30,6 @@
       ],
       "openers": [
         "Inti Mystica"
-      ]
-    },
-    {
-      "showId": "ec1cb614",
-      "dateISO": "2026-08-27",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672246?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "OSEES ft. Brigid Dawson"
-      ],
-      "openers": [
-        "DJ FOODCOURT",
-        "Traps PS"
       ]
     },
     {
@@ -1718,7 +1702,11 @@
       "headliners": [
         "Weatherday: Hornet Disaster Tour 2026"
       ],
-      "openers": []
+      "openers": [
+        "Founders Day",
+        "Harold",
+        "Hit me"
+      ]
     },
     {
       "showId": "88961e7e",
@@ -2782,6 +2770,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "STS9"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "878c0d5b",
+      "dateISO": "2027-01-22",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/fruition/703540?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Fruition"
       ],
       "openers": []
     },
