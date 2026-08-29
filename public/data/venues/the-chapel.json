@@ -4,25 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-28T20:36:07.278Z",
+  "generatedAtISO": "2026-08-29T22:11:04.062Z",
   "shows": [
-    {
-      "showId": "b4e8c07a",
-      "dateISO": "2026-08-28",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672247?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "OSEES ft. Brigid Dawson"
-      ],
-      "openers": [
-        "DJ Paul Costuros",
-        "Gumby’s Junk",
-        "Traps PS"
-      ]
-    },
     {
       "showId": "e2296de8",
       "dateISO": "2026-08-29",
@@ -147,21 +130,6 @@
         "Bobby Bare Jr. (of Guided By Voices)"
       ],
       "openers": []
-    },
-    {
-      "showId": "eebd9a5d",
-      "dateISO": "2026-09-16",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/magic-sword/698674?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Magic Sword"
-      ],
-      "openers": [
-        "Skylimit"
-      ]
     },
     {
       "showId": "4617c82f",
