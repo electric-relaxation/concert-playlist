@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-08-30T00:56:40.400Z",
+  "generatedAtISO": "2026-08-31T17:20:49.831Z",
   "shows": [
-    {
-      "showId": "bbf98da4",
-      "dateISO": "2026-08-27",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/son-rompe-pera/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Son Rompe Pera"
-      ],
-      "openers": [
-        "Inti Mystica"
-      ]
-    },
     {
       "showId": "904d0917",
       "dateISO": "2026-08-28",
@@ -29,22 +14,6 @@
       ],
       "openers": [
         "Ryley Walker"
-      ]
-    },
-    {
-      "showId": "467da42e",
-      "dateISO": "2026-08-28",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/wax-dj-hoppa/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Wax + DJ Hoppa"
-      ],
-      "openers": [
-        "Intuition",
-        "K.A.A.N."
       ]
     },
     {
@@ -77,21 +46,6 @@
       "openers": [
         "Coral Grief",
         "opener tba"
-      ]
-    },
-    {
-      "showId": "ce2f0d49",
-      "dateISO": "2026-08-29",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/brenn/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Brenn!"
-      ],
-      "openers": [
-        "Tom Siletto"
       ]
     },
     {
@@ -1882,6 +1836,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "SIX60"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a5e3d020",
+      "dateISO": "2026-11-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lexi-jayde/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lexi Jayde"
       ],
       "openers": []
     },

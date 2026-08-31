@@ -4,54 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-27T23:28:16.516Z",
+  "generatedAtISO": "2026-08-31T17:20:41.594Z",
   "shows": [
-    {
-      "showId": "bbf98da4",
-      "dateISO": "2026-08-27",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/son-rompe-pera/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Son Rompe Pera"
-      ],
-      "openers": [
-        "Inti Mystica"
-      ]
-    },
-    {
-      "showId": "467da42e",
-      "dateISO": "2026-08-28",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/wax-dj-hoppa/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Wax + DJ Hoppa"
-      ],
-      "openers": [
-        "Intuition",
-        "K.A.A.N."
-      ]
-    },
-    {
-      "showId": "ce2f0d49",
-      "dateISO": "2026-08-29",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/brenn/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Brenn!"
-      ],
-      "openers": [
-        "Tom Siletto"
-      ]
-    },
     {
       "showId": "bde09429",
       "dateISO": "2026-09-04",
@@ -761,6 +715,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "SIX60"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a5e3d020",
+      "dateISO": "2026-11-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lexi-jayde/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lexi Jayde"
       ],
       "openers": []
     },
