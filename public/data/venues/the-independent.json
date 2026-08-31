@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-31T17:20:41.594Z",
+  "generatedAtISO": "2026-08-31T22:17:15.979Z",
   "shows": [
     {
       "showId": "bde09429",
@@ -163,7 +163,9 @@
       "headliners": [
         "Daniel Avery Live"
       ],
-      "openers": []
+      "openers": [
+        "Draag"
+      ]
     },
     {
       "showId": "87d063f7",
@@ -1179,6 +1181,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ac2f490c",
+      "dateISO": "2027-02-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/fink/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Fink"
       ],
       "openers": []
     },

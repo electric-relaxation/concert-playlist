@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-08-31T17:20:49.831Z",
+  "generatedAtISO": "2026-08-31T22:17:23.322Z",
   "shows": [
-    {
-      "showId": "904d0917",
-      "dateISO": "2026-08-28",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/my-new-band-believe/684743?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MY NEW BAND BELIEVE"
-      ],
-      "openers": [
-        "Ryley Walker"
-      ]
-    },
     {
       "showId": "e2296de8",
       "dateISO": "2026-08-29",
@@ -30,22 +15,6 @@
       "openers": [
         "DJ Paul Costuros",
         "Traps PS"
-      ]
-    },
-    {
-      "showId": "3f3cf45a",
-      "dateISO": "2026-08-29",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/mini-trees/689148?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MINI TREES"
-      ],
-      "openers": [
-        "Coral Grief",
-        "opener tba"
       ]
     },
     {
@@ -496,7 +465,9 @@
       "headliners": [
         "Daniel Avery Live"
       ],
-      "openers": []
+      "openers": [
+        "Draag"
+      ]
     },
     {
       "showId": "650696d9",
@@ -2650,6 +2621,19 @@
       "openers": []
     },
     {
+      "showId": "801920b3",
+      "dateISO": "2026-12-18",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/milk-and-bone/703435?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MILK & BONE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "dc5f5315",
       "dateISO": "2027-01-08",
       "startTime": "9:00 PM",
@@ -2776,6 +2760,19 @@
       "openers": [
         "Suzzallo"
       ]
+    },
+    {
+      "showId": "ac2f490c",
+      "dateISO": "2027-02-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/fink/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Fink"
+      ],
+      "openers": []
     },
     {
       "showId": "9c147d60",

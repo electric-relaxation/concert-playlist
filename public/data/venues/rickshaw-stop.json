@@ -4,39 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-29T03:00:18.305Z",
+  "generatedAtISO": "2026-08-31T22:17:15.979Z",
   "shows": [
-    {
-      "showId": "904d0917",
-      "dateISO": "2026-08-28",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/my-new-band-believe/684743?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MY NEW BAND BELIEVE"
-      ],
-      "openers": [
-        "Ryley Walker"
-      ]
-    },
-    {
-      "showId": "3f3cf45a",
-      "dateISO": "2026-08-29",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/mini-trees/689148?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MINI TREES"
-      ],
-      "openers": [
-        "Coral Grief",
-        "opener tba"
-      ]
-    },
     {
       "showId": "f7293b0b",
       "dateISO": "2026-09-04",
@@ -615,6 +584,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "RUBY HAUNT"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "801920b3",
+      "dateISO": "2026-12-18",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/milk-and-bone/703435?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "MILK & BONE"
       ],
       "openers": []
     },
