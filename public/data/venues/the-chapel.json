@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-08-30T00:56:33.214Z",
+  "generatedAtISO": "2026-09-01T20:23:54.348Z",
   "shows": [
-    {
-      "showId": "e2296de8",
-      "dateISO": "2026-08-29",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672248?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "OSEES ft. Brigid Dawson"
-      ],
-      "openers": [
-        "DJ Paul Costuros",
-        "Traps PS"
-      ]
-    },
     {
       "showId": "3fe8ceb9",
       "dateISO": "2026-09-03",
@@ -253,7 +237,8 @@
       ],
       "openers": [
         "Light Fantastic",
-        "Rain Parade"
+        "Rain Parade",
+        "Visuals by Zachary Rodell"
       ]
     },
     {
@@ -269,7 +254,8 @@
       ],
       "openers": [
         "Jas Stade",
-        "Møtrik"
+        "Møtrik",
+        "Visuals by Zachary Rodell"
       ]
     },
     {

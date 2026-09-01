@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-09-01T17:12:10.366Z",
+  "generatedAtISO": "2026-09-01T20:24:03.172Z",
   "shows": [
-    {
-      "showId": "e2296de8",
-      "dateISO": "2026-08-29",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/osees-ft-brigid-dawson/672248?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "OSEES ft. Brigid Dawson"
-      ],
-      "openers": [
-        "DJ Paul Costuros",
-        "Traps PS"
-      ]
-    },
     {
       "showId": "0985872b",
       "dateISO": "2026-08-30",
@@ -739,7 +723,8 @@
       ],
       "openers": [
         "Light Fantastic",
-        "Rain Parade"
+        "Rain Parade",
+        "Visuals by Zachary Rodell"
       ]
     },
     {
@@ -758,6 +743,19 @@
       ]
     },
     {
+      "showId": "7b6e3916",
+      "dateISO": "2026-09-26",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/703856?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "5871c7f3",
       "dateISO": "2026-09-26",
       "startTime": "9:00 PM",
@@ -770,7 +768,8 @@
       ],
       "openers": [
         "Jas Stade",
-        "Møtrik"
+        "Møtrik",
+        "Visuals by Zachary Rodell"
       ]
     },
     {
