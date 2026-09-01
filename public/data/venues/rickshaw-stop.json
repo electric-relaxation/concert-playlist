@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-08-31T22:17:15.979Z",
+  "generatedAtISO": "2026-09-01T17:12:00.393Z",
   "shows": [
     {
       "showId": "f7293b0b",
@@ -489,6 +489,19 @@
       "openers": [
         "Alix Page"
       ]
+    },
+    {
+      "showId": "3eeec667",
+      "dateISO": "2026-11-14",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/broadway-rave/703546?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BROADWAY RAVE"
+      ],
+      "openers": []
     },
     {
       "showId": "743fb630",
