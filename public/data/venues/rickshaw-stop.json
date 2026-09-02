@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-02T21:30:16.730Z",
+  "generatedAtISO": "2026-09-02T23:46:12.272Z",
   "shows": [
     {
       "showId": "f7293b0b",
@@ -35,6 +35,7 @@
       ],
       "openers": [
         "Adam Spry",
+        "ETHNO",
         "Jared Mattson x Chili Corder"
       ]
     },

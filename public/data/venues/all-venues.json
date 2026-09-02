@@ -1,22 +1,6 @@
 {
-  "generatedAtISO": "2026-09-02T21:30:24.197Z",
+  "generatedAtISO": "2026-09-02T23:46:19.218Z",
   "shows": [
-    {
-      "showId": "0985872b",
-      "dateISO": "2026-08-30",
-      "startTime": "7:30 PM",
-      "venueId": "bottom-of-the-hill",
-      "venueName": "Bottom of the Hill",
-      "showUrl": "http://www.bottomofthehill.com/20260830.html",
-      "sourceUrl": "https://www.bottomofthehill.com/calendar.html",
-      "headliners": [
-        "Tom Kenny & the Hi Seas"
-      ],
-      "openers": [
-        "Cape Fury",
-        "Michael Michael Motorcycle"
-      ]
-    },
     {
       "showId": "3fe8ceb9",
       "dateISO": "2026-09-03",
@@ -30,7 +14,7 @@
       ],
       "openers": [
         "Chime School",
-        "r.image"
+        "DJ Midnight Artist"
       ]
     },
     {
@@ -92,6 +76,7 @@
       ],
       "openers": [
         "Adam Spry",
+        "ETHNO",
         "Jared Mattson x Chili Corder"
       ]
     },
@@ -403,6 +388,7 @@
         "Unsane"
       ],
       "openers": [
+        "/ Sasquatch Borracho",
         "CNTS",
         "Facet"
       ]
