@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-01T20:24:03.172Z",
+  "generatedAtISO": "2026-09-02T21:30:24.197Z",
   "shows": [
     {
       "showId": "0985872b",
@@ -1495,7 +1495,9 @@
       "headliners": [
         "Sawyer Hill"
       ],
-      "openers": []
+      "openers": [
+        "Never Ending Fall"
+      ]
     },
     {
       "showId": "46ea37cc",
@@ -2575,6 +2577,22 @@
         "THE BOBBY LEES"
       ],
       "openers": []
+    },
+    {
+      "showId": "6739c40e",
+      "dateISO": "2026-12-12",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/tanukichan/702971?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "TANUKICHAN"
+      ],
+      "openers": [
+        "Badvril",
+        "Stargirl Mare"
+      ]
     },
     {
       "showId": "62fc07cc",

@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-01T20:23:54.348Z",
+  "generatedAtISO": "2026-09-02T21:30:16.730Z",
   "shows": [
     {
       "showId": "f7293b0b",
@@ -599,6 +599,22 @@
         "Graham Hunt / 9Million (co-headline)"
       ],
       "openers": []
+    },
+    {
+      "showId": "6739c40e",
+      "dateISO": "2026-12-12",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/tanukichan/702971?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "TANUKICHAN"
+      ],
+      "openers": [
+        "Badvril",
+        "Stargirl Mare"
+      ]
     },
     {
       "showId": "e6562674",

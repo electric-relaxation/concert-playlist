@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-08-31T22:17:15.979Z",
+  "generatedAtISO": "2026-09-02T21:30:16.730Z",
   "shows": [
     {
       "showId": "bde09429",
@@ -576,7 +576,9 @@
       "headliners": [
         "Sawyer Hill"
       ],
-      "openers": []
+      "openers": [
+        "Never Ending Fall"
+      ]
     },
     {
       "showId": "908ee202",
