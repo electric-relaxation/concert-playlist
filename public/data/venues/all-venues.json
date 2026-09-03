@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-03T19:34:26.935Z",
+  "generatedAtISO": "2026-09-03T22:10:00.487Z",
   "shows": [
     {
       "showId": "3fe8ceb9",
@@ -1570,6 +1570,22 @@
         "Frog"
       ],
       "openers": []
+    },
+    {
+      "showId": "08060dc3",
+      "dateISO": "2026-10-24",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mission-delirium/704451?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Mission Delirium"
+      ],
+      "openers": [
+        "Camellia Boutros",
+        "Istanbul Connection"
+      ]
     },
     {
       "showId": "14eb4c90",

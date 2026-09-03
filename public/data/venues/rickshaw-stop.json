@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-02T23:46:12.272Z",
+  "generatedAtISO": "2026-09-03T22:09:54.043Z",
   "shows": [
     {
       "showId": "f7293b0b",
@@ -377,6 +377,22 @@
         "Barfight",
         "Dinner Date",
         "Tom Conneely and Birds of Paradise"
+      ]
+    },
+    {
+      "showId": "08060dc3",
+      "dateISO": "2026-10-24",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/mission-delirium/704451?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Mission Delirium"
+      ],
+      "openers": [
+        "Camellia Boutros",
+        "Istanbul Connection"
       ]
     },
     {
