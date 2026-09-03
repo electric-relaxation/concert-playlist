@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-02T23:46:12.272Z",
+  "generatedAtISO": "2026-09-03T19:34:19.805Z",
   "shows": [
     {
       "showId": "3fe8ceb9",
@@ -166,10 +166,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/marlon-magnee-of-la-femme/670503?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/moved-to-the-4-star-theater-marlon-magnee-of-la-femme/670503?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Marlon Magnée (of La Femme)"
+        "MOVED TO THE 4 STAR THEATER: Marlon Magnée (of La Femme)"
       ],
       "openers": [
         "Future Twin"
