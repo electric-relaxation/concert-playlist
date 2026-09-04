@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-04T00:42:59.060Z",
+  "generatedAtISO": "2026-09-04T17:59:08.553Z",
   "shows": [
     {
       "showId": "3fe8ceb9",
@@ -825,21 +825,6 @@
       ],
       "openers": [
         "Sasha Cee"
-      ]
-    },
-    {
-      "showId": "2f0eb9e0",
-      "dateISO": "2026-09-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/way-dynamic/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Way Dynamic"
-      ],
-      "openers": [
-        "Slippers"
       ]
     },
     {
@@ -2801,6 +2786,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Fink"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2f0eb9e0",
+      "dateISO": "2027-02-24",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/way-dynamic/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Way Dynamic"
       ],
       "openers": []
     },
