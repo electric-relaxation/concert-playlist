@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-04T20:33:00.737Z",
+  "generatedAtISO": "2026-09-04T22:43:20.407Z",
   "shows": [
     {
       "showId": "f7293b0b",
@@ -2407,7 +2407,9 @@
       "headliners": [
         "L'RAIN"
       ],
-      "openers": []
+      "openers": [
+        "ZAYALLCAPS"
+      ]
     },
     {
       "showId": "cc19efa9",

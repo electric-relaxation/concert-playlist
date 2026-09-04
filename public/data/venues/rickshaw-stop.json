@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-03T22:09:54.043Z",
+  "generatedAtISO": "2026-09-04T22:43:11.998Z",
   "shows": [
     {
       "showId": "f7293b0b",
@@ -574,7 +574,9 @@
       "headliners": [
         "L'RAIN"
       ],
-      "openers": []
+      "openers": [
+        "ZAYALLCAPS"
+      ]
     },
     {
       "showId": "a7a5ae68",
