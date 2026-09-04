@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-04T00:42:51.583Z",
+  "generatedAtISO": "2026-09-04T20:32:53.494Z",
   "shows": [
-    {
-      "showId": "3fe8ceb9",
-      "dateISO": "2026-09-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/pink-breath-of-heaven/699433?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Pink Breath of Heaven"
-      ],
-      "openers": [
-        "Chime School",
-        "DJ Midnight Artist"
-      ]
-    },
     {
       "showId": "495b2771",
       "dateISO": "2026-09-04",
@@ -84,6 +68,24 @@
         "Acid Tongue: The Farewell Show"
       ],
       "openers": []
+    },
+    {
+      "showId": "8444cf6a",
+      "dateISO": "2026-09-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-best-little-whorehouse-in-san-francisco-a-dolly-tribute/704549?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Best Little Whorehouse in San Francisco: A Dolly Tribute"
+      ],
+      "openers": [
+        "Amoura Teese",
+        "Cheetah Biscotti",
+        "Helena Levin",
+        "Laundra Tyme"
+      ]
     },
     {
       "showId": "2dc8dcb1",
