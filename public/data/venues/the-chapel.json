@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-03T19:34:19.805Z",
+  "generatedAtISO": "2026-09-04T00:42:51.583Z",
   "shows": [
     {
       "showId": "3fe8ceb9",
@@ -83,9 +83,7 @@
       "headliners": [
         "Acid Tongue: The Farewell Show"
       ],
-      "openers": [
-        "Los Dug Dug's"
-      ]
+      "openers": []
     },
     {
       "showId": "2dc8dcb1",
