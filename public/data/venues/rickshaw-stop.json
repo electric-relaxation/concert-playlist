@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-04T22:43:11.998Z",
+  "generatedAtISO": "2026-09-05T00:33:25.723Z",
   "shows": [
     {
       "showId": "f7293b0b",
@@ -266,10 +266,10 @@
       "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus-album-release/702573?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus/702573?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "Miss Hits / Litty Debungus (album release)"
+        "MISS HITS / LITTY DEBUNGUS"
       ],
       "openers": [
         "I Am the Octopus"

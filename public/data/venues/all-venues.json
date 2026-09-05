@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-04T22:43:20.407Z",
+  "generatedAtISO": "2026-09-05T00:33:32.365Z",
   "shows": [
     {
       "showId": "f7293b0b",
@@ -820,10 +820,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/sophie-truax/697003?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/canceled-sophie-truax/697003?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Sophie Truax"
+        "CANCELED: Sophie Truax"
       ],
       "openers": [
         "Sasha Cee"
@@ -865,10 +865,10 @@
       "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus-album-release/702573?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus/702573?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "Miss Hits / Litty Debungus (album release)"
+        "MISS HITS / LITTY DEBUNGUS"
       ],
       "openers": [
         "I Am the Octopus"

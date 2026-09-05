@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-04T20:32:53.494Z",
+  "generatedAtISO": "2026-09-05T00:33:25.723Z",
   "shows": [
     {
       "showId": "495b2771",
@@ -264,10 +264,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/sophie-truax/697003?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/canceled-sophie-truax/697003?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Sophie Truax"
+        "CANCELED: Sophie Truax"
       ],
       "openers": [
         "Sasha Cee"
