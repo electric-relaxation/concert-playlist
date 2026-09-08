@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-08T19:48:08.718Z",
+  "generatedAtISO": "2026-09-08T22:17:22.113Z",
   "shows": [
     {
       "showId": "da6ad127",
@@ -89,7 +89,9 @@
       "headliners": [
         "Rules"
       ],
-      "openers": []
+      "openers": [
+        "Verbala"
+      ]
     },
     {
       "showId": "224ee565",
@@ -115,7 +117,9 @@
       "headliners": [
         "Acid Tongue: The Farewell Show"
       ],
-      "openers": []
+      "openers": [
+        "Damma Damma"
+      ]
     },
     {
       "showId": "035eddb4",
@@ -165,7 +169,9 @@
       "headliners": [
         "BL3SS – 360 Set – North American Tour 2026"
       ],
-      "openers": []
+      "openers": [
+        "BRIIZA"
+      ]
     },
     {
       "showId": "f81b3eee",
@@ -2716,7 +2722,9 @@
       "headliners": [
         "Fink"
       ],
-      "openers": []
+      "openers": [
+        "Maggie Koerner"
+      ]
     },
     {
       "showId": "2f0eb9e0",
