@@ -4,36 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-04T17:59:01.085Z",
+  "generatedAtISO": "2026-09-08T19:48:02.352Z",
   "shows": [
-    {
-      "showId": "bde09429",
-      "dateISO": "2026-09-04",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/tonic-walter/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Tonic Walter"
-      ],
-      "openers": [
-        "TVLI"
-      ]
-    },
-    {
-      "showId": "d9c7d726",
-      "dateISO": "2026-09-05",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-12/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Emo Night Tour"
-      ],
-      "openers": []
-    },
     {
       "showId": "90dfe083",
       "dateISO": "2026-09-08",
@@ -477,7 +449,9 @@
       "headliners": [
         "Juice"
       ],
-      "openers": []
+      "openers": [
+        "Porcelain"
+      ]
     },
     {
       "showId": "02cf1448",
@@ -693,6 +667,19 @@
       "openers": [
         "HABITAAT"
       ]
+    },
+    {
+      "showId": "0ff472cc",
+      "dateISO": "2026-10-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-13/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
+      ],
+      "openers": []
     },
     {
       "showId": "dadf1e90",

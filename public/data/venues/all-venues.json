@@ -1,101 +1,6 @@
 {
-  "generatedAtISO": "2026-09-05T00:33:32.365Z",
+  "generatedAtISO": "2026-09-08T19:48:08.718Z",
   "shows": [
-    {
-      "showId": "f7293b0b",
-      "dateISO": "2026-09-04",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/alan-vuong/694428?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ALAN VUONG"
-      ],
-      "openers": [
-        "Last Known Species",
-        "elias"
-      ]
-    },
-    {
-      "showId": "495b2771",
-      "dateISO": "2026-09-04",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/sister-nancy-and-the-steady-rock-band/701232?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Sister Nancy & The Steady Rock Band"
-      ],
-      "openers": [
-        "DJ Sep (Dub Mission)"
-      ]
-    },
-    {
-      "showId": "bde09429",
-      "dateISO": "2026-09-04",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/tonic-walter/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Tonic Walter"
-      ],
-      "openers": [
-        "TVLI"
-      ]
-    },
-    {
-      "showId": "8f2633d9",
-      "dateISO": "2026-09-05",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/yuma-abe/692760?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "YUMA ABE"
-      ],
-      "openers": [
-        "Adam Spry",
-        "ETHNO",
-        "Jared Mattson x Chili Corder"
-      ]
-    },
-    {
-      "showId": "5c571773",
-      "dateISO": "2026-09-05",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-drink-the-sea/691451?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Alain Johannes",
-        "Barrett Martin",
-        "Duke Garwood",
-        "Feat. Peter Buck",
-        "Lisette Garcia"
-      ]
-    },
-    {
-      "showId": "d9c7d726",
-      "dateISO": "2026-09-05",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-12/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Emo Night Tour"
-      ],
-      "openers": []
-    },
     {
       "showId": "da6ad127",
       "dateISO": "2026-09-08",
@@ -241,8 +146,12 @@
       "openers": [
         "Amoura Teese",
         "Cheetah Biscotti",
+        "D. Williams",
+        "DJ Mama Celeste",
+        "Franzia Rosé",
         "Helena Levin",
-        "Laundra Tyme"
+        "Laundra Tyme",
+        "Sally Limón"
       ]
     },
     {
@@ -1280,7 +1189,9 @@
       "headliners": [
         "Juice"
       ],
-      "openers": []
+      "openers": [
+        "Porcelain"
+      ]
     },
     {
       "showId": "e86e778e",
@@ -1323,6 +1234,7 @@
         "PSYCHED! FEST with DILES QUE NO ME MATEN"
       ],
       "openers": [
+        "Ardo",
         "Present",
         "Trough",
         "ulyssescfm"
@@ -1782,6 +1694,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "HAUS PARTY HALLOWEEN"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0ff472cc",
+      "dateISO": "2026-10-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-13/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
       ],
       "openers": []
     },

@@ -4,41 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-05T00:33:25.723Z",
+  "generatedAtISO": "2026-09-08T19:48:02.352Z",
   "shows": [
-    {
-      "showId": "f7293b0b",
-      "dateISO": "2026-09-04",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/alan-vuong/694428?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ALAN VUONG"
-      ],
-      "openers": [
-        "Last Known Species",
-        "elias"
-      ]
-    },
-    {
-      "showId": "8f2633d9",
-      "dateISO": "2026-09-05",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/yuma-abe/692760?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "YUMA ABE"
-      ],
-      "openers": [
-        "Adam Spry",
-        "ETHNO",
-        "Jared Mattson x Chili Corder"
-      ]
-    },
     {
       "showId": "da6ad127",
       "dateISO": "2026-09-08",
@@ -344,6 +311,7 @@
         "PSYCHED! FEST with DILES QUE NO ME MATEN"
       ],
       "openers": [
+        "Ardo",
         "Present",
         "Trough",
         "ulyssescfm"

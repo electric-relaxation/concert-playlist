@@ -4,42 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-05T00:33:25.723Z",
+  "generatedAtISO": "2026-09-08T19:48:02.352Z",
   "shows": [
-    {
-      "showId": "495b2771",
-      "dateISO": "2026-09-04",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/sister-nancy-and-the-steady-rock-band/701232?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Sister Nancy & The Steady Rock Band"
-      ],
-      "openers": [
-        "DJ Sep (Dub Mission)"
-      ]
-    },
-    {
-      "showId": "5c571773",
-      "dateISO": "2026-09-05",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-drink-the-sea/691451?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Alain Johannes",
-        "Barrett Martin",
-        "Duke Garwood",
-        "Feat. Peter Buck",
-        "Lisette Garcia"
-      ]
-    },
     {
       "showId": "572ade80",
       "dateISO": "2026-09-10",
@@ -83,8 +49,12 @@
       "openers": [
         "Amoura Teese",
         "Cheetah Biscotti",
+        "D. Williams",
+        "DJ Mama Celeste",
+        "Franzia Rosé",
         "Helena Levin",
-        "Laundra Tyme"
+        "Laundra Tyme",
+        "Sally Limón"
       ]
     },
     {
