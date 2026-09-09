@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-09T18:22:22.051Z",
+  "generatedAtISO": "2026-09-09T21:27:51.346Z",
   "shows": [
     {
       "showId": "da6ad127",
@@ -215,6 +215,21 @@
       "openers": []
     },
     {
+      "showId": "574ae985",
+      "dateISO": "2026-09-15",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/moved-to-kilowatt-on-tuesday-915-magic-sword/698674?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "MOVED TO KILOWATT ON TUESDAY 9/15: Magic Sword"
+      ],
+      "openers": [
+        "Skylimit"
+      ]
+    },
+    {
       "showId": "a0ef2173",
       "dateISO": "2026-09-15",
       "startTime": "8:00 PM",
@@ -258,6 +273,19 @@
       "openers": [
         "Buffalo Nichols"
       ]
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-09-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "ee748521",
@@ -827,19 +855,6 @@
       "openers": [
         "Hailey Picardi"
       ]
-    },
-    {
-      "showId": "3265634e",
-      "dateISO": "2026-10-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "2a2d4b8f",
@@ -2099,9 +2114,12 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/sean-hayes/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Sean Hayes"
+        "Sean Hayes with KATZROAR and Etienne de Rocher (Haunted Shed)"
       ],
-      "openers": []
+      "openers": [
+        "Etienne de Rocher (Haunted Shed)",
+        "KATZROAR"
+      ]
     },
     {
       "showId": "a26d73dc",
@@ -2499,7 +2517,9 @@
       "headliners": [
         "THE BOBBY LEES"
       ],
-      "openers": []
+      "openers": [
+        "MUTTLEE"
+      ]
     },
     {
       "showId": "6739c40e",

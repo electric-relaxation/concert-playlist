@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-09T00:58:08.629Z",
+  "generatedAtISO": "2026-09-09T21:27:43.829Z",
   "shows": [
     {
       "showId": "572ade80",
@@ -84,6 +84,34 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Bobby Bare Jr. (of Guided By Voices)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "574ae985",
+      "dateISO": "2026-09-15",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/moved-to-kilowatt-on-tuesday-915-magic-sword/698674?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "MOVED TO KILOWATT ON TUESDAY 9/15: Magic Sword"
+      ],
+      "openers": [
+        "Skylimit"
+      ]
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-09-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
       ],
       "openers": []
     },
@@ -283,19 +311,6 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Lyrics Born"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "3265634e",
-      "dateISO": "2026-10-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
       ],
       "openers": []
     },

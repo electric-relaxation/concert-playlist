@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-09T18:22:15.518Z",
+  "generatedAtISO": "2026-09-09T21:27:43.829Z",
   "shows": [
     {
       "showId": "6ab1a0f9",
@@ -848,9 +848,12 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/sean-hayes/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Sean Hayes"
+        "Sean Hayes with KATZROAR and Etienne de Rocher (Haunted Shed)"
       ],
-      "openers": []
+      "openers": [
+        "Etienne de Rocher (Haunted Shed)",
+        "KATZROAR"
+      ]
     },
     {
       "showId": "cf185bdd",
@@ -1076,7 +1079,9 @@
       "headliners": [
         "THE BOBBY LEES"
       ],
-      "openers": []
+      "openers": [
+        "MUTTLEE"
+      ]
     },
     {
       "showId": "62fc07cc",
