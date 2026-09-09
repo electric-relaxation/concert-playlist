@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-09T00:58:14.857Z",
+  "generatedAtISO": "2026-09-09T18:22:22.051Z",
   "shows": [
     {
       "showId": "da6ad127",
@@ -15,21 +15,6 @@
       "openers": [
         "Lunchbox",
         "Preschool"
-      ]
-    },
-    {
-      "showId": "90dfe083",
-      "dateISO": "2026-09-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/pawpaw-rod/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "PawPaw Rod"
-      ],
-      "openers": [
-        "femdot"
       ]
     },
     {
@@ -2342,6 +2327,22 @@
       ],
       "openers": [
         "ZAYALLCAPS"
+      ]
+    },
+    {
+      "showId": "c8b7f6ad",
+      "dateISO": "2026-12-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-buttertones/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Buttertones"
+      ],
+      "openers": [
+        "Alex Vile",
+        "Goldtooth"
       ]
     },
     {
