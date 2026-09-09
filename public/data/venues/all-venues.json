@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-08T22:17:22.113Z",
+  "generatedAtISO": "2026-09-09T00:58:14.857Z",
   "shows": [
     {
       "showId": "da6ad127",
@@ -910,7 +910,9 @@
       "headliners": [
         "Lee DeWyze"
       ],
-      "openers": []
+      "openers": [
+        "August Lee Stevens"
+      ]
     },
     {
       "showId": "58218d0c",
