@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-09T21:27:43.829Z",
+  "generatedAtISO": "2026-09-10T19:25:40.324Z",
   "shows": [
     {
       "showId": "572ade80",
@@ -80,10 +80,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/canceled-bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Bobby Bare Jr. (of Guided By Voices)"
+        "CANCELED: Bobby Bare Jr. (of Guided By Voices)"
       ],
       "openers": []
     },
@@ -807,6 +807,23 @@
       ],
       "openers": [
         "Kisser"
+      ]
+    },
+    {
+      "showId": "a3e66c13",
+      "dateISO": "2027-01-08",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/western-standard-time-ska-orchestra-ft-karina-denike-nofx/705024?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Western Standard Time Ska Orchestra ft. Karina Deniké (NOFX)"
+      ],
+      "openers": [
+        "Sir Rudy Blackout",
+        "The Singapore Selector",
+        "The Tectonics"
       ]
     },
     {

@@ -4,24 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-08T19:48:02.352Z",
+  "generatedAtISO": "2026-09-10T19:25:40.324Z",
   "shows": [
-    {
-      "showId": "da6ad127",
-      "dateISO": "2026-09-08",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/the-bug-club/696618?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "THE BUG CLUB"
-      ],
-      "openers": [
-        "Lunchbox",
-        "Preschool"
-      ]
-    },
     {
       "showId": "2ebbb1c0",
       "dateISO": "2026-09-10",
@@ -298,6 +282,22 @@
         "EDGAR ALEJANDRO- Todo Lo Bueno Toma Tiempo Tour"
       ],
       "openers": []
+    },
+    {
+      "showId": "baa294cd",
+      "dateISO": "2026-10-15",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/abracadabra/704942?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Abracadabra"
+      ],
+      "openers": [
+        "Galore",
+        "Rhymies"
+      ]
     },
     {
       "showId": "6b700074",
