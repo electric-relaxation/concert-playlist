@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-10T19:25:46.584Z",
+  "generatedAtISO": "2026-09-10T22:11:26.500Z",
   "shows": [
     {
       "showId": "6ab1a0f9",
@@ -1199,22 +1199,6 @@
       "openers": [
         "Carpool Tunnel",
         "Starzdust"
-      ]
-    },
-    {
-      "showId": "baa294cd",
-      "dateISO": "2026-10-15",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/abracadabra/704942?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Abracadabra"
-      ],
-      "openers": [
-        "Galore",
-        "Rhymies"
       ]
     },
     {

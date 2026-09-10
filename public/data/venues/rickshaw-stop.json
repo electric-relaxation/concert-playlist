@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-10T19:25:40.324Z",
+  "generatedAtISO": "2026-09-10T22:11:19.764Z",
   "shows": [
     {
       "showId": "2ebbb1c0",
@@ -282,22 +282,6 @@
         "EDGAR ALEJANDRO- Todo Lo Bueno Toma Tiempo Tour"
       ],
       "openers": []
-    },
-    {
-      "showId": "baa294cd",
-      "dateISO": "2026-10-15",
-      "startTime": "8:45 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/abracadabra/704942?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Abracadabra"
-      ],
-      "openers": [
-        "Galore",
-        "Rhymies"
-      ]
     },
     {
       "showId": "6b700074",
