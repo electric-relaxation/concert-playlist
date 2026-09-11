@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-11T10:26:34.233Z",
+  "generatedAtISO": "2026-09-11T18:05:51.219Z",
   "shows": [
     {
       "showId": "572ade80",
@@ -15,21 +15,6 @@
       "openers": [
         "Christina's Trip",
         "Topographies"
-      ]
-    },
-    {
-      "showId": "2ebbb1c0",
-      "dateISO": "2026-09-10",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/chanpan/694072?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CHANPAN"
-      ],
-      "openers": [
-        "SHEBAD"
       ]
     },
     {
@@ -1187,6 +1172,22 @@
       "openers": [
         "Carpool Tunnel",
         "Starzdust"
+      ]
+    },
+    {
+      "showId": "292ca6cd",
+      "dateISO": "2026-10-15",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/abracadabra/704942?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ABRACADABRA"
+      ],
+      "openers": [
+        "Galore",
+        "Rhymies"
       ]
     },
     {

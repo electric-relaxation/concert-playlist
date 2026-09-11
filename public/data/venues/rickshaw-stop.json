@@ -4,23 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-10T22:11:19.764Z",
+  "generatedAtISO": "2026-09-11T18:05:44.568Z",
   "shows": [
-    {
-      "showId": "2ebbb1c0",
-      "dateISO": "2026-09-10",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/chanpan/694072?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CHANPAN"
-      ],
-      "openers": [
-        "SHEBAD"
-      ]
-    },
     {
       "showId": "224ee565",
       "dateISO": "2026-09-11",
@@ -282,6 +267,22 @@
         "EDGAR ALEJANDRO- Todo Lo Bueno Toma Tiempo Tour"
       ],
       "openers": []
+    },
+    {
+      "showId": "292ca6cd",
+      "dateISO": "2026-10-15",
+      "startTime": "8:45 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/abracadabra/704942?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ABRACADABRA"
+      ],
+      "openers": [
+        "Galore",
+        "Rhymies"
+      ]
     },
     {
       "showId": "6b700074",
