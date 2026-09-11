@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-09-10T22:11:26.500Z",
+  "generatedAtISO": "2026-09-11T00:46:10.550Z",
   "shows": [
-    {
-      "showId": "6ab1a0f9",
-      "dateISO": "2026-09-09",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/kevin-atwater-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Kevin Atwater"
-      ],
-      "openers": [
-        "Ruby Plume"
-      ]
-    },
     {
       "showId": "572ade80",
       "dateISO": "2026-09-10",
@@ -102,7 +87,8 @@
         "Arlo"
       ],
       "openers": [
-        "fromclay"
+        "fromclay",
+        "tripleset"
       ]
     },
     {
