@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-11T10:26:28.418Z",
+  "generatedAtISO": "2026-09-11T23:47:45.522Z",
   "shows": [
-    {
-      "showId": "572ade80",
-      "dateISO": "2026-09-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/pink-breath-of-heaven/699436?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Pink Breath of Heaven"
-      ],
-      "openers": [
-        "Christina's Trip",
-        "Topographies"
-      ]
-    },
     {
       "showId": "0df414eb",
       "dateISO": "2026-09-11",
@@ -548,6 +532,21 @@
         "Justin Nozuka"
       ],
       "openers": []
+    },
+    {
+      "showId": "23e5f09e",
+      "dateISO": "2026-10-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://www.tixr.com/groups/kqed/events/haunted-riot-with-frightwig-an-alt-punk-show-204363",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Haunted Riot"
+      ],
+      "openers": [
+        "Frightwig"
+      ]
     },
     {
       "showId": "14eb4c90",
