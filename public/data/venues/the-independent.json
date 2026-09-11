@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-11T00:46:03.496Z",
+  "generatedAtISO": "2026-09-11T21:30:19.225Z",
   "shows": [
-    {
-      "showId": "fd510e51",
-      "dateISO": "2026-09-10",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/rules/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Rules"
-      ],
-      "openers": [
-        "Verbala"
-      ]
-    },
     {
       "showId": "035eddb4",
       "dateISO": "2026-09-11",
@@ -553,7 +538,9 @@
       "headliners": [
         "Frog"
       ],
-      "openers": []
+      "openers": [
+        "Mildred"
+      ]
     },
     {
       "showId": "88961e7e",
@@ -766,6 +753,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "THAO"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7bd5ea28",
+      "dateISO": "2026-11-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/weston-estate-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Weston Estate"
       ],
       "openers": []
     },

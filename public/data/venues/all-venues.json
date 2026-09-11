@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-11T18:05:51.219Z",
+  "generatedAtISO": "2026-09-11T21:30:23.650Z",
   "shows": [
     {
       "showId": "572ade80",
@@ -15,21 +15,6 @@
       "openers": [
         "Christina's Trip",
         "Topographies"
-      ]
-    },
-    {
-      "showId": "fd510e51",
-      "dateISO": "2026-09-10",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/rules/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Rules"
-      ],
-      "openers": [
-        "Verbala"
       ]
     },
     {
@@ -1447,7 +1432,9 @@
       "headliners": [
         "Frog"
       ],
-      "openers": []
+      "openers": [
+        "Mildred"
+      ]
     },
     {
       "showId": "08060dc3",
@@ -1887,6 +1874,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "THAO"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7bd5ea28",
+      "dateISO": "2026-11-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/weston-estate-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Weston Estate"
       ],
       "openers": []
     },
