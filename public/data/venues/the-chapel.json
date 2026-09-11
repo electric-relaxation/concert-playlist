@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-10T19:25:40.324Z",
+  "generatedAtISO": "2026-09-11T10:26:28.418Z",
   "shows": [
     {
       "showId": "572ade80",
@@ -299,7 +299,9 @@
       "headliners": [
         "Soda Blonde"
       ],
-      "openers": []
+      "openers": [
+        "Marika Christine"
+      ]
     },
     {
       "showId": "14486166",
