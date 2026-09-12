@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-11T23:47:52.192Z",
+  "generatedAtISO": "2026-09-12T22:46:14.065Z",
   "shows": [
     {
       "showId": "224ee565",
@@ -408,6 +408,21 @@
       ],
       "openers": [
         "The Saxophones"
+      ]
+    },
+    {
+      "showId": "bd29295e",
+      "dateISO": "2026-09-22",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/bilal/705311?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Bilal"
+      ],
+      "openers": [
+        "Yaya Bey"
       ]
     },
     {
