@@ -1,52 +1,6 @@
 {
-  "generatedAtISO": "2026-09-14T17:26:35.657Z",
+  "generatedAtISO": "2026-09-14T21:18:26.193Z",
   "shows": [
-    {
-      "showId": "035eddb4",
-      "dateISO": "2026-09-11",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/arlo/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Arlo"
-      ],
-      "openers": [
-        "fromclay",
-        "tripleset"
-      ]
-    },
-    {
-      "showId": "a5f962d5",
-      "dateISO": "2026-09-12",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bl3ss-360-set-north-american-tour-2026/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "BL3SS – 360 Set – North American Tour 2026"
-      ],
-      "openers": [
-        "BRIIZA"
-      ]
-    },
-    {
-      "showId": "0cd2e665",
-      "dateISO": "2026-09-13",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/towa-bird/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Towa Bird"
-      ],
-      "openers": [
-        "Mother Soki"
-      ]
-    },
     {
       "showId": "694af068",
       "dateISO": "2026-09-14",
@@ -1811,7 +1765,9 @@
       "headliners": [
         "THAO"
       ],
-      "openers": []
+      "openers": [
+        "Agouti"
+      ]
     },
     {
       "showId": "7bd5ea28",
@@ -2127,7 +2083,9 @@
       "headliners": [
         "Pretty Sick"
       ],
-      "openers": []
+      "openers": [
+        "Sex Week"
+      ]
     },
     {
       "showId": "743fb630",
@@ -2577,19 +2535,6 @@
         "Com Truise",
         "Matthew Dear"
       ]
-    },
-    {
-      "showId": "fdd37955",
-      "dateISO": "2027-01-09",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/super-greens-sweet-plot-co-headline/704159?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SUPER GREENS / SWEET PLOT (co-headline)"
-      ],
-      "openers": []
     },
     {
       "showId": "ee3d1750",

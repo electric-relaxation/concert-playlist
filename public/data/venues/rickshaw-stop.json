@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-14T17:26:29.722Z",
+  "generatedAtISO": "2026-09-14T21:18:20.837Z",
   "shows": [
     {
       "showId": "23ab0a20",
@@ -615,19 +615,6 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "MILK & BONE"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "fdd37955",
-      "dateISO": "2027-01-09",
-      "startTime": "8:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/super-greens-sweet-plot-co-headline/704159?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SUPER GREENS / SWEET PLOT (co-headline)"
       ],
       "openers": []
     },
