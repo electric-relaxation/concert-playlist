@@ -4,21 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-13T22:46:49.076Z",
+  "generatedAtISO": "2026-09-14T17:26:29.722Z",
   "shows": [
-    {
-      "showId": "f81b3eee",
-      "dateISO": "2026-09-12",
-      "startTime": "9:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/dance-4-u-slayyyter-x-charli-xcx-night/701674?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "DANCE … 4 U: SLAYYYTER x CHARLI XCX NIGHT"
-      ],
-      "openers": []
-    },
     {
       "showId": "23ab0a20",
       "dateISO": "2026-09-16",
@@ -109,6 +96,21 @@
       ],
       "openers": [
         "villagerrr"
+      ]
+    },
+    {
+      "showId": "a8be419e",
+      "dateISO": "2026-09-22",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/bilal/705311?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BILAL"
+      ],
+      "openers": [
+        "Yaya Bey"
       ]
     },
     {
@@ -519,6 +521,21 @@
       ]
     },
     {
+      "showId": "9a17aba6",
+      "dateISO": "2026-12-05",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/alisons-halo/704948?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALISON'S HALO"
+      ],
+      "openers": [
+        "Cathedral Bells"
+      ]
+    },
+    {
       "showId": "a7a5ae68",
       "dateISO": "2026-12-09",
       "startTime": "8:00 PM",
@@ -598,6 +615,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "MILK & BONE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "fdd37955",
+      "dateISO": "2027-01-09",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/super-greens-sweet-plot-co-headline/704159?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SUPER GREENS / SWEET PLOT (co-headline)"
       ],
       "openers": []
     },

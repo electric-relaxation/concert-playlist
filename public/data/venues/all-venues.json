@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-09-13T22:46:54.413Z",
+  "generatedAtISO": "2026-09-14T17:26:35.657Z",
   "shows": [
-    {
-      "showId": "0df414eb",
-      "dateISO": "2026-09-11",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/acid-tongue-the-farewell-show/698511?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Acid Tongue: The Farewell Show"
-      ],
-      "openers": [
-        "Damma Damma"
-      ]
-    },
     {
       "showId": "035eddb4",
       "dateISO": "2026-09-11",
@@ -33,28 +18,6 @@
       ]
     },
     {
-      "showId": "8444cf6a",
-      "dateISO": "2026-09-12",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-best-little-whorehouse-in-san-francisco-a-dolly-tribute/704549?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Best Little Whorehouse in San Francisco: A Dolly Tribute"
-      ],
-      "openers": [
-        "Amoura Teese",
-        "Cheetah Biscotti",
-        "D. Williams",
-        "DJ Mama Celeste",
-        "Franzia Rosé",
-        "Helena Levin",
-        "Laundra Tyme",
-        "Sally Limón"
-      ]
-    },
-    {
       "showId": "a5f962d5",
       "dateISO": "2026-09-12",
       "startTime": "9:00 PM",
@@ -67,34 +30,6 @@
       ],
       "openers": [
         "BRIIZA"
-      ]
-    },
-    {
-      "showId": "f81b3eee",
-      "dateISO": "2026-09-12",
-      "startTime": "9:30 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/dance-4-u-slayyyter-x-charli-xcx-night/701674?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "DANCE … 4 U: SLAYYYTER x CHARLI XCX NIGHT"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "2dc8dcb1",
-      "dateISO": "2026-09-13",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/carla-dal-forno/689760?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Carla dal Forno"
-      ],
-      "openers": [
-        "Cindy"
       ]
     },
     {
@@ -395,6 +330,21 @@
       ],
       "openers": [
         "The Saxophones"
+      ]
+    },
+    {
+      "showId": "a8be419e",
+      "dateISO": "2026-09-22",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/bilal/705311?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "BILAL"
+      ],
+      "openers": [
+        "Yaya Bey"
       ]
     },
     {
@@ -2336,6 +2286,21 @@
       "openers": []
     },
     {
+      "showId": "9a17aba6",
+      "dateISO": "2026-12-05",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/alisons-halo/704948?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "ALISON'S HALO"
+      ],
+      "openers": [
+        "Cathedral Bells"
+      ]
+    },
+    {
       "showId": "dc575c4d",
       "dateISO": "2026-12-05",
       "startTime": "9:00 PM",
@@ -2566,6 +2531,21 @@
       "openers": []
     },
     {
+      "showId": "21b7269a",
+      "dateISO": "2026-12-19",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ramones-x/705091?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "RAMONES X"
+      ],
+      "openers": [
+        "Living Eyes"
+      ]
+    },
+    {
       "showId": "a3e66c13",
       "dateISO": "2027-01-08",
       "startTime": "9:00 PM",
@@ -2597,6 +2577,19 @@
         "Com Truise",
         "Matthew Dear"
       ]
+    },
+    {
+      "showId": "fdd37955",
+      "dateISO": "2027-01-09",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/super-greens-sweet-plot-co-headline/704159?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SUPER GREENS / SWEET PLOT (co-headline)"
+      ],
+      "openers": []
     },
     {
       "showId": "ee3d1750",

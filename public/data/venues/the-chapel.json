@@ -4,60 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-11T23:47:45.522Z",
+  "generatedAtISO": "2026-09-14T17:26:29.722Z",
   "shows": [
-    {
-      "showId": "0df414eb",
-      "dateISO": "2026-09-11",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/acid-tongue-the-farewell-show/698511?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Acid Tongue: The Farewell Show"
-      ],
-      "openers": [
-        "Damma Damma"
-      ]
-    },
-    {
-      "showId": "8444cf6a",
-      "dateISO": "2026-09-12",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-best-little-whorehouse-in-san-francisco-a-dolly-tribute/704549?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Best Little Whorehouse in San Francisco: A Dolly Tribute"
-      ],
-      "openers": [
-        "Amoura Teese",
-        "Cheetah Biscotti",
-        "D. Williams",
-        "DJ Mama Celeste",
-        "Franzia Rosé",
-        "Helena Levin",
-        "Laundra Tyme",
-        "Sally Limón"
-      ]
-    },
-    {
-      "showId": "2dc8dcb1",
-      "dateISO": "2026-09-13",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/carla-dal-forno/689760?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Carla dal Forno"
-      ],
-      "openers": [
-        "Cindy"
-      ]
-    },
     {
       "showId": "694af068",
       "dateISO": "2026-09-14",
@@ -808,6 +756,21 @@
       ],
       "openers": [
         "Kisser"
+      ]
+    },
+    {
+      "showId": "21b7269a",
+      "dateISO": "2026-12-19",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ramones-x/705091?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "RAMONES X"
+      ],
+      "openers": [
+        "Living Eyes"
       ]
     },
     {
