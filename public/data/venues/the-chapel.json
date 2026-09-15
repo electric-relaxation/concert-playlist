@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-14T17:26:29.722Z",
+  "generatedAtISO": "2026-09-15T19:26:23.960Z",
   "shows": [
-    {
-      "showId": "694af068",
-      "dateISO": "2026-09-14",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/canceled-bobby-bare-jr-of-guided-by-voices/699388?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "CANCELED: Bobby Bare Jr. (of Guided By Voices)"
-      ],
-      "openers": []
-    },
     {
       "showId": "574ae985",
       "dateISO": "2026-09-15",
@@ -188,6 +175,22 @@
         "Jas Stade",
         "Møtrik",
         "Visuals by Zachary Rodell"
+      ]
+    },
+    {
+      "showId": "0bc058a9",
+      "dateISO": "2026-09-27",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dollygrass-a-tribute-ft-godman-tucker-lewis-and-gates/705521?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dollygrass, A Tribute ft. Godman, Tucker, Lewis & Gates"
+      ],
+      "openers": [
+        "Liz Lewis & Friends",
+        "The Jimmy Touzel Bluegrass Explosion"
       ]
     },
     {
@@ -555,6 +558,44 @@
       ]
     },
     {
+      "showId": "7b7f1c74",
+      "dateISO": "2026-10-30",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/a-night-of-the-living-dead/705528?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "A Night of the Living Dead"
+      ],
+      "openers": [
+        "Danny Leuhring",
+        "Elliott Peck",
+        "Holly Bowling",
+        "Lebo",
+        "Steve Adams",
+        "Wally Ingram"
+      ]
+    },
+    {
+      "showId": "e2af01c0",
+      "dateISO": "2026-10-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-paul-simon-halloween-ball-performed-by-bone-diggers/705531?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Paul Simon Halloween Ball Performed by Bone Diggers"
+      ],
+      "openers": [
+        "Holly Bowling",
+        "Lebo",
+        "Reed Mathis",
+        "Scott Rager"
+      ]
+    },
+    {
       "showId": "8a5577e6",
       "dateISO": "2026-11-05",
       "startTime": "8:00 PM",
@@ -860,6 +901,19 @@
       "openers": [
         "NOLA Food & Drink Specials + East Bay Brass Band at Curio"
       ]
+    },
+    {
+      "showId": "08fd4643",
+      "dateISO": "2027-05-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/jean-michel-blais/705097?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Jean-Michel Blais"
+      ],
+      "openers": []
     },
     {
       "showId": "989245f1",
