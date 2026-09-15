@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-15T19:26:29.902Z",
+  "generatedAtISO": "2026-09-15T22:38:15.660Z",
   "shows": [
     {
       "showId": "574ae985",
@@ -2212,6 +2212,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Mark William Lewis"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "e6d9d663",
+      "dateISO": "2026-11-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/1-umbrella/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "1 Umbrella"
       ],
       "openers": []
     },
