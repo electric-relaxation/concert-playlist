@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-15T19:26:23.960Z",
+  "generatedAtISO": "2026-09-16T00:58:21.674Z",
   "shows": [
     {
       "showId": "574ae985",
@@ -594,6 +594,19 @@
         "Reed Mathis",
         "Scott Rager"
       ]
+    },
+    {
+      "showId": "eeac702f",
+      "dateISO": "2026-11-01",
+      "startTime": "3:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/chapelmania/705677?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "ChapelMania"
+      ],
+      "openers": []
     },
     {
       "showId": "8a5577e6",

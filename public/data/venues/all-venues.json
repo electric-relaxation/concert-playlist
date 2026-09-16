@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-15T22:38:15.660Z",
+  "generatedAtISO": "2026-09-16T00:58:27.510Z",
   "shows": [
     {
       "showId": "574ae985",
@@ -1607,6 +1607,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "The Emo Night Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "eeac702f",
+      "dateISO": "2026-11-01",
+      "startTime": "3:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/chapelmania/705677?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "ChapelMania"
       ],
       "openers": []
     },
