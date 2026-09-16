@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-16T15:16:35.633Z",
+  "generatedAtISO": "2026-09-16T19:18:02.295Z",
   "shows": [
     {
       "showId": "ee748521",
@@ -49,7 +49,9 @@
       "headliners": [
         "Cut Chemist"
       ],
-      "openers": []
+      "openers": [
+        "Shortkut"
+      ]
     },
     {
       "showId": "88bf8a7a",
@@ -784,21 +786,6 @@
       ]
     },
     {
-      "showId": "cf185bdd",
-      "dateISO": "2026-11-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/strongboi/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "strongboi"
-      ],
-      "openers": [
-        "Salami Rose Joe Louis"
-      ]
-    },
-    {
       "showId": "ad0fd9ff",
       "dateISO": "2026-11-17",
       "startTime": "8:00 PM",
@@ -1151,6 +1138,21 @@
         "Way Dynamic"
       ],
       "openers": []
+    },
+    {
+      "showId": "cf185bdd",
+      "dateISO": "2027-03-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/strongboi/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "strongboi – MOVED TO CASTRO THEATRE"
+      ],
+      "openers": [
+        "Salami Rose Joe Louis"
+      ]
     },
     {
       "showId": "9c147d60",

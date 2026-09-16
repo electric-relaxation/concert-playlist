@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-16T00:58:21.674Z",
+  "generatedAtISO": "2026-09-16T19:18:02.295Z",
   "shows": [
-    {
-      "showId": "574ae985",
-      "dateISO": "2026-09-15",
-      "startTime": "7:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/moved-to-kilowatt-on-tuesday-915-magic-sword/698674?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "MOVED TO KILOWATT ON TUESDAY 9/15: Magic Sword"
-      ],
-      "openers": [
-        "Skylimit"
-      ]
-    },
     {
       "showId": "3265634e",
       "dateISO": "2026-09-17",
@@ -569,7 +554,7 @@
         "A Night of the Living Dead"
       ],
       "openers": [
-        "Danny Leuhring",
+        "Danny Luehring",
         "Elliott Peck",
         "Holly Bowling",
         "Lebo",

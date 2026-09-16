@@ -1,21 +1,6 @@
 {
-  "generatedAtISO": "2026-09-16T15:16:49.375Z",
+  "generatedAtISO": "2026-09-16T19:18:08.592Z",
   "shows": [
-    {
-      "showId": "574ae985",
-      "dateISO": "2026-09-15",
-      "startTime": "7:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/moved-to-kilowatt-on-tuesday-915-magic-sword/698674?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "MOVED TO KILOWATT ON TUESDAY 9/15: Magic Sword"
-      ],
-      "openers": [
-        "Skylimit"
-      ]
-    },
     {
       "showId": "23ab0a20",
       "dateISO": "2026-09-16",
@@ -183,7 +168,9 @@
       "headliners": [
         "Cut Chemist"
       ],
-      "openers": []
+      "openers": [
+        "Shortkut"
+      ]
     },
     {
       "showId": "717519f9",
@@ -1528,7 +1515,7 @@
         "A Night of the Living Dead"
       ],
       "openers": [
-        "Danny Leuhring",
+        "Danny Luehring",
         "Elliott Peck",
         "Holly Bowling",
         "Lebo",
@@ -2039,21 +2026,6 @@
       ],
       "openers": [
         "Craig Finn & The Band of Forgiveness"
-      ]
-    },
-    {
-      "showId": "cf185bdd",
-      "dateISO": "2026-11-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/strongboi/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "strongboi"
-      ],
-      "openers": [
-        "Salami Rose Joe Louis"
       ]
     },
     {
@@ -2741,6 +2713,21 @@
         "Way Dynamic"
       ],
       "openers": []
+    },
+    {
+      "showId": "cf185bdd",
+      "dateISO": "2027-03-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/strongboi/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "strongboi – MOVED TO CASTRO THEATRE"
+      ],
+      "openers": [
+        "Salami Rose Joe Louis"
+      ]
     },
     {
       "showId": "9c147d60",
