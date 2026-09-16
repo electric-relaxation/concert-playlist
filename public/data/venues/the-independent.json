@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-16T19:18:02.295Z",
+  "generatedAtISO": "2026-09-16T22:34:10.589Z",
   "shows": [
     {
       "showId": "ee748521",
@@ -1068,6 +1068,19 @@
       "openers": [
         "Amelia Day"
       ]
+    },
+    {
+      "showId": "3117052a",
+      "dateISO": "2026-12-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/labiahead-california-tour-2026/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Labiahead – California Tour 2026"
+      ],
+      "openers": []
     },
     {
       "showId": "dc5f5315",
