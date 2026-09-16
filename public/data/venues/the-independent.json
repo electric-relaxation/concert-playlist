@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-15T22:38:10.816Z",
+  "generatedAtISO": "2026-09-16T15:16:35.633Z",
   "shows": [
-    {
-      "showId": "a0ef2173",
-      "dateISO": "2026-09-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-tear-garden-the-legendary-pink-dots-cevin-key/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Tear Garden (The Legendary Pink Dots & cEvin Key)"
-      ],
-      "openers": [
-        "Anthony Xavier Jackson"
-      ]
-    },
     {
       "showId": "ee748521",
       "dateISO": "2026-09-17",
@@ -920,6 +905,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "O'Flynn"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1fe87b8a",
+      "dateISO": "2026-11-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/unkle/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "UNKLE"
       ],
       "openers": []
     },
