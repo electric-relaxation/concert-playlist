@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-17T17:29:07.850Z",
+  "generatedAtISO": "2026-09-17T20:51:11.939Z",
   "shows": [
     {
       "showId": "23ab0a20",
@@ -2227,6 +2227,19 @@
       "openers": []
     },
     {
+      "showId": "cbd7fa13",
+      "dateISO": "2026-11-28",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Petty-Theft/705785?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Petty Theft"
+      ],
+      "openers": []
+    },
+    {
       "showId": "1fe87b8a",
       "dateISO": "2026-11-30",
       "startTime": "8:00 PM",
@@ -2294,7 +2307,9 @@
       "headliners": [
         "MEEK"
       ],
-      "openers": []
+      "openers": [
+        "The Blushes"
+      ]
     },
     {
       "showId": "9a17aba6",
@@ -2555,6 +2570,19 @@
       "openers": []
     },
     {
+      "showId": "a2cc3f80",
+      "dateISO": "2026-12-18",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/petey-usa/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Petey USA"
+      ],
+      "openers": []
+    },
+    {
       "showId": "21b7269a",
       "dateISO": "2026-12-19",
       "startTime": "8:30 PM",
@@ -2568,6 +2596,19 @@
       "openers": [
         "Living Eyes"
       ]
+    },
+    {
+      "showId": "92dbe7c9",
+      "dateISO": "2027-01-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/stoop-sessions-live/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Live on the Stoop"
+      ],
+      "openers": []
     },
     {
       "showId": "a3e66c13",
@@ -2698,6 +2739,19 @@
       "openers": [
         "NOLA Food & Drink Specials + East Bay Brass Band at Curio"
       ]
+    },
+    {
+      "showId": "d9036c57",
+      "dateISO": "2027-02-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ikkimel/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ikkimel"
+      ],
+      "openers": []
     },
     {
       "showId": "8fd7eeed",

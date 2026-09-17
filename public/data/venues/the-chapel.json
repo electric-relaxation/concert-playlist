@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-17T17:29:02.756Z",
+  "generatedAtISO": "2026-09-17T20:51:05.669Z",
   "shows": [
     {
       "showId": "3265634e",
@@ -783,6 +783,19 @@
       "openers": [
         "Archer Monk"
       ]
+    },
+    {
+      "showId": "cbd7fa13",
+      "dateISO": "2026-11-28",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Petty-Theft/705785?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Petty Theft"
+      ],
+      "openers": []
     },
     {
       "showId": "9c34808d",

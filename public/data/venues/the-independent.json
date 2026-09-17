@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-16T22:34:10.589Z",
+  "generatedAtISO": "2026-09-17T20:51:05.669Z",
   "shows": [
     {
       "showId": "ee748521",
@@ -935,7 +935,9 @@
       "headliners": [
         "MEEK"
       ],
-      "openers": []
+      "openers": [
+        "The Blushes"
+      ]
     },
     {
       "showId": "dc575c4d",
@@ -1083,6 +1085,32 @@
       "openers": []
     },
     {
+      "showId": "a2cc3f80",
+      "dateISO": "2026-12-18",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/petey-usa/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Petey USA"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "92dbe7c9",
+      "dateISO": "2027-01-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/stoop-sessions-live/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Live on the Stoop"
+      ],
+      "openers": []
+    },
+    {
       "showId": "dc5f5315",
       "dateISO": "2027-01-08",
       "startTime": "9:00 PM",
@@ -1121,6 +1149,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d9036c57",
+      "dateISO": "2027-02-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ikkimel/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ikkimel"
       ],
       "openers": []
     },
