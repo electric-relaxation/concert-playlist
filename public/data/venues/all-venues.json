@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-16T22:34:15.506Z",
+  "generatedAtISO": "2026-09-17T17:29:07.850Z",
   "shows": [
     {
       "showId": "23ab0a20",
@@ -2143,6 +2143,21 @@
         "@NICKCHEO the *TOUR* the *MOVIE*"
       ],
       "openers": []
+    },
+    {
+      "showId": "17a541e9",
+      "dateISO": "2026-11-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/poi-dog-pondering/705787?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Poi Dog Pondering"
+      ],
+      "openers": [
+        "Archer Monk"
+      ]
     },
     {
       "showId": "47574fdf",
