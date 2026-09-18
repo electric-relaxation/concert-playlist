@@ -4,25 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-18T02:44:45.964Z",
+  "generatedAtISO": "2026-09-18T16:52:39.536Z",
   "shows": [
-    {
-      "showId": "ee748521",
-      "dateISO": "2026-09-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/mustard-service/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Mustard Service"
-      ],
-      "openers": [
-        "Chicano Mosh",
-        "Manwolves",
-        "Pity Party (Girls Club)"
-      ]
-    },
     {
       "showId": "0518e4a7",
       "dateISO": "2026-09-18",
@@ -1194,6 +1177,21 @@
         "Way Dynamic"
       ],
       "openers": []
+    },
+    {
+      "showId": "071fcca4",
+      "dateISO": "2027-03-01",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/valley/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Valley"
+      ],
+      "openers": [
+        "Moody Joody"
+      ]
     },
     {
       "showId": "cf185bdd",
