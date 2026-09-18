@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-17T20:51:11.939Z",
+  "generatedAtISO": "2026-09-18T02:44:51.452Z",
   "shows": [
     {
       "showId": "23ab0a20",
@@ -515,7 +515,9 @@
       "headliners": [
         "Hot Chip DJ Set"
       ],
-      "openers": []
+      "openers": [
+        "MPHD"
+      ]
     },
     {
       "showId": "8b94f4c9",

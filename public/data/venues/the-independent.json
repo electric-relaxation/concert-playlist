@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-17T20:51:05.669Z",
+  "generatedAtISO": "2026-09-18T02:44:45.964Z",
   "shows": [
     {
       "showId": "ee748521",
@@ -154,7 +154,9 @@
       "headliners": [
         "Hot Chip DJ Set"
       ],
-      "openers": []
+      "openers": [
+        "MPHD"
+      ]
     },
     {
       "showId": "c7daf696",
