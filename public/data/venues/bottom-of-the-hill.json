@@ -4,7 +4,7 @@
     "name": "Bottom of the Hill",
     "calendarUrl": "https://www.bottomofthehill.com/calendar.html"
   },
-  "generatedAtISO": "2026-09-02T23:46:12.272Z",
+  "generatedAtISO": "2026-09-18T07:52:30.730Z",
   "shows": [
     {
       "showId": "91429860",
@@ -47,7 +47,9 @@
       "headliners": [
         "Armand Hammer"
       ],
-      "openers": []
+      "openers": [
+        "Sha Ray & DJ Haram"
+      ]
     },
     {
       "showId": "6d346dbf",
