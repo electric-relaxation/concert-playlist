@@ -4,38 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-14T21:18:20.837Z",
+  "generatedAtISO": "2026-09-19T00:53:09.107Z",
   "shows": [
-    {
-      "showId": "23ab0a20",
-      "dateISO": "2026-09-16",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/ali/692759?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ALI"
-      ],
-      "openers": [
-        "The Helltones"
-      ]
-    },
-    {
-      "showId": "64bc12d9",
-      "dateISO": "2026-09-17",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/american-aquarium/695263?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "AMERICAN AQUARIUM"
-      ],
-      "openers": [
-        "Buffalo Nichols"
-      ]
-    },
     {
       "showId": "a0c3601b",
       "dateISO": "2026-09-18",
@@ -430,7 +400,9 @@
       "headliners": [
         "KENNEDY RYON"
       ],
-      "openers": []
+      "openers": [
+        "MALACHI"
+      ]
     },
     {
       "showId": "f1597962",

@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-18T16:52:39.536Z",
+  "generatedAtISO": "2026-09-19T00:53:09.107Z",
   "shows": [
     {
       "showId": "4617c82f",
@@ -161,7 +161,7 @@
         "Dollygrass, A Tribute ft. Godman, Tucker, Lewis & Gates"
       ],
       "openers": [
-        "Liz Lewis & Friends",
+        "Liz Lewis & Crying Uncle",
         "The Jimmy Touzel Bluegrass Explosion"
       ]
     },
@@ -249,21 +249,6 @@
       ],
       "openers": [
         "Trestles"
-      ]
-    },
-    {
-      "showId": "e2b3793e",
-      "dateISO": "2026-10-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/lee-dewyze/702686?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Lee DeWyze"
-      ],
-      "openers": [
-        "August Lee Stevens"
       ]
     },
     {

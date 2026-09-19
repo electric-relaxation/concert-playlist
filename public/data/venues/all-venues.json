@@ -1,36 +1,6 @@
 {
-  "generatedAtISO": "2026-09-18T16:52:44.755Z",
+  "generatedAtISO": "2026-09-19T00:53:14.902Z",
   "shows": [
-    {
-      "showId": "23ab0a20",
-      "dateISO": "2026-09-16",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/ali/692759?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "ALI"
-      ],
-      "openers": [
-        "The Helltones"
-      ]
-    },
-    {
-      "showId": "64bc12d9",
-      "dateISO": "2026-09-17",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/american-aquarium/695263?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "AMERICAN AQUARIUM"
-      ],
-      "openers": [
-        "Buffalo Nichols"
-      ]
-    },
     {
       "showId": "91429860",
       "dateISO": "2026-09-17",
@@ -470,7 +440,7 @@
         "Dollygrass, A Tribute ft. Godman, Tucker, Lewis & Gates"
       ],
       "openers": [
-        "Liz Lewis & Friends",
+        "Liz Lewis & Crying Uncle",
         "The Jimmy Touzel Bluegrass Explosion"
       ]
     },
@@ -675,21 +645,6 @@
         "rusowsky"
       ],
       "openers": []
-    },
-    {
-      "showId": "e2b3793e",
-      "dateISO": "2026-10-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/lee-dewyze/702686?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Lee DeWyze"
-      ],
-      "openers": [
-        "August Lee Stevens"
-      ]
     },
     {
       "showId": "58218d0c",
@@ -1663,7 +1618,9 @@
       "headliners": [
         "KENNEDY RYON"
       ],
-      "openers": []
+      "openers": [
+        "MALACHI"
+      ]
     },
     {
       "showId": "8a5577e6",
