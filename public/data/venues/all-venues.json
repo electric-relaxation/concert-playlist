@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-19T00:53:14.902Z",
+  "generatedAtISO": "2026-09-21T17:40:33.548Z",
   "shows": [
     {
       "showId": "91429860",
@@ -19,22 +19,6 @@
       ]
     },
     {
-      "showId": "a0c3601b",
-      "dateISO": "2026-09-18",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/sweeping-promises/691105?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SWEEPING PROMISES"
-      ],
-      "openers": [
-        "Fake Fruit",
-        "System Exclusive"
-      ]
-    },
-    {
       "showId": "4617c82f",
       "dateISO": "2026-09-18",
       "startTime": "9:00 PM",
@@ -47,37 +31,6 @@
       ],
       "openers": [
         "Gravedancer"
-      ]
-    },
-    {
-      "showId": "0518e4a7",
-      "dateISO": "2026-09-18",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/daniel-avery-live/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Daniel Avery Live"
-      ],
-      "openers": [
-        "Draag"
-      ]
-    },
-    {
-      "showId": "650696d9",
-      "dateISO": "2026-09-19",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/be-your-own-pet/690464?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BE YOUR OWN PET"
-      ],
-      "openers": [
-        "Fake Dad",
-        "Iguana Death Cult"
       ]
     },
     {
@@ -98,21 +51,6 @@
       ]
     },
     {
-      "showId": "87d063f7",
-      "dateISO": "2026-09-19",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/cut-chemist/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Cut Chemist"
-      ],
-      "openers": [
-        "Shortkut"
-      ]
-    },
-    {
       "showId": "717519f9",
       "dateISO": "2026-09-20",
       "startTime": "2:00 PM",
@@ -124,21 +62,6 @@
         "LOVE SUPREME Summer Day Party Series"
       ],
       "openers": []
-    },
-    {
-      "showId": "d3f0392f",
-      "dateISO": "2026-09-20",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/solya/675140?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "SOLYA"
-      ],
-      "openers": [
-        "Tele Novella"
-      ]
     },
     {
       "showId": "4cb6a096",
@@ -2184,6 +2107,19 @@
       "openers": []
     },
     {
+      "showId": "43a7862d",
+      "dateISO": "2026-11-28",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/oden-fatzo-live/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Oden & Fatzo Live"
+      ],
+      "openers": []
+    },
+    {
       "showId": "1fe87b8a",
       "dateISO": "2026-11-30",
       "startTime": "8:00 PM",
@@ -2603,6 +2539,21 @@
       ]
     },
     {
+      "showId": "526ab430",
+      "dateISO": "2027-01-15",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/seb-lowe-us-tour-2027/705780?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SEB LOWE - US TOUR 2027"
+      ],
+      "openers": [
+        "Kate Couriel"
+      ]
+    },
+    {
       "showId": "75d7d113",
       "dateISO": "2027-01-16",
       "startTime": "8:00 PM",
@@ -2666,6 +2617,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Odezenne"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "7918f2c8",
+      "dateISO": "2027-02-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/romare-live-dj/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Romare (Live + DJ)"
       ],
       "openers": []
     },
