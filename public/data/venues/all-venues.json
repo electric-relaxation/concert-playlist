@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-21T17:40:33.548Z",
+  "generatedAtISO": "2026-09-21T21:34:33.129Z",
   "shows": [
     {
       "showId": "91429860",
@@ -304,7 +304,9 @@
       "headliners": [
         "EMO NITE"
       ],
-      "openers": []
+      "openers": [
+        "arcade 9"
+      ]
     },
     {
       "showId": "5871c7f3",
@@ -986,7 +988,9 @@
       "headliners": [
         "Raaginder"
       ],
-      "openers": []
+      "openers": [
+        "Minz"
+      ]
     },
     {
       "showId": "ddb0e605",
@@ -1631,7 +1635,9 @@
       "headliners": [
         "Karina Rykman"
       ],
-      "openers": []
+      "openers": [
+        "Roni Kaspi"
+      ]
     },
     {
       "showId": "e0301153",
