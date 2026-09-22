@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-22T10:47:06.675Z",
+  "generatedAtISO": "2026-09-22T19:29:23.970Z",
   "shows": [
     {
       "showId": "91429860",
@@ -31,36 +31,6 @@
       ],
       "openers": [
         "villagerrr"
-      ]
-    },
-    {
-      "showId": "82a11b1a",
-      "dateISO": "2026-09-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/moved-to-the-4-star-theater-marlon-magnee-of-la-femme/670503?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "MOVED TO THE 4 STAR THEATER: Marlon Magnée (of La Femme)"
-      ],
-      "openers": [
-        "Future Twin"
-      ]
-    },
-    {
-      "showId": "88bf8a7a",
-      "dateISO": "2026-09-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/sondre-lerche/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Sondre Lerche"
-      ],
-      "openers": [
-        "The Saxophones"
       ]
     },
     {
@@ -932,6 +902,22 @@
         "LOVE SUPREME Summer Day Party Series"
       ],
       "openers": []
+    },
+    {
+      "showId": "625b2cdb",
+      "dateISO": "2026-10-18",
+      "startTime": "6:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-feat-miko-marks/706154?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "WOMEN’S REBEL VOICES FILM + MUSIC TOUR feat. MIKO MARKS"
+      ],
+      "openers": [
+        "Jed Riffe",
+        "Maureen Gosling"
+      ]
     },
     {
       "showId": "30d8c59f",
@@ -2628,6 +2614,19 @@
       ]
     },
     {
+      "showId": "48f656f8",
+      "dateISO": "2027-02-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ely-oaks/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ely Oaks"
+      ],
+      "openers": []
+    },
+    {
       "showId": "d9036c57",
       "dateISO": "2027-02-14",
       "startTime": "8:00 PM",
@@ -2697,6 +2696,19 @@
       "openers": [
         "Moody Joody"
       ]
+    },
+    {
+      "showId": "44e5bd28",
+      "dateISO": "2027-03-06",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rayland-baxter/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Rayland Baxter"
+      ],
+      "openers": []
     },
     {
       "showId": "cf185bdd",
@@ -2777,6 +2789,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Jean-Michel Blais"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "77b1a089",
+      "dateISO": "2027-05-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/too-many-zooz-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Too Many Zooz"
       ],
       "openers": []
     },
