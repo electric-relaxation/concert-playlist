@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-22T05:45:03.221Z",
+  "generatedAtISO": "2026-09-22T10:47:06.675Z",
   "shows": [
     {
       "showId": "91429860",
@@ -1811,7 +1811,9 @@
       "headliners": [
         "Other Lives"
       ],
-      "openers": []
+      "openers": [
+        "Kelcey Ayer"
+      ]
     },
     {
       "showId": "3eeec667",

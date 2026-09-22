@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-22T05:44:56.991Z",
+  "generatedAtISO": "2026-09-22T10:47:00.608Z",
   "shows": [
     {
       "showId": "82a11b1a",
@@ -635,7 +635,9 @@
       "headliners": [
         "Other Lives"
       ],
-      "openers": []
+      "openers": [
+        "Kelcey Ayer"
+      ]
     },
     {
       "showId": "b8f03c77",
