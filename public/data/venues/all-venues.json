@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-22T19:29:23.970Z",
+  "generatedAtISO": "2026-09-22T22:38:14.648Z",
   "shows": [
     {
       "showId": "91429860",
@@ -581,7 +581,9 @@
       "headliners": [
         "Y La Bamba - 10 Years of Ojos Del Sol"
       ],
-      "openers": []
+      "openers": [
+        "Vanessa Zamora"
+      ]
     },
     {
       "showId": "db508f2f",

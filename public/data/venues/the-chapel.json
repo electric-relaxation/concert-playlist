@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-22T19:29:18.035Z",
+  "generatedAtISO": "2026-09-22T22:38:09.749Z",
   "shows": [
     {
       "showId": "ba0351dd",
@@ -233,7 +233,9 @@
       "headliners": [
         "Y La Bamba - 10 Years of Ojos Del Sol"
       ],
-      "openers": []
+      "openers": [
+        "Vanessa Zamora"
+      ]
     },
     {
       "showId": "a3792ff8",
