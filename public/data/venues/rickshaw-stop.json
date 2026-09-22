@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-21T21:34:27.646Z",
+  "generatedAtISO": "2026-09-22T00:29:47.466Z",
   "shows": [
     {
       "showId": "4cb6a096",
@@ -226,6 +226,21 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "AVERY COCHRANE: Weapons of Iridescence Tour"
+      ],
+      "openers": [
+        "Karly Bowman"
+      ]
+    },
+    {
+      "showId": "d34ede92",
+      "dateISO": "2026-10-21",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-165/706115?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF #165"
       ],
       "openers": []
     },

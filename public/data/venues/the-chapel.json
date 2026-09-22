@@ -4,53 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-19T00:53:09.107Z",
+  "generatedAtISO": "2026-09-22T00:29:47.466Z",
   "shows": [
-    {
-      "showId": "4617c82f",
-      "dateISO": "2026-09-18",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/shawn-james/696157?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Shawn James"
-      ],
-      "openers": [
-        "Gravedancer"
-      ]
-    },
-    {
-      "showId": "8189c746",
-      "dateISO": "2026-09-19",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/geneva-jacuzzi/701181?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Geneva Jacuzzi"
-      ],
-      "openers": [
-        "Diesel Dudes",
-        "Ex-Heir",
-        "Nick Moss (DJ Set)"
-      ]
-    },
-    {
-      "showId": "717519f9",
-      "dateISO": "2026-09-20",
-      "startTime": "2:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697838?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "LOVE SUPREME Summer Day Party Series"
-      ],
-      "openers": []
-    },
     {
       "showId": "82a11b1a",
       "dateISO": "2026-09-21",
@@ -155,13 +110,14 @@
       "startTime": "7:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dollygrass-a-tribute-ft-godman-tucker-lewis-and-gates/705521?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/dollygrass-a-tribute-w-godman-tucker-sharpe-lewis-and-gates/705521?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Dollygrass, A Tribute ft. Godman, Tucker, Lewis & Gates"
+        "Dollygrass A Tribute w Godman, Tucker, Sharpe, Lewis & Gates"
       ],
       "openers": [
         "Liz Lewis & Crying Uncle",
+        "MC Danny \"Hootenanny\" Clark",
         "The Jimmy Touzel Bluegrass Explosion"
       ]
     },

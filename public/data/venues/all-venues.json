@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-21T21:34:33.129Z",
+  "generatedAtISO": "2026-09-22T00:29:52.959Z",
   "shows": [
     {
       "showId": "91429860",
@@ -17,51 +17,6 @@
         "CNTS",
         "Facet"
       ]
-    },
-    {
-      "showId": "4617c82f",
-      "dateISO": "2026-09-18",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/shawn-james/696157?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Shawn James"
-      ],
-      "openers": [
-        "Gravedancer"
-      ]
-    },
-    {
-      "showId": "8189c746",
-      "dateISO": "2026-09-19",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/geneva-jacuzzi/701181?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Geneva Jacuzzi"
-      ],
-      "openers": [
-        "Diesel Dudes",
-        "Ex-Heir",
-        "Nick Moss (DJ Set)"
-      ]
-    },
-    {
-      "showId": "717519f9",
-      "dateISO": "2026-09-20",
-      "startTime": "2:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697838?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "LOVE SUPREME Summer Day Party Series"
-      ],
-      "openers": []
     },
     {
       "showId": "4cb6a096",
@@ -359,13 +314,14 @@
       "startTime": "7:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dollygrass-a-tribute-ft-godman-tucker-lewis-and-gates/705521?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/dollygrass-a-tribute-w-godman-tucker-sharpe-lewis-and-gates/705521?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Dollygrass, A Tribute ft. Godman, Tucker, Lewis & Gates"
+        "Dollygrass A Tribute w Godman, Tucker, Sharpe, Lewis & Gates"
       ],
       "openers": [
         "Liz Lewis & Crying Uncle",
+        "MC Danny \"Hootenanny\" Clark",
         "The Jimmy Touzel Bluegrass Explosion"
       ]
     },
@@ -1033,7 +989,9 @@
       "headliners": [
         "AVERY COCHRANE: Weapons of Iridescence Tour"
       ],
-      "openers": []
+      "openers": [
+        "Karly Bowman"
+      ]
     },
     {
       "showId": "2d77d17a",
@@ -1064,6 +1022,19 @@
       "openers": [
         "Never Ending Fall"
       ]
+    },
+    {
+      "showId": "d34ede92",
+      "dateISO": "2026-10-21",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-165/706115?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "Nerd Nite SF #165"
+      ],
+      "openers": []
     },
     {
       "showId": "46ea37cc",
