@@ -4,38 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-22T00:29:47.466Z",
+  "generatedAtISO": "2026-09-23T21:57:17.478Z",
   "shows": [
-    {
-      "showId": "4cb6a096",
-      "dateISO": "2026-09-21",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/friko/685919?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "FRIKO"
-      ],
-      "openers": [
-        "villagerrr"
-      ]
-    },
-    {
-      "showId": "a8be419e",
-      "dateISO": "2026-09-22",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/bilal/705311?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BILAL"
-      ],
-      "openers": [
-        "Yaya Bey"
-      ]
-    },
     {
       "showId": "4edea92d",
       "dateISO": "2026-09-23",
@@ -503,7 +473,9 @@
       "headliners": [
         "OLIVER HAZARD"
       ],
-      "openers": []
+      "openers": [
+        "Downey Chase"
+      ]
     },
     {
       "showId": "1933b30e",

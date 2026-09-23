@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-22T19:29:18.035Z",
+  "generatedAtISO": "2026-09-23T21:57:17.478Z",
   "shows": [
-    {
-      "showId": "15708532",
-      "dateISO": "2026-09-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/dana-and-alden/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Dana and Alden"
-      ],
-      "openers": [
-        "Ania Hoo"
-      ]
-    },
     {
       "showId": "a3b88b90",
       "dateISO": "2026-09-23",
@@ -1081,6 +1066,21 @@
       "openers": [
         "Com Truise",
         "Matthew Dear"
+      ]
+    },
+    {
+      "showId": "69a3a246",
+      "dateISO": "2027-01-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sister-nancy-the-steady-rock-band/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Sister Nancy & the Steady Rock Band"
+      ],
+      "openers": [
+        "Reggae Angels"
       ]
     },
     {
