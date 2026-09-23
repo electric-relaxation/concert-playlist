@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-22T22:38:09.749Z",
+  "generatedAtISO": "2026-09-23T01:09:48.187Z",
   "shows": [
     {
       "showId": "ba0351dd",
@@ -456,7 +456,10 @@
       "headliners": [
         "The War And Treaty"
       ],
-      "openers": []
+      "openers": [
+        "Blank Page",
+        "Jordan Babbs"
+      ]
     },
     {
       "showId": "f8c08fc0",

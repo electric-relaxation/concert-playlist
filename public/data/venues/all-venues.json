@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-22T22:38:14.648Z",
+  "generatedAtISO": "2026-09-23T01:09:52.553Z",
   "shows": [
     {
       "showId": "91429860",
@@ -1227,7 +1227,10 @@
       "headliners": [
         "The War And Treaty"
       ],
-      "openers": []
+      "openers": [
+        "Blank Page",
+        "Jordan Babbs"
+      ]
     },
     {
       "showId": "1f579642",
