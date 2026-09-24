@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-23T21:57:23.698Z",
+  "generatedAtISO": "2026-09-24T19:43:33.545Z",
   "shows": [
     {
       "showId": "91429860",
@@ -16,66 +16,6 @@
         "/ Sasquatch Borracho",
         "CNTS",
         "Facet"
-      ]
-    },
-    {
-      "showId": "ba0351dd",
-      "dateISO": "2026-09-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/temples-the-bliss-tour/687358?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Temples: The BLISS Tour"
-      ],
-      "openers": [
-        "Poppy Jean Crawford",
-        "Visuals by Zach Rodell"
-      ]
-    },
-    {
-      "showId": "4edea92d",
-      "dateISO": "2026-09-23",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/nerd-nite-sf-164/701597?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "Nerd Nite SF #164"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "c5ca3437",
-      "dateISO": "2026-09-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/temples-the-bliss-tour/687377?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Temples: The BLISS Tour"
-      ],
-      "openers": [
-        "Poppy Jean Crawford",
-        "Visuals by Zach Rodell"
-      ]
-    },
-    {
-      "showId": "a3b88b90",
-      "dateISO": "2026-09-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/ghostly-kisses/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Ghostly Kisses"
-      ],
-      "openers": [
-        "Rosie Carney"
       ]
     },
     {
@@ -1066,6 +1006,19 @@
       "openers": [
         "Frightwig"
       ]
+    },
+    {
+      "showId": "b65ff073",
+      "dateISO": "2026-10-23",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/gimme-gimme-disco-halloween-dance-party/706220?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "GIMME GIMME DISCO - HALLOWEEN DANCE PARTY"
+      ],
+      "openers": []
     },
     {
       "showId": "a063b28d",
@@ -2364,6 +2317,19 @@
       "openers": []
     },
     {
+      "showId": "675f4639",
+      "dateISO": "2026-12-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/labiahead-california-tour-2026-2-nights/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Labiahead – California Tour 2026 – 2 Nights!"
+      ],
+      "openers": []
+    },
+    {
       "showId": "801920b3",
       "dateISO": "2026-12-18",
       "startTime": "9:00 PM",
@@ -2396,6 +2362,21 @@
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/ramones-x/705091?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "RAMONES X"
+      ],
+      "openers": [
+        "Living Eyes"
+      ]
+    },
+    {
+      "showId": "407c4b4d",
+      "dateISO": "2026-12-20",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/RAMONES-X/705863?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "RAMONES X"

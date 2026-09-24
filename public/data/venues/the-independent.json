@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-23T21:57:17.478Z",
+  "generatedAtISO": "2026-09-24T19:43:28.435Z",
   "shows": [
-    {
-      "showId": "a3b88b90",
-      "dateISO": "2026-09-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/ghostly-kisses/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Ghostly Kisses"
-      ],
-      "openers": [
-        "Rosie Carney"
-      ]
-    },
     {
       "showId": "64f27fea",
       "dateISO": "2026-09-24",
@@ -1023,6 +1008,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Labiahead – California Tour 2026"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "675f4639",
+      "dateISO": "2026-12-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/labiahead-california-tour-2026-2-nights/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Labiahead – California Tour 2026 – 2 Nights!"
       ],
       "openers": []
     },
