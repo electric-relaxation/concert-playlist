@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-24T19:43:33.545Z",
+  "generatedAtISO": "2026-09-24T22:56:20.404Z",
   "shows": [
     {
       "showId": "91429860",
@@ -724,7 +724,10 @@
       "headliners": [
         "Lost Kings"
       ],
-      "openers": []
+      "openers": [
+        "BAUM",
+        "TARA"
+      ]
     },
     {
       "showId": "6b700074",
@@ -2312,7 +2315,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/labiahead-california-tour-2026/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Labiahead – California Tour 2026"
+        "Labiahead – California Tour 2026 – 2 Nights!"
       ],
       "openers": []
     },
