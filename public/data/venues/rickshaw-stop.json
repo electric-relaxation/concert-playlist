@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-24T19:43:28.435Z",
+  "generatedAtISO": "2026-09-25T01:07:13.516Z",
   "shows": [
     {
       "showId": "ccccc21a",
@@ -108,7 +108,10 @@
       "headliners": [
         "TIM ATLAS"
       ],
-      "openers": []
+      "openers": [
+        "Cheflee",
+        "Mejiwahn"
+      ]
     },
     {
       "showId": "74db3873",

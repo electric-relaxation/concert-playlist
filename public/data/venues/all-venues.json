@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-24T22:56:20.404Z",
+  "generatedAtISO": "2026-09-25T01:07:19.311Z",
   "shows": [
     {
       "showId": "91429860",
@@ -504,7 +504,10 @@
       "headliners": [
         "TIM ATLAS"
       ],
-      "openers": []
+      "openers": [
+        "Cheflee",
+        "Mejiwahn"
+      ]
     },
     {
       "showId": "a3792ff8",
