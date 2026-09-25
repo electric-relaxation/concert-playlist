@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-25T07:00:12.292Z",
+  "generatedAtISO": "2026-09-25T20:59:43.878Z",
   "shows": [
     {
       "showId": "91429860",
@@ -48,21 +48,6 @@
         "37 Houses",
         "Black Gold Sun",
         "The Furious Tits"
-      ]
-    },
-    {
-      "showId": "64f27fea",
-      "dateISO": "2026-09-24",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/wesghost-red-leather/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "WesGhost & Red Leather"
-      ],
-      "openers": [
-        "Eurotripp"
       ]
     },
     {
@@ -1232,7 +1217,9 @@
       "headliners": [
         "Patrick Wolf"
       ],
-      "openers": []
+      "openers": [
+        "Abhora"
+      ]
     },
     {
       "showId": "a6f39fe0",
