@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-24T19:43:28.435Z",
+  "generatedAtISO": "2026-09-25T07:00:06.097Z",
   "shows": [
     {
       "showId": "f17490f6",
@@ -52,6 +52,7 @@
         "Rose City Band"
       ],
       "openers": [
+        "DJ David Katznelson",
         "Jas Stade",
         "Møtrik",
         "Visuals by Zachary Rodell"
@@ -130,7 +131,9 @@
       "headliners": [
         "Lyrics Born"
       ],
-      "openers": []
+      "openers": [
+        "SundaY"
+      ]
     },
     {
       "showId": "3265634e",

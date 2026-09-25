@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-25T01:07:19.311Z",
+  "generatedAtISO": "2026-09-25T07:00:12.292Z",
   "shows": [
     {
       "showId": "91429860",
@@ -140,6 +140,7 @@
         "Rose City Band"
       ],
       "openers": [
+        "DJ David Katznelson",
         "Jas Stade",
         "Møtrik",
         "Visuals by Zachary Rodell"
@@ -319,7 +320,9 @@
       "headliners": [
         "Lyrics Born"
       ],
-      "openers": []
+      "openers": [
+        "SundaY"
+      ]
     },
     {
       "showId": "8a434cbd",
