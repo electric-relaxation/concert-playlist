@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-28T14:51:41.575Z",
+  "generatedAtISO": "2026-09-28T21:00:45.666Z",
   "shows": [
     {
       "showId": "c7daf696",
@@ -466,7 +466,9 @@
       "headliners": [
         "Lexi Jayde"
       ],
-      "openers": []
+      "openers": [
+        "Ally Salort"
+      ]
     },
     {
       "showId": "fa745e1f",
@@ -1130,7 +1132,10 @@
       "headliners": [
         "Jack Kays"
       ],
-      "openers": []
+      "openers": [
+        "Dear Cincinnati",
+        "Willowake"
+      ]
     },
     {
       "showId": "071fcca4",
