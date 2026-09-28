@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-25T20:59:43.878Z",
+  "generatedAtISO": "2026-09-28T14:51:47.430Z",
   "shows": [
     {
       "showId": "91429860",
@@ -84,21 +84,6 @@
       ]
     },
     {
-      "showId": "1b52b4c4",
-      "dateISO": "2026-09-25",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/in-color/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "In Color"
-      ],
-      "openers": [
-        "Jack Gray"
-      ]
-    },
-    {
       "showId": "7b6e3916",
       "dateISO": "2026-09-26",
       "startTime": "9:00 PM",
@@ -132,21 +117,6 @@
       ]
     },
     {
-      "showId": "801c6a3b",
-      "dateISO": "2026-09-26",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/west-22nd/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "West 22nd"
-      ],
-      "openers": [
-        "Where’s West?"
-      ]
-    },
-    {
       "showId": "062a8aab",
       "dateISO": "2026-09-27",
       "startTime": "2:00 PM",
@@ -174,21 +144,6 @@
         "Liz Lewis & Crying Uncle",
         "MC Danny \"Hootenanny\" Clark",
         "The Jimmy Touzel Bluegrass Explosion"
-      ]
-    },
-    {
-      "showId": "26736cce",
-      "dateISO": "2026-09-27",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/hot-chip-dj-set/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Hot Chip DJ Set"
-      ],
-      "openers": [
-        "MPHD"
       ]
     },
     {
@@ -2633,6 +2588,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Way Dynamic"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3878a88b",
+      "dateISO": "2027-02-26",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/jack-kays/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Jack Kays"
       ],
       "openers": []
     },
