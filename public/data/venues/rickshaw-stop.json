@@ -4,54 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-25T01:07:13.516Z",
+  "generatedAtISO": "2026-09-29T19:44:25.943Z",
   "shows": [
-    {
-      "showId": "ccccc21a",
-      "dateISO": "2026-09-24",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/mei-ehara/699620?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MEI EHARA"
-      ],
-      "openers": [
-        "Badvril"
-      ]
-    },
-    {
-      "showId": "7765d9b1",
-      "dateISO": "2026-09-25",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/cain-culto/698041?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CAIN CULTO"
-      ],
-      "openers": [
-        "DJ AARON AXELSEN",
-        "TwoLips"
-      ]
-    },
-    {
-      "showId": "7b6e3916",
-      "dateISO": "2026-09-26",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/703856?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": [
-        "arcade 9"
-      ]
-    },
     {
       "showId": "8b94f4c9",
       "dateISO": "2026-09-29",
@@ -318,6 +272,19 @@
       "openers": []
     },
     {
+      "showId": "e007409d",
+      "dateISO": "2026-10-31",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-halloween-at-rickshaw-stop-san-francisco-ca/706320?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "6afa1ff1",
       "dateISO": "2026-11-04",
       "startTime": "9:00 PM",
@@ -432,6 +399,7 @@
         "L'RAIN"
       ],
       "openers": [
+        "Cole Pulice",
         "ZAYALLCAPS"
       ]
     },

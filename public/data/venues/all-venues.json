@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-28T21:00:51.973Z",
+  "generatedAtISO": "2026-09-29T19:44:31.764Z",
   "shows": [
     {
       "showId": "91429860",
@@ -16,21 +16,6 @@
         "/ Sasquatch Borracho",
         "CNTS",
         "Facet"
-      ]
-    },
-    {
-      "showId": "ccccc21a",
-      "dateISO": "2026-09-24",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/mei-ehara/699620?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MEI EHARA"
-      ],
-      "openers": [
-        "Badvril"
       ]
     },
     {
@@ -51,22 +36,6 @@
       ]
     },
     {
-      "showId": "7765d9b1",
-      "dateISO": "2026-09-25",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/cain-culto/698041?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "CAIN CULTO"
-      ],
-      "openers": [
-        "DJ AARON AXELSEN",
-        "TwoLips"
-      ]
-    },
-    {
       "showId": "481679dc",
       "dateISO": "2026-09-25",
       "startTime": "9:00 PM",
@@ -81,21 +50,6 @@
         "Light Fantastic",
         "Rain Parade",
         "Visuals by Zachary Rodell"
-      ]
-    },
-    {
-      "showId": "7b6e3916",
-      "dateISO": "2026-09-26",
-      "startTime": "9:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/emo-nite-at-rickshaw-stop-san-francisco-ca/703856?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "EMO NITE"
-      ],
-      "openers": [
-        "arcade 9"
       ]
     },
     {
@@ -250,6 +204,21 @@
       "openers": []
     },
     {
+      "showId": "8a434cbd",
+      "dateISO": "2026-10-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bella-kay/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bella Kay"
+      ],
+      "openers": [
+        "Hailey Picardi"
+      ]
+    },
+    {
       "showId": "14486166",
       "dateISO": "2026-10-02",
       "startTime": "9:00 PM",
@@ -262,21 +231,6 @@
       ],
       "openers": [
         "SundaY"
-      ]
-    },
-    {
-      "showId": "8a434cbd",
-      "dateISO": "2026-10-02",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bella-kay/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Bella Kay"
-      ],
-      "openers": [
-        "Hailey Picardi"
       ]
     },
     {
@@ -1240,6 +1194,19 @@
       "openers": []
     },
     {
+      "showId": "e007409d",
+      "dateISO": "2026-10-31",
+      "startTime": "9:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/emo-nite-halloween-at-rickshaw-stop-san-francisco-ca/706320?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "EMO NITE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "e2af01c0",
       "dateISO": "2026-10-31",
       "startTime": "9:00 PM",
@@ -1988,6 +1955,7 @@
         "L'RAIN"
       ],
       "openers": [
+        "Cole Pulice",
         "ZAYALLCAPS"
       ]
     },
