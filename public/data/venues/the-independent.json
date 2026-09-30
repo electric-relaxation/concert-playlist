@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-29T19:44:25.943Z",
+  "generatedAtISO": "2026-09-30T03:33:45.841Z",
   "shows": [
     {
       "showId": "c7daf696",
@@ -306,7 +306,9 @@
       "headliners": [
         "City of the Sun"
       ],
-      "openers": []
+      "openers": [
+        "Valley Wolf"
+      ]
     },
     {
       "showId": "0477bf2a",
