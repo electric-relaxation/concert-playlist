@@ -4,92 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-25T07:00:06.097Z",
+  "generatedAtISO": "2026-09-30T16:37:20.558Z",
   "shows": [
-    {
-      "showId": "f17490f6",
-      "dateISO": "2026-09-24",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/femmes-thems-and-friends-a-folsom-kickoff-party/702095?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Femmes, Thems, And Friends: A Folsom Kickoff Party"
-      ],
-      "openers": [
-        "37 Houses",
-        "Black Gold Sun",
-        "The Furious Tits"
-      ]
-    },
-    {
-      "showId": "481679dc",
-      "dateISO": "2026-09-25",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/rose-city-band/699837?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Rose City Band"
-      ],
-      "openers": [
-        "Light Fantastic",
-        "Rain Parade",
-        "Visuals by Zachary Rodell"
-      ]
-    },
-    {
-      "showId": "5871c7f3",
-      "dateISO": "2026-09-26",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/rose-city-band/699842?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Rose City Band"
-      ],
-      "openers": [
-        "DJ David Katznelson",
-        "Jas Stade",
-        "Møtrik",
-        "Visuals by Zachary Rodell"
-      ]
-    },
-    {
-      "showId": "0bc058a9",
-      "dateISO": "2026-09-27",
-      "startTime": "7:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dollygrass-a-tribute-w-godman-tucker-sharpe-lewis-and-gates/705521?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "DollyGrass A Tribute w Godman, Tucker, Sharpe, Lewis & Gates"
-      ],
-      "openers": [
-        "Liz Lewis & Crying Uncle",
-        "MC Danny \"Hootenanny\" Clark",
-        "The Jimmy Touzel Bluegrass Explosion"
-      ]
-    },
-    {
-      "showId": "b06a9502",
-      "dateISO": "2026-09-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/canceled-sophie-truax/697003?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "CANCELED: Sophie Truax"
-      ],
-      "openers": [
-        "Sasha Cee"
-      ]
-    },
     {
       "showId": "7a714c0c",
       "dateISO": "2026-09-30",
@@ -790,6 +706,21 @@
         "Sir Rudy Blackout",
         "The Singapore Selector",
         "The Tectonics"
+      ]
+    },
+    {
+      "showId": "eb0c3563",
+      "dateISO": "2027-01-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/nora-brown-with-stephanie-coleman/706553?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Nora Brown"
+      ],
+      "openers": [
+        "Stephanie Coleman"
       ]
     },
     {

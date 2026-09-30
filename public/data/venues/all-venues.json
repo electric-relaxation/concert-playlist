@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-09-30T03:33:51.768Z",
+  "generatedAtISO": "2026-09-30T16:37:25.923Z",
   "shows": [
     {
       "showId": "91429860",
@@ -19,58 +19,6 @@
       ]
     },
     {
-      "showId": "f17490f6",
-      "dateISO": "2026-09-24",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/femmes-thems-and-friends-a-folsom-kickoff-party/702095?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Femmes, Thems, And Friends: A Folsom Kickoff Party"
-      ],
-      "openers": [
-        "37 Houses",
-        "Black Gold Sun",
-        "The Furious Tits"
-      ]
-    },
-    {
-      "showId": "481679dc",
-      "dateISO": "2026-09-25",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/rose-city-band/699837?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Rose City Band"
-      ],
-      "openers": [
-        "Light Fantastic",
-        "Rain Parade",
-        "Visuals by Zachary Rodell"
-      ]
-    },
-    {
-      "showId": "5871c7f3",
-      "dateISO": "2026-09-26",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/rose-city-band/699842?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Rose City Band"
-      ],
-      "openers": [
-        "DJ David Katznelson",
-        "Jas Stade",
-        "Møtrik",
-        "Visuals by Zachary Rodell"
-      ]
-    },
-    {
       "showId": "062a8aab",
       "dateISO": "2026-09-27",
       "startTime": "2:00 PM",
@@ -82,53 +30,6 @@
         "Remedy 7"
       ],
       "openers": []
-    },
-    {
-      "showId": "0bc058a9",
-      "dateISO": "2026-09-27",
-      "startTime": "7:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dollygrass-a-tribute-w-godman-tucker-sharpe-lewis-and-gates/705521?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "DollyGrass A Tribute w Godman, Tucker, Sharpe, Lewis & Gates"
-      ],
-      "openers": [
-        "Liz Lewis & Crying Uncle",
-        "MC Danny \"Hootenanny\" Clark",
-        "The Jimmy Touzel Bluegrass Explosion"
-      ]
-    },
-    {
-      "showId": "8b94f4c9",
-      "dateISO": "2026-09-29",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/brian-fallon-and-the-painkillers/695727?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BRIAN FALLON & THE PAINKILLERS"
-      ],
-      "openers": [
-        "Tim Barry"
-      ]
-    },
-    {
-      "showId": "b06a9502",
-      "dateISO": "2026-09-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/canceled-sophie-truax/697003?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "CANCELED: Sophie Truax"
-      ],
-      "openers": [
-        "Sasha Cee"
-      ]
     },
     {
       "showId": "7a714c0c",
@@ -2309,6 +2210,19 @@
       ]
     },
     {
+      "showId": "ee12a686",
+      "dateISO": "2027-01-07",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/chris-simpson-plays-the-songs-of-mineral/706442?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CHRIS SIMPSON plays the songs of MINERAL"
+      ],
+      "openers": []
+    },
+    {
       "showId": "92dbe7c9",
       "dateISO": "2027-01-07",
       "startTime": "8:00 PM",
@@ -2352,6 +2266,21 @@
       "openers": [
         "Com Truise",
         "Matthew Dear"
+      ]
+    },
+    {
+      "showId": "eb0c3563",
+      "dateISO": "2027-01-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/nora-brown-with-stephanie-coleman/706553?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Nora Brown"
+      ],
+      "openers": [
+        "Stephanie Coleman"
       ]
     },
     {
@@ -2424,6 +2353,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "STS9"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "eabb26ae",
+      "dateISO": "2027-01-18",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/tara-clerkin-trio/706437?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "TARA CLERKIN TRIO"
       ],
       "openers": []
     },

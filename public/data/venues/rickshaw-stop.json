@@ -4,23 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-29T19:44:25.943Z",
+  "generatedAtISO": "2026-09-30T16:37:20.558Z",
   "shows": [
-    {
-      "showId": "8b94f4c9",
-      "dateISO": "2026-09-29",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/brian-fallon-and-the-painkillers/695727?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "BRIAN FALLON & THE PAINKILLERS"
-      ],
-      "openers": [
-        "Tim Barry"
-      ]
-    },
     {
       "showId": "bf83f1e7",
       "dateISO": "2026-10-01",
@@ -504,6 +489,19 @@
       "openers": []
     },
     {
+      "showId": "ee12a686",
+      "dateISO": "2027-01-07",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/chris-simpson-plays-the-songs-of-mineral/706442?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "CHRIS SIMPSON plays the songs of MINERAL"
+      ],
+      "openers": []
+    },
+    {
       "showId": "526ab430",
       "dateISO": "2027-01-15",
       "startTime": "9:00 PM",
@@ -517,6 +515,19 @@
       "openers": [
         "Kate Couriel"
       ]
+    },
+    {
+      "showId": "eabb26ae",
+      "dateISO": "2027-01-18",
+      "startTime": "8:00 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/tara-clerkin-trio/706437?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "TARA CLERKIN TRIO"
+      ],
+      "openers": []
     },
     {
       "showId": "8fd7eeed",
