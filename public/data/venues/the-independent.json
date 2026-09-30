@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-09-30T03:33:45.841Z",
+  "generatedAtISO": "2026-09-30T21:10:09.901Z",
   "shows": [
     {
       "showId": "c7daf696",
@@ -75,7 +75,9 @@
       "headliners": [
         "rusowsky"
       ],
-      "openers": []
+      "openers": [
+        "abracadabra (dub duo)"
+      ]
     },
     {
       "showId": "b0370d72",

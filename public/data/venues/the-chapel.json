@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-30T16:37:20.558Z",
+  "generatedAtISO": "2026-09-30T21:10:09.901Z",
   "shows": [
     {
       "showId": "7a714c0c",
@@ -706,6 +706,21 @@
         "Sir Rudy Blackout",
         "The Singapore Selector",
         "The Tectonics"
+      ]
+    },
+    {
+      "showId": "4cc8fed5",
+      "dateISO": "2027-01-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/swirlies/706410?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Swirlies"
+      ],
+      "openers": [
+        "Seko"
       ]
     },
     {
