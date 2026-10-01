@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-09-30T21:10:09.901Z",
+  "generatedAtISO": "2026-10-01T20:44:18.686Z",
   "shows": [
-    {
-      "showId": "7a714c0c",
-      "dateISO": "2026-09-30",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/failure-rising-skyline-2026/688890?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "FAILURE: Rising Skyline 2026"
-      ],
-      "openers": [
-        "quannnic"
-      ]
-    },
     {
       "showId": "d9705bdb",
       "dateISO": "2026-10-01",
@@ -690,6 +675,19 @@
       "openers": [
         "Living Eyes"
       ]
+    },
+    {
+      "showId": "e5d1ae5e",
+      "dateISO": "2026-12-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/chuck-prophet/706760?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Chuck Prophet"
+      ],
+      "openers": []
     },
     {
       "showId": "a3e66c13",

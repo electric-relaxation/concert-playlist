@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-01T01:00:31.774Z",
+  "generatedAtISO": "2026-10-01T20:44:18.686Z",
   "shows": [
-    {
-      "showId": "c7daf696",
-      "dateISO": "2026-09-30",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/chasing-abbey/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Chasing Abbey"
-      ],
-      "openers": [
-        "Ali Coyle"
-      ]
-    },
     {
       "showId": "455ebfb4",
       "dateISO": "2026-10-01",
@@ -90,7 +75,9 @@
       "headliners": [
         "Cure for Paranoia"
       ],
-      "openers": []
+      "openers": [
+        "AroMa"
+      ]
     },
     {
       "showId": "682f9f7e",
