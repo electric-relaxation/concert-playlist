@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-02T06:34:08.727Z",
+  "generatedAtISO": "2026-10-02T18:53:14.128Z",
   "shows": [
-    {
-      "showId": "d9705bdb",
-      "dateISO": "2026-10-01",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/soda-blonde/681807?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Soda Blonde"
-      ],
-      "openers": [
-        "Marika Christine"
-      ]
-    },
     {
       "showId": "14486166",
       "dateISO": "2026-10-02",
@@ -217,10 +202,10 @@
       "startTime": "6:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-feat-miko-marks/706154?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-event-ft-miko-marks/706154?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "WOMEN’S REBEL VOICES FILM + MUSIC TOUR feat. MIKO MARKS"
+        "WOMEN’S REBEL VOICES FILM + MUSIC TOUR EVENT ft. MIKO MARKS"
       ],
       "openers": [
         "Jed Riffe",

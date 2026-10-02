@@ -4,23 +4,8 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-09-30T16:37:20.558Z",
+  "generatedAtISO": "2026-10-02T18:53:14.128Z",
   "shows": [
-    {
-      "showId": "bf83f1e7",
-      "dateISO": "2026-10-01",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus/702573?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MISS HITS / LITTY DEBUNGUS"
-      ],
-      "openers": [
-        "I Am the Octopus"
-      ]
-    },
     {
       "showId": "90749d6e",
       "dateISO": "2026-10-07",
@@ -414,9 +399,7 @@
       "headliners": [
         "JESSICA LEA MAYFIELD"
       ],
-      "openers": [
-        "Horsepower"
-      ]
+      "openers": []
     },
     {
       "showId": "8c443f13",

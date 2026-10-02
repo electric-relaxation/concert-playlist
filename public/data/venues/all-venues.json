@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-02T06:34:14.492Z",
+  "generatedAtISO": "2026-10-02T18:53:20.050Z",
   "shows": [
     {
       "showId": "91429860",
@@ -30,36 +30,6 @@
         "Remedy 7"
       ],
       "openers": []
-    },
-    {
-      "showId": "bf83f1e7",
-      "dateISO": "2026-10-01",
-      "startTime": "8:00 PM",
-      "venueId": "rickshaw-stop",
-      "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/miss-hits-litty-debungus/702573?afflky=RickshawStop",
-      "sourceUrl": "https://rickshawstop.com/calendar/",
-      "headliners": [
-        "MISS HITS / LITTY DEBUNGUS"
-      ],
-      "openers": [
-        "I Am the Octopus"
-      ]
-    },
-    {
-      "showId": "d9705bdb",
-      "dateISO": "2026-10-01",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/soda-blonde/681807?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Soda Blonde"
-      ],
-      "openers": [
-        "Marika Christine"
-      ]
     },
     {
       "showId": "455ebfb4",
@@ -584,10 +554,10 @@
       "startTime": "6:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-feat-miko-marks/706154?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-event-ft-miko-marks/706154?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "WOMEN’S REBEL VOICES FILM + MUSIC TOUR feat. MIKO MARKS"
+        "WOMEN’S REBEL VOICES FILM + MUSIC TOUR EVENT ft. MIKO MARKS"
       ],
       "openers": [
         "Jed Riffe",
@@ -1952,9 +1922,7 @@
       "headliners": [
         "JESSICA LEA MAYFIELD"
       ],
-      "openers": [
-        "Horsepower"
-      ]
+      "openers": []
     },
     {
       "showId": "acb677cb",
