@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-02T00:26:06.950Z",
+  "generatedAtISO": "2026-10-02T06:34:08.727Z",
   "shows": [
     {
       "showId": "d9705bdb",
@@ -409,19 +409,6 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "ChapelMania"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "5f9ce497",
-      "dateISO": "2026-11-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/707149?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
       ],
       "openers": []
     },
