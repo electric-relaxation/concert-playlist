@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-02T18:53:20.050Z",
+  "generatedAtISO": "2026-10-02T22:45:44.016Z",
   "shows": [
     {
       "showId": "91429860",
@@ -1917,10 +1917,10 @@
       "startTime": "8:00 PM",
       "venueId": "rickshaw-stop",
       "venueName": "Rickshaw Stop",
-      "showUrl": "https://wl.seetickets.us/event/jessica-lea-mayfield/698043?afflky=RickshawStop",
+      "showUrl": "https://wl.seetickets.us/event/jessica-lea-mayfield-cancelled/698043?afflky=RickshawStop",
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
-        "JESSICA LEA MAYFIELD"
+        "JESSICA LEA MAYFIELD CANCELLED"
       ],
       "openers": []
     },
