@@ -4,36 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-02T18:53:14.128Z",
+  "generatedAtISO": "2026-10-04T15:05:30.034Z",
   "shows": [
-    {
-      "showId": "14486166",
-      "dateISO": "2026-10-02",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/lyrics-born/698388?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Lyrics Born"
-      ],
-      "openers": [
-        "SundaY"
-      ]
-    },
-    {
-      "showId": "3265634e",
-      "dateISO": "2026-10-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
     {
       "showId": "627a41d0",
       "dateISO": "2026-10-04",
@@ -104,6 +76,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Cobweb Cabaret"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-10-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
       ],
       "openers": []
     },
