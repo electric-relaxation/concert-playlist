@@ -4,66 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-02T00:26:06.950Z",
+  "generatedAtISO": "2026-10-05T17:43:14.035Z",
   "shows": [
-    {
-      "showId": "455ebfb4",
-      "dateISO": "2026-10-01",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/mari-froes/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Mari Froes"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "8a434cbd",
-      "dateISO": "2026-10-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bella-kay/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Bella Kay"
-      ],
-      "openers": [
-        "Hailey Picardi"
-      ]
-    },
-    {
-      "showId": "2a2d4b8f",
-      "dateISO": "2026-10-03",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/roya/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "ROYA"
-      ],
-      "openers": [
-        "1ycia"
-      ]
-    },
-    {
-      "showId": "7dae82f0",
-      "dateISO": "2026-10-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/rusowsky/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "rusowsky"
-      ],
-      "openers": [
-        "abracadabra (dub duo)"
-      ]
-    },
     {
       "showId": "b0370d72",
       "dateISO": "2026-10-06",
@@ -1102,6 +1044,19 @@
       ]
     },
     {
+      "showId": "a54272ae",
+      "dateISO": "2027-02-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bella-poarch/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bella Poarch"
+      ],
+      "openers": []
+    },
+    {
       "showId": "2f0eb9e0",
       "dateISO": "2027-02-24",
       "startTime": "8:00 PM",
@@ -1224,6 +1179,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Too Many Zooz"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "9fcb06cb",
+      "dateISO": "2027-05-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/keo/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Keo"
       ],
       "openers": []
     },

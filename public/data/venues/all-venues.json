@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-04T15:05:35.357Z",
+  "generatedAtISO": "2026-10-05T17:43:20.057Z",
   "shows": [
     {
       "showId": "91429860",
@@ -32,49 +32,6 @@
       "openers": []
     },
     {
-      "showId": "455ebfb4",
-      "dateISO": "2026-10-01",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/mari-froes/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Mari Froes"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "8a434cbd",
-      "dateISO": "2026-10-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/bella-kay/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Bella Kay"
-      ],
-      "openers": [
-        "Hailey Picardi"
-      ]
-    },
-    {
-      "showId": "2a2d4b8f",
-      "dateISO": "2026-10-03",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/roya/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "ROYA"
-      ],
-      "openers": [
-        "1ycia"
-      ]
-    },
-    {
       "showId": "627a41d0",
       "dateISO": "2026-10-04",
       "startTime": "8:00 PM",
@@ -87,21 +44,6 @@
       ],
       "openers": [
         "Trestles"
-      ]
-    },
-    {
-      "showId": "7dae82f0",
-      "dateISO": "2026-10-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/rusowsky/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "rusowsky"
-      ],
-      "openers": [
-        "abracadabra (dub duo)"
       ]
     },
     {
@@ -2226,6 +2168,19 @@
       ]
     },
     {
+      "showId": "fdd37955",
+      "dateISO": "2027-01-09",
+      "startTime": "8:30 PM",
+      "venueId": "rickshaw-stop",
+      "venueName": "Rickshaw Stop",
+      "showUrl": "https://wl.seetickets.us/event/super-greens-sweet-plot-co-headline/704159?afflky=RickshawStop",
+      "sourceUrl": "https://rickshawstop.com/calendar/",
+      "headliners": [
+        "SUPER GREENS / SWEET PLOT (co-headline)"
+      ],
+      "openers": []
+    },
+    {
       "showId": "eb0c3563",
       "dateISO": "2027-01-10",
       "startTime": "8:00 PM",
@@ -2450,6 +2405,19 @@
       ]
     },
     {
+      "showId": "a54272ae",
+      "dateISO": "2027-02-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/bella-poarch/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Bella Poarch"
+      ],
+      "openers": []
+    },
+    {
       "showId": "2f0eb9e0",
       "dateISO": "2027-02-24",
       "startTime": "8:00 PM",
@@ -2615,6 +2583,19 @@
       "openers": [
         "Native Sun"
       ]
+    },
+    {
+      "showId": "9fcb06cb",
+      "dateISO": "2027-05-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/keo/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Keo"
+      ],
+      "openers": []
     },
     {
       "showId": "88dd3a93",
