@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-05T17:43:20.057Z",
+  "generatedAtISO": "2026-10-05T23:35:51.237Z",
   "shows": [
     {
       "showId": "91429860",
@@ -246,7 +246,9 @@
       "headliners": [
         "EDGAR ALEJANDRO- Todo Lo Bueno Toma Tiempo Tour"
       ],
-      "openers": []
+      "openers": [
+        "Artesano"
+      ]
     },
     {
       "showId": "ea92e6ef",

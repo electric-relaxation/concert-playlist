@@ -4,7 +4,7 @@
     "name": "Rickshaw Stop",
     "calendarUrl": "https://rickshawstop.com/calendar/"
   },
-  "generatedAtISO": "2026-10-05T17:43:14.035Z",
+  "generatedAtISO": "2026-10-05T23:35:45.893Z",
   "shows": [
     {
       "showId": "90749d6e",
@@ -64,7 +64,9 @@
       "headliners": [
         "EDGAR ALEJANDRO- Todo Lo Bueno Toma Tiempo Tour"
       ],
-      "openers": []
+      "openers": [
+        "Artesano"
+      ]
     },
     {
       "showId": "292ca6cd",
