@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-05T17:43:14.035Z",
+  "generatedAtISO": "2026-10-06T17:45:46.005Z",
   "shows": [
     {
       "showId": "b0370d72",
@@ -1142,6 +1142,19 @@
       "openers": [
         "Frayle"
       ]
+    },
+    {
+      "showId": "1039a440",
+      "dateISO": "2027-03-24",
+      "startTime": "7:30 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/hans-williams/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Hans Williams"
+      ],
+      "openers": []
     },
     {
       "showId": "015c7829",
