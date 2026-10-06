@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-06T17:45:51.106Z",
+  "generatedAtISO": "2026-10-06T22:09:53.863Z",
   "shows": [
     {
       "showId": "91429860",
@@ -30,21 +30,6 @@
         "Remedy 7"
       ],
       "openers": []
-    },
-    {
-      "showId": "627a41d0",
-      "dateISO": "2026-10-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/rum-jungle/689221?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Rum Jungle"
-      ],
-      "openers": [
-        "Trestles"
-      ]
     },
     {
       "showId": "58218d0c",
@@ -160,9 +145,7 @@
       "headliners": [
         "TIM ATLAS"
       ],
-      "openers": [
-        "Mejiwahn"
-      ]
+      "openers": []
     },
     {
       "showId": "a3792ff8",
@@ -2106,6 +2089,23 @@
         "CHRIS SIMPSON plays the songs of MINERAL"
       ],
       "openers": []
+    },
+    {
+      "showId": "0717d7cb",
+      "dateISO": "2027-01-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-loved-ones-latest-hits-record-release/707499?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Loved Ones - Latest Hits Record Release!"
+      ],
+      "openers": [
+        "Karina Deniké",
+        "Russell Quan",
+        "The Vesuvians"
+      ]
     },
     {
       "showId": "92dbe7c9",

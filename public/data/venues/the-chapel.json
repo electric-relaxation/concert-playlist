@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-04T15:05:30.034Z",
+  "generatedAtISO": "2026-10-06T22:09:49.614Z",
   "shows": [
-    {
-      "showId": "627a41d0",
-      "dateISO": "2026-10-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/rum-jungle/689221?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Rum Jungle"
-      ],
-      "openers": [
-        "Trestles"
-      ]
-    },
     {
       "showId": "58218d0c",
       "dateISO": "2026-10-06",
@@ -658,6 +643,23 @@
         "Chuck Prophet"
       ],
       "openers": []
+    },
+    {
+      "showId": "0717d7cb",
+      "dateISO": "2027-01-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-loved-ones-latest-hits-record-release/707499?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Loved Ones - Latest Hits Record Release!"
+      ],
+      "openers": [
+        "Karina Deniké",
+        "Russell Quan",
+        "The Vesuvians"
+      ]
     },
     {
       "showId": "a3e66c13",
