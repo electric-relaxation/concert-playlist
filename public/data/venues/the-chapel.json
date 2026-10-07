@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-07T01:58:22.670Z",
+  "generatedAtISO": "2026-10-07T21:10:49.402Z",
   "shows": [
-    {
-      "showId": "58218d0c",
-      "dateISO": "2026-10-06",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/lilyisthatyou/689080?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Lilyisthatyou"
-      ],
-      "openers": [
-        "James the Seventh"
-      ]
-    },
     {
       "showId": "cec76c21",
       "dateISO": "2026-10-07",
@@ -49,7 +34,7 @@
       ],
       "openers": [
         "Vanessa Zamora",
-        "Vinyl Sessions DJ High Me\""
+        "Vinyl Sessions DJ High Me"
       ]
     },
     {
@@ -559,6 +544,29 @@
       ],
       "openers": [
         "Archer Monk"
+      ]
+    },
+    {
+      "showId": "77e7597a",
+      "dateISO": "2026-11-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sleepless-nights-xx-a-tribute-to-gram-parsons/707714?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Sleepless Nights XX: A Tribute to Gram Parsons"
+      ],
+      "openers": [
+        "Aaron Burnham & the Brushfires",
+        "Bar Fight",
+        "Brian Mello & the Afterglow",
+        "Country Risqué",
+        "East Bay Breeze",
+        "Nashville Honeymoon",
+        "Paula Frazer & Tarnation",
+        "Penelope Houston & the Jailbirds",
+        "Sweet Chariot"
       ]
     },
     {
