@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-08T01:29:55.948Z",
+  "generatedAtISO": "2026-10-08T21:43:40.715Z",
   "shows": [
-    {
-      "showId": "682f9f7e",
-      "dateISO": "2026-10-07",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/deer-tick/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Deer Tick"
-      ],
-      "openers": [
-        "Presley Haile"
-      ]
-    },
     {
       "showId": "db508f2f",
       "dateISO": "2026-10-08",
@@ -60,7 +45,9 @@
       "headliners": [
         "dublon"
       ],
-      "openers": []
+      "openers": [
+        "Jovencito"
+      ]
     },
     {
       "showId": "8cdaaf7d",
@@ -858,7 +845,10 @@
       "headliners": [
         "Labiahead – California Tour 2026 – 2 Nights!"
       ],
-      "openers": []
+      "openers": [
+        "Charlene Kaye",
+        "Lena Hall & Meg Toohey"
+      ]
     },
     {
       "showId": "675f4639",
@@ -870,6 +860,22 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Labiahead – California Tour 2026 – 2 Nights!"
+      ],
+      "openers": [
+        "Charlene Kaye",
+        "Lena Hall & Meg Toohey"
+      ]
+    },
+    {
+      "showId": "1a0c17a9",
+      "dateISO": "2026-12-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-polish-ambassador-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Polish Ambassador"
       ],
       "openers": []
     },
