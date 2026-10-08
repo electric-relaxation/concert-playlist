@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-07T21:10:54.964Z",
+  "generatedAtISO": "2026-10-08T01:30:01.816Z",
   "shows": [
     {
       "showId": "91429860",
@@ -30,21 +30,6 @@
         "Remedy 7"
       ],
       "openers": []
-    },
-    {
-      "showId": "b0370d72",
-      "dateISO": "2026-10-06",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/cure-for-paranoia/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Cure for Paranoia"
-      ],
-      "openers": [
-        "AroMa"
-      ]
     },
     {
       "showId": "90749d6e",
@@ -356,22 +341,6 @@
       ]
     },
     {
-      "showId": "02cf1448",
-      "dateISO": "2026-10-15",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/lost-kings-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Lost Kings"
-      ],
-      "openers": [
-        "BAUM",
-        "TARA"
-      ]
-    },
-    {
       "showId": "6b700074",
       "dateISO": "2026-10-16",
       "startTime": "8:30 PM",
@@ -651,7 +620,8 @@
         "Haunted Riot"
       ],
       "openers": [
-        "Frightwig"
+        "AroMa",
+        "Scary Story Time Bay Curious"
       ]
     },
     {

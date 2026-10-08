@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-07T21:10:49.402Z",
+  "generatedAtISO": "2026-10-08T01:29:55.948Z",
   "shows": [
     {
       "showId": "cec76c21",
@@ -238,7 +238,8 @@
         "Haunted Riot"
       ],
       "openers": [
-        "Frightwig"
+        "AroMa",
+        "Scary Story Time Bay Curious"
       ]
     },
     {
