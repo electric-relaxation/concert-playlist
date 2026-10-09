@@ -4,39 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-08T01:29:55.948Z",
+  "generatedAtISO": "2026-10-09T20:28:02.783Z",
   "shows": [
-    {
-      "showId": "cec76c21",
-      "dateISO": "2026-10-07",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole-solo-electric/687528?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Lloyd Cole (Solo Electric)"
-      ]
-    },
-    {
-      "showId": "3aec9614",
-      "dateISO": "2026-10-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/y-la-bamba-10-years-of-ojos-del-sol/703013?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Y La Bamba - 10 Years of Ojos Del Sol"
-      ],
-      "openers": [
-        "Vanessa Zamora",
-        "Vinyl Sessions DJ High Me"
-      ]
-    },
     {
       "showId": "a3792ff8",
       "dateISO": "2026-10-09",
@@ -442,7 +411,9 @@
       "headliners": [
         "Marc Broussard"
       ],
-      "openers": []
+      "openers": [
+        "Cristina Vane"
+      ]
     },
     {
       "showId": "9002f093",

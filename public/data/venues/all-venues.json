@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-08T21:43:46.124Z",
+  "generatedAtISO": "2026-10-09T20:28:07.694Z",
   "shows": [
     {
       "showId": "91429860",
@@ -45,50 +45,6 @@
       "openers": [
         "Jojomber"
       ]
-    },
-    {
-      "showId": "cec76c21",
-      "dateISO": "2026-10-07",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-lloyd-cole-solo-electric/687528?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Lloyd Cole (Solo Electric)"
-      ]
-    },
-    {
-      "showId": "3aec9614",
-      "dateISO": "2026-10-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/y-la-bamba-10-years-of-ojos-del-sol/703013?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Y La Bamba - 10 Years of Ojos Del Sol"
-      ],
-      "openers": [
-        "Vanessa Zamora",
-        "Vinyl Sessions DJ High Me"
-      ]
-    },
-    {
-      "showId": "db508f2f",
-      "dateISO": "2026-10-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-breaks/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Breaks"
-      ],
-      "openers": []
     },
     {
       "showId": "48c73de9",
@@ -1171,7 +1127,9 @@
       "headliners": [
         "Weston Estate"
       ],
-      "openers": []
+      "openers": [
+        "Hojean"
+      ]
     },
     {
       "showId": "3a1b0959",
@@ -1200,7 +1158,9 @@
       "headliners": [
         "Weston Estate"
       ],
-      "openers": []
+      "openers": [
+        "Hojean"
+      ]
     },
     {
       "showId": "6d346dbf",
@@ -1290,7 +1250,9 @@
       "headliners": [
         "Marc Broussard"
       ],
-      "openers": []
+      "openers": [
+        "Cristina Vane"
+      ]
     },
     {
       "showId": "4e79add1",
@@ -1756,7 +1718,10 @@
       "headliners": [
         "Fireworks"
       ],
-      "openers": []
+      "openers": [
+        "Holy Blade",
+        "Stateside"
+      ]
     },
     {
       "showId": "f8913335",

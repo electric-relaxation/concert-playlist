@@ -4,21 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-08T21:43:40.715Z",
+  "generatedAtISO": "2026-10-09T20:28:02.783Z",
   "shows": [
-    {
-      "showId": "db508f2f",
-      "dateISO": "2026-10-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-breaks/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Breaks"
-      ],
-      "openers": []
-    },
     {
       "showId": "d034db56",
       "dateISO": "2026-10-09",
@@ -461,7 +448,9 @@
       "headliners": [
         "Weston Estate"
       ],
-      "openers": []
+      "openers": [
+        "Hojean"
+      ]
     },
     {
       "showId": "7bf5a7d3",
@@ -474,7 +463,9 @@
       "headliners": [
         "Weston Estate"
       ],
-      "openers": []
+      "openers": [
+        "Hojean"
+      ]
     },
     {
       "showId": "8cfd34e1",
@@ -729,7 +720,10 @@
       "headliners": [
         "Fireworks"
       ],
-      "openers": []
+      "openers": [
+        "Holy Blade",
+        "Stateside"
+      ]
     },
     {
       "showId": "b0947ba4",
