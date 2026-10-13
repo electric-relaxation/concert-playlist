@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-13T02:21:33.690Z",
+  "generatedAtISO": "2026-10-13T09:59:12.516Z",
   "shows": [
     {
       "showId": "91429860",
@@ -89,19 +89,6 @@
       "openers": [
         "Artesano"
       ]
-    },
-    {
-      "showId": "ea92e6ef",
-      "dateISO": "2026-10-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/derya-yildirim-and-grup-simsek-thee-marloes/702768?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Derya Yildirim & Grup Şimşek, Thee Marloes"
-      ],
-      "openers": []
     },
     {
       "showId": "9d19a8b6",
@@ -2240,6 +2227,19 @@
       "openers": [
         "NOLA Food & Drink Specials + East Bay Brass Band at Curio"
       ]
+    },
+    {
+      "showId": "86186cf3",
+      "dateISO": "2027-02-12",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/lael-neale/707903?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Lael Neale"
+      ],
+      "openers": []
     },
     {
       "showId": "48f656f8",
