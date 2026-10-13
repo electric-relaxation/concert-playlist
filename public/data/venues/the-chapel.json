@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-13T17:26:23.141Z",
+  "generatedAtISO": "2026-10-13T22:11:24.778Z",
   "shows": [
     {
       "showId": "76433cc6",
@@ -36,6 +36,7 @@
       ],
       "openers": [
         "Golomb",
+        "Visuals by Zack Rodell",
         "figure eight",
         "sachi's mirror"
       ]
@@ -292,10 +293,10 @@
       "startTime": "3:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/chapelmania/705677?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/postponed-chapelmania/705677?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "ChapelMania"
+        "POSTPONED: ChapelMania"
       ],
       "openers": []
     },

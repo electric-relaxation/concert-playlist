@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-13T17:26:23.141Z",
+  "generatedAtISO": "2026-10-13T22:11:24.778Z",
   "shows": [
     {
       "showId": "95d5d5a4",
@@ -17,9 +17,7 @@
       "headliners": [
         "Automatic"
       ],
-      "openers": [
-        "Donzii"
-      ]
+      "openers": []
     },
     {
       "showId": "bf1f5769",
@@ -634,6 +632,21 @@
       ]
     },
     {
+      "showId": "892b9b8d",
+      "dateISO": "2026-12-04",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/nirosta-steel/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Nirosta Steel"
+      ],
+      "openers": [
+        "John Errol"
+      ]
+    },
+    {
       "showId": "dc575c4d",
       "dateISO": "2026-12-05",
       "startTime": "9:00 PM",
@@ -856,6 +869,19 @@
         "Com Truise",
         "Matthew Dear"
       ]
+    },
+    {
+      "showId": "33bad2bb",
+      "dateISO": "2027-01-09",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/scott-pemberton-the-westones-boot-juice/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Scott Pemberton + The Westones + Boot Juice"
+      ],
+      "openers": []
     },
     {
       "showId": "69a3a246",
