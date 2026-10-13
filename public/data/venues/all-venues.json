@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-11T15:15:58.084Z",
+  "generatedAtISO": "2026-10-13T02:21:33.690Z",
   "shows": [
     {
       "showId": "91429860",
@@ -60,21 +60,6 @@
       "openers": []
     },
     {
-      "showId": "d034db56",
-      "dateISO": "2026-10-09",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/devon-gilfillian/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Devon Gilfillian"
-      ],
-      "openers": [
-        "Snacktime"
-      ]
-    },
-    {
       "showId": "74db3873",
       "dateISO": "2026-10-10",
       "startTime": "9:00 PM",
@@ -88,21 +73,6 @@
       "openers": [
         "DJ Zeljko",
         "Jill Parker"
-      ]
-    },
-    {
-      "showId": "57f6fe67",
-      "dateISO": "2026-10-10",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/dublon/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "dublon"
-      ],
-      "openers": [
-        "Jovencito"
       ]
     },
     {
@@ -130,19 +100,6 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Derya Yildirim & Grup Şimşek, Thee Marloes"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "8cdaaf7d",
-      "dateISO": "2026-10-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/santiago-cruz/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Santiago Cruz"
       ],
       "openers": []
     },
@@ -654,9 +611,7 @@
       "headliners": [
         "BALTHVS"
       ],
-      "openers": [
-        "Slow Coast"
-      ]
+      "openers": []
     },
     {
       "showId": "ca9a1331",
