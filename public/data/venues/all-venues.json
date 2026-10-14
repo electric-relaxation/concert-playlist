@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-14T12:46:43.935Z",
+  "generatedAtISO": "2026-10-14T17:43:55.591Z",
   "shows": [
     {
       "showId": "91429860",
@@ -88,23 +88,6 @@
       ],
       "openers": [
         "Artesano"
-      ]
-    },
-    {
-      "showId": "76433cc6",
-      "dateISO": "2026-10-13",
-      "startTime": "7:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Militarie Gun"
-      ],
-      "openers": [
-        "Dazy",
-        "Shady Nasty",
-        "Softcult"
       ]
     },
     {
@@ -1934,6 +1917,19 @@
       ]
     },
     {
+      "showId": "3bb8c0e0",
+      "dateISO": "2026-12-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ray-and-paul-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ray and Paul"
+      ],
+      "openers": []
+    },
+    {
       "showId": "e5d1ae5e",
       "dateISO": "2026-12-26",
       "startTime": "8:00 PM",
@@ -2139,6 +2135,19 @@
       ]
     },
     {
+      "showId": "a3342528",
+      "dateISO": "2027-01-16",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/tapers-choice/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Taper’s Choice"
+      ],
+      "openers": []
+    },
+    {
       "showId": "9fe06f2b",
       "dateISO": "2027-01-17",
       "startTime": "8:00 PM",
@@ -2189,6 +2198,73 @@
         "Pete Floyd"
       ],
       "openers": []
+    },
+    {
+      "showId": "eef26e84",
+      "dateISO": "2027-01-26",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-flatliners/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Flatliners"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "eba5cb06",
+      "dateISO": "2027-01-29",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ty-segall/707701?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ty Segall"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "96ff93e2",
+      "dateISO": "2027-01-30",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ty-segall/707703?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ty Segall"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f3f064de",
+      "dateISO": "2027-01-31",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/winona-fighter/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Winona Fighter"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "8da033d2",
+      "dateISO": "2027-02-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lotus/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lotus"
+      ],
+      "openers": [
+        "Michael Wilbur (of Moon Hooch)"
+      ]
     },
     {
       "showId": "b08f4f20",

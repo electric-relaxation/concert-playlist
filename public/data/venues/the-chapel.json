@@ -4,25 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-13T22:11:24.778Z",
+  "generatedAtISO": "2026-10-14T17:43:51.130Z",
   "shows": [
-    {
-      "showId": "76433cc6",
-      "dateISO": "2026-10-13",
-      "startTime": "7:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/militarie-gun/693468?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Militarie Gun"
-      ],
-      "openers": [
-        "Dazy",
-        "Shady Nasty",
-        "Softcult"
-      ]
-    },
     {
       "showId": "db39eefd",
       "dateISO": "2026-10-14",
@@ -719,6 +702,32 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Pete Floyd"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "eba5cb06",
+      "dateISO": "2027-01-29",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ty-segall/707701?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ty Segall"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "96ff93e2",
+      "dateISO": "2027-01-30",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ty-segall/707703?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ty Segall"
       ],
       "openers": []
     },
