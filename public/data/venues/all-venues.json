@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-13T22:11:29.047Z",
+  "generatedAtISO": "2026-10-14T12:46:43.935Z",
   "shows": [
     {
       "showId": "91429860",
@@ -106,19 +106,6 @@
         "Shady Nasty",
         "Softcult"
       ]
-    },
-    {
-      "showId": "95d5d5a4",
-      "dateISO": "2026-10-13",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/automatic/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Automatic"
-      ],
-      "openers": []
     },
     {
       "showId": "db39eefd",
@@ -584,7 +571,9 @@
       "headliners": [
         "BALTHVS"
       ],
-      "openers": []
+      "openers": [
+        "Slow Coast"
+      ]
     },
     {
       "showId": "ca9a1331",
