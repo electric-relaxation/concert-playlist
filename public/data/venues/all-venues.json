@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-14T17:43:55.591Z",
+  "generatedAtISO": "2026-10-15T00:14:52.468Z",
   "shows": [
     {
       "showId": "91429860",
@@ -1152,7 +1152,9 @@
       "headliners": [
         "Stephen Day"
       ],
-      "openers": []
+      "openers": [
+        "Elysia Biro"
+      ]
     },
     {
       "showId": "3eccc978",
