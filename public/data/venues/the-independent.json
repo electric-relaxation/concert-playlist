@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-15T00:14:48.758Z",
+  "generatedAtISO": "2026-10-15T19:38:00.831Z",
   "shows": [
-    {
-      "showId": "bf1f5769",
-      "dateISO": "2026-10-14",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/juice/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Juice"
-      ],
-      "openers": [
-        "Porcelain"
-      ]
-    },
     {
       "showId": "9dd38e31",
       "dateISO": "2026-10-16",
@@ -1172,6 +1157,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Dan and Peggy Reeder"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5b4cdf7d",
+      "dateISO": "2027-03-31",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/camel-power-club/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Camel Power Club"
       ],
       "openers": []
     },
