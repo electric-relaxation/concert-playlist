@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-15T00:14:52.468Z",
+  "generatedAtISO": "2026-10-15T15:27:13.883Z",
   "shows": [
     {
       "showId": "91429860",
@@ -88,24 +88,6 @@
       ],
       "openers": [
         "Artesano"
-      ]
-    },
-    {
-      "showId": "db39eefd",
-      "dateISO": "2026-10-14",
-      "startTime": "7:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dummy/700215?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Dummy"
-      ],
-      "openers": [
-        "Golomb",
-        "Visuals by Zack Rodell",
-        "figure eight",
-        "sachi's mirror"
       ]
     },
     {
@@ -2490,6 +2472,19 @@
       "openers": [
         "Frayle"
       ]
+    },
+    {
+      "showId": "2c325f17",
+      "dateISO": "2027-03-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/helena-deland/707896?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Helena Deland"
+      ],
+      "openers": []
     },
     {
       "showId": "baa6d98f",

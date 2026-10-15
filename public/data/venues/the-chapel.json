@@ -4,26 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-14T17:43:51.130Z",
+  "generatedAtISO": "2026-10-15T15:27:09.283Z",
   "shows": [
-    {
-      "showId": "db39eefd",
-      "dateISO": "2026-10-14",
-      "startTime": "7:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/dummy/700215?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Dummy"
-      ],
-      "openers": [
-        "Golomb",
-        "Visuals by Zack Rodell",
-        "figure eight",
-        "sachi's mirror"
-      ]
-    },
     {
       "showId": "e86e778e",
       "dateISO": "2026-10-15",
@@ -756,6 +738,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Lael Neale"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "2c325f17",
+      "dateISO": "2027-03-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/helena-deland/707896?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Helena Deland"
       ],
       "openers": []
     },
