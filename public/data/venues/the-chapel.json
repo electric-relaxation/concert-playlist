@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-15T15:27:09.283Z",
+  "generatedAtISO": "2026-10-16T00:57:05.524Z",
   "shows": [
     {
       "showId": "e86e778e",
@@ -237,7 +237,7 @@
     {
       "showId": "e2af01c0",
       "dateISO": "2026-10-31",
-      "startTime": "9:00 PM",
+      "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/the-paul-simon-halloween-ball-performed-by-bone-diggers/705531?afflky=TheChapel",

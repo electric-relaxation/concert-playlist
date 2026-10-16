@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-15T19:38:00.831Z",
+  "generatedAtISO": "2026-10-16T00:57:05.524Z",
   "shows": [
     {
       "showId": "9dd38e31",
@@ -79,21 +79,6 @@
       ],
       "openers": [
         "Never Ending Fall"
-      ]
-    },
-    {
-      "showId": "908ee202",
-      "dateISO": "2026-10-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "City of the Sun"
-      ],
-      "openers": [
-        "Valley Wolf"
       ]
     },
     {
