@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-16T00:57:11.075Z",
+  "generatedAtISO": "2026-10-16T19:12:22.660Z",
   "shows": [
     {
       "showId": "91429860",
@@ -88,22 +88,6 @@
       ],
       "openers": [
         "Artesano"
-      ]
-    },
-    {
-      "showId": "e86e778e",
-      "dateISO": "2026-10-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/hot-flash-heat-wave/693459?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Hot Flash Heat Wave"
-      ],
-      "openers": [
-        "Carpool Tunnel",
-        "Starzdust"
       ]
     },
     {
@@ -1370,6 +1354,19 @@
       "openers": []
     },
     {
+      "showId": "c6bb98b7",
+      "dateISO": "2026-11-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/moonalice/708306?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Moonalice"
+      ],
+      "openers": []
+    },
+    {
       "showId": "e6d9d663",
       "dateISO": "2026-11-25",
       "startTime": "8:00 PM",
@@ -2097,7 +2094,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/tapers-choice/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Taper’s Choice"
+        "Taper's Choice"
       ],
       "openers": []
     },

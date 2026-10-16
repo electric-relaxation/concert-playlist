@@ -4,24 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-16T00:57:05.524Z",
+  "generatedAtISO": "2026-10-16T19:12:18.212Z",
   "shows": [
-    {
-      "showId": "e86e778e",
-      "dateISO": "2026-10-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/hot-flash-heat-wave/693459?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Hot Flash Heat Wave"
-      ],
-      "openers": [
-        "Carpool Tunnel",
-        "Starzdust"
-      ]
-    },
     {
       "showId": "ea23e8a2",
       "dateISO": "2026-10-16",
@@ -459,6 +443,19 @@
       "openers": [
         "Archer Monk"
       ]
+    },
+    {
+      "showId": "c6bb98b7",
+      "dateISO": "2026-11-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/moonalice/708306?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Moonalice"
+      ],
+      "openers": []
     },
     {
       "showId": "77e7597a",
