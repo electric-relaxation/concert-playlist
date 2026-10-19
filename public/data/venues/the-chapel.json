@@ -4,37 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-18T16:18:51.251Z",
+  "generatedAtISO": "2026-10-19T18:10:28.471Z",
   "shows": [
-    {
-      "showId": "a42c6ca9",
-      "dateISO": "2026-10-18",
-      "startTime": "2:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/LOVE-SUPREME-Summer-Day-Party-Series/697839?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "LOVE SUPREME Summer Day Party Series"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "625b2cdb",
-      "dateISO": "2026-10-18",
-      "startTime": "6:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/womens-rebel-voices-film-music-tour-event-ft-miko-marks/706154?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "WOMEN’S REBEL VOICES FILM + MUSIC TOUR EVENT ft. MIKO MARKS"
-      ],
-      "openers": [
-        "Jed Riffe",
-        "Maureen Gosling"
-      ]
-    },
     {
       "showId": "ddb0e605",
       "dateISO": "2026-10-19",
@@ -442,7 +413,9 @@
       "headliners": [
         "Moonalice"
       ],
-      "openers": []
+      "openers": [
+        "Mad Alchemy Liquid Light Show"
+      ]
     },
     {
       "showId": "77e7597a",
@@ -656,7 +629,9 @@
       "headliners": [
         "Fruition"
       ],
-      "openers": []
+      "openers": [
+        "Rainbow Girls"
+      ]
     },
     {
       "showId": "1da58f98",

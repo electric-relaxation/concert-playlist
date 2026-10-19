@@ -4,53 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-16T19:12:18.212Z",
+  "generatedAtISO": "2026-10-19T18:10:28.471Z",
   "shows": [
-    {
-      "showId": "9dd38e31",
-      "dateISO": "2026-10-16",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/this-is-lorelei/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "This is Lorelei"
-      ],
-      "openers": [
-        "Colin Miller"
-      ]
-    },
-    {
-      "showId": "e0ad479d",
-      "dateISO": "2026-10-17",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/asha-banks/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Asha Banks"
-      ],
-      "openers": [
-        "Alfie Jukes"
-      ]
-    },
-    {
-      "showId": "30d8c59f",
-      "dateISO": "2026-10-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/raaginder/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Raaginder"
-      ],
-      "openers": [
-        "Minz"
-      ]
-    },
     {
       "showId": "ed7503ad",
       "dateISO": "2026-10-19",
@@ -912,6 +867,19 @@
       "openers": []
     },
     {
+      "showId": "afcc8993",
+      "dateISO": "2027-01-27",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mollie-elizabeth/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Mollie Elizabeth"
+      ],
+      "openers": []
+    },
+    {
       "showId": "f3f064de",
       "dateISO": "2027-01-31",
       "startTime": "8:00 PM",
@@ -1064,6 +1032,21 @@
       ]
     },
     {
+      "showId": "d454fd1d",
+      "dateISO": "2027-03-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/tommy-lefroy/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Tommy Lefroy"
+      ],
+      "openers": [
+        "Al Olender"
+      ]
+    },
+    {
       "showId": "44e5bd28",
       "dateISO": "2027-03-06",
       "startTime": "9:00 PM",
@@ -1103,6 +1086,19 @@
       "openers": [
         "Salami Rose Joe Louis"
       ]
+    },
+    {
+      "showId": "e38cadd2",
+      "dateISO": "2027-03-13",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/ruby-waters/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Ruby Waters"
+      ],
+      "openers": []
     },
     {
       "showId": "9c147d60",
@@ -1207,6 +1203,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Keo"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4c22e1b0",
+      "dateISO": "2027-06-05",
+      "startTime": "2:30 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/cg5/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "CG5 Presents: The GAMER Tour"
       ],
       "openers": []
     },
