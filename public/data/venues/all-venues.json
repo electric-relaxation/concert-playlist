@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-20T01:27:07.638Z",
+  "generatedAtISO": "2026-10-20T18:14:33.007Z",
   "shows": [
     {
       "showId": "91429860",
@@ -140,21 +140,6 @@
       ]
     },
     {
-      "showId": "ed7503ad",
-      "dateISO": "2026-10-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/new-constellations/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "New Constellations"
-      ],
-      "openers": [
-        "Vox Rea"
-      ]
-    },
-    {
       "showId": "c381734e",
       "dateISO": "2026-10-20",
       "startTime": "8:00 PM",
@@ -193,7 +178,7 @@
       "showUrl": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
-        "Sawyer Hill"
+        "POSTPONED – Sawyer Hill"
       ],
       "openers": [
         "Never Ending Fall"
@@ -2319,6 +2304,19 @@
       ]
     },
     {
+      "showId": "8cb44c3f",
+      "dateISO": "2027-03-02",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/vincent-lima-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Vincent Lima"
+      ],
+      "openers": []
+    },
+    {
       "showId": "d454fd1d",
       "dateISO": "2027-03-03",
       "startTime": "8:00 PM",
@@ -2464,6 +2462,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Camel Power Club"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5c0e325c",
+      "dateISO": "2027-04-02",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rikas/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Rikas"
       ],
       "openers": []
     },
