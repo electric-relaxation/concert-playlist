@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-20T18:14:33.007Z",
+  "generatedAtISO": "2026-10-20T22:00:23.994Z",
   "shows": [
     {
       "showId": "91429860",
@@ -125,21 +125,6 @@
       ]
     },
     {
-      "showId": "ddb0e605",
-      "dateISO": "2026-10-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/hovvdy/691044?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Hovvdy"
-      ],
-      "openers": [
-        "Emma Ogier"
-      ]
-    },
-    {
       "showId": "c381734e",
       "dateISO": "2026-10-20",
       "startTime": "8:00 PM",
@@ -210,6 +195,21 @@
       ],
       "openers": [
         "Two Runner"
+      ]
+    },
+    {
+      "showId": "337dae2f",
+      "dateISO": "2026-10-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "City of the Sun"
+      ],
+      "openers": [
+        "Valley Wolf"
       ]
     },
     {
@@ -2042,6 +2042,19 @@
       ]
     },
     {
+      "showId": "0011d82d",
+      "dateISO": "2027-01-22",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-brothers-comatose/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Brothers Comatose"
+      ],
+      "openers": []
+    },
+    {
       "showId": "1da58f98",
       "dateISO": "2027-01-23",
       "startTime": "9:00 PM",
@@ -2051,6 +2064,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Pete Floyd"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "70126cdd",
+      "dateISO": "2027-01-23",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-brothers-comatose-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Brothers Comatose"
       ],
       "openers": []
     },
@@ -2260,6 +2286,19 @@
       "openers": []
     },
     {
+      "showId": "f92a8f9d",
+      "dateISO": "2027-02-22",
+      "startTime": "7:30 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lady-radiator/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lady Radiator"
+      ],
+      "openers": []
+    },
+    {
       "showId": "2f0eb9e0",
       "dateISO": "2027-02-24",
       "startTime": "8:00 PM",
@@ -2384,6 +2423,21 @@
         "Ruby Waters"
       ],
       "openers": []
+    },
+    {
+      "showId": "3a558afb",
+      "dateISO": "2027-03-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-rockers/709042?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Rockers"
+      ],
+      "openers": [
+        "Coffin Hunters"
+      ]
     },
     {
       "showId": "9c147d60",

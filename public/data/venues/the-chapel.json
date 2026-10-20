@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-20T01:27:03.305Z",
+  "generatedAtISO": "2026-10-20T22:00:18.008Z",
   "shows": [
-    {
-      "showId": "ddb0e605",
-      "dateISO": "2026-10-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/hovvdy/691044?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Hovvdy"
-      ],
-      "openers": [
-        "Emma Ogier"
-      ]
-    },
     {
       "showId": "2d77d17a",
       "dateISO": "2026-10-20",
@@ -700,6 +685,21 @@
       ],
       "openers": [
         "Spacemoth"
+      ]
+    },
+    {
+      "showId": "3a558afb",
+      "dateISO": "2027-03-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-rockers/709042?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Rockers"
+      ],
+      "openers": [
+        "Coffin Hunters"
       ]
     },
     {

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-20T18:14:28.271Z",
+  "generatedAtISO": "2026-10-20T22:00:18.008Z",
   "shows": [
     {
       "showId": "15540261",
@@ -19,6 +19,21 @@
       ],
       "openers": [
         "Never Ending Fall"
+      ]
+    },
+    {
+      "showId": "337dae2f",
+      "dateISO": "2026-10-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "City of the Sun"
+      ],
+      "openers": [
+        "Valley Wolf"
       ]
     },
     {
@@ -841,6 +856,32 @@
       "openers": []
     },
     {
+      "showId": "0011d82d",
+      "dateISO": "2027-01-22",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-brothers-comatose/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Brothers Comatose"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "70126cdd",
+      "dateISO": "2027-01-23",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-brothers-comatose-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Brothers Comatose"
+      ],
+      "openers": []
+    },
+    {
       "showId": "eef26e84",
       "dateISO": "2027-01-26",
       "startTime": "8:00 PM",
@@ -971,6 +1012,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Bella Poarch"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f92a8f9d",
+      "dateISO": "2027-02-22",
+      "startTime": "7:30 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lady-radiator/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lady Radiator"
       ],
       "openers": []
     },
