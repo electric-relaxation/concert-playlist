@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-19T18:10:28.471Z",
+  "generatedAtISO": "2026-10-20T01:27:03.305Z",
   "shows": [
     {
       "showId": "ddb0e605",
@@ -698,7 +698,9 @@
       "headliners": [
         "Lael Neale"
       ],
-      "openers": []
+      "openers": [
+        "Spacemoth"
+      ]
     },
     {
       "showId": "2c325f17",

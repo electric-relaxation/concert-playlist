@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-19T22:44:49.458Z",
+  "generatedAtISO": "2026-10-20T01:27:07.638Z",
   "shows": [
     {
       "showId": "91429860",
@@ -2201,7 +2201,9 @@
       "headliners": [
         "Lael Neale"
       ],
-      "openers": []
+      "openers": [
+        "Spacemoth"
+      ]
     },
     {
       "showId": "48f656f8",
