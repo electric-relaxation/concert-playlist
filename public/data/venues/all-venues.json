@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-21T17:49:03.797Z",
+  "generatedAtISO": "2026-10-21T21:07:06.348Z",
   "shows": [
     {
       "showId": "91429860",
@@ -843,14 +843,13 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695312?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/buzzcocks-modern-english/695312?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Celebrating 50 Years of Buzzcocks"
+        "Buzzcocks, Modern English"
       ],
       "openers": [
-        "Grade 2",
-        "Modern English"
+        "Grade 2"
       ]
     },
     {
@@ -905,14 +904,13 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/celebrating-50-years-of-buzzcocks/695321?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/buzzcocks-modern-english/695321?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Celebrating 50 Years of Buzzcocks"
+        "Buzzcocks, Modern English"
       ],
       "openers": [
-        "Grade 2",
-        "Modern English"
+        "Celebrating 50 years of Buzzcocks + Grade 2"
       ]
     },
     {
@@ -2431,10 +2429,10 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-rockers/709042?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/the-rockers-thin-lizzy-tribute/709042?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "The Rockers"
+        "The Rockers (Thin Lizzy Tribute)"
       ],
       "openers": [
         "Coffin Hunters"
