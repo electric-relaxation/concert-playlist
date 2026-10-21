@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-21T01:11:16.246Z",
+  "generatedAtISO": "2026-10-21T17:49:03.797Z",
   "shows": [
     {
       "showId": "91429860",
@@ -137,21 +137,6 @@
       ],
       "openers": [
         "Karly Bowman"
-      ]
-    },
-    {
-      "showId": "2d77d17a",
-      "dateISO": "2026-10-20",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-devil-makes-three/693372?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Devil Makes Three"
-      ],
-      "openers": [
-        "Two Runner"
       ]
     },
     {
@@ -1796,6 +1781,22 @@
       "openers": []
     },
     {
+      "showId": "244a5fc1",
+      "dateISO": "2026-12-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-lemon-twigs/707220?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Lemon Twigs"
+      ],
+      "openers": [
+        "DJ Matt Stout",
+        "Tchotchke"
+      ]
+    },
+    {
       "showId": "ee12a686",
       "dateISO": "2027-01-07",
       "startTime": "8:00 PM",
@@ -2555,6 +2556,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "VALENCIA GRACE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "04803716",
+      "dateISO": "2027-04-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/clap-your-hands-say-yeah-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Clap Your Hands Say Yeah"
       ],
       "openers": []
     },

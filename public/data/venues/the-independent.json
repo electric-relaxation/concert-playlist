@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-21T01:11:12.069Z",
+  "generatedAtISO": "2026-10-21T17:48:58.435Z",
   "shows": [
     {
       "showId": "15540261",
@@ -1231,6 +1231,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Iceage"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "04803716",
+      "dateISO": "2027-04-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/clap-your-hands-say-yeah-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Clap Your Hands Say Yeah"
       ],
       "openers": []
     },
