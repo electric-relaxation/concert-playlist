@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-21T17:48:58.435Z",
+  "generatedAtISO": "2026-10-22T19:40:41.993Z",
   "shows": [
     {
       "showId": "15540261",
@@ -462,7 +462,9 @@
       "headliners": [
         "Mark William Lewis"
       ],
-      "openers": []
+      "openers": [
+        "claire rousay"
+      ]
     },
     {
       "showId": "e6d9d663",
