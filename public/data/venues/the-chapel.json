@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-21T21:07:00.477Z",
+  "generatedAtISO": "2026-10-22T00:20:53.706Z",
   "shows": [
     {
       "showId": "46ea37cc",
@@ -91,12 +91,14 @@
       "startTime": "8:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/theo-katzman-solo/690498?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/an-evening-with-theo-katzman-solo/690498?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Theo Katzman (Solo)"
+        "An Evening"
       ],
-      "openers": []
+      "openers": [
+        "Theo Katzman (Solo)"
+      ]
     },
     {
       "showId": "c4c78887",
@@ -147,6 +149,7 @@
       "openers": [
         "Holly Bowling",
         "Lebo",
+        "Mad Alchemy Liquid Lights",
         "Reed Mathis",
         "Scott Rager"
       ]
