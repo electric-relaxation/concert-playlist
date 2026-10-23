@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-23T06:50:45.018Z",
+  "generatedAtISO": "2026-10-23T20:52:28.664Z",
   "shows": [
     {
       "showId": "91429860",
@@ -168,21 +168,6 @@
       "openers": []
     },
     {
-      "showId": "46ea37cc",
-      "dateISO": "2026-10-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-devil-makes-three/693375?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Devil Makes Three"
-      ],
-      "openers": [
-        "Two Runner"
-      ]
-    },
-    {
       "showId": "337dae2f",
       "dateISO": "2026-10-21",
       "startTime": "8:00 PM",
@@ -212,21 +197,6 @@
         "Barfight",
         "Dinner Date",
         "Tom Conneely and Birds of Paradise"
-      ]
-    },
-    {
-      "showId": "4b08a48e",
-      "dateISO": "2026-10-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/justin-nozuka/691473?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Justin Nozuka"
-      ],
-      "openers": [
-        "Nimitt"
       ]
     },
     {
@@ -645,6 +615,19 @@
       "openers": [
         "Ally Salort"
       ]
+    },
+    {
+      "showId": "d2bbe97c",
+      "dateISO": "2026-11-03",
+      "startTime": "5:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/election-night-watch-party-hosted-by-kochina-rude/709292?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Election Night Watch Party: Hosted by Kochina Rude!"
+      ],
+      "openers": []
     },
     {
       "showId": "fa745e1f",

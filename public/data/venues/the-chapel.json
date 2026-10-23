@@ -4,38 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-22T00:20:53.706Z",
+  "generatedAtISO": "2026-10-23T20:52:23.488Z",
   "shows": [
-    {
-      "showId": "46ea37cc",
-      "dateISO": "2026-10-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-devil-makes-three/693375?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Devil Makes Three"
-      ],
-      "openers": [
-        "Two Runner"
-      ]
-    },
-    {
-      "showId": "4b08a48e",
-      "dateISO": "2026-10-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/justin-nozuka/691473?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Justin Nozuka"
-      ],
-      "openers": [
-        "Nimitt"
-      ]
-    },
     {
       "showId": "23e5f09e",
       "dateISO": "2026-10-23",
@@ -177,6 +147,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Private Event"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "d2bbe97c",
+      "dateISO": "2026-11-03",
+      "startTime": "5:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/election-night-watch-party-hosted-by-kochina-rude/709292?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Election Night Watch Party: Hosted by Kochina Rude!"
       ],
       "openers": []
     },
