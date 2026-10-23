@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-22T19:40:41.993Z",
+  "generatedAtISO": "2026-10-23T01:07:58.367Z",
   "shows": [
     {
       "showId": "15540261",
@@ -181,7 +181,9 @@
       "headliners": [
         "SIX60"
       ],
-      "openers": []
+      "openers": [
+        "Cilantro (solo)"
+      ]
     },
     {
       "showId": "a5e3d020",

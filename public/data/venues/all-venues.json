@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-22T19:40:47.246Z",
+  "generatedAtISO": "2026-10-23T01:08:03.108Z",
   "shows": [
     {
       "showId": "91429860",
@@ -614,7 +614,9 @@
       "headliners": [
         "SIX60"
       ],
-      "openers": []
+      "openers": [
+        "Cilantro (solo)"
+      ]
     },
     {
       "showId": "3265634e",
