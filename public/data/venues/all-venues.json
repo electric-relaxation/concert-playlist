@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-23T01:08:03.108Z",
+  "generatedAtISO": "2026-10-23T06:50:45.018Z",
   "shows": [
     {
       "showId": "91429860",
@@ -2443,21 +2443,6 @@
       ],
       "openers": [
         "Coffin Hunters"
-      ]
-    },
-    {
-      "showId": "9c147d60",
-      "dateISO": "2027-03-17",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/dogma-with-special-guest-frayle/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "POSTPONED: Dogma"
-      ],
-      "openers": [
-        "Frayle"
       ]
     },
     {
