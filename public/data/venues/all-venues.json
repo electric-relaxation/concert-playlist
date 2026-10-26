@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-23T20:52:28.664Z",
+  "generatedAtISO": "2026-10-26T15:43:37.483Z",
   "shows": [
     {
       "showId": "91429860",
@@ -200,21 +200,6 @@
       ]
     },
     {
-      "showId": "0477bf2a",
-      "dateISO": "2026-10-22",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/frankie-cosmos-celebrating-10-years-of-next-thing/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Frankie Cosmos – Celebrating 10 Years of Next Thing"
-      ],
-      "openers": [
-        "Gabby’s World"
-      ]
-    },
-    {
       "showId": "23e5f09e",
       "dateISO": "2026-10-23",
       "startTime": "8:00 PM",
@@ -242,21 +227,6 @@
         "GIMME GIMME DISCO - HALLOWEEN DANCE PARTY"
       ],
       "openers": []
-    },
-    {
-      "showId": "a063b28d",
-      "dateISO": "2026-10-23",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/frog/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Frog"
-      ],
-      "openers": [
-        "Mildred"
-      ]
     },
     {
       "showId": "08060dc3",
@@ -292,21 +262,6 @@
       ]
     },
     {
-      "showId": "88961e7e",
-      "dateISO": "2026-10-24",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/everclear/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Everclear with American Hi-Fi"
-      ],
-      "openers": [
-        "American Hi-Fi"
-      ]
-    },
-    {
       "showId": "b3c2707a",
       "dateISO": "2026-10-25",
       "startTime": "8:00 PM",
@@ -318,21 +273,6 @@
         "KYLE GORDON"
       ],
       "openers": []
-    },
-    {
-      "showId": "559a72b1",
-      "dateISO": "2026-10-25",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/balthvs/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "BALTHVS"
-      ],
-      "openers": [
-        "Slow Coast"
-      ]
     },
     {
       "showId": "ca9a1331",
@@ -2529,6 +2469,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "VALENCIA GRACE"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5fe0b717",
+      "dateISO": "2027-04-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/gus-dapperton/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Gus Dapperton"
       ],
       "openers": []
     },
