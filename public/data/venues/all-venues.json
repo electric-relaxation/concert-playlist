@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-26T15:43:37.483Z",
+  "generatedAtISO": "2026-10-26T20:49:49.338Z",
   "shows": [
     {
       "showId": "91429860",
@@ -200,22 +200,6 @@
       ]
     },
     {
-      "showId": "23e5f09e",
-      "dateISO": "2026-10-23",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://www.tixr.com/groups/kqed/events/haunted-riot-with-frightwig-an-alt-punk-show-204363",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Haunted Riot"
-      ],
-      "openers": [
-        "AroMa",
-        "Scary Story Time Bay Curious"
-      ]
-    },
-    {
       "showId": "b65ff073",
       "dateISO": "2026-10-23",
       "startTime": "8:30 PM",
@@ -245,23 +229,6 @@
       ]
     },
     {
-      "showId": "14eb4c90",
-      "dateISO": "2026-10-24",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/weatherday-hornet-disaster-tour-2026/687518?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Weatherday: Hornet Disaster Tour 2026"
-      ],
-      "openers": [
-        "Founders Day",
-        "Harold",
-        "Hit me"
-      ]
-    },
-    {
       "showId": "b3c2707a",
       "dateISO": "2026-10-25",
       "startTime": "8:00 PM",
@@ -271,6 +238,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "KYLE GORDON"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ebf4e6c8",
+      "dateISO": "2026-10-26",
+      "startTime": "5:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-the-valkyries-vs-dream-game-in-curio/709455?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch the Valkyries vs. Dream game in Curio"
       ],
       "openers": []
     },
@@ -2354,6 +2334,19 @@
       "openers": []
     },
     {
+      "showId": "5359f92b",
+      "dateISO": "2027-03-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sophia-stel/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "sophia stel"
+      ],
+      "openers": []
+    },
+    {
       "showId": "3a558afb",
       "dateISO": "2027-03-17",
       "startTime": "8:00 PM",
@@ -2419,6 +2412,21 @@
         "Dan and Peggy Reeder"
       ],
       "openers": []
+    },
+    {
+      "showId": "9a5e462e",
+      "dateISO": "2027-03-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dogpark/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Dogpark"
+      ],
+      "openers": [
+        "The Rose Hips"
+      ]
     },
     {
       "showId": "5b4cdf7d",
@@ -2575,6 +2583,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "CG5 Presents: The GAMER Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a19c5977",
+      "dateISO": "2027-06-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/nsqk/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "NSQK"
       ],
       "openers": []
     },

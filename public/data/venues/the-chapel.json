@@ -4,40 +4,20 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-23T20:52:23.488Z",
+  "generatedAtISO": "2026-10-26T20:49:45.654Z",
   "shows": [
     {
-      "showId": "23e5f09e",
-      "dateISO": "2026-10-23",
-      "startTime": "8:00 PM",
+      "showId": "ebf4e6c8",
+      "dateISO": "2026-10-26",
+      "startTime": "5:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://www.tixr.com/groups/kqed/events/haunted-riot-with-frightwig-an-alt-punk-show-204363",
+      "showUrl": "https://wl.seetickets.us/event/watch-the-valkyries-vs-dream-game-in-curio/709455?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Haunted Riot"
+        "Watch the Valkyries vs. Dream game in Curio"
       ],
-      "openers": [
-        "AroMa",
-        "Scary Story Time Bay Curious"
-      ]
-    },
-    {
-      "showId": "14eb4c90",
-      "dateISO": "2026-10-24",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/weatherday-hornet-disaster-tour-2026/687518?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Weatherday: Hornet Disaster Tour 2026"
-      ],
-      "openers": [
-        "Founders Day",
-        "Harold",
-        "Hit me"
-      ]
+      "openers": []
     },
     {
       "showId": "43a95dbe",

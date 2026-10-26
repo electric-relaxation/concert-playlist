@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-26T15:43:24.568Z",
+  "generatedAtISO": "2026-10-26T20:49:45.654Z",
   "shows": [
     {
       "showId": "15540261",
@@ -1099,6 +1099,19 @@
       "openers": []
     },
     {
+      "showId": "5359f92b",
+      "dateISO": "2027-03-16",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sophia-stel/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "sophia stel"
+      ],
+      "openers": []
+    },
+    {
       "showId": "1039a440",
       "dateISO": "2027-03-24",
       "startTime": "7:30 PM",
@@ -1123,6 +1136,21 @@
         "Dan and Peggy Reeder"
       ],
       "openers": []
+    },
+    {
+      "showId": "9a5e462e",
+      "dateISO": "2027-03-30",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dogpark/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Dogpark"
+      ],
+      "openers": [
+        "The Rose Hips"
+      ]
     },
     {
       "showId": "5b4cdf7d",
@@ -1238,6 +1266,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "CG5 Presents: The GAMER Tour"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "a19c5977",
+      "dateISO": "2027-06-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/nsqk/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "NSQK"
       ],
       "openers": []
     },
