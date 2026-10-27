@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-27T17:14:48.363Z",
+  "generatedAtISO": "2026-10-27T21:42:17.797Z",
   "shows": [
     {
       "showId": "15540261",
@@ -717,6 +717,19 @@
       "openers": []
     },
     {
+      "showId": "fd6684e7",
+      "dateISO": "2026-12-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/thievery-corporation/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Thievery Corporation"
+      ],
+      "openers": []
+    },
+    {
       "showId": "92dbe7c9",
       "dateISO": "2027-01-07",
       "startTime": "8:00 PM",
@@ -902,6 +915,45 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Romare (Live + DJ)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "1dc57d6e",
+      "dateISO": "2027-02-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/two-gallants/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Two Gallants"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "ef48695a",
+      "dateISO": "2027-02-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/two-gallants-two-day-pass/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Two Gallants: Two-Day Pass"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c282dc68",
+      "dateISO": "2027-02-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/two-gallants-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Two Gallants"
       ],
       "openers": []
     },
@@ -1279,6 +1331,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Keo"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4f694990",
+      "dateISO": "2027-05-18",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/dillom/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Dillom"
       ],
       "openers": []
     },

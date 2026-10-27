@@ -4,37 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-26T20:49:45.654Z",
+  "generatedAtISO": "2026-10-27T21:42:17.797Z",
   "shows": [
-    {
-      "showId": "ebf4e6c8",
-      "dateISO": "2026-10-26",
-      "startTime": "5:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-the-valkyries-vs-dream-game-in-curio/709455?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch the Valkyries vs. Dream game in Curio"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "43a95dbe",
-      "dateISO": "2026-10-26",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-war-and-treaty/694221?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The War And Treaty"
-      ],
-      "openers": [
-        "Blank Page",
-        "Jordan Babbs"
-      ]
-    },
     {
       "showId": "f8c08fc0",
       "dateISO": "2026-10-28",
@@ -304,7 +275,9 @@
       "headliners": [
         "John Carroll Kirby"
       ],
-      "openers": []
+      "openers": [
+        "KALW Welcomes"
+      ]
     },
     {
       "showId": "af645744",
