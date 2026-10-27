@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-26T20:49:45.654Z",
+  "generatedAtISO": "2026-10-27T17:14:48.363Z",
   "shows": [
     {
       "showId": "15540261",
@@ -986,6 +986,19 @@
       "openers": []
     },
     {
+      "showId": "e6bebf56",
+      "dateISO": "2027-02-25",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/asaf-avidan/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Asaf Avidan"
+      ],
+      "openers": []
+    },
+    {
       "showId": "3878a88b",
       "dateISO": "2027-02-26",
       "startTime": "9:00 PM",
@@ -1084,6 +1097,19 @@
       "openers": [
         "Salami Rose Joe Louis"
       ]
+    },
+    {
+      "showId": "bf1b8c47",
+      "dateISO": "2027-03-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/temper-city/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Temper City"
+      ],
+      "openers": []
     },
     {
       "showId": "e38cadd2",
