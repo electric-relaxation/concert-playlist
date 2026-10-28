@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-28T19:14:53.681Z",
+  "generatedAtISO": "2026-10-28T23:48:01.063Z",
   "shows": [
     {
       "showId": "91429860",
@@ -1250,6 +1250,19 @@
       ]
     },
     {
+      "showId": "e12e4067",
+      "dateISO": "2026-12-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Private-Event/709727?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
+    },
+    {
       "showId": "cc19efa9",
       "dateISO": "2026-12-03",
       "startTime": "8:00 PM",
@@ -1263,6 +1276,19 @@
       "openers": [
         "The Blushes"
       ]
+    },
+    {
+      "showId": "84acece7",
+      "dateISO": "2026-12-04",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Private-Event/709728?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "892b9b8d",
@@ -1351,6 +1377,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Lazer Dim 700"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "4fc345aa",
+      "dateISO": "2026-12-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Private-Event/709729?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
       ],
       "openers": []
     },
@@ -1524,6 +1563,19 @@
       "sourceUrl": "https://rickshawstop.com/calendar/",
       "headliners": [
         "RUBY HAUNT"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3e42beda",
+      "dateISO": "2026-12-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/Private-Event/709730?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
       ],
       "openers": []
     },
