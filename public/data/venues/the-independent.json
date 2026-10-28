@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-27T21:42:17.797Z",
+  "generatedAtISO": "2026-10-28T19:14:48.977Z",
   "shows": [
     {
       "showId": "15540261",
@@ -34,22 +34,6 @@
       ],
       "openers": [
         "Valley Wolf"
-      ]
-    },
-    {
-      "showId": "1f579642",
-      "dateISO": "2026-10-27",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-wldlfe/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Wldlfe"
-      ],
-      "openers": [
-        "Landon Conrath",
-        "brendon b"
       ]
     },
     {
@@ -539,6 +523,19 @@
       ]
     },
     {
+      "showId": "b33e986d",
+      "dateISO": "2026-12-07",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/lazer-dim-700/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Lazer Dim 700"
+      ],
+      "openers": []
+    },
+    {
       "showId": "b0947ba4",
       "dateISO": "2026-12-08",
       "startTime": "8:00 PM",
@@ -984,6 +981,19 @@
       "openers": []
     },
     {
+      "showId": "110fb198",
+      "dateISO": "2027-02-17",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/codefendants-jakob-nowell-and-the-castle/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "CODEFENDANTS + Jakob Nowell and THE CASTLE"
+      ],
+      "openers": []
+    },
+    {
       "showId": "ac2f490c",
       "dateISO": "2027-02-19",
       "startTime": "9:00 PM",
@@ -1212,6 +1222,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Dan and Peggy Reeder"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "6a8a231a",
+      "dateISO": "2027-03-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/worldpeace-dmt/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Worldpeace DMT"
       ],
       "openers": []
     },
