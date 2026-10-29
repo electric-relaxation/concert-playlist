@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-28T23:47:55.598Z",
+  "generatedAtISO": "2026-10-29T22:19:14.397Z",
   "shows": [
-    {
-      "showId": "f8c08fc0",
-      "dateISO": "2026-10-28",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-theo-katzman-solo/690498?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Theo Katzman (Solo)"
-      ]
-    },
     {
       "showId": "c4c78887",
       "dateISO": "2026-10-29",
@@ -57,6 +42,21 @@
       ]
     },
     {
+      "showId": "1d194fc3",
+      "dateISO": "2026-10-31",
+      "startTime": "5:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-game-7-in-curio/709446?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Watch Game 7 in Curio"
+      ],
+      "openers": [
+        "Golden State Valkyries vs. Atlanta Dream"
+      ]
+    },
+    {
       "showId": "e2af01c0",
       "dateISO": "2026-10-31",
       "startTime": "8:00 PM",
@@ -74,6 +74,19 @@
         "Reed Mathis",
         "Scott Rager"
       ]
+    },
+    {
+      "showId": "1aa2dac8",
+      "dateISO": "2026-10-31",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://urldefense.com/v3/__https://www.instagram.com/sazonlibre/?hl=en__;!!AEl5w8WD!qEF2PDCYf5Vqo0gLaWm2UoXDJDR7OFxM2UDzxqSuVZ9wip212hErjAfChv-rgLr89CPHvh4zAwNanuTNoBfWt1T8$",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Baysik, Guapi, ColdSF (Door Sales Only)"
+      ],
+      "openers": []
     },
     {
       "showId": "eeac702f",
@@ -374,32 +387,6 @@
       "openers": []
     },
     {
-      "showId": "e12e4067",
-      "dateISO": "2026-12-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/709727?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "84acece7",
-      "dateISO": "2026-12-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/709728?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
-    {
       "showId": "f8913335",
       "dateISO": "2026-12-07",
       "startTime": "8:00 PM",
@@ -413,32 +400,6 @@
       "openers": [
         "Kisser"
       ]
-    },
-    {
-      "showId": "4fc345aa",
-      "dateISO": "2026-12-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/709729?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "3e42beda",
-      "dateISO": "2026-12-15",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/Private-Event/709730?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
     },
     {
       "showId": "21b7269a",

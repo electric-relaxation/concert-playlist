@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-28T19:14:48.977Z",
+  "generatedAtISO": "2026-10-29T22:19:14.397Z",
   "shows": [
     {
       "showId": "15540261",
@@ -34,21 +34,6 @@
       ],
       "openers": [
         "Valley Wolf"
-      ]
-    },
-    {
-      "showId": "8ab42dc9",
-      "dateISO": "2026-10-28",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/freak-slug/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Freak Slug"
-      ],
-      "openers": [
-        "Mamalarky"
       ]
     },
     {
@@ -211,9 +196,7 @@
       "headliners": [
         "THAO"
       ],
-      "openers": [
-        "Agouti"
-      ]
+      "openers": []
     },
     {
       "showId": "7bd5ea28",
