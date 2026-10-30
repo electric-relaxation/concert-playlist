@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-10-29T22:19:14.397Z",
+  "generatedAtISO": "2026-10-30T21:18:09.404Z",
   "shows": [
     {
       "showId": "15540261",
@@ -34,21 +34,6 @@
       ],
       "openers": [
         "Valley Wolf"
-      ]
-    },
-    {
-      "showId": "886d8e74",
-      "dateISO": "2026-10-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/patrick-wolf/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Patrick Wolf"
-      ],
-      "openers": [
-        "Abhora"
       ]
     },
     {
@@ -196,7 +181,9 @@
       "headliners": [
         "THAO"
       ],
-      "openers": []
+      "openers": [
+        "Agouti"
+      ]
     },
     {
       "showId": "7bd5ea28",
@@ -895,6 +882,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Romare (Live + DJ)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "dafc6480",
+      "dateISO": "2027-02-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/two-gallants-3/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Two Gallants"
       ],
       "openers": []
     },

@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-30T02:19:49.817Z",
+  "generatedAtISO": "2026-10-30T21:18:09.404Z",
   "shows": [
-    {
-      "showId": "c4c78887",
-      "dateISO": "2026-10-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Katie Pruitt"
-      ],
-      "openers": [
-        "Olivia Barton"
-      ]
-    },
     {
       "showId": "7b7f1c74",
       "dateISO": "2026-10-30",
@@ -84,7 +69,7 @@
       "showUrl": "https://urldefense.com/v3/__https://www.instagram.com/sazonlibre/?hl=en__;!!AEl5w8WD!qEF2PDCYf5Vqo0gLaWm2UoXDJDR7OFxM2UDzxqSuVZ9wip212hErjAfChv-rgLr89CPHvh4zAwNanuTNoBfWt1T8$",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Baysik, Guapi, ColdSF (Door Sales Only)"
+        "Baysik, Guapi, ColdSF"
       ],
       "openers": []
     },

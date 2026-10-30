@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-30T02:19:54.478Z",
+  "generatedAtISO": "2026-10-30T21:18:13.821Z",
   "shows": [
     {
       "showId": "91429860",
@@ -268,36 +268,6 @@
       "openers": []
     },
     {
-      "showId": "c4c78887",
-      "dateISO": "2026-10-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/katie-pruitt/695190?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Katie Pruitt"
-      ],
-      "openers": [
-        "Olivia Barton"
-      ]
-    },
-    {
-      "showId": "886d8e74",
-      "dateISO": "2026-10-29",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/patrick-wolf/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Patrick Wolf"
-      ],
-      "openers": [
-        "Abhora"
-      ]
-    },
-    {
       "showId": "a6f39fe0",
       "dateISO": "2026-10-29",
       "startTime": "9:00 PM",
@@ -416,7 +386,7 @@
       "showUrl": "https://urldefense.com/v3/__https://www.instagram.com/sazonlibre/?hl=en__;!!AEl5w8WD!qEF2PDCYf5Vqo0gLaWm2UoXDJDR7OFxM2UDzxqSuVZ9wip212hErjAfChv-rgLr89CPHvh4zAwNanuTNoBfWt1T8$",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Baysik, Guapi, ColdSF (Door Sales Only)"
+        "Baysik, Guapi, ColdSF"
       ],
       "openers": []
     },
@@ -679,7 +649,9 @@
       "headliners": [
         "THAO"
       ],
-      "openers": []
+      "openers": [
+        "Agouti"
+      ]
     },
     {
       "showId": "7bd5ea28",
@@ -2088,6 +2060,19 @@
       "openers": [
         "NOLA Food & Drink Specials + East Bay Brass Band at Curio"
       ]
+    },
+    {
+      "showId": "dafc6480",
+      "dateISO": "2027-02-09",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/two-gallants-3/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Two Gallants"
+      ],
+      "openers": []
     },
     {
       "showId": "1dc57d6e",
