@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-29T22:19:14.397Z",
+  "generatedAtISO": "2026-10-30T02:19:49.817Z",
   "shows": [
     {
       "showId": "c4c78887",
@@ -47,10 +47,10 @@
       "startTime": "5:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-game-7-in-curio/709446?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/watch-game-7-at-curio/709446?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "Watch Game 7 in Curio"
+        "Watch Game 7 at Curio"
       ],
       "openers": [
         "Golden State Valkyries vs. Atlanta Dream"
