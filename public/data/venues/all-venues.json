@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-10-30T21:18:13.821Z",
+  "generatedAtISO": "2026-11-03T00:20:40.324Z",
   "shows": [
     {
       "showId": "91429860",
@@ -303,21 +303,6 @@
       ]
     },
     {
-      "showId": "b02ef305",
-      "dateISO": "2026-10-30",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/high-step-society/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "High Step Society"
-      ],
-      "openers": [
-        "HABITAAT"
-      ]
-    },
-    {
       "showId": "c7fa5946",
       "dateISO": "2026-10-30",
       "startTime": "9:30 PM",
@@ -391,19 +376,6 @@
       "openers": []
     },
     {
-      "showId": "0ff472cc",
-      "dateISO": "2026-10-31",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-13/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "The Emo Night Tour"
-      ],
-      "openers": []
-    },
-    {
       "showId": "eeac702f",
       "dateISO": "2026-11-01",
       "startTime": "3:00 PM",
@@ -415,21 +387,6 @@
         "POSTPONED: ChapelMania"
       ],
       "openers": []
-    },
-    {
-      "showId": "dadf1e90",
-      "dateISO": "2026-11-01",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/six60/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "SIX60"
-      ],
-      "openers": [
-        "Cilantro (solo)"
-      ]
     },
     {
       "showId": "3265634e",
@@ -1586,6 +1543,19 @@
       ]
     },
     {
+      "showId": "1669f7ad",
+      "dateISO": "2026-12-19",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-emo-night-tour-14/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Emo Night Tour"
+      ],
+      "openers": []
+    },
+    {
       "showId": "407c4b4d",
       "dateISO": "2026-12-20",
       "startTime": "8:30 PM",
@@ -1652,6 +1622,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Thievery Corporation"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f6b1df1c",
+      "dateISO": "2027-01-02",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/shaheri/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "SHĀHERI"
       ],
       "openers": []
     },
@@ -1978,6 +1961,21 @@
         "Ty Segall"
       ],
       "openers": []
+    },
+    {
+      "showId": "6bd1a9a6",
+      "dateISO": "2027-01-29",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/jim-e-brown/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Jim E. Brown"
+      ],
+      "openers": [
+        "Faux Real"
+      ]
     },
     {
       "showId": "96ff93e2",
