@@ -4,101 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-10-30T21:18:09.404Z",
+  "generatedAtISO": "2026-11-03T15:43:11.960Z",
   "shows": [
-    {
-      "showId": "7b7f1c74",
-      "dateISO": "2026-10-30",
-      "startTime": "8:30 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/a-night-of-the-living-dead/705528?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "A Night of the Living Dead"
-      ],
-      "openers": [
-        "Danny Luehring",
-        "Elliott Peck",
-        "Holly Bowling",
-        "Lebo",
-        "Steve Adams",
-        "Wally Ingram"
-      ]
-    },
-    {
-      "showId": "1d194fc3",
-      "dateISO": "2026-10-31",
-      "startTime": "5:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/watch-game-7-at-curio/709446?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Watch Game 7 at Curio"
-      ],
-      "openers": [
-        "Golden State Valkyries vs. Atlanta Dream"
-      ]
-    },
-    {
-      "showId": "e2af01c0",
-      "dateISO": "2026-10-31",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/the-paul-simon-halloween-ball-performed-by-bone-diggers/705531?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "The Paul Simon Halloween Ball Performed by Bone Diggers"
-      ],
-      "openers": [
-        "Holly Bowling",
-        "Lebo",
-        "Mad Alchemy Liquid Lights",
-        "Reed Mathis",
-        "Scott Rager"
-      ]
-    },
-    {
-      "showId": "1aa2dac8",
-      "dateISO": "2026-10-31",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://urldefense.com/v3/__https://www.instagram.com/sazonlibre/?hl=en__;!!AEl5w8WD!qEF2PDCYf5Vqo0gLaWm2UoXDJDR7OFxM2UDzxqSuVZ9wip212hErjAfChv-rgLr89CPHvh4zAwNanuTNoBfWt1T8$",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Baysik, Guapi, ColdSF"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "eeac702f",
-      "dateISO": "2026-11-01",
-      "startTime": "3:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/postponed-chapelmania/705677?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "POSTPONED: ChapelMania"
-      ],
-      "openers": []
-    },
-    {
-      "showId": "3265634e",
-      "dateISO": "2026-11-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
     {
       "showId": "d2bbe97c",
       "dateISO": "2026-11-03",
@@ -368,6 +275,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "GAURI B: YEARS IN THE BREAKING"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-12-03",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
       ],
       "openers": []
     },
