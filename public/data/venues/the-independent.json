@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-03T00:20:36.322Z",
+  "generatedAtISO": "2026-11-03T21:25:46.042Z",
   "shows": [
     {
       "showId": "15540261",
@@ -19,36 +19,6 @@
       ],
       "openers": [
         "Never Ending Fall"
-      ]
-    },
-    {
-      "showId": "337dae2f",
-      "dateISO": "2026-10-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "POSTPONED – City of the Sun"
-      ],
-      "openers": [
-        "Valley Wolf"
-      ]
-    },
-    {
-      "showId": "a5e3d020",
-      "dateISO": "2026-11-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/lexi-jayde/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Lexi Jayde"
-      ],
-      "openers": [
-        "Ally Salort"
       ]
     },
     {
@@ -813,6 +783,21 @@
         "Mollie Elizabeth"
       ],
       "openers": []
+    },
+    {
+      "showId": "337dae2f",
+      "dateISO": "2027-01-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "City of the Sun"
+      ],
+      "openers": [
+        "Valley Wolf"
+      ]
     },
     {
       "showId": "6bd1a9a6",

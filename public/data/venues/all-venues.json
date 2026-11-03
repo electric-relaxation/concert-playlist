@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-11-03T15:43:16.188Z",
+  "generatedAtISO": "2026-11-03T21:25:50.177Z",
   "shows": [
     {
       "showId": "91429860",
@@ -168,21 +168,6 @@
       "openers": []
     },
     {
-      "showId": "337dae2f",
-      "dateISO": "2026-10-21",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "POSTPONED – City of the Sun"
-      ],
-      "openers": [
-        "Valley Wolf"
-      ]
-    },
-    {
       "showId": "5a2f4641",
       "dateISO": "2026-10-22",
       "startTime": "7:30 PM",
@@ -307,21 +292,6 @@
         "EMO NITE"
       ],
       "openers": []
-    },
-    {
-      "showId": "a5e3d020",
-      "dateISO": "2026-11-02",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/lexi-jayde/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Lexi Jayde"
-      ],
-      "openers": [
-        "Ally Salort"
-      ]
     },
     {
       "showId": "d2bbe97c",
@@ -799,7 +769,7 @@
         "John Carroll Kirby"
       ],
       "openers": [
-        "KALW Welcomes"
+        "Danny Paul Grody Duo"
       ]
     },
     {
@@ -1868,6 +1838,21 @@
         "Mollie Elizabeth"
       ],
       "openers": []
+    },
+    {
+      "showId": "337dae2f",
+      "dateISO": "2027-01-28",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/city-of-the-sun-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "City of the Sun"
+      ],
+      "openers": [
+        "Valley Wolf"
+      ]
     },
     {
       "showId": "eba5cb06",
