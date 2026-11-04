@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-11-03T21:25:50.177Z",
+  "generatedAtISO": "2026-11-04T22:20:25.631Z",
   "shows": [
     {
       "showId": "91429860",
@@ -305,21 +305,6 @@
         "Election Night Watch Party: Hosted by Kochina Rude!"
       ],
       "openers": []
-    },
-    {
-      "showId": "fa745e1f",
-      "dateISO": "2026-11-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/gilla-band/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Gilla Band"
-      ],
-      "openers": [
-        "Annie-Claude Deschênes"
-      ]
     },
     {
       "showId": "ba89901b",
@@ -1760,6 +1745,21 @@
       "openers": []
     },
     {
+      "showId": "0bcd67c4",
+      "dateISO": "2027-01-21",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/the-stinkfoot-orchestra/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "The Stinkfoot Orchestra"
+      ],
+      "openers": [
+        "featuring Napoleon Murphy Brock"
+      ]
+    },
+    {
       "showId": "878c0d5b",
       "dateISO": "2027-01-22",
       "startTime": "9:00 PM",
@@ -2463,6 +2463,21 @@
         "Clap Your Hands Say Yeah"
       ],
       "openers": []
+    },
+    {
+      "showId": "6461d542",
+      "dateISO": "2027-04-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/twrp/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "TWRP"
+      ],
+      "openers": [
+        "Jazz Emu"
+      ]
     },
     {
       "showId": "08fd4643",
