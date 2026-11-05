@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-04T22:20:21.623Z",
+  "generatedAtISO": "2026-11-05T19:20:58.177Z",
   "shows": [
     {
       "showId": "15540261",
@@ -19,22 +19,6 @@
       ],
       "openers": [
         "Never Ending Fall"
-      ]
-    },
-    {
-      "showId": "ba89901b",
-      "dateISO": "2026-11-04",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/inoha/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "INOHA"
-      ],
-      "openers": [
-        "Buddha Trixie",
-        "Flight By Nothing"
       ]
     },
     {
@@ -635,6 +619,22 @@
       "openers": []
     },
     {
+      "showId": "b7362182",
+      "dateISO": "2027-01-06",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sab-star/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Sab Star"
+      ],
+      "openers": [
+        "Gloomhead",
+        "swell foop"
+      ]
+    },
+    {
       "showId": "92dbe7c9",
       "dateISO": "2027-01-07",
       "startTime": "8:00 PM",
@@ -1190,6 +1190,21 @@
         "Dan and Peggy Reeder"
       ],
       "openers": []
+    },
+    {
+      "showId": "f62b2b25",
+      "dateISO": "2027-03-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/hudson-freeman/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Hudson Freeman"
+      ],
+      "openers": [
+        "Sean Solomon"
+      ]
     },
     {
       "showId": "6a8a231a",
