@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-11-06T00:39:07.545Z",
+  "generatedAtISO": "2026-11-06T15:33:21.139Z",
   "shows": [
     {
       "showId": "91429860",
@@ -321,21 +321,6 @@
       ],
       "openers": [
         "MALACHI"
-      ]
-    },
-    {
-      "showId": "8a5577e6",
-      "dateISO": "2026-11-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/squirrel-flower/691286?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Squirrel Flower"
-      ],
-      "openers": [
-        "Sour Widows"
       ]
     },
     {
@@ -2125,6 +2110,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Lady Radiator"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "75fa46b4",
+      "dateISO": "2027-02-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/sylvie/710246?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Sylvie"
       ],
       "openers": []
     },
