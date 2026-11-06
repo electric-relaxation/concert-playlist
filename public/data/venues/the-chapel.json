@@ -4,21 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-11-03T21:25:46.042Z",
+  "generatedAtISO": "2026-11-06T00:39:03.862Z",
   "shows": [
-    {
-      "showId": "d2bbe97c",
-      "dateISO": "2026-11-03",
-      "startTime": "5:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/election-night-watch-party-hosted-by-kochina-rude/709292?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Election Night Watch Party: Hosted by Kochina Rude!"
-      ],
-      "openers": []
-    },
     {
       "showId": "8a5577e6",
       "dateISO": "2026-11-05",
@@ -334,6 +321,21 @@
       ],
       "openers": [
         "Living Eyes"
+      ]
+    },
+    {
+      "showId": "b4f0e6a9",
+      "dateISO": "2026-12-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-fabulous-bud-e-luv-christmas-extravaganza/710438?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Fabulous Bud E. Luv Christmas Extravaganza"
+      ],
+      "openers": [
+        "Lady OFLO"
       ]
     },
     {
