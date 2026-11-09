@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-11-06T15:33:21.139Z",
+  "generatedAtISO": "2026-11-09T18:08:35.242Z",
   "shows": [
     {
       "showId": "91429860",
@@ -324,21 +324,6 @@
       ]
     },
     {
-      "showId": "dfe5bd6b",
-      "dateISO": "2026-11-05",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/greg-freeman/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Greg Freeman"
-      ],
-      "openers": [
-        "Trinity Ace"
-      ]
-    },
-    {
       "showId": "52e55f21",
       "dateISO": "2026-11-06",
       "startTime": "9:00 PM",
@@ -351,21 +336,6 @@
       ],
       "openers": [
         "Legend Zeppelin"
-      ]
-    },
-    {
-      "showId": "0791eee8",
-      "dateISO": "2026-11-06",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/king-buffalo/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "King Buffalo"
-      ],
-      "openers": [
-        "L.A. Witch"
       ]
     },
     {
@@ -384,21 +354,6 @@
       ]
     },
     {
-      "showId": "5b7721bf",
-      "dateISO": "2026-11-07",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/karina-rykman/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Karina Rykman"
-      ],
-      "openers": [
-        "Roni Kaspi"
-      ]
-    },
-    {
       "showId": "e0301153",
       "dateISO": "2026-11-08",
       "startTime": "8:00 PM",
@@ -411,21 +366,6 @@
       ],
       "openers": [
         "Sha Ray & DJ Haram"
-      ]
-    },
-    {
-      "showId": "052ffe4b",
-      "dateISO": "2026-11-08",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/thao/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "THAO"
-      ],
-      "openers": [
-        "Agouti"
       ]
     },
     {
@@ -1179,9 +1119,7 @@
       "headliners": [
         "feeble little horse"
       ],
-      "openers": [
-        "MOP"
-      ]
+      "openers": []
     },
     {
       "showId": "1933b30e",
