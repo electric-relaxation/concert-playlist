@@ -4,38 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-11-06T15:33:17.372Z",
+  "generatedAtISO": "2026-11-10T22:43:46.581Z",
   "shows": [
-    {
-      "showId": "52e55f21",
-      "dateISO": "2026-11-06",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/an-evening-with-legend-zeppelin/699678?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "An Evening"
-      ],
-      "openers": [
-        "Legend Zeppelin"
-      ]
-    },
-    {
-      "showId": "c7234bff",
-      "dateISO": "2026-11-07",
-      "startTime": "9:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/alex-cameron/691429?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Alex Cameron"
-      ],
-      "openers": [
-        "Josh da Costa"
-      ]
-    },
     {
       "showId": "3a1b0959",
       "dateISO": "2026-11-10",
@@ -48,7 +18,8 @@
         "Buzzcocks, Modern English"
       ],
       "openers": [
-        "Grade 2"
+        "Grade 2",
+        "Visuals by Zack Rodell"
       ]
     },
     {
@@ -63,7 +34,9 @@
         "Buzzcocks, Modern English"
       ],
       "openers": [
-        "Celebrating 50 years of Buzzcocks + Grade 2"
+        "DJ Tim Cohen",
+        "Grade 2",
+        "Visuals by Zack Rodell"
       ]
     },
     {
@@ -594,6 +567,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Jean-Michel Blais"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "f663972b",
+      "dateISO": "2027-05-14",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/dirty-projectors-solo/710519?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Dirty Projectors (solo)"
       ],
       "openers": []
     },

@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-10T17:25:23.377Z",
+  "generatedAtISO": "2026-11-10T22:43:46.581Z",
   "shows": [
     {
       "showId": "15540261",
@@ -367,7 +367,9 @@
       "headliners": [
         "feeble little horse"
       ],
-      "openers": []
+      "openers": [
+        "MOP"
+      ]
     },
     {
       "showId": "19b3be9c",
@@ -968,6 +970,19 @@
       ]
     },
     {
+      "showId": "5221012f",
+      "dateISO": "2027-02-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mc4d/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "MC4D"
+      ],
+      "openers": []
+    },
+    {
       "showId": "071fcca4",
       "dateISO": "2027-03-01",
       "startTime": "8:00 PM",
@@ -1021,7 +1036,9 @@
       "headliners": [
         "Rayland Baxter"
       ],
-      "openers": []
+      "openers": [
+        "John-Robert"
+      ]
     },
     {
       "showId": "88d1976d",
