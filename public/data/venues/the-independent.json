@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-09T18:08:30.235Z",
+  "generatedAtISO": "2026-11-10T01:50:25.373Z",
   "shows": [
     {
       "showId": "15540261",
@@ -410,7 +410,9 @@
       "headliners": [
         "the olllam"
       ],
-      "openers": []
+      "openers": [
+        "Roni Kaspi"
+      ]
     },
     {
       "showId": "1563ed15",
@@ -1087,6 +1089,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Ruby Waters"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "56217071",
+      "dateISO": "2027-03-15",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sophia-stel-2/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "sophia stel"
       ],
       "openers": []
     },
