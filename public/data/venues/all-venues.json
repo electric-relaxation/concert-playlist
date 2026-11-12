@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-11-10T22:43:50.320Z",
+  "generatedAtISO": "2026-11-12T01:14:03.334Z",
   "shows": [
     {
       "showId": "91429860",
@@ -355,21 +355,6 @@
       ]
     },
     {
-      "showId": "7bf5a7d3",
-      "dateISO": "2026-11-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/weston-estate/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Weston Estate"
-      ],
-      "openers": [
-        "Hojean"
-      ]
-    },
-    {
       "showId": "6d346dbf",
       "dateISO": "2026-11-10",
       "startTime": "8:30 PM",
@@ -622,7 +607,9 @@
       "headliners": [
         "Icona Pop"
       ],
-      "openers": []
+      "openers": [
+        "Sorana"
+      ]
     },
     {
       "showId": "6ce98336",
@@ -1530,6 +1517,21 @@
       ],
       "openers": [
         "Stephanie Coleman"
+      ]
+    },
+    {
+      "showId": "4006ef85",
+      "dateISO": "2027-01-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/an-evening-with-karl-densons-afrosonic/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "An Evening With Karl Denson's AfroSonic"
+      ],
+      "openers": [
+        "High Sierra Foundation"
       ]
     },
     {

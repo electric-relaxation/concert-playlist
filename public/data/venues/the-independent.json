@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-10T22:43:46.581Z",
+  "generatedAtISO": "2026-11-12T01:13:59.713Z",
   "shows": [
     {
       "showId": "15540261",
@@ -19,21 +19,6 @@
       ],
       "openers": [
         "Never Ending Fall"
-      ]
-    },
-    {
-      "showId": "7bf5a7d3",
-      "dateISO": "2026-11-10",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/weston-estate/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Weston Estate"
-      ],
-      "openers": [
-        "Hojean"
       ]
     },
     {
@@ -123,7 +108,9 @@
       "headliners": [
         "Icona Pop"
       ],
-      "openers": []
+      "openers": [
+        "Sorana"
+      ]
     },
     {
       "showId": "6ce98336",
@@ -602,6 +589,21 @@
         "Scott Pemberton + The Westones + Boot Juice"
       ],
       "openers": []
+    },
+    {
+      "showId": "4006ef85",
+      "dateISO": "2027-01-13",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/an-evening-with-karl-densons-afrosonic/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "An Evening With Karl Denson's AfroSonic"
+      ],
+      "openers": [
+        "High Sierra Foundation"
+      ]
     },
     {
       "showId": "69a3a246",
