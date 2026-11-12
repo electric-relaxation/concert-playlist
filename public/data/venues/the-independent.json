@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-12T01:13:59.713Z",
+  "generatedAtISO": "2026-11-12T23:05:01.071Z",
   "shows": [
     {
       "showId": "15540261",
@@ -19,21 +19,6 @@
       ],
       "openers": [
         "Never Ending Fall"
-      ]
-    },
-    {
-      "showId": "8cfd34e1",
-      "dateISO": "2026-11-11",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/stop-light-observation/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Stop Light Observations"
-      ],
-      "openers": [
-        "Runner and Bobby"
       ]
     },
     {
@@ -1146,7 +1131,9 @@
       "headliners": [
         "Dan and Peggy Reeder"
       ],
-      "openers": []
+      "openers": [
+        "Olivia Barton"
+      ]
     },
     {
       "showId": "f62b2b25",
