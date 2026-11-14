@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-12T23:05:01.071Z",
+  "generatedAtISO": "2026-11-14T01:10:42.230Z",
   "shows": [
     {
       "showId": "15540261",
@@ -19,21 +19,6 @@
       ],
       "openers": [
         "Never Ending Fall"
-      ]
-    },
-    {
-      "showId": "4e79add1",
-      "dateISO": "2026-11-12",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/stephen-day/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Stephen Day"
-      ],
-      "openers": [
-        "Elysia Biro"
       ]
     },
     {
@@ -192,7 +177,9 @@
       "headliners": [
         "Oden & Fatzo Live"
       ],
-      "openers": []
+      "openers": [
+        "DWATA"
+      ]
     },
     {
       "showId": "1fe87b8a",
