@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-14T01:10:42.230Z",
+  "generatedAtISO": "2026-11-16T17:47:17.532Z",
   "shows": [
     {
       "showId": "15540261",
@@ -19,37 +19,6 @@
       ],
       "openers": [
         "Never Ending Fall"
-      ]
-    },
-    {
-      "showId": "3eccc978",
-      "dateISO": "2026-11-13",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/whitmer-thomas/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Whitmer Thomas"
-      ],
-      "openers": [
-        "Clay Tatum"
-      ]
-    },
-    {
-      "showId": "8b0e17e5",
-      "dateISO": "2026-11-14",
-      "startTime": "9:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/sean-hayes/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Sean Hayes with KATZROAR and Etienne de Rocher (Haunted Shed)"
-      ],
-      "openers": [
-        "Etienne de Rocher (Haunted Shed)",
-        "KATZROAR"
       ]
     },
     {
@@ -1309,6 +1278,21 @@
         "Dillom"
       ],
       "openers": []
+    },
+    {
+      "showId": "ea4dd511",
+      "dateISO": "2027-05-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/xana/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Xana"
+      ],
+      "openers": [
+        "plus special guest (TBD)"
+      ]
     },
     {
       "showId": "4c22e1b0",
