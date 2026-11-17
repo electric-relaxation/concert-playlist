@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-16T17:47:17.532Z",
+  "generatedAtISO": "2026-11-17T01:26:10.314Z",
   "shows": [
     {
       "showId": "15540261",
@@ -871,6 +871,22 @@
       "openers": []
     },
     {
+      "showId": "e408cac8",
+      "dateISO": "2027-02-23",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/amira-elfeky/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Amira Elfeky"
+      ],
+      "openers": [
+        "Meghan Curtin",
+        "My Upside Down"
+      ]
+    },
+    {
       "showId": "2f0eb9e0",
       "dateISO": "2027-02-24",
       "startTime": "8:00 PM",
@@ -1025,6 +1041,19 @@
       "openers": []
     },
     {
+      "showId": "c876f299",
+      "dateISO": "2027-03-12",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rio-romeo/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Rio Romeo"
+      ],
+      "openers": []
+    },
+    {
       "showId": "e38cadd2",
       "dateISO": "2027-03-13",
       "startTime": "9:00 PM",
@@ -1035,7 +1064,9 @@
       "headliners": [
         "Ruby Waters"
       ],
-      "openers": []
+      "openers": [
+        "OK Cowgirl"
+      ]
     },
     {
       "showId": "56217071",

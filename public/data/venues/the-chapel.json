@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-11-16T17:47:17.532Z",
+  "generatedAtISO": "2026-11-17T01:26:10.314Z",
   "shows": [
     {
       "showId": "94837d83",
@@ -480,13 +480,13 @@
     {
       "showId": "53bed47f",
       "dateISO": "2027-04-02",
-      "startTime": "9:00 PM",
+      "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
       "showUrl": "https://wl.seetickets.us/event/delta-sleep/711282?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
-        "DELTA SLEEP"
+        "Delta Sleep"
       ],
       "openers": [
         "Pure Hex"
