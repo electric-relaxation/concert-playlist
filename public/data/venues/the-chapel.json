@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-11-17T09:59:59.570Z",
+  "generatedAtISO": "2026-11-17T19:01:32.609Z",
   "shows": [
-    {
-      "showId": "94837d83",
-      "dateISO": "2026-11-16",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/margaret-glaspy/693371?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Margaret Glaspy"
-      ],
-      "openers": [
-        "Anna Tivel"
-      ]
-    },
     {
       "showId": "a8b48de4",
       "dateISO": "2026-11-18",
@@ -397,6 +382,19 @@
       ]
     },
     {
+      "showId": "a0c4c443",
+      "dateISO": "2027-02-10",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-milk-carton-kids/711607?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Milk Carton Kids"
+      ],
+      "openers": []
+    },
+    {
       "showId": "86186cf3",
       "dateISO": "2027-02-12",
       "startTime": "8:30 PM",
@@ -494,6 +492,23 @@
       ]
     },
     {
+      "showId": "03ccfa5b",
+      "dateISO": "2027-04-06",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/narrow-head/711495?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Narrow Head"
+      ],
+      "openers": [
+        "Horse Jumper of Love",
+        "Knumears",
+        "Worlds Worst"
+      ]
+    },
+    {
       "showId": "08fd4643",
       "dateISO": "2027-05-04",
       "startTime": "8:00 PM",
@@ -533,6 +548,58 @@
       "openers": [
         "Native Sun"
       ]
+    },
+    {
+      "showId": "68e24e8f",
+      "dateISO": "2027-08-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/osees/709825?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "OSEES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "357523d5",
+      "dateISO": "2027-08-28",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/OSEES/709828?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "OSEES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c04c98b1",
+      "dateISO": "2027-08-29",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/OSEES/709829?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "OSEES"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "0eea0169",
+      "dateISO": "2027-08-30",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/OSEES/709830?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "OSEES"
+      ],
+      "openers": []
     }
   ]
 }

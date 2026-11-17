@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-17T01:26:10.314Z",
+  "generatedAtISO": "2026-11-17T19:01:32.609Z",
   "shows": [
     {
       "showId": "15540261",
@@ -1041,6 +1041,19 @@
       "openers": []
     },
     {
+      "showId": "b5ccdb15",
+      "dateISO": "2027-03-11",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sml/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "SML"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c876f299",
       "dateISO": "2027-03-12",
       "startTime": "9:00 PM",
@@ -1218,6 +1231,22 @@
       "openers": []
     },
     {
+      "showId": "30a4c5bc",
+      "dateISO": "2027-04-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/midrift/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Midrift"
+      ],
+      "openers": [
+        "Bleary Eyed",
+        "Modern Color"
+      ]
+    },
+    {
       "showId": "04803716",
       "dateISO": "2027-04-14",
       "startTime": "8:00 PM",
@@ -1257,6 +1286,21 @@
         "Gurriers"
       ],
       "openers": []
+    },
+    {
+      "showId": "3930f280",
+      "dateISO": "2027-05-07",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/racing-mount-pleasant/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Racing Mount Pleasant"
+      ],
+      "openers": [
+        "Dutch Interior"
+      ]
     },
     {
       "showId": "77b1a089",
@@ -1324,6 +1368,19 @@
       "openers": [
         "plus special guest (TBD)"
       ]
+    },
+    {
+      "showId": "6a6c5f17",
+      "dateISO": "2027-05-21",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/madra-salach/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Madra Salach"
+      ],
+      "openers": []
     },
     {
       "showId": "4c22e1b0",
