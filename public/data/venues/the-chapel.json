@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-11-17T19:01:32.609Z",
+  "generatedAtISO": "2026-11-18T01:59:26.345Z",
   "shows": [
     {
       "showId": "a8b48de4",
@@ -116,19 +116,6 @@
       "openers": []
     },
     {
-      "showId": "3265634e",
-      "dateISO": "2026-12-03",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://thechapelsf.com/private-events/",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "Private Event"
-      ],
-      "openers": []
-    },
-    {
       "showId": "f8913335",
       "dateISO": "2026-12-07",
       "startTime": "8:00 PM",
@@ -142,6 +129,19 @@
       "openers": [
         "Kisser"
       ]
+    },
+    {
+      "showId": "3265634e",
+      "dateISO": "2026-12-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://thechapelsf.com/private-events/",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Private Event"
+      ],
+      "openers": []
     },
     {
       "showId": "21b7269a",

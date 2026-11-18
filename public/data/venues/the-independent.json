@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-17T19:01:32.609Z",
+  "generatedAtISO": "2026-11-18T01:59:26.345Z",
   "shows": [
     {
       "showId": "15540261",
@@ -547,6 +547,23 @@
       ]
     },
     {
+      "showId": "59866cc4",
+      "dateISO": "2027-01-14",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/mayday-mae/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "mayday mae!"
+      ],
+      "openers": [
+        "Cilantro",
+        "DJ Arktoi",
+        "For Horses"
+      ]
+    },
+    {
       "showId": "69a3a246",
       "dateISO": "2027-01-15",
       "startTime": "9:00 PM",
@@ -584,6 +601,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "STS9"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "c66d4c84",
+      "dateISO": "2027-01-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/josh-conway/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "josh conway"
       ],
       "openers": []
     },
@@ -1325,6 +1355,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "cleopatrick"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "233ece59",
+      "dateISO": "2027-05-15",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/peel-dream-magazine/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Peel Dream Magazine"
       ],
       "openers": []
     },
