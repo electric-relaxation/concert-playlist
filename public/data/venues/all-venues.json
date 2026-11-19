@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-11-19T00:55:03.478Z",
+  "generatedAtISO": "2026-11-19T17:54:33.018Z",
   "shows": [
     {
       "showId": "91429860",
@@ -396,36 +396,6 @@
         "BROADWAY RAVE"
       ],
       "openers": []
-    },
-    {
-      "showId": "a8b48de4",
-      "dateISO": "2026-11-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "John Carroll Kirby"
-      ],
-      "openers": [
-        "Danny Paul Grody Duo"
-      ]
-    },
-    {
-      "showId": "70b8e62f",
-      "dateISO": "2026-11-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/icona-pop/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Icona Pop"
-      ],
-      "openers": [
-        "Sorana"
-      ]
     },
     {
       "showId": "6ce98336",
@@ -1705,6 +1675,19 @@
       "openers": []
     },
     {
+      "showId": "3d6ecf0a",
+      "dateISO": "2027-02-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/babytron/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "BabyTron"
+      ],
+      "openers": []
+    },
+    {
       "showId": "ba356308",
       "dateISO": "2027-02-09",
       "startTime": "8:00 PM",
@@ -1964,6 +1947,19 @@
         "Dear Cincinnati",
         "Willowake"
       ]
+    },
+    {
+      "showId": "5ee9098b",
+      "dateISO": "2027-02-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/horse-vision/712024?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Horse Vision"
+      ],
+      "openers": []
     },
     {
       "showId": "5221012f",

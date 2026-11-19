@@ -4,23 +4,8 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-11-18T18:37:19.730Z",
+  "generatedAtISO": "2026-11-19T17:54:27.160Z",
   "shows": [
-    {
-      "showId": "a8b48de4",
-      "dateISO": "2026-11-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-chapel",
-      "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/john-carroll-kirby/700565?afflky=TheChapel",
-      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
-      "headliners": [
-        "John Carroll Kirby"
-      ],
-      "openers": [
-        "Danny Paul Grody Duo"
-      ]
-    },
     {
       "showId": "af645744",
       "dateISO": "2026-11-20",
@@ -434,6 +419,19 @@
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "Sylvie"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "5ee9098b",
+      "dateISO": "2027-02-27",
+      "startTime": "9:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/horse-vision/712024?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Horse Vision"
       ],
       "openers": []
     },

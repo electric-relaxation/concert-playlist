@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-19T00:54:59.990Z",
+  "generatedAtISO": "2026-11-19T17:54:27.160Z",
   "shows": [
     {
       "showId": "15540261",
@@ -19,21 +19,6 @@
       ],
       "openers": [
         "Never Ending Fall"
-      ]
-    },
-    {
-      "showId": "70b8e62f",
-      "dateISO": "2026-11-18",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/icona-pop/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Icona Pop"
-      ],
-      "openers": [
-        "Sorana"
       ]
     },
     {
@@ -752,6 +737,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Romare (Live + DJ)"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "3d6ecf0a",
+      "dateISO": "2027-02-08",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/babytron/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "BabyTron"
       ],
       "openers": []
     },
