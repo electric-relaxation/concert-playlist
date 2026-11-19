@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-18T18:37:19.730Z",
+  "generatedAtISO": "2026-11-19T00:54:59.990Z",
   "shows": [
     {
       "showId": "15540261",
@@ -62,7 +62,9 @@
       "headliners": [
         "@NICKCHEO the *TOUR* the *MOVIE*"
       ],
-      "openers": []
+      "openers": [
+        "Quedronol"
+      ]
     },
     {
       "showId": "47574fdf",
@@ -1133,7 +1135,9 @@
       "headliners": [
         "Hans Williams"
       ],
-      "openers": []
+      "openers": [
+        "lighthearted"
+      ]
     },
     {
       "showId": "015c7829",

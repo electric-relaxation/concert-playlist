@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-11-18T18:37:33.189Z",
+  "generatedAtISO": "2026-11-19T00:55:03.478Z",
   "shows": [
     {
       "showId": "91429860",
@@ -485,7 +485,9 @@
       "headliners": [
         "@NICKCHEO the *TOUR* the *MOVIE*"
       ],
-      "openers": []
+      "openers": [
+        "Quedronol"
+      ]
     },
     {
       "showId": "17a541e9",
@@ -2207,7 +2209,9 @@
       "headliners": [
         "Hans Williams"
       ],
-      "openers": []
+      "openers": [
+        "lighthearted"
+      ]
     },
     {
       "showId": "015c7829",
