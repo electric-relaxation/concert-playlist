@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-11-20T00:10:08.380Z",
+  "generatedAtISO": "2026-11-20T22:55:10.656Z",
   "shows": [
     {
       "showId": "91429860",
@@ -396,21 +396,6 @@
         "BROADWAY RAVE"
       ],
       "openers": []
-    },
-    {
-      "showId": "6ce98336",
-      "dateISO": "2026-11-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/pretty-sick/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Pretty Sick"
-      ],
-      "openers": [
-        "Sex Week"
-      ]
     },
     {
       "showId": "743fb630",
@@ -1104,7 +1089,7 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/RAMONES-X/705863?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/ramones-x/705863?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "RAMONES X"
@@ -1493,6 +1478,19 @@
       "openers": []
     },
     {
+      "showId": "b88af849",
+      "dateISO": "2027-01-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rin/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Rin"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c66d4c84",
       "dateISO": "2027-01-20",
       "startTime": "8:00 PM",
@@ -1667,7 +1665,9 @@
       "headliners": [
         "Winona Fighter"
       ],
-      "openers": []
+      "openers": [
+        "MAX DIAZ"
+      ]
     },
     {
       "showId": "8da033d2",
@@ -2484,6 +2484,19 @@
       "openers": []
     },
     {
+      "showId": "dddcc0fc",
+      "dateISO": "2027-04-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ron-gallo/711693?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ron Gallo"
+      ],
+      "openers": []
+    },
+    {
       "showId": "08fd4643",
       "dateISO": "2027-05-04",
       "startTime": "8:00 PM",
@@ -2690,7 +2703,7 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/OSEES/709828?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/osees/709828?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "OSEES"

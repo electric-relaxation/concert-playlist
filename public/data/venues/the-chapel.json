@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-11-20T00:10:04.398Z",
+  "generatedAtISO": "2026-11-20T22:55:07.730Z",
   "shows": [
     {
       "showId": "af645744",
@@ -182,7 +182,7 @@
       "startTime": "8:30 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/RAMONES-X/705863?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/ramones-x/705863?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "RAMONES X"
@@ -553,6 +553,19 @@
       ]
     },
     {
+      "showId": "dddcc0fc",
+      "dateISO": "2027-04-29",
+      "startTime": "8:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/ron-gallo/711693?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "Ron Gallo"
+      ],
+      "openers": []
+    },
+    {
       "showId": "08fd4643",
       "dateISO": "2027-05-04",
       "startTime": "8:00 PM",
@@ -612,7 +625,7 @@
       "startTime": "9:00 PM",
       "venueId": "the-chapel",
       "venueName": "The Chapel",
-      "showUrl": "https://wl.seetickets.us/event/OSEES/709828?afflky=TheChapel",
+      "showUrl": "https://wl.seetickets.us/event/osees/709828?afflky=TheChapel",
       "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
       "headliners": [
         "OSEES"

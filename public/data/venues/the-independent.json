@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-20T00:10:04.398Z",
+  "generatedAtISO": "2026-11-20T22:55:07.730Z",
   "shows": [
     {
       "showId": "15540261",
@@ -19,21 +19,6 @@
       ],
       "openers": [
         "Never Ending Fall"
-      ]
-    },
-    {
-      "showId": "6ce98336",
-      "dateISO": "2026-11-19",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/pretty-sick/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "Pretty Sick"
-      ],
-      "openers": [
-        "Sex Week"
       ]
     },
     {
@@ -582,6 +567,19 @@
       "openers": []
     },
     {
+      "showId": "b88af849",
+      "dateISO": "2027-01-19",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/rin/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Rin"
+      ],
+      "openers": []
+    },
+    {
       "showId": "c66d4c84",
       "dateISO": "2027-01-20",
       "startTime": "8:00 PM",
@@ -702,7 +700,9 @@
       "headliners": [
         "Winona Fighter"
       ],
-      "openers": []
+      "openers": [
+        "MAX DIAZ"
+      ]
     },
     {
       "showId": "8da033d2",
