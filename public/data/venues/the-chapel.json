@@ -4,7 +4,7 @@
     "name": "The Chapel",
     "calendarUrl": "https://thechapelsf.com/music/?list1page=1"
   },
-  "generatedAtISO": "2026-11-19T17:54:27.160Z",
+  "generatedAtISO": "2026-11-20T00:10:04.398Z",
   "shows": [
     {
       "showId": "af645744",
@@ -144,6 +144,24 @@
       ]
     },
     {
+      "showId": "1f9ed161",
+      "dateISO": "2026-12-18",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/45th-annual-encuentro-del-canto-popular-ft-mireya-ramos/711950?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "45th Annual Encuentro Del Canto Popular ft. Mireya Ramos"
+      ],
+      "openers": [
+        "Audiopharmacy",
+        "DJ La Femme Papi",
+        "Gina Madrid",
+        "La Misa Negra"
+      ]
+    },
+    {
       "showId": "21b7269a",
       "dateISO": "2026-12-19",
       "startTime": "8:30 PM",
@@ -217,6 +235,19 @@
         "DJ Matt Stout",
         "Tchotchke"
       ]
+    },
+    {
+      "showId": "57f91024",
+      "dateISO": "2027-01-02",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-dirty-dozen-brass-band/712020?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Dirty Dozen Brass Band"
+      ],
+      "openers": []
     },
     {
       "showId": "0717d7cb",

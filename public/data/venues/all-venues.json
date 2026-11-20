@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-11-19T17:54:33.018Z",
+  "generatedAtISO": "2026-11-20T00:10:08.380Z",
   "shows": [
     {
       "showId": "91429860",
@@ -579,7 +579,9 @@
       "headliners": [
         "O'Flynn"
       ],
-      "openers": []
+      "openers": [
+        "BANKSIA"
+      ]
     },
     {
       "showId": "cbd7fa13",
@@ -1023,6 +1025,24 @@
       ]
     },
     {
+      "showId": "1f9ed161",
+      "dateISO": "2026-12-18",
+      "startTime": "7:00 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/45th-annual-encuentro-del-canto-popular-ft-mireya-ramos/711950?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "45th Annual Encuentro Del Canto Popular ft. Mireya Ramos"
+      ],
+      "openers": [
+        "Audiopharmacy",
+        "DJ La Femme Papi",
+        "Gina Madrid",
+        "La Misa Negra"
+      ]
+    },
+    {
       "showId": "801920b3",
       "dateISO": "2026-12-18",
       "startTime": "9:00 PM",
@@ -1119,7 +1139,10 @@
       "headliners": [
         "Ray and Paul"
       ],
-      "openers": []
+      "openers": [
+        "Eternal Wave",
+        "Jamsoe"
+      ]
     },
     {
       "showId": "e5d1ae5e",
@@ -1161,6 +1184,19 @@
       "sourceUrl": "https://www.theindependentsf.com",
       "headliners": [
         "Thievery Corporation"
+      ],
+      "openers": []
+    },
+    {
+      "showId": "57f91024",
+      "dateISO": "2027-01-02",
+      "startTime": "8:30 PM",
+      "venueId": "the-chapel",
+      "venueName": "The Chapel",
+      "showUrl": "https://wl.seetickets.us/event/the-dirty-dozen-brass-band/712020?afflky=TheChapel",
+      "sourceUrl": "https://thechapelsf.com/music/?list1page=1",
+      "headliners": [
+        "The Dirty Dozen Brass Band"
       ],
       "openers": []
     },
@@ -2392,6 +2428,19 @@
         "Bleary Eyed",
         "Modern Color"
       ]
+    },
+    {
+      "showId": "5a22693a",
+      "dateISO": "2027-04-09",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/love-letter/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Love Letter"
+      ],
+      "openers": []
     },
     {
       "showId": "04803716",

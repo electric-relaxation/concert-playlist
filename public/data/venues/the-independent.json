@@ -4,7 +4,7 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-19T17:54:27.160Z",
+  "generatedAtISO": "2026-11-20T00:10:04.398Z",
   "shows": [
     {
       "showId": "15540261",
@@ -105,7 +105,9 @@
       "headliners": [
         "O'Flynn"
       ],
-      "openers": []
+      "openers": [
+        "BANKSIA"
+      ]
     },
     {
       "showId": "43a7862d",
@@ -417,7 +419,10 @@
       "headliners": [
         "Ray and Paul"
       ],
-      "openers": []
+      "openers": [
+        "Eternal Wave",
+        "Jamsoe"
+      ]
     },
     {
       "showId": "fd6684e7",
@@ -1275,6 +1280,19 @@
         "Bleary Eyed",
         "Modern Color"
       ]
+    },
+    {
+      "showId": "5a22693a",
+      "dateISO": "2027-04-09",
+      "startTime": "9:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/love-letter/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "Love Letter"
+      ],
+      "openers": []
     },
     {
       "showId": "04803716",
