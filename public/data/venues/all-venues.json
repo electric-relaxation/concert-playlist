@@ -1,5 +1,5 @@
 {
-  "generatedAtISO": "2026-11-20T22:55:10.656Z",
+  "generatedAtISO": "2026-11-21T03:42:17.743Z",
   "shows": [
     {
       "showId": "91429860",
@@ -137,21 +137,6 @@
       ],
       "openers": [
         "Karly Bowman"
-      ]
-    },
-    {
-      "showId": "15540261",
-      "dateISO": "2026-10-20",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "POSTPONED – Sawyer Hill"
-      ],
-      "openers": [
-        "Never Ending Fall"
       ]
     },
     {
@@ -2735,6 +2720,21 @@
         "OSEES"
       ],
       "openers": []
+    },
+    {
+      "showId": "15540261",
+      "dateISO": "2027-10-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "POSTPONED – Sawyer Hill"
+      ],
+      "openers": [
+        "Never Ending Fall"
+      ]
     }
   ]
 }

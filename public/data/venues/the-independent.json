@@ -4,23 +4,8 @@
     "name": "The Independent",
     "calendarUrl": "https://www.theindependentsf.com"
   },
-  "generatedAtISO": "2026-11-20T22:55:07.730Z",
+  "generatedAtISO": "2026-11-21T03:42:15.042Z",
   "shows": [
-    {
-      "showId": "15540261",
-      "dateISO": "2026-10-20",
-      "startTime": "8:00 PM",
-      "venueId": "the-independent",
-      "venueName": "The Independent",
-      "showUrl": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
-      "sourceUrl": "https://www.theindependentsf.com",
-      "headliners": [
-        "POSTPONED – Sawyer Hill"
-      ],
-      "openers": [
-        "Never Ending Fall"
-      ]
-    },
     {
       "showId": "21b4875d",
       "dateISO": "2026-11-20",
@@ -1481,6 +1466,21 @@
         "EVAN GIIA"
       ],
       "openers": []
+    },
+    {
+      "showId": "15540261",
+      "dateISO": "2027-10-20",
+      "startTime": "8:00 PM",
+      "venueId": "the-independent",
+      "venueName": "The Independent",
+      "showUrl": "https://www.theindependentsf.com/tm-event/sawyer-hill/",
+      "sourceUrl": "https://www.theindependentsf.com",
+      "headliners": [
+        "POSTPONED – Sawyer Hill"
+      ],
+      "openers": [
+        "Never Ending Fall"
+      ]
     }
   ]
 }
